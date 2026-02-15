@@ -1,0 +1,430 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Geographic Locations ===
+
+* '''Coverage:''' 94.8%
+* '''{{color|blue|Bluelinks}}:''' 381
+* '''{{color|red|Redlinks}}:''' 21
+* [[Afghanistan]] — [[d:Q889|Q889]] <small>(MeSH: D000346)</small>
+* [[Africa]] — [[d:Q15|Q15]] <small>(MeSH: D000349)</small>
+* [[Africa South of the Sahara]] — [[d:Q132959|Q132959]] <small>(MeSH: D017954)</small>
+* [[Africa, Central]] — [[d:Q27433|Q27433]] <small>(MeSH: D000350)</small>
+* [[Africa, Eastern]] — [[d:Q27407|Q27407]] <small>(MeSH: D000351)</small>
+* [[Africa, Northern]] — [[d:Q27381|Q27381]] <small>(MeSH: D000352)</small>
+* [[Africa, Southern]] — [[d:Q27394|Q27394]] <small>(MeSH: D000353)</small>
+* [[Africa, Western]] — [[d:Q4412|Q4412]] <small>(MeSH: D000354)</small>
+* [[Alabama]] — [[d:Q173|Q173]] <small>(MeSH: D000407)</small>
+* [[Alaska]] — [[d:Q797|Q797]] <small>(MeSH: D000413)</small>
+* [[Albania]] — [[d:Q222|Q222]] <small>(MeSH: D000415)</small>
+* [[Alberta]] — [[d:Q1951|Q1951]] <small>(MeSH: D000416)</small>
+* [[Algeria]] — [[d:Q262|Q262]] <small>(MeSH: D000462)</small>
+* [[American Samoa]] — [[d:Q16641|Q16641]] <small>(MeSH: D018948)</small>
+* [[Americas]] — [[d:Q828|Q828]] <small>(MeSH: D000569)</small>
+* [[Ancient Lands]] — [[d:Q52551694|Q52551694]] <small>(MeSH: D018436)</small>
+* [[Andorra]] — [[d:Q228|Q228]] <small>(MeSH: D000725)</small>
+* [[Angola]] — [[d:Q916|Q916]] <small>(MeSH: D000810)</small>
+* [[Antarctic Regions]] — [[d:Q1555938|Q1555938]] <small>(MeSH: D000864)</small>
+* [[Antigua and Barbuda]] — [[d:Q781|Q781]] <small>(MeSH: D000958)</small>
+* [[Appalachian Region]] — [[d:Q2673740|Q2673740]] <small>(MeSH: D001061)</small>
+* [[Arabia]] — [[d:Q31945|Q31945]] <small>(MeSH: D001083)</small>
+* [[Arctic Regions]] — [[d:Q25322|Q25322]] <small>(MeSH: D001110)</small>
+* [[Argentina]] — [[d:Q414|Q414]] <small>(MeSH: D001118)</small>
+* [[Arizona]] — [[d:Q816|Q816]] <small>(MeSH: D001130)</small>
+* [[Arkansas]] — [[d:Q1612|Q1612]] <small>(MeSH: D001131)</small>
+* [[Armenia]] — [[d:Q399|Q399]] <small>(MeSH: D001136)</small>
+* [[Aruba]] — [[d:Q21203|Q21203]] <small>(MeSH: D000073076)</small>
+* [[Asia]] — [[d:Q48|Q48]] <small>(MeSH: D001208)</small>
+* [[Asia, Central]] — [[d:Q27275|Q27275]] <small>(MeSH: D001209)</small>
+* [[Asia, Eastern]] — [[d:Q27231|Q27231]] <small>(MeSH: D005202)</small>
+* [[Asia, Northern]] — [[d:Q27329|Q27329]] <small>(MeSH: D064873)</small>
+* [[Asia, Southeastern]] — [[d:Q11708|Q11708]] <small>(MeSH: D001210)</small>
+* [[Asia, Southern]] — [[d:Q771405|Q771405]] <small>(MeSH: D000095143)</small>
+* [[Asia, Western]] — [[d:Q27293|Q27293]] <small>(MeSH: D001211)</small>
+* [[Atlantic Islands]] — [[d:Q2746618|Q2746618]] <small>(MeSH: D001266)</small>
+* [[Atlantic Ocean]] — [[d:Q97|Q97]] <small>(MeSH: D001267)</small>
+* [[Australasia]] — [[d:Q45256|Q45256]] <small>(MeSH: D044362)</small>
+* [[Australia]] — [[d:Q408|Q408]] <small>(MeSH: D001315)</small>
+* [[Australian Capital Territory]] — [[d:Q3258|Q3258]] <small>(MeSH: D020958)</small>
+* [[Austria]] — [[d:Q40|Q40]] <small>(MeSH: D001317)</small>
+* [[Austria-Hungary]] — [[d:Q28513|Q28513]] <small>(MeSH: D057235)</small>
+* [[Azerbaijan]] — [[d:Q227|Q227]] <small>(MeSH: D001382)</small>
+* [[Azores]] — [[d:Q25263|Q25263]] <small>(MeSH: D001394)</small>
+* [[Bahamas]] — [[d:Q778|Q778]] <small>(MeSH: D001444)</small>
+* [[Bahrain]] — [[d:Q398|Q398]] <small>(MeSH: D001445)</small>
+* [[Balkan Peninsula]] — [[d:Q23522|Q23522]] <small>(MeSH: D063368)</small>
+* [[Baltic States]] — [[d:Q39731|Q39731]] <small>(MeSH: D001454)</small>
+* [[Baltimore]] — [[d:Q5092|Q5092]] <small>(MeSH: D015142)</small>
+* [[Bangladesh]] — [[d:Q902|Q902]] <small>(MeSH: D001459)</small>
+* [[Barbados]] — [[d:Q244|Q244]] <small>(MeSH: D001460)</small>
+* [[Bashkiria]] — [[d:Q5710|Q5710]] <small>(MeSH: D001486)</small>
+* [[Beijing]] — [[d:Q956|Q956]] <small>(MeSH: D000068476)</small>
+* [[Belgium]] — [[d:Q31|Q31]] <small>(MeSH: D001530)</small>
+* [[Belize]] — [[d:Q242|Q242]] <small>(MeSH: D001531)</small>
+* [[Benin]] — [[d:Q962|Q962]] <small>(MeSH: D001541)</small>
+* [[Berlin]] — [[d:Q64|Q64]] <small>(MeSH: D001604)</small>
+* [[Bermuda]] — [[d:Q23635|Q23635]] <small>(MeSH: D001605)</small>
+* [[Bhutan]] — [[d:Q917|Q917]] <small>(MeSH: D001631)</small>
+* [[Black Sea]] — [[d:Q166|Q166]] <small>(MeSH: D059038)</small>
+* [[Bolivia]] — [[d:Q750|Q750]] <small>(MeSH: D001838)</small>
+* [[Borneo]] — [[d:Q36117|Q36117]] <small>(MeSH: D001893)</small>
+* [[Bosnia and Herzegovina]] — [[d:Q225|Q225]] <small>(MeSH: D017522)</small>
+* [[Boston]] — [[d:Q100|Q100]] <small>(MeSH: D001900)</small>
+* [[Botswana]] — [[d:Q963|Q963]] <small>(MeSH: D001902)</small>
+* [[Brazil]] — [[d:Q155|Q155]] <small>(MeSH: D001938)</small>
+* [[British Columbia]] — [[d:Q1973|Q1973]] <small>(MeSH: D001955)</small>
+* [[British Virgin Islands]] — [[d:Q25305|Q25305]] <small>(MeSH: D064966)</small>
+* [[Brunei]] — [[d:Q921|Q921]] <small>(MeSH: D002010)</small>
+* [[Bulgaria]] — [[d:Q219|Q219]] <small>(MeSH: D002031)</small>
+* [[Burkina Faso]] — [[d:Q965|Q965]] <small>(MeSH: D002050)</small>
+* [[Burundi]] — [[d:Q967|Q967]] <small>(MeSH: D002063)</small>
+* [[Byzantium]] — [[d:Q23725|Q23725]] <small>(MeSH: D018612)</small>
+* [[Cabo Verde]] — [[d:Q1011|Q1011]] <small>(MeSH: D055726)</small>
+* [[California]] — [[d:Q99|Q99]] <small>(MeSH: D002140)</small>
+* [[Cambodia]] — [[d:Q424|Q424]] <small>(MeSH: D002160)</small>
+* [[Cameroon]] — [[d:Q1009|Q1009]] <small>(MeSH: D002163)</small>
+* [[Canada]] — [[d:Q16|Q16]] <small>(MeSH: D002170)</small>
+* [[Caribbean Netherlands]] — [[d:Q27561|Q27561]] <small>(MeSH: D000073137)</small>
+* [[Caribbean Region]] — [[d:Q664609|Q664609]] <small>(MeSH: D017691)</small>
+* [[Central African Republic]] — [[d:Q929|Q929]] <small>(MeSH: D002488)</small>
+* [[Central America]] — [[d:Q27611|Q27611]] <small>(MeSH: D002489)</small>
+* [[Chad]] — [[d:Q657|Q657]] <small>(MeSH: D002596)</small>
+* [[Channel Islands]] — [[d:Q42314|Q42314]] <small>(MeSH: D002603)</small>
+* [[Chicago]] — [[d:Q1297|Q1297]] <small>(MeSH: D002641)</small>
+* [[Chile]] — [[d:Q298|Q298]] <small>(MeSH: D002677)</small>
+* [[China]] — [[d:Q148|Q148]] <small>(MeSH: D002681)</small>
+* [[Colombia]] — [[d:Q739|Q739]] <small>(MeSH: D003105)</small>
+* [[Colorado]] — [[d:Q1261|Q1261]] <small>(MeSH: D003120)</small>
+* [[Comoros]] — [[d:Q970|Q970]] <small>(MeSH: D017507)</small>
+* [[Confederate States of America]] — [[d:Q81931|Q81931]] <small>(MeSH: D059009)</small>
+* [[Congo]] — [[d:Q971|Q971]] <small>(MeSH: D003223)</small>
+* [[Connecticut]] — [[d:Q779|Q779]] <small>(MeSH: D003237)</small>
+* [[Costa Rica]] — [[d:Q800|Q800]] <small>(MeSH: D003364)</small>
+* [[Cote d'Ivoire]] — [[d:Q1008|Q1008]] <small>(MeSH: D007560)</small>
+* [[Croatia]] — [[d:Q224|Q224]] <small>(MeSH: D017523)</small>
+* [[Cuba]] — [[d:Q241|Q241]] <small>(MeSH: D003462)</small>
+* [[Curacao]] — [[d:Q25279|Q25279]] <small>(MeSH: D000073096)</small>
+* [[Cyprus]] — [[d:Q229|Q229]] <small>(MeSH: D003535)</small>
+* [[Czech Republic]] — [[d:Q213|Q213]] <small>(MeSH: D018153)</small>
+* [[Czechoslovakia]] — [[d:Q33946|Q33946]] <small>(MeSH: D003604)</small>
+* [[Dagestan]] — [[d:Q5118|Q5118]] <small>(MeSH: D003610)</small>
+* [[Delaware]] — [[d:Q1393|Q1393]] <small>(MeSH: D003691)</small>
+* [[Democratic People's Republic of Korea]] — [[d:Q423|Q423]] <small>(MeSH: D056911)</small>
+* [[Democratic Republic of the Congo]] — [[d:Q974|Q974]] <small>(MeSH: D015023)</small>
+* [[Denmark]] — [[d:Q35|Q35]] <small>(MeSH: D003718)</small>
+* [[District of Columbia]] — [[d:Q3551781|Q3551781]] <small>(MeSH: D004219)</small>
+* [[Djibouti]] — [[d:Q977|Q977]] <small>(MeSH: D015730)</small>
+* [[Dominica]] — [[d:Q784|Q784]] <small>(MeSH: D019424)</small>
+* [[Dominican Republic]] — [[d:Q786|Q786]] <small>(MeSH: D004293)</small>
+* [[Ecuador]] — [[d:Q736|Q736]] <small>(MeSH: D004484)</small>
+* [[Egypt]] — [[d:Q79|Q79]] <small>(MeSH: D004534)</small>
+* [[Egypt, Ancient]] — [[d:Q11768|Q11768]] <small>(MeSH: D000076144)</small>
+* [[El Salvador]] — [[d:Q792|Q792]] <small>(MeSH: D004544)</small>
+* [[England]] — [[d:Q21|Q21]] <small>(MeSH: D004739)</small>
+* [[Equatorial Guinea]] — [[d:Q983|Q983]] <small>(MeSH: D016703)</small>
+* [[Eritrea]] — [[d:Q986|Q986]] <small>(MeSH: D019017)</small>
+* [[Estonia]] — [[d:Q191|Q191]] <small>(MeSH: D004957)</small>
+* [[Eswatini]] — [[d:Q1050|Q1050]] <small>(MeSH: D013541)</small>
+* [[Ethiopia]] — [[d:Q115|Q115]] <small>(MeSH: D005002)</small>
+* [[Europe]] — [[d:Q46|Q46]] <small>(MeSH: D005060)</small>
+* [[Europe, Eastern]] — [[d:Q27468|Q27468]] <small>(MeSH: D005061)</small>
+* [[European Alpine Region]] — [[d:Q1286|Q1286]] <small>(MeSH: D000090142)</small>
+* [[Falkland Islands]] — [[d:Q9648|Q9648]] <small>(MeSH: D019432)</small>
+* [[Fiji]] — [[d:Q712|Q712]] <small>(MeSH: D005367)</small>
+* [[Finland]] — [[d:Q33|Q33]] <small>(MeSH: D005387)</small>
+* [[Florida]] — [[d:Q812|Q812]] <small>(MeSH: D005431)</small>
+* [[France]] — [[d:Q142|Q142]] <small>(MeSH: D005602)</small>
+* [[French Guiana]] — [[d:Q3769|Q3769]] <small>(MeSH: D005616)</small>
+* [[Gabon]] — [[d:Q1000|Q1000]] <small>(MeSH: D005681)</small>
+* [[Gambia]] — [[d:Q1005|Q1005]] <small>(MeSH: D005714)</small>
+* [[Geographic Locations]] — [[d:Q2221906|Q2221906]] <small>(MeSH: D005842)</small>
+* [[Georgia]] — [[d:Q1428|Q1428]] <small>(MeSH: D005845)</small>
+* [[Georgia (Republic)]] — [[d:Q230|Q230]] <small>(MeSH: D005846)</small>
+* [[Germany]] — [[d:Q183|Q183]] <small>(MeSH: D005858)</small>
+* [[Germany, East]] — [[d:Q16957|Q16957]] <small>(MeSH: D005859)</small>
+* [[Germany, West]] — [[d:Q713750|Q713750]] <small>(MeSH: D005860)</small>
+* [[Ghana]] — [[d:Q117|Q117]] <small>(MeSH: D005869)</small>
+* [[Gibraltar]] — [[d:Q1410|Q1410]] <small>(MeSH: D005876)</small>
+* [[Great Lakes Region]] — [[d:Q1548416|Q1548416]] <small>(MeSH: D006114)</small>
+* [[Greece]] — [[d:Q41|Q41]] <small>(MeSH: D006115)</small>
+* [[Greece, Ancient]] — [[d:Q11772|Q11772]] <small>(MeSH: D000076145)</small>
+* [[Greenland]] — [[d:Q223|Q223]] <small>(MeSH: D006116)</small>
+* [[Grenada]] — [[d:Q769|Q769]] <small>(MeSH: D019425)</small>
+* [[Guadeloupe]] — [[d:Q17012|Q17012]] <small>(MeSH: D019430)</small>
+* [[Guam]] — [[d:Q16635|Q16635]] <small>(MeSH: D006141)</small>
+* [[Guatemala]] — [[d:Q774|Q774]] <small>(MeSH: D006166)</small>
+* [[Guernsey]] — [[d:Q25230|Q25230]] <small>(MeSH: D019435)</small>
+* [[Guinea]] — [[d:Q1006|Q1006]] <small>(MeSH: D016701)</small>
+* [[Guinea-Bissau]] — [[d:Q1007|Q1007]] <small>(MeSH: D006169)</small>
+* [[Gulf of America]] — [[d:Q12630|Q12630]] <small>(MeSH: D060851)</small>
+* [[Guyana]] — [[d:Q734|Q734]] <small>(MeSH: D006172)</small>
+* [[Haiti]] — [[d:Q790|Q790]] <small>(MeSH: D006205)</small>
+* [[Hawaii]] — [[d:Q782|Q782]] <small>(MeSH: D006254)</small>
+* [[Hebrides]] — [[d:Q123377|Q123377]] <small>(MeSH: D006363)</small>
+* [[Himalayas]] — [[d:Q5451|Q5451]] <small>(MeSH: D000096266)</small>
+* [[Historical Geographic Locations]] — [[d:Q52551684|Q52551684]] <small>(MeSH: D017516)</small>
+* [[Holy Roman Empire]] — [[d:Q12548|Q12548]] <small>(MeSH: D060786)</small>
+* [[Honduras]] — [[d:Q783|Q783]] <small>(MeSH: D006721)</small>
+* [[Hong Kong]] — [[d:Q8646|Q8646]] <small>(MeSH: D006723)</small>
+* [[Hungary]] — [[d:Q28|Q28]] <small>(MeSH: D006814)</small>
+* [[Iceland]] — [[d:Q189|Q189]] <small>(MeSH: D007055)</small>
+* [[Idaho]] — [[d:Q1221|Q1221]] <small>(MeSH: D007061)</small>
+* [[Illinois]] — [[d:Q1204|Q1204]] <small>(MeSH: D007087)</small>
+* [[Independent State of Samoa]] — [[d:Q683|Q683]] <small>(MeSH: D014905)</small>
+* [[India]] — [[d:Q668|Q668]] <small>(MeSH: D007194)</small>
+* [[Indian Ocean]] — [[d:Q1239|Q1239]] <small>(MeSH: D019156)</small>
+* [[Indian Ocean Islands]] — [[d:Q96631994|Q96631994]] <small>(MeSH: D007195)</small>
+* [[Indiana]] — [[d:Q1415|Q1415]] <small>(MeSH: D007196)</small>
+* [[Indochina]] — [[d:Q43467|Q43467]] <small>(MeSH: D000075884)</small>
+* [[Indonesia]] — [[d:Q252|Q252]] <small>(MeSH: D007214)</small>
+* [[Iowa]] — [[d:Q1546|Q1546]] <small>(MeSH: D007484)</small>
+* [[Iran]] — [[d:Q794|Q794]] <small>(MeSH: D007492)</small>
+* [[Iraq]] — [[d:Q796|Q796]] <small>(MeSH: D007493)</small>
+* [[Ireland]] — [[d:Q27|Q27]] <small>(MeSH: D007494)</small>
+* [[Israel]] — [[d:Q801|Q801]] <small>(MeSH: D007557)</small>
+* [[Italy]] — [[d:Q38|Q38]] <small>(MeSH: D007558)</small>
+* [[Jamaica]] — [[d:Q766|Q766]] <small>(MeSH: D007563)</small>
+* [[Japan]] — [[d:Q17|Q17]] <small>(MeSH: D007564)</small>
+* [[Jordan]] — [[d:Q810|Q810]] <small>(MeSH: D007597)</small>
+* [[Kansas]] — [[d:Q1558|Q1558]] <small>(MeSH: D007615)</small>
+* [[Kazakhstan]] — [[d:Q232|Q232]] <small>(MeSH: D007623)</small>
+* [[Kentucky]] — [[d:Q1603|Q1603]] <small>(MeSH: D007629)</small>
+* [[Kenya]] — [[d:Q114|Q114]] <small>(MeSH: D007630)</small>
+* [[Kiribati]] — [[d:Q710|Q710]] <small>(MeSH: D000098565)</small>
+* [[Korea]] — [[d:Q18097|Q18097]] <small>(MeSH: D007723)</small>
+* [[Kosovo]] — [[d:Q1246|Q1246]] <small>(MeSH: D063826)</small>
+* [[Kuwait]] — [[d:Q817|Q817]] <small>(MeSH: D007730)</small>
+* [[Kyrgyzstan]] — [[d:Q813|Q813]] <small>(MeSH: D007707)</small>
+* [[Laos]] — [[d:Q819|Q819]] <small>(MeSH: D007812)</small>
+* [[Latin America]] — [[d:Q12585|Q12585]] <small>(MeSH: D007843)</small>
+* [[Latvia]] — [[d:Q211|Q211]] <small>(MeSH: D007844)</small>
+* [[Lebanon]] — [[d:Q822|Q822]] <small>(MeSH: D007861)</small>
+* [[Lesotho]] — [[d:Q1013|Q1013]] <small>(MeSH: D007927)</small>
+* [[Liberia]] — [[d:Q1014|Q1014]] <small>(MeSH: D007988)</small>
+* [[Libya]] — [[d:Q1016|Q1016]] <small>(MeSH: D008002)</small>
+* [[Liechtenstein]] — [[d:Q347|Q347]] <small>(MeSH: D008015)</small>
+* [[Lithuania]] — [[d:Q37|Q37]] <small>(MeSH: D008097)</small>
+* [[London]] — [[d:Q84|Q84]] <small>(MeSH: D008131)</small>
+* [[Los Angeles]] — [[d:Q65|Q65]] <small>(MeSH: D015141)</small>
+* [[Louisiana]] — [[d:Q1588|Q1588]] <small>(MeSH: D008145)</small>
+* [[Luxembourg]] — [[d:Q32|Q32]] <small>(MeSH: D008189)</small>
+* [[Macau]] — [[d:Q14773|Q14773]] <small>(MeSH: D008256)</small>
+* [[Madagascar]] — [[d:Q1019|Q1019]] <small>(MeSH: D008270)</small>
+* [[Maine]] — [[d:Q724|Q724]] <small>(MeSH: D008281)</small>
+* [[Malawi]] — [[d:Q1020|Q1020]] <small>(MeSH: D008295)</small>
+* [[Malaysia]] — [[d:Q833|Q833]] <small>(MeSH: D008296)</small>
+* [[Maldives]] — [[d:Q826|Q826]] <small>(MeSH: D000095164)</small>
+* [[Mali]] — [[d:Q912|Q912]] <small>(MeSH: D008302)</small>
+* [[Malta]] — [[d:Q233|Q233]] <small>(MeSH: D008319)</small>
+* [[Manitoba]] — [[d:Q1948|Q1948]] <small>(MeSH: D008350)</small>
+* [[Martinique]] — [[d:Q17054|Q17054]] <small>(MeSH: D008395)</small>
+* [[Maryland]] — [[d:Q1391|Q1391]] <small>(MeSH: D008396)</small>
+* [[Massachusetts]] — [[d:Q771|Q771]] <small>(MeSH: D008404)</small>
+* [[Mauritania]] — [[d:Q1025|Q1025]] <small>(MeSH: D008435)</small>
+* [[Mauritius]] — [[d:Q1027|Q1027]] <small>(MeSH: D008436)</small>
+* [[Mediterranean Islands]] — [[d:Q530253|Q530253]] <small>(MeSH: D008521)</small>
+* [[Mediterranean Region]] — [[d:Q72499|Q72499]] <small>(MeSH: D019083)</small>
+* [[Mediterranean Sea]] — [[d:Q4918|Q4918]] <small>(MeSH: D008522)</small>
+* [[Mekong Valley]] — [[d:Q47011239|Q47011239]] <small>(MeSH: D008541)</small>
+* [[Melanesia]] — [[d:Q37394|Q37394]] <small>(MeSH: D008542)</small>
+* [[Mesopotamia]] — [[d:Q11767|Q11767]] <small>(MeSH: D064867)</small>
+* [[Mexico]] — [[d:Q96|Q96]] <small>(MeSH: D008800)</small>
+* [[Michigan]] — [[d:Q1166|Q1166]] <small>(MeSH: D008824)</small>
+* [[Micronesia]] — [[d:Q3359409|Q3359409]] <small>(MeSH: D008849)</small>
+* [[Mid-Atlantic Region]] — [[d:Q632014|Q632014]] <small>(MeSH: D008873)</small>
+* [[Middle East]] — [[d:Q7204|Q7204]] <small>(MeSH: D008877)</small>
+* [[Midwestern United States]] — [[d:Q186545|Q186545]] <small>(MeSH: D015146)</small>
+* [[Minnesota]] — [[d:Q1527|Q1527]] <small>(MeSH: D008910)</small>
+* [[Mississippi]] — [[d:Q1494|Q1494]] <small>(MeSH: D008922)</small>
+* [[Missouri]] — [[d:Q1581|Q1581]] <small>(MeSH: D008923)</small>
+* [[Moldova]] — [[d:Q217|Q217]] <small>(MeSH: D008966)</small>
+* [[Monaco]] — [[d:Q235|Q235]] <small>(MeSH: D008984)</small>
+* [[Mongolia]] — [[d:Q711|Q711]] <small>(MeSH: D008986)</small>
+* [[Montana]] — [[d:Q1212|Q1212]] <small>(MeSH: D009009)</small>
+* [[Montenegro]] — [[d:Q236|Q236]] <small>(MeSH: D054548)</small>
+* [[Morocco]] — [[d:Q1028|Q1028]] <small>(MeSH: D009018)</small>
+* [[Moscow]] — [[d:Q649|Q649]] <small>(MeSH: D009031)</small>
+* [[Mozambique]] — [[d:Q1029|Q1029]] <small>(MeSH: D009073)</small>
+* [[Myanmar]] — [[d:Q836|Q836]] <small>(MeSH: D002052)</small>
+* [[Namibia]] — [[d:Q1030|Q1030]] <small>(MeSH: D009276)</small>
+* [[Nebraska]] — [[d:Q1553|Q1553]] <small>(MeSH: D009329)</small>
+* [[Nepal]] — [[d:Q837|Q837]] <small>(MeSH: D009390)</small>
+* [[Netherlands]] — [[d:Q55|Q55]] <small>(MeSH: D009426)</small>
+* [[Netherlands Antilles]] — [[d:Q25227|Q25227]] <small>(MeSH: D009427)</small>
+* [[Nevada]] — [[d:Q1227|Q1227]] <small>(MeSH: D009505)</small>
+* [[New Brunswick]] — [[d:Q1965|Q1965]] <small>(MeSH: D009509)</small>
+* [[New Caledonia]] — [[d:Q33788|Q33788]] <small>(MeSH: D009510)</small>
+* [[New England]] — [[d:Q18389|Q18389]] <small>(MeSH: D009511)</small>
+* [[New Guinea]] — [[d:Q40285|Q40285]] <small>(MeSH: D009512)</small>
+* [[New Hampshire]] — [[d:Q759|Q759]] <small>(MeSH: D009513)</small>
+* [[New Jersey]] — [[d:Q1408|Q1408]] <small>(MeSH: D009515)</small>
+* [[New Mexico]] — [[d:Q1522|Q1522]] <small>(MeSH: D009516)</small>
+* [[New Orleans]] — [[d:Q34404|Q34404]] <small>(MeSH: D055820)</small>
+* [[New South Wales]] — [[d:Q3224|Q3224]] <small>(MeSH: D009517)</small>
+* [[New York]] — [[d:Q1384|Q1384]] <small>(MeSH: D009518)</small>
+* [[New York City]] — [[d:Q60|Q60]] <small>(MeSH: D009519)</small>
+* [[New Zealand]] — [[d:Q664|Q664]] <small>(MeSH: D009520)</small>
+* [[Newfoundland and Labrador]] — [[d:Q2003|Q2003]] <small>(MeSH: D009523)</small>
+* [[Nicaragua]] — [[d:Q811|Q811]] <small>(MeSH: D009527)</small>
+* [[Niger]] — [[d:Q1032|Q1032]] <small>(MeSH: D009548)</small>
+* [[Nigeria]] — [[d:Q1033|Q1033]] <small>(MeSH: D009549)</small>
+* [[North America]] — [[d:Q49|Q49]] <small>(MeSH: D009656)</small>
+* [[North Carolina]] — [[d:Q1454|Q1454]] <small>(MeSH: D009657)</small>
+* [[North Dakota]] — [[d:Q1207|Q1207]] <small>(MeSH: D009658)</small>
+* [[North Sea]] — [[d:Q1693|Q1693]] <small>(MeSH: D009659)</small>
+* [[Northern Ireland]] — [[d:Q26|Q26]] <small>(MeSH: D009660)</small>
+* [[Northern Territory]] — [[d:Q3235|Q3235]] <small>(MeSH: D015876)</small>
+* [[Northwest Territories]] — [[d:Q2007|Q2007]] <small>(MeSH: D015873)</small>
+* [[Northwestern United States]] — [[d:Q944857|Q944857]] <small>(MeSH: D015205)</small>
+* [[Norway]] — [[d:Q20|Q20]] <small>(MeSH: D009664)</small>
+* [[Nova Scotia]] — [[d:Q1952|Q1952]] <small>(MeSH: D009674)</small>
+* [[Nunavut]] — [[d:Q2023|Q2023]] <small>(MeSH: D020957)</small>
+* [[Oceania]] — [[d:Q55643|Q55643]] <small>(MeSH: D044349)</small>
+* [[Ohio]] — [[d:Q1397|Q1397]] <small>(MeSH: D009820)</small>
+* [[Oklahoma]] — [[d:Q1649|Q1649]] <small>(MeSH: D009825)</small>
+* [[Oman]] — [[d:Q842|Q842]] <small>(MeSH: D009850)</small>
+* [[Ontario]] — [[d:Q1904|Q1904]] <small>(MeSH: D009864)</small>
+* [[Oregon]] — [[d:Q824|Q824]] <small>(MeSH: D009922)</small>
+* [[Ottoman Empire]] — [[d:Q12560|Q12560]] <small>(MeSH: D057214)</small>
+* [[Pacific Islands]] — [[d:Q844857|Q844857]] <small>(MeSH: D010139)</small>
+* [[Pacific Ocean]] — [[d:Q98|Q98]] <small>(MeSH: D010140)</small>
+* [[Pacific States]] — [[d:Q11459486|Q11459486]] <small>(MeSH: D019601)</small>
+* [[Pakistan]] — [[d:Q843|Q843]] <small>(MeSH: D010154)</small>
+* [[Palau]] — [[d:Q695|Q695]] <small>(MeSH: D019029)</small>
+* [[Panama]] — [[d:Q804|Q804]] <small>(MeSH: D010176)</small>
+* [[Panama Canal Zone]] — [[d:Q498979|Q498979]] <small>(MeSH: D010177)</small>
+* [[Papua New Guinea]] — [[d:Q691|Q691]] <small>(MeSH: D010219)</small>
+* [[Paraguay]] — [[d:Q733|Q733]] <small>(MeSH: D010239)</small>
+* [[Paris]] — [[d:Q90|Q90]] <small>(MeSH: D010297)</small>
+* [[Pennsylvania]] — [[d:Q1400|Q1400]] <small>(MeSH: D010414)</small>
+* [[Persia]] — [[d:Q83311|Q83311]] <small>(MeSH: D019071)</small>
+* [[Peru]] — [[d:Q419|Q419]] <small>(MeSH: D010568)</small>
+* [[Philadelphia]] — [[d:Q1345|Q1345]] <small>(MeSH: D015143)</small>
+* [[Philippines]] — [[d:Q928|Q928]] <small>(MeSH: D010679)</small>
+* [[Pitcairn Island]] — [[d:Q1779748|Q1779748]] <small>(MeSH: D010896)</small>
+* [[Poland]] — [[d:Q36|Q36]] <small>(MeSH: D011044)</small>
+* [[Polynesia]] — [[d:Q35942|Q35942]] <small>(MeSH: D011114)</small>
+* [[Portugal]] — [[d:Q45|Q45]] <small>(MeSH: D011174)</small>
+* [[Prince Edward Island]] — [[d:Q1978|Q1978]] <small>(MeSH: D011325)</small>
+* [[Prussia]] — [[d:Q38872|Q38872]] <small>(MeSH: D055787)</small>
+* [[Puerto Rico]] — [[d:Q1183|Q1183]] <small>(MeSH: D011647)</small>
+* [[Qatar]] — [[d:Q846|Q846]] <small>(MeSH: D011780)</small>
+* [[Quebec]] — [[d:Q176|Q176]] <small>(MeSH: D011792)</small>
+* [[Queensland]] — [[d:Q36074|Q36074]] <small>(MeSH: D011793)</small>
+* [[Republic of Belarus]] — [[d:Q184|Q184]] <small>(MeSH: D002094)</small>
+* [[Republic of Korea]] — [[d:Q884|Q884]] <small>(MeSH: D056910)</small>
+* [[Republic of North Macedonia]] — [[d:Q221|Q221]] <small>(MeSH: D018843)</small>
+* [[Reunion]] — [[d:Q17070|Q17070]] <small>(MeSH: D017508)</small>
+* [[Rhode Island]] — [[d:Q1387|Q1387]] <small>(MeSH: D012237)</small>
+* [[Romania]] — [[d:Q218|Q218]] <small>(MeSH: D012383)</small>
+* [[Rome]] — [[d:Q220|Q220]] <small>(MeSH: D012384)</small>
+* [[Russia]] — [[d:Q159|Q159]] <small>(MeSH: D012426)</small>
+* [[Russia (Pre-1917)]] — [[d:Q34266|Q34266]] <small>(MeSH: D012425)</small>
+* [[Rwanda]] — [[d:Q1037|Q1037]] <small>(MeSH: D012432)</small>
+* [[Saint Kitts and Nevis]] — [[d:Q763|Q763]] <small>(MeSH: D019437)</small>
+* [[Saint Lucia]] — [[d:Q760|Q760]] <small>(MeSH: D019431)</small>
+* [[Saint Vincent and the Grenadines]] — [[d:Q757|Q757]] <small>(MeSH: D019436)</small>
+* [[Samoa]] — [[d:Q162126|Q162126]] <small>(MeSH: D018947)</small>
+* [[San Francisco]] — [[d:Q62|Q62]] <small>(MeSH: D012495)</small>
+* [[San Marino]] — [[d:Q238|Q238]] <small>(MeSH: D012496)</small>
+* [[Sao Tome and Principe]] — [[d:Q1039|Q1039]] <small>(MeSH: D000073136)</small>
+* [[Saskatchewan]] — [[d:Q1989|Q1989]] <small>(MeSH: D012525)</small>
+* [[Saudi Arabia]] — [[d:Q851|Q851]] <small>(MeSH: D012529)</small>
+* [[Scandinavian and Nordic Countries]] — [[d:Q52062|Q52062]] <small>(MeSH: D012537)</small>
+* [[Scotland]] — [[d:Q22|Q22]] <small>(MeSH: D012606)</small>
+* [[Senegal]] — [[d:Q1041|Q1041]] <small>(MeSH: D012675)</small>
+* [[Seoul]] — [[d:Q8684|Q8684]] <small>(MeSH: D066106)</small>
+* [[Serbia]] — [[d:Q403|Q403]] <small>(MeSH: D055771)</small>
+* [[Seychelles]] — [[d:Q1042|Q1042]] <small>(MeSH: D012750)</small>
+* [[Siberia]] — [[d:Q5428|Q5428]] <small>(MeSH: D012800)</small>
+* [[Sicily]] — [[d:Q1460|Q1460]] <small>(MeSH: D012802)</small>
+* [[Sierra Leone]] — [[d:Q1044|Q1044]] <small>(MeSH: D012807)</small>
+* [[Sikkim]] — [[d:Q1505|Q1505]] <small>(MeSH: D012819)</small>
+* [[Singapore]] — [[d:Q334|Q334]] <small>(MeSH: D012846)</small>
+* [[Sint Maarten]] — [[d:Q26273|Q26273]] <small>(MeSH: D000073097)</small>
+* [[Slovakia]] — [[d:Q214|Q214]] <small>(MeSH: D018154)</small>
+* [[Slovenia]] — [[d:Q215|Q215]] <small>(MeSH: D017524)</small>
+* [[Somalia]] — [[d:Q1045|Q1045]] <small>(MeSH: D012998)</small>
+* [[South Africa]] — [[d:Q258|Q258]] <small>(MeSH: D013019)</small>
+* [[South America]] — [[d:Q18|Q18]] <small>(MeSH: D013020)</small>
+* [[South Australia]] — [[d:Q35715|Q35715]] <small>(MeSH: D013021)</small>
+* [[South Carolina]] — [[d:Q1456|Q1456]] <small>(MeSH: D013022)</small>
+* [[South Dakota]] — [[d:Q1211|Q1211]] <small>(MeSH: D013023)</small>
+* [[South Sudan]] — [[d:Q958|Q958]] <small>(MeSH: D000068037)</small>
+* [[Southeastern United States]] — [[d:Q1139046|Q1139046]] <small>(MeSH: D015144)</small>
+* [[Southwestern United States]] — [[d:Q858847|Q858847]] <small>(MeSH: D015206)</small>
+* [[Spain]] — [[d:Q29|Q29]] <small>(MeSH: D013030)</small>
+* [[Sri Lanka]] — [[d:Q854|Q854]] <small>(MeSH: D013188)</small>
+* [[Sudan]] — [[d:Q1049|Q1049]] <small>(MeSH: D013397)</small>
+* [[Suriname]] — [[d:Q730|Q730]] <small>(MeSH: D013532)</small>
+* [[Svalbard]] — [[d:Q25231|Q25231]] <small>(MeSH: D013538)</small>
+* [[Sweden]] — [[d:Q34|Q34]] <small>(MeSH: D013548)</small>
+* [[Switzerland]] — [[d:Q39|Q39]] <small>(MeSH: D013557)</small>
+* [[Syria]] — [[d:Q858|Q858]] <small>(MeSH: D013593)</small>
+* [[Taiwan]] — [[d:Q865|Q865]] <small>(MeSH: D013624)</small>
+* [[Tajikistan]] — [[d:Q863|Q863]] <small>(MeSH: D013620)</small>
+* [[Tanzania]] — [[d:Q924|Q924]] <small>(MeSH: D013636)</small>
+* [[Tasmania]] — [[d:Q34366|Q34366]] <small>(MeSH: D013648)</small>
+* [[Tatarstan]] — [[d:Q5481|Q5481]] <small>(MeSH: D064874)</small>
+* [[Tennessee]] — [[d:Q1509|Q1509]] <small>(MeSH: D013714)</small>
+* [[Texas]] — [[d:Q1439|Q1439]] <small>(MeSH: D013781)</small>
+* [[Thailand]] — [[d:Q869|Q869]] <small>(MeSH: D013785)</small>
+* [[Tibet]] — [[d:Q17269|Q17269]] <small>(MeSH: D018609)</small>
+* [[Timor-Leste]] — [[d:Q574|Q574]] <small>(MeSH: D049648)</small>
+* [[Togo]] — [[d:Q945|Q945]] <small>(MeSH: D014037)</small>
+* [[Tokyo]] — [[d:Q1490|Q1490]] <small>(MeSH: D014041)</small>
+* [[Tonga]] — [[d:Q678|Q678]] <small>(MeSH: D014058)</small>
+* [[Transcaucasia]] — [[d:Q200173|Q200173]] <small>(MeSH: D014154)</small>
+* [[Trinidad and Tobago]] — [[d:Q754|Q754]] <small>(MeSH: D014300)</small>
+* [[Tunisia]] — [[d:Q948|Q948]] <small>(MeSH: D014416)</small>
+* [[Turkey]] — [[d:Q43|Q43]] <small>(MeSH: D014421)</small>
+* [[Turkmenistan]] — [[d:Q874|Q874]] <small>(MeSH: D014423)</small>
+* [[Uganda]] — [[d:Q1036|Q1036]] <small>(MeSH: D014454)</small>
+* [[Ukraine]] — [[d:Q212|Q212]] <small>(MeSH: D014455)</small>
+* [[United Arab Emirates]] — [[d:Q878|Q878]] <small>(MeSH: D014479)</small>
+* [[United Kingdom]] — [[d:Q145|Q145]] <small>(MeSH: D006113)</small>
+* [[United States]] — [[d:Q30|Q30]] <small>(MeSH: D014481)</small>
+* [[United States Virgin Islands]] — [[d:Q11703|Q11703]] <small>(MeSH: D014767)</small>
+* [[Uruguay]] — [[d:Q77|Q77]] <small>(MeSH: D014583)</small>
+* [[USSR]] — [[d:Q15180|Q15180]] <small>(MeSH: D014586)</small>
+* [[Utah]] — [[d:Q829|Q829]] <small>(MeSH: D014589)</small>
+* [[Uzbekistan]] — [[d:Q265|Q265]] <small>(MeSH: D014610)</small>
+* [[Vanuatu]] — [[d:Q686|Q686]] <small>(MeSH: D009514)</small>
+* [[Vatican City]] — [[d:Q237|Q237]] <small>(MeSH: D014671)</small>
+* [[Venezuela]] — [[d:Q717|Q717]] <small>(MeSH: D014687)</small>
+* [[Vermont]] — [[d:Q16551|Q16551]] <small>(MeSH: D014707)</small>
+* [[Victoria]] — [[d:Q36687|Q36687]] <small>(MeSH: D014739)</small>
+* [[Vietnam]] — [[d:Q881|Q881]] <small>(MeSH: D014744)</small>
+* [[Virginia]] — [[d:Q1370|Q1370]] <small>(MeSH: D014768)</small>
+* [[Wales]] — [[d:Q25|Q25]] <small>(MeSH: D014852)</small>
+* [[Washington]] — [[d:Q1223|Q1223]] <small>(MeSH: D014861)</small>
+* [[West Indies]] — [[d:Q669037|Q669037]] <small>(MeSH: D014900)</small>
+* [[West Virginia]] — [[d:Q1371|Q1371]] <small>(MeSH: D014903)</small>
+* [[Western Australia]] — [[d:Q3206|Q3206]] <small>(MeSH: D014904)</small>
+* [[Wisconsin]] — [[d:Q1537|Q1537]] <small>(MeSH: D014922)</small>
+* [[Wyoming]] — [[d:Q1214|Q1214]] <small>(MeSH: D014959)</small>
+* [[Yemen]] — [[d:Q805|Q805]] <small>(MeSH: D015006)</small>
+* [[Yugoslavia]] — [[d:Q36704|Q36704]] <small>(MeSH: D015022)</small>
+* [[Yukon Territory]] — [[d:Q2009|Q2009]] <small>(MeSH: D015874)</small>
+* [[Zambia]] — [[d:Q953|Q953]] <small>(MeSH: D015024)</small>
+* [[Zimbabwe]] — [[d:Q954|Q954]] <small>(MeSH: D015030)</small>
+
+=== Food and Beverages ===
+
+* '''Coverage:''' 25.0%
+* '''{{color|blue|Bluelinks}}:''' 1
+* '''{{color|red|Redlinks}}:''' 3
+* [[Food and Beverages]] — [[d:Q118451828|Q118451828]] <small>(MeSH: D019602)</small>
+* [[Milk Proteins]] — [[d:Q57417379|Q57417379]] <small>(MeSH: D008894)</small>
+* [[Sustenance]] — [[d:Q114789363|Q114789363]] <small>(MeSH: D000084902)</small>
+* [[Whey Proteins]] — [[d:Q424430|Q424430]] <small>(MeSH: D000067816)</small>
+
+=== Uncategorized ===
+
+* '''Coverage:''' 100.0%
+* '''{{color|blue|Bluelinks}}:''' 2
+* '''{{color|red|Redlinks}}:''' 0
+* [[Female]] — [[d:Q43445|Q43445]] <small>(MeSH: D005260)</small>
+* [[Male]] <small>(MeSH: D008297)</small>
+
+
+[[Category:WikiProject MeSH]]

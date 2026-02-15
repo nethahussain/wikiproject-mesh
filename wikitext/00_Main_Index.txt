@@ -1,0 +1,167 @@
+{{shortcut|WP:MESH}}
+{| class="infobox" style="width:22em; font-size:88%; border:1px solid #a2a9b1; background:#f8f9fa; padding:8px; float:right; margin-left:1em;"
+|-
+| style="text-align:center; font-size:120%; font-weight:bold; padding-bottom:4px;" |
+'''WikiProject MeSH'''
+|-
+| style="padding:4px 0;" |
+'''Source:''' [https://www.nlm.nih.gov/databases/download/mesh.html NLM MeSH]
+|-
+| style="padding:4px 0;" |
+'''Subpages:''' 37
+|}
+
+== Scope ==
+This project maps every descriptor in the '''[[Medical Subject Headings]]''' (MeSH) vocabulary — the [[National Library of Medicine]]'s authoritative controlled vocabulary for biomedical literature — to its corresponding '''Wikipedia article''' and '''[[Wikidata]] item'''. The goal is to identify coverage gaps: MeSH terms that should have a Wikipedia article but currently do not.
+
+MeSH descriptors have been filtered to exclude purely systematic chemical names and publication-type entries, then classified into clinical and scientific topics. Each term is linked to its [[Wikidata]] item via property [[d:Property:P486|P486]] (MeSH descriptor ID).
+
+== How to use this project ==
+Each subpage lists MeSH descriptors in that area, sorted alphabetically within each topic. Terms that link to an existing Wikipedia article appear as [[bluelink]]s; terms without an article appear as [[redlink]]s. Each entry also includes a link to the corresponding [[Wikidata]] item and the MeSH descriptor ID.
+
+; Entry format
+: <code><nowiki>* [[Article Title]] — [[d:Q12345|Q12345]] <small>(MeSH: D000001)</small></nowiki></code>
+
+; How you can help
+
+* Pick a topic area from the [[#Subpage index|subpage index]] below
+* Look for redlinks — these are MeSH-recognized concepts without a Wikipedia article
+* Click the Wikidata link to check for articles in other languages that could be translated
+* Create a stub or redirect for terms that can be covered by an existing article
+* Add {{tl|MeSH name}} or {{tl|Medical resources}} to articles that don't yet have them
+
+== Subpage index ==
+
+=== Anatomy and Physiology ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 1 || [[/Anatomy and Physiology/Cells – Musculoskeletal System|Cells – Musculoskeletal System]] || Cells, Nervous System, Musculoskeletal System
+|-
+| 2 || [[/Anatomy and Physiology/Cardiovascular System – Skin and Integumentary System|Cardiovascular System – Skin and Integumentary System]] || Cardiovascular System, Sense Organs, Tissues, Digestive System, Animal Structures, Urogenital System, Body Regions, Stomatognathic System, Hemic and Immune Systems, Fluids and Secretions, Embryonic Structures, Endocrine System, Plant Structures, Respiratory System, Viral/Fungal/Bacterial Structures, Skin and Integumentary System
+|}
+
+=== Organisms ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 3 || [[/Organisms/Viruses|Viruses]] || Viruses
+|-
+| 4 || [[/Organisms/Bacteria – Algae|Bacteria, Organism Forms, and Algae]] || Bacteria, Organism Forms, Algae
+|-
+| 5 || [[/Organisms/Eukaryota (A–L)|Eukaryota (A–L)]] || Eukaryota (alphabetical: A through L)
+|-
+| 6 || [[/Organisms/Eukaryota (L–V)|Eukaryota (L–V)]] || Eukaryota (alphabetical: L through V)
+|-
+| 7 || [[/Organisms/Eukaryota (V–Z)|Eukaryota (V–Z)]] || Eukaryota (alphabetical: V through Z)
+|}
+
+=== Diseases and Clinical Medicine ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 8 || [[/Diseases and Clinical Medicine/Infectious Diseases|Infectious Diseases]] || Infectious Diseases
+|-
+| 9 || [[/Diseases and Clinical Medicine/Neurology|Neurology]] || Neurology
+|-
+| 10 || [[/Diseases and Clinical Medicine/Oncology – Urology|Oncology and Urology]] || Oncology, Urology
+|-
+| 11 || [[/Diseases and Clinical Medicine/Cardiology – Pathological Conditions and Signs|Cardiology, Gastroenterology, and Pathological Conditions]] || Cardiology, Gastroenterology, Pathological Conditions and Signs
+|-
+| 12 || [[/Diseases and Clinical Medicine/Congenital and Genetic Disorders – Pulmonology|Congenital Disorders, Hematology, Injuries, Dentistry, and Pulmonology]] || Congenital and Genetic Disorders, Hematology, Wounds and Injuries, Dentistry and Oral Health, Pulmonology
+|-
+| 13 || [[/Diseases and Clinical Medicine/Dermatology – Environmental and Occupational Diseases|Dermatology, Ophthalmology, Mental Disorders, ENT, and more]] || Dermatology, Ophthalmology, Metabolic and Nutritional Diseases, Mental Disorders, Substance-Related Disorders, Otorhinolaryngology (ENT), Endocrinology, Immunology and Allergy, Veterinary Medicine, Occupational and Environmental Diseases
+|}
+
+=== Chemicals, Drugs, and Biochemistry ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 14 || [[/Chemicals, Drugs, and Biochemistry/Pharmacological Actions – Nucleic Acids and Nucleotides|Pharmacological Actions and Nucleic Acids]] || Pharmacological Actions, Nucleic Acids and Nucleotides
+|-
+| 15 || [[/Chemicals, Drugs, and Biochemistry/Biological Factors – Inorganic Chemicals|Biological Factors and Inorganic Chemicals]] || Biological Factors, Inorganic Chemicals
+|-
+| 16 || [[/Chemicals, Drugs, and Biochemistry/Heterocyclic Compounds – Complex Mixtures|Heterocyclic Compounds and Complex Mixtures]] || Heterocyclic Compounds, Complex Mixtures
+|-
+| 17 || [[/Chemicals, Drugs, and Biochemistry/Lipids – Biomedical and Dental Materials|Lipids, Carbohydrates, Hormones, Pharmaceuticals, and more]] || Lipids, Macromolecular Substances, Carbohydrates, Polycyclic Compounds, Hormones and Hormone Substitutes, Pharmaceutical Preparations, Biomedical and Dental Materials
+|-
+| 18 || [[/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (1–G)|Amino Acids, Peptides, and Proteins (1–G)]] || Amino Acids, Peptides, and Proteins (alphabetical: 1 through G)
+|-
+| 19 || [[/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (G–P)|Amino Acids, Peptides, and Proteins (G–P)]] || Amino Acids, Peptides, and Proteins (alphabetical: G through P)
+|-
+| 20 || [[/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (P–T)|Amino Acids, Peptides, and Proteins (P–T)]] || Amino Acids, Peptides, and Proteins (alphabetical: P through T)
+|-
+| 21 || [[/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (T–Z)|Amino Acids, Peptides, and Proteins (T–Z)]] || Amino Acids, Peptides, and Proteins (alphabetical: T through Z)
+|-
+| 22 || [[/Chemicals, Drugs, and Biochemistry/Enzymes and Coenzymes (1–N)|Enzymes and Coenzymes (1–N)]] || Enzymes and Coenzymes (alphabetical: 1 through N)
+|-
+| 23 || [[/Chemicals, Drugs, and Biochemistry/Enzymes and Coenzymes (N–Z)|Enzymes and Coenzymes (N–Z)]] || Enzymes and Coenzymes (alphabetical: N through Z)
+|-
+| 24 || [[/Chemicals, Drugs, and Biochemistry/Organic Chemicals (1–M)|Organic Chemicals (1–M)]] || Organic Chemicals (alphabetical: 1 through M)
+|-
+| 25 || [[/Chemicals, Drugs, and Biochemistry/Organic Chemicals (M–Z)|Organic Chemicals (M–Z)]] || Organic Chemicals (alphabetical: M through Z)
+|}
+
+=== Techniques, Equipment, and Health Care ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 26 || [[/Techniques, Equipment, and Health Care/Investigative Techniques|Investigative Techniques]] || Investigative Techniques
+|-
+| 27 || [[/Techniques, Equipment, and Health Care/Therapeutic Techniques|Therapeutic Techniques]] || Therapeutic Techniques
+|-
+| 28 || [[/Techniques, Equipment, and Health Care/Diagnostic Techniques|Diagnostic Techniques]] || Diagnostic Techniques
+|-
+| 29 || [[/Techniques, Equipment, and Health Care/Surgical Procedures – Medical Equipment and Devices|Surgery, Facilities, and Medical Devices]] || Surgical Procedures, Health Care Facilities and Services, Medical Equipment and Devices
+|-
+| 30 || [[/Techniques, Equipment, and Health Care/Health Care Economics – Anesthesia and Analgesia|Health Care Administration, Dentistry Techniques, and Anesthesia]] || Health Care Economics, Health Services Administration, Dentistry Techniques, Health Occupations, Health Care Quality and Safety, Anesthesia and Analgesia
+|}
+
+=== Biological and Physical Sciences ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 31 || [[/Biological and Physical Sciences/Genetics – Physiology|Genetics, Chemical Phenomena, and Physiology]] || Genetics, Chemical Phenomena, Physiology
+|-
+| 32 || [[/Biological and Physical Sciences/Cell Biology – Microbiology|Cell Biology, Metabolism, Immunology, and more]] || Cell Biology, Metabolism, Immunology, Reproductive and Developmental Biology, Natural Sciences, Physical Phenomena, Circulatory and Respiratory Physiology, Musculoskeletal and Neural Physiology, Microbiology
+|-
+| 33 || [[/Biological and Physical Sciences/Biological Phenomena – Integumentary Physiology|Biological Phenomena, Mathematics, and Organ System Physiology]] || Biological Phenomena, Mathematical Concepts, Digestive Physiology, Plant Physiology, Endocrine Physiology, Integumentary Physiology
+|}
+
+=== Social Sciences, Humanities, and Other ===
+
+{| class="wikitable" style="width:100%;"
+! # !! Subpage !! Topics included
+|-
+| 34 || [[/Social Sciences, Humanities, and Other/Behavioral Sciences – Persons|Behavioral Sciences and Persons]] || Behavioral Sciences, Persons
+|-
+| 35 || [[/Social Sciences, Humanities, and Other/Social Sciences – Information Science|Social Sciences, Psychology, and Information Science]] || Social Sciences, Psychological Phenomena, Information Science
+|-
+| 36 || [[/Social Sciences, Humanities, and Other/Technology and Food – Human Activities|Technology, Humanities, Education, Industries, and Human Activities]] || Technology and Food, Behavioral Disciplines, Humanities, Education, Non-Medical Industries, Population Characteristics, Human Activities
+|-
+| 37 || [[/Social Sciences, Humanities, and Other/Geographic Locations – Uncategorized|Geography, Food and Beverages]] || Geographic Locations, Food and Beverages, Uncategorized
+|}
+
+== Data sources ==
+* '''MeSH descriptors''' are obtained from the [https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/ NLM MeSH XML download].
+* '''Topic classification''' is derived from MeSH tree numbers. Each descriptor's primary tree number prefix (2nd level) maps to a clinical or scientific topic.
+* '''Wikidata matching''' uses [[d:Property:P486|P486]] (MeSH descriptor ID) to link each term to its Wikidata item.
+
+== Related projects ==
+* [[Wikipedia:WikiProject Medicine]] — parent project for medical content
+* [[Wikipedia:WikiProject Pharmacology]] — drug and pharmacology articles
+* [[Wikipedia:WikiProject Anatomy]] — anatomical structures
+* [[Wikipedia:WikiProject Molecular Biology]] — proteins, genes, and molecular biology
+* [[Wikipedia:WikiProject Organisms]] — taxonomy and organism articles
+* [[Medical Subject Headings]] — the MeSH vocabulary article itself
+* [[Wikidata:WikiProject Medicine]] — structured medical data on Wikidata
+
+[[Category:WikiProject MeSH]]
+[[Category:Wikipedia content coverage]]
+[[Category:Medical Subject Headings]]

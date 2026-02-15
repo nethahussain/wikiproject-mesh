@@ -1,0 +1,1209 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Eukaryota (A–L) ===
+
+* [[Abelmoschus]] — [[d:Q866047|Q866047]] <small>(MeSH: D028483)</small>
+* [[Abies]] — [[d:Q25350|Q25350]] <small>(MeSH: D028202)</small>
+* [[Abrus]] — [[d:Q309499|Q309499]] <small>(MeSH: D029912)</small>
+* [[Absidia]] — [[d:Q4386113|Q4386113]] <small>(MeSH: D020095)</small>
+* [[Acacia]] — [[d:Q81666|Q81666]] <small>(MeSH: D000045)</small>
+* [[Acalypha]] — [[d:Q161225|Q161225]] <small>(MeSH: D065815)</small>
+* [[Acanthaceae]] — [[d:Q53475|Q53475]] <small>(MeSH: D027901)</small>
+* [[Acanthamoeba]] — [[d:Q1152218|Q1152218]] <small>(MeSH: D000048)</small>
+* [[Acanthamoeba castellanii]] — [[d:Q20388586|Q20388586]] <small>(MeSH: D048248)</small>
+* [[Acanthocephala]] — [[d:Q178235|Q178235]] <small>(MeSH: D000049)</small>
+* [[Acanthocheilonema]] — [[d:Q16747049|Q16747049]] <small>(MeSH: D063486)</small>
+* [[Acanthopodina]] — [[d:Q2628394|Q2628394]] <small>(MeSH: D016842)</small>
+* [[Acari]] — [[d:Q19137|Q19137]] <small>(MeSH: D000053)</small>
+* [[Acaridae]] — [[d:Q1931942|Q1931942]] <small>(MeSH: D040041)</small>
+* [[Acer]] — [[d:Q42292|Q42292]] <small>(MeSH: D031002)</small>
+* [[Aceraceae]] — [[d:Q1450881|Q1450881]] <small>(MeSH: D031001)</small>
+* [[Acetabularia]] — [[d:Q1425126|Q1425126]] <small>(MeSH: D000076)</small>
+* [[Achillea]] — [[d:Q146617|Q146617]] <small>(MeSH: D031162)</small>
+* [[Achlya]] — [[d:Q3489113|Q3489113]] <small>(MeSH: D044743)</small>
+* [[Achyranthes]] — [[d:Q963473|Q963473]] <small>(MeSH: D029044)</small>
+* [[Achyrocline]] — [[d:Q3310650|Q3310650]] <small>(MeSH: D036921)</small>
+* [[Acinonyx]] — [[d:Q481907|Q481907]] <small>(MeSH: D002612)</small>
+* [[Aconitum]] — [[d:Q155904|Q155904]] <small>(MeSH: D031841)</small>
+* [[Acoraceae]] — [[d:Q637337|Q637337]] <small>(MeSH: D029022)</small>
+* [[Acorus]] — [[d:Q160087|Q160087]] <small>(MeSH: D029023)</small>
+* [[Acremonium]] — [[d:Q4675103|Q4675103]] <small>(MeSH: D000164)</small>
+* [[Actaea]] — [[d:Q158086|Q158086]] <small>(MeSH: D031842)</small>
+* [[Actinidia]] — [[d:Q164898|Q164898]] <small>(MeSH: D029042)</small>
+* [[Actinidiaceae]] — [[d:Q156666|Q156666]] <small>(MeSH: D029041)</small>
+* [[Adansonia]] — [[d:Q157991|Q157991]] <small>(MeSH: D035162)</small>
+* [[Adenophorea]] — [[d:Q17156|Q17156]] <small>(MeSH: D017157)</small>
+* [[Adiantum]] — [[d:Q673823|Q673823]] <small>(MeSH: D035681)</small>
+* [[Adonis]] — [[d:Q147534|Q147534]] <small>(MeSH: D031843)</small>
+* [[Adoxaceae]] — [[d:Q156677|Q156677]] <small>(MeSH: D031003)</small>
+* [[Aedes]] — [[d:Q310911|Q310911]] <small>(MeSH: D000330)</small>
+* [[Aegilops]] — [[d:Q1764888|Q1764888]] <small>(MeSH: D000078065)</small>
+* [[Aegle]] — [[d:Q3090671|Q3090671]] <small>(MeSH: D045471)</small>
+* [[Aesculus]] — [[d:Q158752|Q158752]] <small>(MeSH: D031319)</small>
+* [[Afrotheria]] — [[d:Q27399|Q27399]] <small>(MeSH: D000091122)</small>
+* [[Agapornis]] — [[d:Q515217|Q515217]] <small>(MeSH: D046710)</small>
+* [[Agaricales]] — [[d:Q221448|Q221448]] <small>(MeSH: D000363)</small>
+* [[Agaricus]] — [[d:Q390456|Q390456]] <small>(MeSH: D000364)</small>
+* [[Agastache]] — [[d:Q2020837|Q2020837]] <small>(MeSH: D031327)</small>
+* [[Agave]] — [[d:Q155874|Q155874]] <small>(MeSH: D027882)</small>
+* [[Agelas]] — [[d:Q2826531|Q2826531]] <small>(MeSH: D047230)</small>
+* [[Ageratina]] — [[d:Q2704494|Q2704494]] <small>(MeSH: D036603)</small>
+* [[Ageratum]] — [[d:Q132653|Q132653]] <small>(MeSH: D031163)</small>
+* [[Agkistrodon]] — [[d:Q1257508|Q1257508]] <small>(MeSH: D017836)</small>
+* [[Aglaia]] — [[d:Q734343|Q734343]] <small>(MeSH: D031602)</small>
+* [[Agricultural Inoculants]] — [[d:Q69484279|Q69484279]] <small>(MeSH: D059827)</small>
+* [[Agrimonia]] — [[d:Q264427|Q264427]] <small>(MeSH: D031981)</small>
+* [[Agrocybe]] — [[d:Q341780|Q341780]] <small>(MeSH: D055362)</small>
+* [[Agropyron]] — [[d:Q162731|Q162731]] <small>(MeSH: D031702)</small>
+* [[Agrostemma]] — [[d:Q148897|Q148897]] <small>(MeSH: D031242)</small>
+* [[Agrostis]] — [[d:Q161137|Q161137]] <small>(MeSH: D031703)</small>
+* [[Ailanthus]] — [[d:Q160580|Q160580]] <small>(MeSH: D032268)</small>
+* [[Ailuridae]] — [[d:Q902901|Q902901]] <small>(MeSH: D053822)</small>
+* [[Aizoaceae]] — [[d:Q156219|Q156219]] <small>(MeSH: D035722)</small>
+* [[Ajuga]] — [[d:Q158472|Q158472]] <small>(MeSH: D031328)</small>
+* [[Alangiaceae]] — [[d:Q1917130|Q1917130]] <small>(MeSH: D032604)</small>
+* [[Albizzia]] — [[d:Q16480447|Q16480447]] <small>(MeSH: D031289)</small>
+* [[Alchemilla]] — [[d:Q157180|Q157180]] <small>(MeSH: D031982)</small>
+* [[Alethinophidia]] — [[d:Q940396|Q940396]] <small>(MeSH: D000074764)</small>
+* [[Aleurites]] — [[d:Q141267|Q141267]] <small>(MeSH: D031284)</small>
+* [[Alisma]] — [[d:Q157350|Q157350]] <small>(MeSH: D034902)</small>
+* [[Alismataceae]] — [[d:Q156025|Q156025]] <small>(MeSH: D034901)</small>
+* [[Alismatales]] — [[d:Q27341|Q27341]] <small>(MeSH: D035961)</small>
+* [[Alligators and Crocodiles]] — [[d:Q69378023|Q69378023]] <small>(MeSH: D000489)</small>
+* [[Allium]] — [[d:Q49391|Q49391]] <small>(MeSH: D000490)</small>
+* [[Allomyces]] — [[d:Q2838624|Q2838624]] <small>(MeSH: D055134)</small>
+* [[Alnus]] — [[d:Q25239|Q25239]] <small>(MeSH: D029661)</small>
+* [[Alocasia]] — [[d:Q644312|Q644312]] <small>(MeSH: D031055)</small>
+* [[Aloe]] — [[d:Q127134|Q127134]] <small>(MeSH: D000504)</small>
+* [[Alouatta]] — [[d:Q504247|Q504247]] <small>(MeSH: D000508)</small>
+* [[Alouatta caraya]] — [[d:Q856342|Q856342]] <small>(MeSH: D000080532)</small>
+* [[Alouattinae]] — [[d:Q19816410|Q19816410]] <small>(MeSH: D016661)</small>
+* [[Alpinia]] — [[d:Q150572|Q150572]] <small>(MeSH: D032429)</small>
+* [[Alstonia]] — [[d:Q2475725|Q2475725]] <small>(MeSH: D031051)</small>
+* [[Alstroemeria]] — [[d:Q917833|Q917833]] <small>(MeSH: D031402)</small>
+* [[Alternaria]] — [[d:Q133266|Q133266]] <small>(MeSH: D000528)</small>
+* [[Althaea]] — [[d:Q157706|Q157706]] <small>(MeSH: D031583)</small>
+* [[Alveolata]] — [[d:Q448746|Q448746]] <small>(MeSH: D056893)</small>
+* [[Amanita]] — [[d:Q213938|Q213938]] <small>(MeSH: D000545)</small>
+* [[Amaranthaceae]] — [[d:Q155931|Q155931]] <small>(MeSH: D027703)</small>
+* [[Amaranthus]] — [[d:Q156344|Q156344]] <small>(MeSH: D027721)</small>
+* [[Amaryllidaceae]] — [[d:Q155848|Q155848]] <small>(MeSH: D000070378)</small>
+* [[Amazona]] — [[d:Q456513|Q456513]] <small>(MeSH: D046708)</small>
+* [[Amblycera]] — [[d:Q1936744|Q1936744]] <small>(MeSH: D058325)</small>
+* [[Amblyomma]] — [[d:Q140551|Q140551]] <small>(MeSH: D000082762)</small>
+* [[Amblyospora]] — [[d:Q69350967|Q69350967]] <small>(MeSH: D050219)</small>
+* [[Ambrosia]] — [[d:Q844270|Q844270]] <small>(MeSH: D031164)</small>
+* [[Ambystoma]] — [[d:Q2513619|Q2513619]] <small>(MeSH: D000557)</small>
+* [[Ambystoma mexicanum]] — [[d:Q22718|Q22718]] <small>(MeSH: D000558)</small>
+* [[Ambystomatidae]] — [[d:Q764529|Q764529]] <small>(MeSH: D000559)</small>
+* [[Ammi]] — [[d:Q2356589|Q2356589]] <small>(MeSH: D031165)</small>
+* [[Amoeba]] — [[d:Q46729|Q46729]] <small>(MeSH: D000656)</small>
+* [[Amoebida]] — [[d:Q1993675|Q1993675]] <small>(MeSH: D016841)</small>
+* [[Amoebozoa]] — [[d:Q473809|Q473809]] <small>(MeSH: D056894)</small>
+* [[Amomum]] — [[d:Q133225|Q133225]] <small>(MeSH: D035801)</small>
+* [[Amorphophallus]] — [[d:Q132651|Q132651]] <small>(MeSH: D031056)</small>
+* [[Ampelopsis]] — [[d:Q158192|Q158192]] <small>(MeSH: D032421)</small>
+* [[Amphibians]] — [[d:Q10908|Q10908]] <small>(MeSH: D000663)</small>
+* [[Amphipoda]] — [[d:Q193418|Q193418]] <small>(MeSH: D033304)</small>
+* [[Amsinckia]] — [[d:Q2354690|Q2354690]] <small>(MeSH: D029682)</small>
+* [[Amsonia]] — [[d:Q478077|Q478077]] <small>(MeSH: D030006)</small>
+* [[Anacardiaceae]] — [[d:Q156589|Q156589]] <small>(MeSH: D027926)</small>
+* [[Anacardium]] — [[d:Q161175|Q161175]] <small>(MeSH: D031021)</small>
+* [[Anagallis]] — [[d:Q157732|Q157732]] <small>(MeSH: D031823)</small>
+* [[Ananas]] — [[d:Q147316|Q147316]] <small>(MeSH: D031230)</small>
+* [[Ancylostoma]] — [[d:Q2490891|Q2490891]] <small>(MeSH: D000722)</small>
+* [[Ancylostomatoidea]] — [[d:Q19969202|Q19969202]] <small>(MeSH: D000723)</small>
+* [[Andrographis]] — [[d:Q15733525|Q15733525]] <small>(MeSH: D035685)</small>
+* [[Andrographis paniculata]] — [[d:Q1551608|Q1551608]] <small>(MeSH: D000089002)</small>
+* [[Andropogon]] — [[d:Q310768|Q310768]] <small>(MeSH: D031722)</small>
+* [[Anemarrhena]] — [[d:Q3616627|Q3616627]] <small>(MeSH: D031403)</small>
+* [[Anemone]] — [[d:Q158286|Q158286]] <small>(MeSH: D031883)</small>
+* [[Anethum graveolens]] — [[d:Q26686|Q26686]] <small>(MeSH: D028524)</small>
+* [[Angelica]] — [[d:Q219666|Q219666]] <small>(MeSH: D029969)</small>
+* [[Angelica archangelica]] — [[d:Q207745|Q207745]] <small>(MeSH: D029970)</small>
+* [[Angelica sinensis]] — [[d:Q2051387|Q2051387]] <small>(MeSH: D029971)</small>
+* [[Angiostrongylus]] — [[d:Q2279348|Q2279348]] <small>(MeSH: D000801)</small>
+* [[Angiostrongylus cantonensis]] — [[d:Q1449098|Q1449098]] <small>(MeSH: D017185)</small>
+* [[Anguilla]] — [[d:Q9154612|Q9154612]] <small>(MeSH: D000811)</small>
+* [[Animal Population Groups]] — [[d:Q69389160|Q69389160]] <small>(MeSH: D000828)</small>
+* [[Animals]] — [[d:Q729|Q729]] <small>(MeSH: D000818)</small>
+* [[Animals, Congenic]] — [[d:Q69379947|Q69379947]] <small>(MeSH: D020296)</small>
+* [[Animals, Domestic]] — [[d:Q622852|Q622852]] <small>(MeSH: D000829)</small>
+* [[Animals, Exotic]] — [[d:Q69307837|Q69307837]] <small>(MeSH: D000068881)</small>
+* [[Animals, Genetically Modified]] <small>(MeSH: D030801)</small>
+* [[Animals, Inbred Strains]] — [[d:Q1893126|Q1893126]] <small>(MeSH: D017849)</small>
+* [[Animals, Laboratory]] — [[d:Q69474945|Q69474945]] <small>(MeSH: D000830)</small>
+* [[Animals, Newborn]] — [[d:Q69466133|Q69466133]] <small>(MeSH: D000831)</small>
+* [[Animals, Outbred Strains]] — [[d:Q69471885|Q69471885]] <small>(MeSH: D021461)</small>
+* [[Animals, Poisonous]] — [[d:Q25489701|Q25489701]] <small>(MeSH: D000832)</small>
+* [[Animals, Suckling]] — [[d:Q2379143|Q2379143]] <small>(MeSH: D000833)</small>
+* [[Animals, Wild]] — [[d:Q16390140|Q16390140]] <small>(MeSH: D000835)</small>
+* [[Animals, Zoo]] — [[d:Q69355414|Q69355414]] <small>(MeSH: D000836)</small>
+* [[Anisakis]] — [[d:Q548871|Q548871]] <small>(MeSH: D017163)</small>
+* [[Annelida]] — [[d:Q25522|Q25522]] <small>(MeSH: D000845)</small>
+* [[Annona]] — [[d:Q275737|Q275737]] <small>(MeSH: D031041)</small>
+* [[Annonaceae]] — [[d:Q220025|Q220025]] <small>(MeSH: D029061)</small>
+* [[Anodonta]] — [[d:Q1768065|Q1768065]] <small>(MeSH: D049877)</small>
+* [[Anomura]] — [[d:Q526867|Q526867]] <small>(MeSH: D033381)</small>
+* [[Anopheles]] — [[d:Q158597|Q158597]] <small>(MeSH: D000852)</small>
+* [[Anoplura]] — [[d:Q26870|Q26870]] <small>(MeSH: D000854)</small>
+* [[Anostraca]] — [[d:Q853383|Q853383]] <small>(MeSH: D033202)</small>
+* [[Anseriformes]] — [[d:Q21651|Q21651]] <small>(MeSH: D046090)</small>
+* [[Antelopes]] — [[d:Q25894|Q25894]] <small>(MeSH: D000866)</small>
+* [[Anthemis]] — [[d:Q847930|Q847930]] <small>(MeSH: D031166)</small>
+* [[Anthocerotophyta]] — [[d:Q191156|Q191156]] <small>(MeSH: D049936)</small>
+* [[Anthocidaris]] — [[d:Q39254197|Q39254197]] <small>(MeSH: D047329)</small>
+* [[Anthozoa]] — [[d:Q28524|Q28524]] <small>(MeSH: D037421)</small>
+* [[Antiaris]] — [[d:Q3314750|Q3314750]] <small>(MeSH: D031621)</small>
+* [[Antirrhinum]] — [[d:Q157646|Q157646]] <small>(MeSH: D032161)</small>
+* [[Antrodia]] — [[d:Q1069431|Q1069431]] <small>(MeSH: D055491)</small>
+* [[Ants]] — [[d:Q7386|Q7386]] <small>(MeSH: D001000)</small>
+* [[Anura]] — [[d:Q53636|Q53636]] <small>(MeSH: D001001)</small>
+* [[Aotidae]] — [[d:Q15407957|Q15407957]] <small>(MeSH: D016645)</small>
+* [[Aotus trivirgatus]] — [[d:Q307153|Q307153]] <small>(MeSH: D001029)</small>
+* [[Apansporoblastina]] — [[d:Q21219655|Q21219655]] <small>(MeSH: D016817)</small>
+* [[Aphanomyces]] — [[d:Q2858202|Q2858202]] <small>(MeSH: D044744)</small>
+* [[Aphids]] — [[d:Q183350|Q183350]] <small>(MeSH: D001042)</small>
+* [[Apiaceae]] — [[d:Q145794|Q145794]] <small>(MeSH: D019661)</small>
+* [[Apicomplexa]] — [[d:Q193030|Q193030]] <small>(MeSH: D016782)</small>
+* [[Apium]] — [[d:Q2284228|Q2284228]] <small>(MeSH: D000077102)</small>
+* [[Aplysia]] — [[d:Q136564|Q136564]] <small>(MeSH: D001048)</small>
+* [[Apocynaceae]] — [[d:Q173756|Q173756]] <small>(MeSH: D029062)</small>
+* [[Apocynum]] — [[d:Q133242|Q133242]] <small>(MeSH: D030010)</small>
+* [[Aquifoliaceae]] — [[d:Q674593|Q674593]] <small>(MeSH: D029063)</small>
+* [[Aquilegia]] — [[d:Q147641|Q147641]] <small>(MeSH: D031884)</small>
+* [[Arabidopsis]] — [[d:Q157892|Q157892]] <small>(MeSH: D017360)</small>
+* [[Arabis]] — [[d:Q157396|Q157396]] <small>(MeSH: D031214)</small>
+* [[Araceae]] — [[d:Q48227|Q48227]] <small>(MeSH: D029064)</small>
+* [[Arachis]] — [[d:Q636425|Q636425]] <small>(MeSH: D010367)</small>
+* [[Arachnida]] — [[d:Q1358|Q1358]] <small>(MeSH: D001097)</small>
+* [[Aralia]] — [[d:Q132636|Q132636]] <small>(MeSH: D027983)</small>
+* [[Araliaceae]] — [[d:Q193335|Q193335]] <small>(MeSH: D027481)</small>
+* [[Araucaria]] — [[d:Q157214|Q157214]] <small>(MeSH: D000080057)</small>
+* [[Araucaria araucana]] — [[d:Q158780|Q158780]] <small>(MeSH: D000080059)</small>
+* [[Araucariaceae]] — [[d:Q217697|Q217697]] <small>(MeSH: D000080056)</small>
+* [[Arbacia]] — [[d:Q2859607|Q2859607]] <small>(MeSH: D047308)</small>
+* [[Archamoebae]] — [[d:Q589993|Q589993]] <small>(MeSH: D056896)</small>
+* [[Arcidae]] — [[d:Q632636|Q632636]] <small>(MeSH: D049893)</small>
+* [[Arctium]] — [[d:Q27257|Q27257]] <small>(MeSH: D031170)</small>
+* [[Arctostaphylos]] — [[d:Q280566|Q280566]] <small>(MeSH: D029792)</small>
+* [[Ardisia]] — [[d:Q133307|Q133307]] <small>(MeSH: D031644)</small>
+* [[Areca]] — [[d:Q157289|Q157289]] <small>(MeSH: D001114)</small>
+* [[Arecaceae]] — [[d:Q14080|Q14080]] <small>(MeSH: D028023)</small>
+* [[Arenaria Plant]] — [[d:Q1061117|Q1061117]] <small>(MeSH: D031243)</small>
+* [[Argas]] — [[d:Q2708492|Q2708492]] <small>(MeSH: D026864)</small>
+* [[Argasidae]] — [[d:Q640684|Q640684]] <small>(MeSH: D026862)</small>
+* [[Argemone]] — [[d:Q1783190|Q1783190]] <small>(MeSH: D031674)</small>
+* [[Arguloida]] — [[d:Q18196332|Q18196332]] <small>(MeSH: D033341)</small>
+* [[Arisaema]] — [[d:Q133284|Q133284]] <small>(MeSH: D031057)</small>
+* [[Aristolochia]] — [[d:Q156212|Q156212]] <small>(MeSH: D030022)</small>
+* [[Aristolochiaceae]] — [[d:Q156446|Q156446]] <small>(MeSH: D029065)</small>
+* [[Armadillos]] — [[d:Q47867|Q47867]] <small>(MeSH: D001135)</small>
+* [[Armillaria]] — [[d:Q952036|Q952036]] <small>(MeSH: D055392)</small>
+* [[Armoracia]] — [[d:Q162888|Q162888]] <small>(MeSH: D031215)</small>
+* [[Arnica]] — [[d:Q693908|Q693908]] <small>(MeSH: D018650)</small>
+* [[Artemia]] — [[d:Q134772|Q134772]] <small>(MeSH: D001156)</small>
+* [[Artemisia]] — [[d:Q156421|Q156421]] <small>(MeSH: D019306)</small>
+* [[Artemisia absinthium]] — [[d:Q25686|Q25686]] <small>(MeSH: D031171)</small>
+* [[Artemisia annua]] — [[d:Q1308044|Q1308044]] <small>(MeSH: D031172)</small>
+* [[Arthrodermataceae]] — [[d:Q2834736|Q2834736]] <small>(MeSH: D003883)</small>
+* [[Arthropods]] — [[d:Q1360|Q1360]] <small>(MeSH: D001181)</small>
+* [[Artiodactyla]] — [[d:Q25329|Q25329]] <small>(MeSH: D001188)</small>
+* [[Artocarpus]] — [[d:Q161085|Q161085]] <small>(MeSH: D031622)</small>
+* [[Arum]] — [[d:Q161121|Q161121]] <small>(MeSH: D031058)</small>
+* [[Arvicolinae]] — [[d:Q840750|Q840750]] <small>(MeSH: D003411)</small>
+* [[Asarum]] — [[d:Q157718|Q157718]] <small>(MeSH: D030023)</small>
+* [[Ascaridia]] — [[d:Q4803791|Q4803791]] <small>(MeSH: D001197)</small>
+* [[Ascaridida]] — [[d:Q17160|Q17160]] <small>(MeSH: D017162)</small>
+* [[Ascaridoidea]] — [[d:Q10858753|Q10858753]] <small>(MeSH: D001199)</small>
+* [[Ascaris]] — [[d:Q310838|Q310838]] <small>(MeSH: D001200)</small>
+* [[Ascaris lumbricoides]] — [[d:Q468771|Q468771]] <small>(MeSH: D017164)</small>
+* [[Ascaris suum]] — [[d:Q2062253|Q2062253]] <small>(MeSH: D017165)</small>
+* [[Asclepias]] — [[d:Q162153|Q162153]] <small>(MeSH: D031108)</small>
+* [[Ascomycota]] — [[d:Q174726|Q174726]] <small>(MeSH: D001203)</small>
+* [[Ascophyllum]] — [[d:Q16034614|Q16034614]] <small>(MeSH: D044646)</small>
+* [[Asimina]] — [[d:Q288443|Q288443]] <small>(MeSH: D031042)</small>
+* [[Aspalathus]] — [[d:Q783956|Q783956]] <small>(MeSH: D036903)</small>
+* [[Asparagaceae]] — [[d:Q157167|Q157167]] <small>(MeSH: D000070357)</small>
+* [[Asparagales]] — [[d:Q26229|Q26229]] <small>(MeSH: D000070381)</small>
+* [[Asparagus Plant]] — [[d:Q2853420|Q2853420]] <small>(MeSH: D027761)</small>
+* [[Aspergillus]] — [[d:Q335130|Q335130]] <small>(MeSH: D001230)</small>
+* [[Aspergillus flavus]] — [[d:Q137096|Q137096]] <small>(MeSH: D001231)</small>
+* [[Aspergillus fumigatus]] — [[d:Q134359|Q134359]] <small>(MeSH: D001232)</small>
+* [[Aspergillus nidulans]] — [[d:Q683881|Q683881]] <small>(MeSH: D001233)</small>
+* [[Aspergillus niger]] — [[d:Q132014|Q132014]] <small>(MeSH: D001234)</small>
+* [[Aspergillus ochraceus]] — [[d:Q4807897|Q4807897]] <small>(MeSH: D001235)</small>
+* [[Aspergillus oryzae]] — [[d:Q22662068|Q22662068]] <small>(MeSH: D001236)</small>
+* [[Asphodelaceae]] — [[d:Q14554941|Q14554941]] <small>(MeSH: D000070380)</small>
+* [[Aspidosperma]] — [[d:Q2593057|Q2593057]] <small>(MeSH: D030009)</small>
+* [[Astacoidea]] — [[d:Q7130063|Q7130063]] <small>(MeSH: D003400)</small>
+* [[Aster Plant]] — [[d:Q517130|Q517130]] <small>(MeSH: D031173)</small>
+* [[Asteraceae]] — [[d:Q25400|Q25400]] <small>(MeSH: D019659)</small>
+* [[Asterias]] — [[d:Q1952205|Q1952205]] <small>(MeSH: D047271)</small>
+* [[Asterina]] — [[d:Q2868401|Q2868401]] <small>(MeSH: D047288)</small>
+* [[Astragalus gummifer]] — [[d:Q9635479|Q9635479]] <small>(MeSH: D027884)</small>
+* [[Astragalus Plant]] — [[d:Q157184|Q157184]] <small>(MeSH: D027883)</small>
+* [[Astragalus propinquus]] — [[d:Q15532251|Q15532251]] <small>(MeSH: D027885)</small>
+* [[Ateles geoffroyi]] — [[d:Q388032|Q388032]] <small>(MeSH: D000080583)</small>
+* [[Atelidae]] — [[d:Q463395|Q463395]] <small>(MeSH: D051077)</small>
+* [[Atelinae]] — [[d:Q1199185|Q1199185]] <small>(MeSH: D053819)</small>
+* [[Atractylis]] — [[d:Q2702620|Q2702620]] <small>(MeSH: D036083)</small>
+* [[Atractylodes]] — [[d:Q3236629|Q3236629]] <small>(MeSH: D031174)</small>
+* [[Atriplex]] — [[d:Q157801|Q157801]] <small>(MeSH: D027466)</small>
+* [[Atropa]] — [[d:Q161802|Q161802]] <small>(MeSH: D032282)</small>
+* [[Atropa belladonna]] — [[d:Q156091|Q156091]] <small>(MeSH: D001532)</small>
+* [[Aureobasidium]] — [[d:Q10422706|Q10422706]] <small>(MeSH: D000084644)</small>
+* [[Auricularia]] — [[d:Q1633488|Q1633488]] <small>(MeSH: D000084822)</small>
+* [[Austrobaileyales]] — [[d:Q21788|Q21788]] <small>(MeSH: D000076667)</small>
+* [[Avena]] — [[d:Q146760|Q146760]] <small>(MeSH: D018554)</small>
+* [[Averrhoa]] — [[d:Q2697217|Q2697217]] <small>(MeSH: D065826)</small>
+* [[Avicennia]] — [[d:Q132645|Q132645]] <small>(MeSH: D032407)</small>
+* [[Axinella]] — [[d:Q2104200|Q2104200]] <small>(MeSH: D047089)</small>
+* [[Azadirachta]] — [[d:Q21698|Q21698]] <small>(MeSH: D031601)</small>
+* [[Babesia]] — [[d:Q797656|Q797656]] <small>(MeSH: D001403)</small>
+* [[Babesia bovis]] — [[d:Q4837802|Q4837802]] <small>(MeSH: D016793)</small>
+* [[Babesia microti]] — [[d:Q7777786|Q7777786]] <small>(MeSH: D041001)</small>
+* [[Baccharis]] — [[d:Q133834|Q133834]] <small>(MeSH: D031175)</small>
+* [[Bacopa]] — [[d:Q1409203|Q1409203]] <small>(MeSH: D034681)</small>
+* [[Balaenoptera]] — [[d:Q133320|Q133320]] <small>(MeSH: D050616)</small>
+* [[Balamuthia mandrillaris]] — [[d:Q1159908|Q1159908]] <small>(MeSH: D059611)</small>
+* [[Balanites]] — [[d:Q2534240|Q2534240]] <small>(MeSH: D032430)</small>
+* [[Balanophoraceae]] — [[d:Q131184|Q131184]] <small>(MeSH: D031111)</small>
+* [[Balantidium]] — [[d:Q15149810|Q15149810]] <small>(MeSH: D001448)</small>
+* [[Ballota]] — [[d:Q158853|Q158853]] <small>(MeSH: D031329)</small>
+* [[Balsaminaceae]] — [[d:Q464561|Q464561]] <small>(MeSH: D029068)</small>
+* [[Bambusa]] — [[d:Q311331|Q311331]] <small>(MeSH: D031723)</small>
+* [[Banisteriopsis]] — [[d:Q2714333|Q2714333]] <small>(MeSH: D031581)</small>
+* [[Barbarea]] — [[d:Q157614|Q157614]] <small>(MeSH: D031216)</small>
+* [[Barringtonia]] — [[d:Q2673561|Q2673561]] <small>(MeSH: D031382)</small>
+* [[Basidiomycota]] — [[d:Q174698|Q174698]] <small>(MeSH: D001487)</small>
+* [[Bass]] — [[d:Q1224135|Q1224135]] <small>(MeSH: D001492)</small>
+* [[Bassia scoparia]] — [[d:Q829752|Q829752]] <small>(MeSH: D027467)</small>
+* [[Batrachochytrium]] — [[d:Q10427016|Q10427016]] <small>(MeSH: D000084662)</small>
+* [[Batrachoidiformes]] — [[d:Q655731|Q655731]] <small>(MeSH: D024541)</small>
+* [[Bauhinia]] — [[d:Q287313|Q287313]] <small>(MeSH: D036481)</small>
+* [[Beauveria]] — [[d:Q2893365|Q2893365]] <small>(MeSH: D052982)</small>
+* [[Bedbugs]] — [[d:Q10452938|Q10452938]] <small>(MeSH: D001511)</small>
+* [[Bees]] — [[d:Q7391|Q7391]] <small>(MeSH: D001516)</small>
+* [[Begoniaceae]] — [[d:Q161189|Q161189]] <small>(MeSH: D031112)</small>
+* [[Beloniformes]] — [[d:Q329667|Q329667]] <small>(MeSH: D023761)</small>
+* [[Beluga Whale]] — [[d:Q132072|Q132072]] <small>(MeSH: D050643)</small>
+* [[Berberidaceae]] — [[d:Q155949|Q155949]] <small>(MeSH: D028141)</small>
+* [[Berberis]] — [[d:Q158503|Q158503]] <small>(MeSH: D028142)</small>
+* [[Bertholletia]] — [[d:Q2899339|Q2899339]] <small>(MeSH: D031383)</small>
+* [[Besnoitia]] — [[d:Q4896338|Q4896338]] <small>(MeSH: D000089963)</small>
+* [[Beta vulgaris]] — [[d:Q165191|Q165191]] <small>(MeSH: D027461)</small>
+* [[Betula]] — [[d:Q25243|Q25243]] <small>(MeSH: D029662)</small>
+* [[Betulaceae]] — [[d:Q156064|Q156064]] <small>(MeSH: D029401)</small>
+* [[Bidens]] — [[d:Q157173|Q157173]] <small>(MeSH: D031176)</small>
+* [[Bignoniaceae]] — [[d:Q213453|Q213453]] <small>(MeSH: D029402)</small>
+* [[Biomphalaria]] — [[d:Q3075178|Q3075178]] <small>(MeSH: D001700)</small>
+* [[Bipolaris]] — [[d:Q4915492|Q4915492]] <small>(MeSH: D000084727)</small>
+* [[Birds]] — [[d:Q5113|Q5113]] <small>(MeSH: D001717)</small>
+* [[Bison]] — [[d:Q18099|Q18099]] <small>(MeSH: D016164)</small>
+* [[Bitis]] — [[d:Q574527|Q574527]] <small>(MeSH: D000097187)</small>
+* [[Bivalvia]] — [[d:Q25368|Q25368]] <small>(MeSH: D049872)</small>
+* [[Bixaceae]] — [[d:Q564650|Q564650]] <small>(MeSH: D031212)</small>
+* [[Black Widow Spider]] — [[d:Q113297|Q113297]] <small>(MeSH: D001740)</small>
+* [[Blastocladiella]] — [[d:Q10431052|Q10431052]] <small>(MeSH: D001754)</small>
+* [[Blastocladiomycota]] — [[d:Q1140791|Q1140791]] <small>(MeSH: D055133)</small>
+* [[Blastocystina]] — [[d:Q69404745|Q69404745]] <small>(MeSH: D016843)</small>
+* [[Blastocystis]] — [[d:Q1756496|Q1756496]] <small>(MeSH: D016844)</small>
+* [[Blastocystis hominis]] — [[d:Q19833385|Q19833385]] <small>(MeSH: D016845)</small>
+* [[Blastomyces]] — [[d:Q10431073|Q10431073]] <small>(MeSH: D001758)</small>
+* [[Blattellidae]] — [[d:Q1953032|Q1953032]] <small>(MeSH: D020048)</small>
+* [[Blighia]] — [[d:Q1021709|Q1021709]] <small>(MeSH: D032124)</small>
+* [[Blueberry Plants]] — [[d:Q69384528|Q69384528]] <small>(MeSH: D029798)</small>
+* [[Boehmeria]] — [[d:Q2130176|Q2130176]] <small>(MeSH: D032402)</small>
+* [[Boidae]] — [[d:Q45556|Q45556]] <small>(MeSH: D017821)</small>
+* [[Bombacaceae]] — [[d:Q2006755|Q2006755]] <small>(MeSH: D035161)</small>
+* [[Bombax]] — [[d:Q719028|Q719028]] <small>(MeSH: D035163)</small>
+* [[Bombyx]] — [[d:Q1314183|Q1314183]] <small>(MeSH: D012831)</small>
+* [[Bonamia Plant]] — [[d:Q1339034|Q1339034]] <small>(MeSH: D041601)</small>
+* [[Boraginaceae]] — [[d:Q26568|Q26568]] <small>(MeSH: D028082)</small>
+* [[Borago]] — [[d:Q149122|Q149122]] <small>(MeSH: D029683)</small>
+* [[Boswellia]] — [[d:Q46006|Q46006]] <small>(MeSH: D029743)</small>
+* [[Bothrops]] — [[d:Q468875|Q468875]] <small>(MeSH: D017837)</small>
+* [[Bothrops asper]] — [[d:Q384987|Q384987]] <small>(MeSH: D000097143)</small>
+* [[Bothrops atrox]] — [[d:Q900848|Q900848]] <small>(MeSH: D000097142)</small>
+* [[Bothrops jararaca]] — [[d:Q1501285|Q1501285]] <small>(MeSH: D000097145)</small>
+* [[Botrytis]] — [[d:Q134284|Q134284]] <small>(MeSH: D020171)</small>
+* [[Bottle-Nosed Dolphin]] — [[d:Q174199|Q174199]] <small>(MeSH: D050681)</small>
+* [[Bowhead Whale]] — [[d:Q174652|Q174652]] <small>(MeSH: D050642)</small>
+* [[Brachiaria]] — [[d:Q2699312|Q2699312]] <small>(MeSH: D035201)</small>
+* [[Brachypodium]] — [[d:Q157770|Q157770]] <small>(MeSH: D058431)</small>
+* [[Brachyura]] — [[d:Q40802|Q40802]] <small>(MeSH: D003386)</small>
+* [[Brassica]] — [[d:Q58677|Q58677]] <small>(MeSH: D001937)</small>
+* [[Brassica napus]] — [[d:Q177932|Q177932]] <small>(MeSH: D029688)</small>
+* [[Brassica rapa]] — [[d:Q3384|Q3384]] <small>(MeSH: D029741)</small>
+* [[Brassicaceae]] — [[d:Q156888|Q156888]] <small>(MeSH: D019607)</small>
+* [[Brettanomyces]] — [[d:Q2411973|Q2411973]] <small>(MeSH: D055168)</small>
+* [[Bromelia]] — [[d:Q131432|Q131432]] <small>(MeSH: D031231)</small>
+* [[Bromeliaceae]] — [[d:Q156529|Q156529]] <small>(MeSH: D031229)</small>
+* [[Bromus]] — [[d:Q147621|Q147621]] <small>(MeSH: D031724)</small>
+* [[Broussonetia]] — [[d:Q600114|Q600114]] <small>(MeSH: D031623)</small>
+* [[Brown Recluse Spider]] — [[d:Q284352|Q284352]] <small>(MeSH: D063287)</small>
+* [[Brucea]] — [[d:Q2234796|Q2234796]] <small>(MeSH: D032269)</small>
+* [[Brucea javanica]] — [[d:Q7691623|Q7691623]] <small>(MeSH: D000089003)</small>
+* [[Brugia]] — [[d:Q16787352|Q16787352]] <small>(MeSH: D002009)</small>
+* [[Brugia malayi]] — [[d:Q139658|Q139658]] <small>(MeSH: D017178)</small>
+* [[Brugia pahangi]] — [[d:Q4978677|Q4978677]] <small>(MeSH: D017179)</small>
+* [[Brugmansia]] — [[d:Q757262|Q757262]] <small>(MeSH: D000076609)</small>
+* [[Bryonia]] — [[d:Q149006|Q149006]] <small>(MeSH: D029772)</small>
+* [[Bryophyta]] — [[d:Q25347|Q25347]] <small>(MeSH: D044002)</small>
+* [[Bryopsida]] — [[d:Q831482|Q831482]] <small>(MeSH: D019068)</small>
+* [[Bryozoa]] — [[d:Q148134|Q148134]] <small>(MeSH: D002013)</small>
+* [[Buddleja]] — [[d:Q158011|Q158011]] <small>(MeSH: D032861)</small>
+* [[Buffaloes]] — [[d:Q69375914|Q69375914]] <small>(MeSH: D002020)</small>
+* [[Bufo arenarum]] — [[d:Q104415673|Q104415673]] <small>(MeSH: D002022)</small>
+* [[Bufo bufo]] — [[d:Q146375|Q146375]] <small>(MeSH: D002023)</small>
+* [[Bufo marinus]] — [[d:Q13165156|Q13165156]] <small>(MeSH: D002024)</small>
+* [[Bufonidae]] — [[d:Q55372|Q55372]] <small>(MeSH: D002025)</small>
+* [[Bulinus]] — [[d:Q291487|Q291487]] <small>(MeSH: D002033)</small>
+* [[Bungarus]] — [[d:Q752389|Q752389]] <small>(MeSH: D017838)</small>
+* [[Bungarus multicinctus]] — [[d:Q637161|Q637161]] <small>(MeSH: D000097144)</small>
+* [[Bupleurum]] — [[d:Q856800|Q856800]] <small>(MeSH: D029972)</small>
+* [[Bursera]] — [[d:Q2367288|Q2367288]] <small>(MeSH: D031233)</small>
+* [[Burseraceae]] — [[d:Q161237|Q161237]] <small>(MeSH: D029403)</small>
+* [[Butea]] — [[d:Q3322044|Q3322044]] <small>(MeSH: D031290)</small>
+* [[Butterflies]] — [[d:Q11946202|Q11946202]] <small>(MeSH: D002080)</small>
+* [[Buxaceae]] — [[d:Q156680|Q156680]] <small>(MeSH: D031234)</small>
+* [[Buxus]] — [[d:Q158703|Q158703]] <small>(MeSH: D031235)</small>
+* [[Byssochlamys]] — [[d:Q149820|Q149820]] <small>(MeSH: D055323)</small>
+* [[Cacao]] — [[d:Q42385|Q42385]] <small>(MeSH: D002099)</small>
+* [[Cactaceae]] — [[d:Q14560|Q14560]] <small>(MeSH: D029421)</small>
+* [[Caenorhabditis]] — [[d:Q1904768|Q1904768]] <small>(MeSH: D002107)</small>
+* [[Caenorhabditis elegans]] — [[d:Q91703|Q91703]] <small>(MeSH: D017173)</small>
+* [[Caesalpinia]] — [[d:Q608215|Q608215]] <small>(MeSH: D029911)</small>
+* [[Cajanus]] — [[d:Q3239959|Q3239959]] <small>(MeSH: D036561)</small>
+* [[Calamus]] — [[d:Q165260|Q165260]] <small>(MeSH: D031081)</small>
+* [[Calceolariaceae]] — [[d:Q874254|Q874254]] <small>(MeSH: D000068543)</small>
+* [[Calendula]] — [[d:Q147281|Q147281]] <small>(MeSH: D020838)</small>
+* [[Calla Plant]] — [[d:Q1945962|Q1945962]] <small>(MeSH: D031059)</small>
+* [[Callicarpa]] — [[d:Q133831|Q133831]] <small>(MeSH: D032408)</small>
+* [[Callicebus]] — [[d:Q203649|Q203649]] <small>(MeSH: D000080602)</small>
+* [[Callilepis]] — [[d:Q5022117|Q5022117]] <small>(MeSH: D036084)</small>
+* [[Callimico]] — [[d:Q19816403|Q19816403]] <small>(MeSH: D016647)</small>
+* [[Calliphoridae]] — [[d:Q28404|Q28404]] <small>(MeSH: D000086542)</small>
+* [[Callithrix]] — [[d:Q1064620|Q1064620]] <small>(MeSH: D002144)</small>
+* [[Callitrichinae]] — [[d:Q19816401|Q19816401]] <small>(MeSH: D002143)</small>
+* [[Calluna]] — [[d:Q6983007|Q6983007]] <small>(MeSH: D029795)</small>
+* [[Callyspongia]] — [[d:Q3461459|Q3461459]] <small>(MeSH: D047128)</small>
+* [[Calophyllum]] — [[d:Q2697391|Q2697391]] <small>(MeSH: D029759)</small>
+* [[Calotropis]] — [[d:Q310216|Q310216]] <small>(MeSH: D031107)</small>
+* [[Calycanthaceae]] — [[d:Q867622|Q867622]] <small>(MeSH: D031237)</small>
+* [[Calystegia]] — [[d:Q149312|Q149312]] <small>(MeSH: D031253)</small>
+* [[Camallanina]] — [[d:Q19896704|Q19896704]] <small>(MeSH: D017175)</small>
+* [[Camassia]] — [[d:Q1810294|Q1810294]] <small>(MeSH: D031404)</small>
+* [[Camelidae]] — [[d:Q135022|Q135022]] <small>(MeSH: D000071194)</small>
+* [[Camelids, New World]] — [[d:Q69384750|Q69384750]] <small>(MeSH: D002161)</small>
+* [[Camellia]] — [[d:Q212815|Q212815]] <small>(MeSH: D028244)</small>
+* [[Camellia sinensis]] — [[d:Q101815|Q101815]] <small>(MeSH: D028241)</small>
+* [[Camelus]] — [[d:Q7375|Q7375]] <small>(MeSH: D002162)</small>
+* [[Campanulaceae]] — [[d:Q155802|Q155802]] <small>(MeSH: D029422)</small>
+* [[Camptotheca]] — [[d:Q3274739|Q3274739]] <small>(MeSH: D029769)</small>
+* [[Cananga]] — [[d:Q3264724|Q3264724]] <small>(MeSH: D054362)</small>
+* [[Canaries]] — [[d:Q69326245|Q69326245]] <small>(MeSH: D002171)</small>
+* [[Canavalia]] — [[d:Q135529|Q135529]] <small>(MeSH: D032449)</small>
+* [[Candida]] — [[d:Q131260|Q131260]] <small>(MeSH: D002175)</small>
+* [[Candida albicans]] — [[d:Q310443|Q310443]] <small>(MeSH: D002176)</small>
+* [[Candida auris]] — [[d:Q26816853|Q26816853]] <small>(MeSH: D000088063)</small>
+* [[Candida glabrata]] — [[d:Q139137|Q139137]] <small>(MeSH: D041221)</small>
+* [[Candida parapsilosis]] — [[d:Q144068|Q144068]] <small>(MeSH: D000074429)</small>
+* [[Candida tropicalis]] — [[d:Q143138|Q143138]] <small>(MeSH: D041022)</small>
+* [[Canidae]] — [[d:Q25324|Q25324]] <small>(MeSH: D046028)</small>
+* [[Caniformia]] — [[d:Q27414|Q27414]] <small>(MeSH: D010872)</small>
+* [[Cannabaceae]] — [[d:Q156338|Q156338]] <small>(MeSH: D027581)</small>
+* [[Cannabis]] — [[d:Q79817|Q79817]] <small>(MeSH: D002188)</small>
+* [[Capillaria]] — [[d:Q3292319|Q3292319]] <small>(MeSH: D002195)</small>
+* [[Capparaceae]] — [[d:Q161239|Q161239]] <small>(MeSH: D031483)</small>
+* [[Capparis]] — [[d:Q157866|Q157866]] <small>(MeSH: D031484)</small>
+* [[Caprifoliaceae]] — [[d:Q156301|Q156301]] <small>(MeSH: D027922)</small>
+* [[Capsella]] — [[d:Q157786|Q157786]] <small>(MeSH: D029687)</small>
+* [[Capsicum]] — [[d:Q201959|Q201959]] <small>(MeSH: D002212)</small>
+* [[Caragana]] — [[d:Q849443|Q849443]] <small>(MeSH: D032602)</small>
+* [[Cardamine]] — [[d:Q147299|Q147299]] <small>(MeSH: D031217)</small>
+* [[Cardiidae]] — [[d:Q860002|Q860002]] <small>(MeSH: D049873)</small>
+* [[Carduus]] — [[d:Q254502|Q254502]] <small>(MeSH: D031177)</small>
+* [[Carex Plant]] — [[d:Q12343744|Q12343744]] <small>(MeSH: D031255)</small>
+* [[Carica]] — [[d:Q1752510|Q1752510]] <small>(MeSH: D029441)</small>
+* [[Caricaceae]] — [[d:Q156673|Q156673]] <small>(MeSH: D031241)</small>
+* [[Carnivora]] — [[d:Q25306|Q25306]] <small>(MeSH: D002335)</small>
+* [[Carnivorous Plant]] — [[d:Q18240|Q18240]] <small>(MeSH: D000086523)</small>
+* [[Carps]] — [[d:Q150617|Q150617]] <small>(MeSH: D002347)</small>
+* [[Carthamus]] — [[d:Q161178|Q161178]] <small>(MeSH: D031178)</small>
+* [[Carthamus tinctorius]] — [[d:Q156625|Q156625]] <small>(MeSH: D031187)</small>
+* [[Carum]] — [[d:Q149079|Q149079]] <small>(MeSH: D029974)</small>
+* [[Carya]] — [[d:Q142788|Q142788]] <small>(MeSH: D031325)</small>
+* [[Caryophyllaceae]] — [[d:Q25995|Q25995]] <small>(MeSH: D029748)</small>
+* [[Caryophyllales]] — [[d:Q21808|Q21808]] <small>(MeSH: D000073559)</small>
+* [[Caryophyllanae]] — [[d:Q13658698|Q13658698]] <small>(MeSH: D000074427)</small>
+* [[Casearia]] — [[d:Q537066|Q537066]] <small>(MeSH: D037821)</small>
+* [[Casimiroa]] — [[d:Q2613722|Q2613722]] <small>(MeSH: D032081)</small>
+* [[Cassia]] — [[d:Q162882|Q162882]] <small>(MeSH: D002366)</small>
+* [[Castanospermum]] — [[d:Q10438724|Q10438724]] <small>(MeSH: D031291)</small>
+* [[Cat's Claw]] — [[d:Q1123391|Q1123391]] <small>(MeSH: D020948)</small>
+* [[Catarrhini]] — [[d:Q206930|Q206930]] <small>(MeSH: D051079)</small>
+* [[Catfishes]] — [[d:Q59576|Q59576]] <small>(MeSH: D002397)</small>
+* [[Catha]] — [[d:Q8342894|Q8342894]] <small>(MeSH: D029754)</small>
+* [[Catharanthus]] — [[d:Q1050790|Q1050790]] <small>(MeSH: D030008)</small>
+* [[Cats]] — [[d:Q146|Q146]] <small>(MeSH: D002415)</small>
+* [[Cattle]] — [[d:Q830|Q830]] <small>(MeSH: D002417)</small>
+* [[Caudata]] — [[d:Q19891296|Q19891296]] <small>(MeSH: D014562)</small>
+* [[Caulerpa]] — [[d:Q133953|Q133953]] <small>(MeSH: D046068)</small>
+* [[Caulophyllum]] — [[d:Q2671028|Q2671028]] <small>(MeSH: D028145)</small>
+* [[Ceanothus]] — [[d:Q311139|Q311139]] <small>(MeSH: D031952)</small>
+* [[Cebidae]] — [[d:Q425707|Q425707]] <small>(MeSH: D002427)</small>
+* [[Cebinae]] — [[d:Q326260|Q326260]] <small>(MeSH: D016646)</small>
+* [[Cebus]] — [[d:Q8447051|Q8447051]] <small>(MeSH: D002428)</small>
+* [[Cebus capucinus]] — [[d:Q585189|Q585189]] <small>(MeSH: D000080526)</small>
+* [[Cecropia Plant]] — [[d:Q414264|Q414264]] <small>(MeSH: D035702)</small>
+* [[Cedrela]] — [[d:Q162792|Q162792]] <small>(MeSH: D031587)</small>
+* [[Cedrus]] — [[d:Q128550|Q128550]] <small>(MeSH: D028203)</small>
+* [[Ceiba]] — [[d:Q284019|Q284019]] <small>(MeSH: D035164)</small>
+* [[Celastraceae]] — [[d:Q135336|Q135336]] <small>(MeSH: D029753)</small>
+* [[Celastrales]] — [[d:Q21870|Q21870]] <small>(MeSH: D000074423)</small>
+* [[Celastrus]] — [[d:Q811662|Q811662]] <small>(MeSH: D031247)</small>
+* [[Celosia]] — [[d:Q159223|Q159223]] <small>(MeSH: D034762)</small>
+* [[Cenchrus]] — [[d:Q430325|Q430325]] <small>(MeSH: D031741)</small>
+* [[Centaurea]] — [[d:Q156414|Q156414]] <small>(MeSH: D031179)</small>
+* [[Centaurea benedicta]] — [[d:Q792835|Q792835]] <small>(MeSH: D000091322)</small>
+* [[Centaurium]] — [[d:Q157703|Q157703]] <small>(MeSH: D029966)</small>
+* [[Centella]] — [[d:Q1348880|Q1348880]] <small>(MeSH: D028041)</small>
+* [[Cephaelis]] — [[d:Q3292013|Q3292013]] <small>(MeSH: D028503)</small>
+* [[Cephalochordata]] — [[d:Q123252|Q123252]] <small>(MeSH: D064174)</small>
+* [[Cephalopoda]] — [[d:Q128257|Q128257]] <small>(MeSH: D049830)</small>
+* [[Cephalotaxus]] — [[d:Q933520|Q933520]] <small>(MeSH: D032483)</small>
+* [[Cerastes]] — [[d:Q73178|Q73178]] <small>(MeSH: D000097189)</small>
+* [[Ceratitis capitata]] — [[d:Q250269|Q250269]] <small>(MeSH: D033622)</small>
+* [[Ceratocystis]] — [[d:Q5063763|Q5063763]] <small>(MeSH: D000084843)</small>
+* [[Ceratopogonidae]] — [[d:Q1533239|Q1533239]] <small>(MeSH: D002519)</small>
+* [[Cercocebus]] — [[d:Q1070855|Q1070855]] <small>(MeSH: D016664)</small>
+* [[Cercocebus atys]] — [[d:Q1365754|Q1365754]] <small>(MeSH: D016665)</small>
+* [[Cercopithecidae]] — [[d:Q182968|Q182968]] <small>(MeSH: D002520)</small>
+* [[Cercopithecinae]] — [[d:Q220848|Q220848]] <small>(MeSH: D016663)</small>
+* [[Cercopithecus]] — [[d:Q255571|Q255571]] <small>(MeSH: D002521)</small>
+* [[Cercospora]] — [[d:Q2066868|Q2066868]] <small>(MeSH: D000084823)</small>
+* [[Cercozoa]] — [[d:Q500497|Q500497]] <small>(MeSH: D056907)</small>
+* [[Ceriodaphnia dubia]] — [[d:Q4021798|Q4021798]] <small>(MeSH: D000096622)</small>
+* [[Cestoda]] — [[d:Q159715|Q159715]] <small>(MeSH: D002589)</small>
+* [[Cestrum]] — [[d:Q1364444|Q1364444]] <small>(MeSH: D032301)</small>
+* [[Cetacea]] — [[d:Q160|Q160]] <small>(MeSH: D002591)</small>
+* [[Chaetomium]] — [[d:Q3665729|Q3665729]] <small>(MeSH: D002597)</small>
+* [[Chamaecrista]] — [[d:Q2948035|Q2948035]] <small>(MeSH: D031288)</small>
+* [[Chamaecyparis]] — [[d:Q147791|Q147791]] <small>(MeSH: D029780)</small>
+* [[Chamaemelum]] — [[d:Q1427205|Q1427205]] <small>(MeSH: D031167)</small>
+* [[Chamomile]] — [[d:Q14169150|Q14169150]] <small>(MeSH: D020843)</small>
+* [[Channa punctata]] — [[d:Q1443453|Q1443453]] <small>(MeSH: D000095982)</small>
+* [[Chara]] — [[d:Q860112|Q860112]] <small>(MeSH: D044784)</small>
+* [[Characeae]] — [[d:Q1559048|Q1559048]] <small>(MeSH: D044522)</small>
+* [[Characidae]] — [[d:Q625352|Q625352]] <small>(MeSH: D060126)</small>
+* [[Characiformes]] — [[d:Q217458|Q217458]] <small>(MeSH: D060125)</small>
+* [[Charadriiformes]] — [[d:Q25978|Q25978]] <small>(MeSH: D046091)</small>
+* [[Charophyceae]] — [[d:Q133219|Q133219]] <small>(MeSH: D057946)</small>
+* [[Cheirogaleidae]] — [[d:Q271785|Q271785]] <small>(MeSH: D016565)</small>
+* [[Chelidonium]] — [[d:Q12723971|Q12723971]] <small>(MeSH: D028281)</small>
+* [[Chelidonium majus]] — [[d:Q156807|Q156807]] <small>(MeSH: D000097563)</small>
+* [[Chenopodiaceae]] — [[d:Q157881|Q157881]] <small>(MeSH: D019663)</small>
+* [[Chenopodium]] — [[d:Q158094|Q158094]] <small>(MeSH: D027462)</small>
+* [[Chenopodium album]] — [[d:Q158610|Q158610]] <small>(MeSH: D027463)</small>
+* [[Chenopodium ambrosioides]] — [[d:Q15251066|Q15251066]] <small>(MeSH: D027464)</small>
+* [[Chenopodium quinoa]] — [[d:Q139925|Q139925]] <small>(MeSH: D027465)</small>
+* [[Chickens]] — [[d:Q780|Q780]] <small>(MeSH: D002645)</small>
+* [[Chilopoda]] — [[d:Q43447|Q43447]] <small>(MeSH: D000083802)</small>
+* [[Chinchilla]] — [[d:Q192930|Q192930]] <small>(MeSH: D002682)</small>
+* [[Chironomidae]] — [[d:Q228145|Q228145]] <small>(MeSH: D002683)</small>
+* [[Chiroptera]] — [[d:Q28425|Q28425]] <small>(MeSH: D002685)</small>
+* [[Chive]] — [[d:Q51148|Q51148]] <small>(MeSH: D027782)</small>
+* [[Chlamydomonas]] — [[d:Q133008|Q133008]] <small>(MeSH: D002696)</small>
+* [[Chlamydomonas reinhardtii]] — [[d:Q291827|Q291827]] <small>(MeSH: D016825)</small>
+* [[Chlorella]] — [[d:Q133017|Q133017]] <small>(MeSH: D002708)</small>
+* [[Chlorella vulgaris]] — [[d:Q309972|Q309972]] <small>(MeSH: D048408)</small>
+* [[Chlorocebus aethiops]] — [[d:Q257470|Q257470]] <small>(MeSH: D002522)</small>
+* [[Chlorophyceae]] — [[d:Q132609|Q132609]] <small>(MeSH: D000077105)</small>
+* [[Chlorophyta]] — [[d:Q264543|Q264543]] <small>(MeSH: D000460)</small>
+* [[Choanoflagellata]] — [[d:Q129012|Q129012]] <small>(MeSH: D056897)</small>
+* [[Chondrus]] — [[d:Q14759694|Q14759694]] <small>(MeSH: D044723)</small>
+* [[Chordata]] — [[d:Q10915|Q10915]] <small>(MeSH: D043344)</small>
+* [[Chordata, Nonvertebrate]] — [[d:Q69399619|Q69399619]] <small>(MeSH: D002816)</small>
+* [[Chromadorea]] — [[d:Q1934949|Q1934949]] <small>(MeSH: D000073560)</small>
+* [[Chromolaena]] — [[d:Q2711819|Q2711819]] <small>(MeSH: D036604)</small>
+* [[Chrysanthemum]] — [[d:Q59882|Q59882]] <small>(MeSH: D031202)</small>
+* [[Chrysanthemum cinerariifolium]] — [[d:Q15281775|Q15281775]] <small>(MeSH: D011723)</small>
+* [[Chrysobalanaceae]] — [[d:Q614604|Q614604]] <small>(MeSH: D045469)</small>
+* [[Chrysophyta]] — [[d:Q5114906|Q5114906]] <small>(MeSH: D044523)</small>
+* [[Chrysopogon]] — [[d:Q2460800|Q2460800]] <small>(MeSH: D049930)</small>
+* [[Chrysosporium]] — [[d:Q5114948|Q5114948]] <small>(MeSH: D002912)</small>
+* [[Chytridiomycota]] — [[d:Q473747|Q473747]] <small>(MeSH: D008411)</small>
+* [[Cicer]] — [[d:Q762857|Q762857]] <small>(MeSH: D029863)</small>
+* [[Cichlids]] — [[d:Q3406|Q3406]] <small>(MeSH: D023681)</small>
+* [[Cichorium intybus]] — [[d:Q2544599|Q2544599]] <small>(MeSH: D018651)</small>
+* [[Cicuta]] — [[d:Q2093588|Q2093588]] <small>(MeSH: D029981)</small>
+* [[Ciliophora]] — [[d:Q106345|Q106345]] <small>(MeSH: D016798)</small>
+* [[Cimicidae]] — [[d:Q2098859|Q2098859]] <small>(MeSH: D020063)</small>
+* [[Cimicifuga]] — [[d:Q3262285|Q3262285]] <small>(MeSH: D031885)</small>
+* [[Cinchona]] — [[d:Q160090|Q160090]] <small>(MeSH: D002929)</small>
+* [[Cinnamomum]] — [[d:Q27282|Q27282]] <small>(MeSH: D027424)</small>
+* [[Cinnamomum aromaticum]] — [[d:Q21156956|Q21156956]] <small>(MeSH: D032904)</small>
+* [[Cinnamomum camphora]] — [[d:Q158722|Q158722]] <small>(MeSH: D027423)</small>
+* [[Cinnamomum zeylanicum]] — [[d:Q12892282|Q12892282]] <small>(MeSH: D002935)</small>
+* [[Ciona]] — [[d:Q3677397|Q3677397]] <small>(MeSH: D000077262)</small>
+* [[Ciona intestinalis]] — [[d:Q2567701|Q2567701]] <small>(MeSH: D002938)</small>
+* [[Cirsium]] — [[d:Q1638558|Q1638558]] <small>(MeSH: D031180)</small>
+* [[Cissampelos]] — [[d:Q5122242|Q5122242]] <small>(MeSH: D031606)</small>
+* [[Cissus]] — [[d:Q2046407|Q2046407]] <small>(MeSH: D032422)</small>
+* [[Cistaceae]] — [[d:Q156282|Q156282]] <small>(MeSH: D030601)</small>
+* [[Cistanche]] — [[d:Q2662256|Q2662256]] <small>(MeSH: D031671)</small>
+* [[Cistus]] — [[d:Q206127|Q206127]] <small>(MeSH: D029758)</small>
+* [[Citrullus]] — [[d:Q132239|Q132239]] <small>(MeSH: D029773)</small>
+* [[Citrullus colocynthis]] — [[d:Q913609|Q913609]] <small>(MeSH: D065986)</small>
+* [[Citrus]] — [[d:Q81513|Q81513]] <small>(MeSH: D002957)</small>
+* [[Citrus aurantiifolia]] — [[d:Q165354|Q165354]] <small>(MeSH: D032082)</small>
+* [[Citrus paradisi]] — [[d:Q41350|Q41350]] <small>(MeSH: D032083)</small>
+* [[Citrus sinensis]] — [[d:Q3355098|Q3355098]] <small>(MeSH: D032084)</small>
+* [[Cladocera]] — [[d:Q391240|Q391240]] <small>(MeSH: D033361)</small>
+* [[Cladosporium]] — [[d:Q134055|Q134055]] <small>(MeSH: D002963)</small>
+* [[Clarkia]] — [[d:Q159402|Q159402]] <small>(MeSH: D031663)</small>
+* [[Clausena]] — [[d:Q2993704|Q2993704]] <small>(MeSH: D054700)</small>
+* [[Claviceps]] — [[d:Q6445454|Q6445454]] <small>(MeSH: D002967)</small>
+* [[Clematis]] — [[d:Q157634|Q157634]] <small>(MeSH: D039324)</small>
+* [[Cleome]] — [[d:Q2086565|Q2086565]] <small>(MeSH: D031485)</small>
+* [[Clerodendrum]] — [[d:Q546906|Q546906]] <small>(MeSH: D032409)</small>
+* [[Clethraceae]] — [[d:Q157454|Q157454]] <small>(MeSH: D031250)</small>
+* [[Clione]] — [[d:Q1072943|Q1072943]] <small>(MeSH: D049852)</small>
+* [[Clitoria]] — [[d:Q2472930|Q2472930]] <small>(MeSH: D031292)</small>
+* [[Clonorchis sinensis]] — [[d:Q1074210|Q1074210]] <small>(MeSH: D003004)</small>
+* [[Closterium]] — [[d:Q141751|Q141751]] <small>(MeSH: D058119)</small>
+* [[Clusia]] — [[d:Q765930|Q765930]] <small>(MeSH: D031251)</small>
+* [[Clusiaceae]] — [[d:Q132429|Q132429]] <small>(MeSH: D028084)</small>
+* [[Cnicus]] — [[d:Q5775607|Q5775607]] <small>(MeSH: D031181)</small>
+* [[Cnidaria]] — [[d:Q25441|Q25441]] <small>(MeSH: D003063)</small>
+* [[Cnidium]] — [[d:Q909080|Q909080]] <small>(MeSH: D031048)</small>
+* [[Coca]] — [[d:Q66793593|Q66793593]] <small>(MeSH: D003041)</small>
+* [[Coccidia]] — [[d:Q1147204|Q1147204]] <small>(MeSH: D003044)</small>
+* [[Coccidioides]] — [[d:Q142764|Q142764]] <small>(MeSH: D003045)</small>
+* [[Cocculus]] — [[d:Q1152946|Q1152946]] <small>(MeSH: D031605)</small>
+* [[Cockatoos]] — [[d:Q31448|Q31448]] <small>(MeSH: D046410)</small>
+* [[Cockroaches]] — [[d:Q1661828|Q1661828]] <small>(MeSH: D003058)</small>
+* [[Cocos]] — [[d:Q13099531|Q13099531]] <small>(MeSH: D003059)</small>
+* [[Codonopsis]] — [[d:Q1106504|Q1106504]] <small>(MeSH: D029745)</small>
+* [[Coelomomyces]] — [[d:Q10456462|Q10456462]] <small>(MeSH: D055135)</small>
+* [[Coffea]] — [[d:Q156354|Q156354]] <small>(MeSH: D040503)</small>
+* [[Coix]] — [[d:Q1186042|Q1186042]] <small>(MeSH: D031742)</small>
+* [[Cola]] — [[d:Q114264|Q114264]] <small>(MeSH: D030221)</small>
+* [[Colchicaceae]] — [[d:Q186181|Q186181]] <small>(MeSH: D000070437)</small>
+* [[Colchicum]] — [[d:Q157411|Q157411]] <small>(MeSH: D003079)</small>
+* [[Coleoptera]] — [[d:Q22671|Q22671]] <small>(MeSH: D001517)</small>
+* [[Coleus]] — [[d:Q17114803|Q17114803]] <small>(MeSH: D031330)</small>
+* [[Colinus]] — [[d:Q868271|Q868271]] <small>(MeSH: D003088)</small>
+* [[Collaborative Cross Mice]] — [[d:Q113581076|Q113581076]] <small>(MeSH: D000076724)</small>
+* [[Colletotrichum]] — [[d:Q10457032|Q10457032]] <small>(MeSH: D020231)</small>
+* [[Colobinae]] — [[d:Q732737|Q732737]] <small>(MeSH: D016673)</small>
+* [[Colobus]] — [[d:Q358813|Q358813]] <small>(MeSH: D003104)</small>
+* [[Colocasia]] — [[d:Q310882|Q310882]] <small>(MeSH: D031060)</small>
+* [[Colubridae]] — [[d:Q182751|Q182751]] <small>(MeSH: D017812)</small>
+* [[Colubrina]] — [[d:Q2359212|Q2359212]] <small>(MeSH: D031953)</small>
+* [[Columbidae]] — [[d:Q10856|Q10856]] <small>(MeSH: D010856)</small>
+* [[Columbiformes]] — [[d:Q28078|Q28078]] <small>(MeSH: D046092)</small>
+* [[Combretaceae]] — [[d:Q44002|Q44002]] <small>(MeSH: D029764)</small>
+* [[Combretum]] — [[d:Q1777188|Q1777188]] <small>(MeSH: D029765)</small>
+* [[Comfrey]] — [[d:Q6963715|Q6963715]] <small>(MeSH: D020844)</small>
+* [[Commelina]] — [[d:Q161075|Q161075]] <small>(MeSH: D034822)</small>
+* [[Commelinaceae]] — [[d:Q156674|Q156674]] <small>(MeSH: D034821)</small>
+* [[Commiphora]] — [[d:Q1648255|Q1648255]] <small>(MeSH: D029744)</small>
+* [[Common Dolphins]] — [[d:Q312257|Q312257]] <small>(MeSH: D050696)</small>
+* [[Conidiobolus]] — [[d:Q5161046|Q5161046]] <small>(MeSH: D020092)</small>
+* [[Conium]] — [[d:Q6491516|Q6491516]] <small>(MeSH: D029982)</small>
+* [[Connaraceae]] — [[d:Q131661|Q131661]] <small>(MeSH: D031961)</small>
+* [[Conus Snail]] — [[d:Q1247092|Q1247092]] <small>(MeSH: D052078)</small>
+* [[Convallaria]] — [[d:Q134911|Q134911]] <small>(MeSH: D031405)</small>
+* [[Convolvulaceae]] — [[d:Q145777|Q145777]] <small>(MeSH: D027722)</small>
+* [[Convolvulus]] — [[d:Q147507|Q147507]] <small>(MeSH: D031254)</small>
+* [[Conyza]] — [[d:Q828737|Q828737]] <small>(MeSH: D035401)</small>
+* [[Copepoda]] — [[d:Q189973|Q189973]] <small>(MeSH: D033342)</small>
+* [[Coprinus]] — [[d:Q289890|Q289890]] <small>(MeSH: D003302)</small>
+* [[Coptis]] — [[d:Q135562|Q135562]] <small>(MeSH: D039323)</small>
+* [[Coptis chinensis]] — [[d:Q842233|Q842233]] <small>(MeSH: D000089042)</small>
+* [[Coral Snakes]] — [[d:Q651244|Q651244]] <small>(MeSH: D000073181)</small>
+* [[Corbicula]] — [[d:Q1186510|Q1186510]] <small>(MeSH: D049874)</small>
+* [[Corchorus]] — [[d:Q161489|Q161489]] <small>(MeSH: D032381)</small>
+* [[Cordia]] — [[d:Q716132|Q716132]] <small>(MeSH: D031213)</small>
+* [[Cordyceps]] — [[d:Q312238|Q312238]] <small>(MeSH: D032661)</small>
+* [[Cordyline]] — [[d:Q1543189|Q1543189]] <small>(MeSH: D031406)</small>
+* [[Coreopsis]] — [[d:Q1362995|Q1362995]] <small>(MeSH: D031945)</small>
+* [[Coriandrum]] — [[d:Q1752862|Q1752862]] <small>(MeSH: D028526)</small>
+* [[Coriolaceae]] — [[d:Q2997368|Q2997368]] <small>(MeSH: D055453)</small>
+* [[Cornaceae]] — [[d:Q161403|Q161403]] <small>(MeSH: D029767)</small>
+* [[Cornus]] — [[d:Q159545|Q159545]] <small>(MeSH: D029768)</small>
+* [[Corsiaceae]] — [[d:Q131369|Q131369]] <small>(MeSH: D045465)</small>
+* [[Cortinarius]] — [[d:Q306495|Q306495]] <small>(MeSH: D055363)</small>
+* [[Corydalis]] — [[d:Q159568|Q159568]] <small>(MeSH: D031311)</small>
+* [[Corylus]] — [[d:Q145889|Q145889]] <small>(MeSH: D031211)</small>
+* [[Costus]] — [[d:Q133082|Q133082]] <small>(MeSH: D029770)</small>
+* [[Coturnix]] — [[d:Q1869243|Q1869243]] <small>(MeSH: D003370)</small>
+* [[Coyotes]] — [[d:Q44299|Q44299]] <small>(MeSH: D046029)</small>
+* [[Crambe Plant]] — [[d:Q162902|Q162902]] <small>(MeSH: D031218)</small>
+* [[Crambe Sponge]] — [[d:Q21804588|Q21804588]] <small>(MeSH: D047132)</small>
+* [[Crangonidae]] — [[d:Q139277|Q139277]] <small>(MeSH: D033501)</small>
+* [[Crassostrea]] — [[d:Q542708|Q542708]] <small>(MeSH: D049896)</small>
+* [[Crassulaceae]] — [[d:Q155938|Q155938]] <small>(MeSH: D029627)</small>
+* [[Crataegus]] — [[d:Q132557|Q132557]] <small>(MeSH: D027825)</small>
+* [[Craterostigma]] — [[d:Q5198762|Q5198762]] <small>(MeSH: D032181)</small>
+* [[Crepis]] — [[d:Q727610|Q727610]] <small>(MeSH: D027468)</small>
+* [[Cricetinae]] — [[d:Q6573|Q6573]] <small>(MeSH: D006224)</small>
+* [[Cricetulus]] — [[d:Q869711|Q869711]] <small>(MeSH: D003412)</small>
+* [[Crinum]] — [[d:Q683353|Q683353]] <small>(MeSH: D031407)</small>
+* [[Crithidia]] — [[d:Q1998692|Q1998692]] <small>(MeSH: D003421)</small>
+* [[Crithidia fasciculata]] — [[d:Q5186584|Q5186584]] <small>(MeSH: D016831)</small>
+* [[Crocus]] — [[d:Q157806|Q157806]] <small>(MeSH: D027622)</small>
+* [[Crops, Agricultural]] — [[d:Q235352|Q235352]] <small>(MeSH: D018556)</small>
+* [[Crotalaria]] — [[d:Q311148|Q311148]] <small>(MeSH: D029864)</small>
+* [[Crotalinae]] — [[d:Q595983|Q595983]] <small>(MeSH: D000073562)</small>
+* [[Crotalus]] — [[d:Q463637|Q463637]] <small>(MeSH: D017839)</small>
+* [[Croton]] — [[d:Q519802|Q519802]] <small>(MeSH: D029802)</small>
+* [[Crows]] — [[d:Q388450|Q388450]] <small>(MeSH: D046368)</small>
+* [[Crustacea]] — [[d:Q25364|Q25364]] <small>(MeSH: D003445)</small>
+* [[Cryptocarya]] — [[d:Q3309395|Q3309395]] <small>(MeSH: D031369)</small>
+* [[Cryptococcus]] — [[d:Q309498|Q309498]] <small>(MeSH: D003454)</small>
+* [[Cryptococcus gattii]] — [[d:Q149791|Q149791]] <small>(MeSH: D056285)</small>
+* [[Cryptococcus neoformans]] — [[d:Q131924|Q131924]] <small>(MeSH: D003455)</small>
+* [[Cryptolepis]] — [[d:Q8352055|Q8352055]] <small>(MeSH: D031106)</small>
+* [[Cryptomeria]] — [[d:Q12323064|Q12323064]] <small>(MeSH: D032485)</small>
+* [[Cryptophyta]] — [[d:Q18668642|Q18668642]] <small>(MeSH: D044785)</small>
+* [[Cryptosporidiidae]] — [[d:Q15149715|Q15149715]] <small>(MeSH: D021742)</small>
+* [[Cryptosporidium]] — [[d:Q133078|Q133078]] <small>(MeSH: D003458)</small>
+* [[Cryptosporidium parvum]] — [[d:Q134734|Q134734]] <small>(MeSH: D016785)</small>
+* [[Ctenocephalides]] — [[d:Q3006405|Q3006405]] <small>(MeSH: D058251)</small>
+* [[Ctenophora]] — [[d:Q102778|Q102778]] <small>(MeSH: D037302)</small>
+* [[Cubozoa]] — [[d:Q273179|Q273179]] <small>(MeSH: D037462)</small>
+* [[Cucumaria]] — [[d:Q1967001|Q1967001]] <small>(MeSH: D048016)</small>
+* [[Cucumis]] — [[d:Q148758|Q148758]] <small>(MeSH: D028462)</small>
+* [[Cucumis melo]] — [[d:Q81602|Q81602]] <small>(MeSH: D028463)</small>
+* [[Cucumis sativus]] — [[d:Q23425|Q23425]] <small>(MeSH: D018553)</small>
+* [[Cucurbita]] — [[d:Q5339301|Q5339301]] <small>(MeSH: D028464)</small>
+* [[Cucurbitaceae]] — [[d:Q8314|Q8314]] <small>(MeSH: D019662)</small>
+* [[Culex]] — [[d:Q276595|Q276595]] <small>(MeSH: D003465)</small>
+* [[Culicidae]] — [[d:Q7367|Q7367]] <small>(MeSH: D009033)</small>
+* [[Culicomorpha]] — [[d:Q950698|Q950698]] <small>(MeSH: D000073563)</small>
+* [[Cuminum]] — [[d:Q2511981|Q2511981]] <small>(MeSH: D028527)</small>
+* [[Cuniculidae]] — [[d:Q15293261|Q15293261]] <small>(MeSH: D065469)</small>
+* [[Cunninghamella]] — [[d:Q10463640|Q10463640]] <small>(MeSH: D020093)</small>
+* [[Cunninghamia]] — [[d:Q13056610|Q13056610]] <small>(MeSH: D032486)</small>
+* [[Cuphea]] — [[d:Q1795637|Q1795637]] <small>(MeSH: D031562)</small>
+* [[Cupressaceae]] — [[d:Q146037|Q146037]] <small>(MeSH: D029779)</small>
+* [[Cupressus]] — [[d:Q146911|Q146911]] <small>(MeSH: D029781)</small>
+* [[Curculigo]] — [[d:Q2707264|Q2707264]] <small>(MeSH: D031408)</small>
+* [[Curcuma]] — [[d:Q33551|Q33551]] <small>(MeSH: D030024)</small>
+* [[Curvularia]] — [[d:Q5196111|Q5196111]] <small>(MeSH: D000084702)</small>
+* [[Cuscuta]] — [[d:Q190505|Q190505]] <small>(MeSH: D034182)</small>
+* [[Cyamopsis]] — [[d:Q2636758|Q2636758]] <small>(MeSH: D031293)</small>
+* [[Cyanophora]] — [[d:Q3008047|Q3008047]] <small>(MeSH: D044424)</small>
+* [[Cyathus]] — [[d:Q1580329|Q1580329]] <small>(MeSH: D055365)</small>
+* [[Cycadopsida]] — [[d:Q1089795|Q1089795]] <small>(MeSH: D032462)</small>
+* [[Cycas]] — [[d:Q161073|Q161073]] <small>(MeSH: D029784)</small>
+* [[Cyclamen]] — [[d:Q147295|Q147295]] <small>(MeSH: D031824)</small>
+* [[Cyclea]] — [[d:Q8352818|Q8352818]] <small>(MeSH: D031604)</small>
+* [[Cyclopia Plant]] — [[d:Q1627092|Q1627092]] <small>(MeSH: D053998)</small>
+* [[Cyclospora]] — [[d:Q1154025|Q1154025]] <small>(MeSH: D021744)</small>
+* [[Cymbopogon]] — [[d:Q5727732|Q5727732]] <small>(MeSH: D031743)</small>
+* [[Cynanchum]] — [[d:Q285262|Q285262]] <small>(MeSH: D031105)</small>
+* [[Cynara]] — [[d:Q19070|Q19070]] <small>(MeSH: D031942)</small>
+* [[Cynara scolymus]] — [[d:Q134609|Q134609]] <small>(MeSH: D031943)</small>
+* [[Cynodon]] — [[d:Q959222|Q959222]] <small>(MeSH: D031744)</small>
+* [[Cynomorium]] — [[d:Q139233|Q139233]] <small>(MeSH: D031482)</small>
+* [[Cyperaceae]] — [[d:Q155843|Q155843]] <small>(MeSH: D029785)</small>
+* [[Cyperus]] — [[d:Q161224|Q161224]] <small>(MeSH: D029786)</small>
+* [[Cyprinidae]] — [[d:Q35047|Q35047]] <small>(MeSH: D003530)</small>
+* [[Cypriniformes]] — [[d:Q177879|Q177879]] <small>(MeSH: D003531)</small>
+* [[Cyprinodontiformes]] — [[d:Q143748|Q143748]] <small>(MeSH: D003532)</small>
+* [[Cyrtosperma]] — [[d:Q2699117|Q2699117]] <small>(MeSH: D031061)</small>
+* [[Cysticercus]] — [[d:Q1149020|Q1149020]] <small>(MeSH: D003552)</small>
+* [[Cytisus]] — [[d:Q157226|Q157226]] <small>(MeSH: D029865)</small>
+* [[Daboia]] — [[d:Q3011594|Q3011594]] <small>(MeSH: D017840)</small>
+* [[Dactylis]] — [[d:Q1047931|Q1047931]] <small>(MeSH: D031745)</small>
+* [[Dahlia]] — [[d:Q130918|Q130918]] <small>(MeSH: D031944)</small>
+* [[Dalbergia]] — [[d:Q1370281|Q1370281]] <small>(MeSH: D035782)</small>
+* [[Daphne]] — [[d:Q122990|Q122990]] <small>(MeSH: D032364)</small>
+* [[Daphnia]] — [[d:Q269354|Q269354]] <small>(MeSH: D003621)</small>
+* [[Daphnia magna]] — [[d:Q672531|Q672531]] <small>(MeSH: D000096602)</small>
+* [[Daphnia pulex]] — [[d:Q1080188|Q1080188]] <small>(MeSH: D000096604)</small>
+* [[Daphniphyllaceae]] — [[d:Q13659061|Q13659061]] <small>(MeSH: D000076608)</small>
+* [[Daphniphyllum]] — [[d:Q41436|Q41436]] <small>(MeSH: D000076482)</small>
+* [[Dasyproctidae]] — [[d:Q267132|Q267132]] <small>(MeSH: D065468)</small>
+* [[Datura]] — [[d:Q192497|Q192497]] <small>(MeSH: D032302)</small>
+* [[Datura metel]] — [[d:Q715019|Q715019]] <small>(MeSH: D058530)</small>
+* [[Datura stramonium]] — [[d:Q30959|Q30959]] <small>(MeSH: D013286)</small>
+* [[Daucus carota]] — [[d:Q30056|Q30056]] <small>(MeSH: D018552)</small>
+* [[Debaryomyces]] — [[d:Q5247835|Q5247835]] <small>(MeSH: D055165)</small>
+* [[Decapoda]] — [[d:Q4610|Q4610]] <small>(MeSH: D033364)</small>
+* [[Decapodiformes]] — [[d:Q843338|Q843338]] <small>(MeSH: D049832)</small>
+* [[Deer]] — [[d:Q23390|Q23390]] <small>(MeSH: D003670)</small>
+* [[Dekkera]] — [[d:Q10467791|Q10467791]] <small>(MeSH: D055167)</small>
+* [[Delphinium]] — [[d:Q160107|Q160107]] <small>(MeSH: D031882)</small>
+* [[Dendroaspis]] — [[d:Q194425|Q194425]] <small>(MeSH: D000073178)</small>
+* [[Dendrobium]] — [[d:Q133778|Q133778]] <small>(MeSH: D031667)</small>
+* [[Dennstaedtiaceae]] — [[d:Q358326|Q358326]] <small>(MeSH: D032497)</small>
+* [[Dermacentor]] — [[d:Q2714520|Q2714520]] <small>(MeSH: D003870)</small>
+* [[Dermatophagoides farinae]] — [[d:Q2916791|Q2916791]] <small>(MeSH: D040001)</small>
+* [[Dermatophagoides pteronyssinus]] — [[d:Q4573411|Q4573411]] <small>(MeSH: D040002)</small>
+* [[Derris]] — [[d:Q1768643|Q1768643]] <small>(MeSH: D029866)</small>
+* [[Desmidiales]] — [[d:Q199077|Q199077]] <small>(MeSH: D058114)</small>
+* [[Dianthus]] — [[d:Q156099|Q156099]] <small>(MeSH: D029749)</small>
+* [[Diatoms]] — [[d:Q162678|Q162678]] <small>(MeSH: D017377)</small>
+* [[Dicentra]] — [[d:Q157857|Q157857]] <small>(MeSH: D000076625)</small>
+* [[Dicrocoeliidae]] — [[d:Q5021403|Q5021403]] <small>(MeSH: D004012)</small>
+* [[Dicrocoelium]] — [[d:Q3026681|Q3026681]] <small>(MeSH: D004013)</small>
+* [[Dictamnus]] — [[d:Q2643074|Q2643074]] <small>(MeSH: D036905)</small>
+* [[Dictyocaulus]] — [[d:Q957759|Q957759]] <small>(MeSH: D004021)</small>
+* [[Dictyosteliida]] — [[d:Q310364|Q310364]] <small>(MeSH: D016837)</small>
+* [[Dictyostelium]] — [[d:Q17146891|Q17146891]] <small>(MeSH: D004023)</small>
+* [[Didelphis]] — [[d:Q287881|Q287881]] <small>(MeSH: D048293)</small>
+* [[Dientamoeba]] — [[d:Q21587937|Q21587937]] <small>(MeSH: D004029)</small>
+* [[Digitalis]] — [[d:Q156533|Q156533]] <small>(MeSH: D004070)</small>
+* [[Digitaria]] — [[d:Q163915|Q163915]] <small>(MeSH: D031746)</small>
+* [[Dilleniaceae]] — [[d:Q756019|Q756019]] <small>(MeSH: D045466)</small>
+* [[Dinoflagellida]] — [[d:Q23538285|Q23538285]] <small>(MeSH: D004141)</small>
+* [[Dinosaurs]] — [[d:Q430|Q430]] <small>(MeSH: D025061)</small>
+* [[Dioclea]] — [[d:Q5222419|Q5222419]] <small>(MeSH: D052598)</small>
+* [[Dioctophymatoidea]] — [[d:Q47545803|Q47545803]] <small>(MeSH: D017159)</small>
+* [[Dioncophyllaceae]] — [[d:Q1057863|Q1057863]] <small>(MeSH: D045603)</small>
+* [[Dioscorea]] — [[d:Q71549|Q71549]] <small>(MeSH: D027742)</small>
+* [[Dioscoreaceae]] — [[d:Q161220|Q161220]] <small>(MeSH: D027743)</small>
+* [[Diospyros]] — [[d:Q165258|Q165258]] <small>(MeSH: D029788)</small>
+* [[Dipetalonema]] — [[d:Q18520103|Q18520103]] <small>(MeSH: D004153)</small>
+* [[Diphyllobothrium]] — [[d:Q600082|Q600082]] <small>(MeSH: D004170)</small>
+* [[Diplomonadida]] — [[d:Q136575|Q136575]] <small>(MeSH: D016828)</small>
+* [[Dipodascus]] — [[d:Q5280023|Q5280023]] <small>(MeSH: D055157)</small>
+* [[Dipodomys]] — [[d:Q120094|Q120094]] <small>(MeSH: D004173)</small>
+* [[Dipsacaceae]] — [[d:Q156665|Q156665]] <small>(MeSH: D049917)</small>
+* [[Dipsacales]] — [[d:Q21774|Q21774]] <small>(MeSH: D000074766)</small>
+* [[Diptera]] — [[d:Q25312|Q25312]] <small>(MeSH: D004175)</small>
+* [[Dipterocarpaceae]] — [[d:Q580593|Q580593]] <small>(MeSH: D053958)</small>
+* [[Dipteryx]] — [[d:Q2988088|Q2988088]] <small>(MeSH: D046914)</small>
+* [[Dirofilaria]] — [[d:Q1994726|Q1994726]] <small>(MeSH: D004182)</small>
+* [[Dirofilaria immitis]] — [[d:Q134669|Q134669]] <small>(MeSH: D004183)</small>
+* [[Dirofilaria repens]] — [[d:Q1995242|Q1995242]] <small>(MeSH: D060348)</small>
+* [[Dogfish]] — [[d:Q1245778|Q1245778]] <small>(MeSH: D004284)</small>
+* [[Dogs]] — [[d:Q144|Q144]] <small>(MeSH: D004285)</small>
+* [[Dolichos]] — [[d:Q526727|Q526727]] <small>(MeSH: D031294)</small>
+* [[Dolphins]] — [[d:Q7369|Q7369]] <small>(MeSH: D004289)</small>
+* [[Dracaena]] — [[d:Q158009|Q158009]] <small>(MeSH: D031409)</small>
+* [[Dracunculoidea]] — [[d:Q3038566|Q3038566]] <small>(MeSH: D017176)</small>
+* [[Dracunculus Nematode]] — [[d:Q2341780|Q2341780]] <small>(MeSH: D004321)</small>
+* [[Dreissena]] — [[d:Q4998707|Q4998707]] <small>(MeSH: D049875)</small>
+* [[Drimia]] — [[d:Q1055119|Q1055119]] <small>(MeSH: D031448)</small>
+* [[Drimys]] — [[d:Q749412|Q749412]] <small>(MeSH: D032424)</small>
+* [[Dromaiidae]] — [[d:Q12211695|Q12211695]] <small>(MeSH: D020312)</small>
+* [[Drosera]] — [[d:Q266|Q266]] <small>(MeSH: D029787)</small>
+* [[Droseraceae]] — [[d:Q156185|Q156185]] <small>(MeSH: D031257)</small>
+* [[Drosophila]] — [[d:Q312154|Q312154]] <small>(MeSH: D004330)</small>
+* [[Drosophila melanogaster]] — [[d:Q130888|Q130888]] <small>(MeSH: D004331)</small>
+* [[Drosophila simulans]] — [[d:Q310061|Q310061]] <small>(MeSH: D000067636)</small>
+* [[Drosophilidae]] — [[d:Q1054318|Q1054318]] <small>(MeSH: D018428)</small>
+* [[Dryopteridaceae]] — [[d:Q656683|Q656683]] <small>(MeSH: D032491)</small>
+* [[Dryopteris]] — [[d:Q1335106|Q1335106]] <small>(MeSH: D032492)</small>
+* [[Duboisia]] — [[d:Q310905|Q310905]] <small>(MeSH: D032303)</small>
+* [[Ducks]] — [[d:Q3736439|Q3736439]] <small>(MeSH: D004372)</small>
+* [[Duddingtonia]] — [[d:Q5311670|Q5311670]] <small>(MeSH: D059586)</small>
+* [[Dugong]] — [[d:Q10978076|Q10978076]] <small>(MeSH: D020454)</small>
+* [[Dysidea]] — [[d:Q4116779|Q4116779]] <small>(MeSH: D047088)</small>
+* [[Eagles]] — [[d:Q2092297|Q2092297]] <small>(MeSH: D020307)</small>
+* [[Ebenaceae]] — [[d:Q156669|Q156669]] <small>(MeSH: D031262)</small>
+* [[Echinacea]] — [[d:Q1642983|Q1642983]] <small>(MeSH: D020900)</small>
+* [[Echinochloa]] — [[d:Q163965|Q163965]] <small>(MeSH: D031747)</small>
+* [[Echinococcus]] — [[d:Q344662|Q344662]] <small>(MeSH: D004446)</small>
+* [[Echinococcus granulosus]] — [[d:Q630200|Q630200]] <small>(MeSH: D048209)</small>
+* [[Echinococcus multilocularis]] — [[d:Q669922|Q669922]] <small>(MeSH: D048210)</small>
+* [[Echinodermata]] — [[d:Q44631|Q44631]] <small>(MeSH: D004447)</small>
+* [[Echinops Plant]] — [[d:Q650106|Q650106]] <small>(MeSH: D031182)</small>
+* [[Echinostoma]] — [[d:Q3046987|Q3046987]] <small>(MeSH: D004449)</small>
+* [[Echinostomatidae]] — [[d:Q5015037|Q5015037]] <small>(MeSH: D004450)</small>
+* [[Echis]] — [[d:Q1478226|Q1478226]] <small>(MeSH: D000097185)</small>
+* [[Echium]] — [[d:Q157711|Q157711]] <small>(MeSH: D036661)</small>
+* [[Eclipta]] — [[d:Q2717836|Q2717836]] <small>(MeSH: D036601)</small>
+* [[Edible Grain]] — [[d:Q2995529|Q2995529]] <small>(MeSH: D002523)</small>
+* [[Edible Insects]] — [[d:Q38117921|Q38117921]] <small>(MeSH: D000080702)</small>
+* [[Eels]] — [[d:Q128685|Q128685]] <small>(MeSH: D004524)</small>
+* [[Eichhornia]] — [[d:Q2144596|Q2144596]] <small>(MeSH: D031806)</small>
+* [[Eimeria]] — [[d:Q795375|Q795375]] <small>(MeSH: D004539)</small>
+* [[Eimeria tenella]] — [[d:Q604561|Q604561]] <small>(MeSH: D016786)</small>
+* [[Eimeriida]] — [[d:Q69466372|Q69466372]] <small>(MeSH: D021741)</small>
+* [[Eimeriidae]] — [[d:Q795581|Q795581]] <small>(MeSH: D021743)</small>
+* [[Elaeagnaceae]] — [[d:Q156326|Q156326]] <small>(MeSH: D031263)</small>
+* [[Elaeocarpaceae]] — [[d:Q131280|Q131280]] <small>(MeSH: D045467)</small>
+* [[Elapidae]] — [[d:Q186554|Q186554]] <small>(MeSH: D017815)</small>
+* [[Elasmobranchii]] — [[d:Q194257|Q194257]] <small>(MeSH: D018940)</small>
+* [[Electric Fish]] — [[d:Q1394029|Q1394029]] <small>(MeSH: D004555)</small>
+* [[Electrophorus]] — [[d:Q18926800|Q18926800]] <small>(MeSH: D004593)</small>
+* [[Eleocharis]] — [[d:Q161871|Q161871]] <small>(MeSH: D031256)</small>
+* [[Elephants]] — [[d:Q2372824|Q2372824]] <small>(MeSH: D004606)</small>
+* [[Elettaria]] — [[d:Q312218|Q312218]] <small>(MeSH: D028523)</small>
+* [[Eleusine]] — [[d:Q2301041|Q2301041]] <small>(MeSH: D031748)</small>
+* [[Eleutherococcus]] — [[d:Q133016|Q133016]] <small>(MeSH: D028001)</small>
+* [[Elymus]] — [[d:Q1072892|Q1072892]] <small>(MeSH: D031749)</small>
+* [[Embelia]] — [[d:Q5370023|Q5370023]] <small>(MeSH: D031645)</small>
+* [[Embryophyta]] — [[d:Q192154|Q192154]] <small>(MeSH: D019669)</small>
+* [[Emericella]] — [[d:Q5370805|Q5370805]] <small>(MeSH: D032842)</small>
+* [[Encephalitozoon]] — [[d:Q3053766|Q3053766]] <small>(MeSH: D016819)</small>
+* [[Encephalitozoon cuniculi]] — [[d:Q150967|Q150967]] <small>(MeSH: D009670)</small>
+* [[Endolimax]] — [[d:Q5236578|Q5236578]] <small>(MeSH: D004709)</small>
+* [[Endomyces]] — [[d:Q5376371|Q5376371]] <small>(MeSH: D055159)</small>
+* [[Enoplida]] — [[d:Q942023|Q942023]] <small>(MeSH: D017158)</small>
+* [[Entamoeba]] — [[d:Q518891|Q518891]] <small>(MeSH: D004747)</small>
+* [[Entamoeba histolytica]] — [[d:Q131027|Q131027]] <small>(MeSH: D004748)</small>
+* [[Enterobius]] — [[d:Q213912|Q213912]] <small>(MeSH: D004757)</small>
+* [[Enterocytozoon]] — [[d:Q3055049|Q3055049]] <small>(MeSH: D021862)</small>
+* [[Entomophthora]] — [[d:Q4532108|Q4532108]] <small>(MeSH: D004773)</small>
+* [[Entomophthorales]] — [[d:Q1257561|Q1257561]] <small>(MeSH: D020091)</small>
+* [[Ephedra]] — [[d:Q838000|Q838000]] <small>(MeSH: D029789)</small>
+* [[Ephedra sinica]] — [[d:Q2602813|Q2602813]] <small>(MeSH: D029790)</small>
+* [[Ephemeroptera]] — [[d:Q174273|Q174273]] <small>(MeSH: D065133)</small>
+* [[Epichloe]] — [[d:Q5382570|Q5382570]] <small>(MeSH: D055329)</small>
+* [[Epidermophyton]] — [[d:Q5196217|Q5196217]] <small>(MeSH: D004821)</small>
+* [[Epilobium]] — [[d:Q157637|Q157637]] <small>(MeSH: D031666)</small>
+* [[Epimedium]] — [[d:Q157746|Q157746]] <small>(MeSH: D034181)</small>
+* [[Equidae]] — [[d:Q165115|Q165115]] <small>(MeSH: D018397)</small>
+* [[Equisetum]] — [[d:Q28114|Q28114]] <small>(MeSH: D020829)</small>
+* [[Eragrostis]] — [[d:Q161088|Q161088]] <small>(MeSH: D031750)</small>
+* [[Eremophila Plant]] — [[d:Q1171483|Q1171483]] <small>(MeSH: D041621)</small>
+* [[Eremothecium]] — [[d:Q5385601|Q5385601]] <small>(MeSH: D055169)</small>
+* [[Ericaceae]] — [[d:Q975872|Q975872]] <small>(MeSH: D029791)</small>
+* [[Ericales]] — [[d:Q2118061|Q2118061]] <small>(MeSH: D020448)</small>
+* [[Erigeron]] — [[d:Q745253|Q745253]] <small>(MeSH: D049919)</small>
+* [[Eriobotrya]] — [[d:Q1550170|Q1550170]] <small>(MeSH: D031983)</small>
+* [[Eriocaulaceae]] — [[d:Q131321|Q131321]] <small>(MeSH: D039262)</small>
+* [[Eriodictyon]] — [[d:Q147134|Q147134]] <small>(MeSH: D031322)</small>
+* [[Eriogonum]] — [[d:Q2707277|Q2707277]] <small>(MeSH: D031803)</small>
+* [[Eryngium]] — [[d:Q729143|Q729143]] <small>(MeSH: D031049)</small>
+* [[Erysimum]] — [[d:Q165206|Q165206]] <small>(MeSH: D032601)</small>
+* [[Erysiphe]] — [[d:Q5396379|Q5396379]] <small>(MeSH: D000084745)</small>
+* [[Erythrina]] — [[d:Q1340386|Q1340386]] <small>(MeSH: D004895)</small>
+* [[Erythrocebus]] — [[d:Q10758998|Q10758998]] <small>(MeSH: D016669)</small>
+* [[Erythrocebus patas]] — [[d:Q504496|Q504496]] <small>(MeSH: D004901)</small>
+* [[Erythroxylaceae]] — [[d:Q157231|Q157231]] <small>(MeSH: D030921)</small>
+* [[Eschscholzia]] — [[d:Q161926|Q161926]] <small>(MeSH: D031675)</small>
+* [[Esocidae]] — [[d:Q1987393|Q1987393]] <small>(MeSH: D017859)</small>
+* [[Esociformes]] — [[d:Q379768|Q379768]] <small>(MeSH: D023661)</small>
+* [[Eucalyptus]] — [[d:Q45669|Q45669]] <small>(MeSH: D005052)</small>
+* [[Eucoccidiida]] — [[d:Q68781205|Q68781205]] <small>(MeSH: D016783)</small>
+* [[Eucommiaceae]] — [[d:Q2749532|Q2749532]] <small>(MeSH: D031283)</small>
+* [[Eugenia]] — [[d:Q975998|Q975998]] <small>(MeSH: D000068856)</small>
+* [[Euglena]] — [[d:Q236001|Q236001]] <small>(MeSH: D005055)</small>
+* [[Euglena gracilis]] — [[d:Q309852|Q309852]] <small>(MeSH: D005056)</small>
+* [[Euglena longa]] — [[d:Q68515808|Q68515808]] <small>(MeSH: D044802)</small>
+* [[Euglenida]] — [[d:Q18916511|Q18916511]] <small>(MeSH: D016822)</small>
+* [[Euglenozoa]] — [[d:Q499086|Q499086]] <small>(MeSH: D056898)</small>
+* [[Eukaryota]] — [[d:Q19088|Q19088]] <small>(MeSH: D056890)</small>
+* [[Eulipotyphla]] — [[d:Q16635184|Q16635184]] <small>(MeSH: D007312)</small>
+* [[Euonymus]] — [[d:Q161113|Q161113]] <small>(MeSH: D029756)</small>
+* [[Eupatorium]] — [[d:Q1123970|Q1123970]] <small>(MeSH: D036602)</small>
+* [[Eupenicillium]] — [[d:Q10490704|Q10490704]] <small>(MeSH: D055324)</small>
+* [[Euphausiacea]] — [[d:Q29498|Q29498]] <small>(MeSH: D033201)</small>
+* [[Euphorbia]] — [[d:Q146567|Q146567]] <small>(MeSH: D028481)</small>
+* [[Euphorbiaceae]] — [[d:Q156584|Q156584]] <small>(MeSH: D019665)</small>
+* [[Euphrasia]] — [[d:Q158977|Q158977]] <small>(MeSH: D032201)</small>
+* [[Eupleridae]] — [[d:Q641742|Q641742]] <small>(MeSH: D053826)</small>
+* [[Euplotes]] — [[d:Q10278244|Q10278244]] <small>(MeSH: D016812)</small>
+* [[Eurotiales]] — [[d:Q135266|Q135266]] <small>(MeSH: D032641)</small>
+* [[Eurotium]] — [[d:Q10491525|Q10491525]] <small>(MeSH: D055325)</small>
+* [[Eurycoma]] — [[d:Q2710265|Q2710265]] <small>(MeSH: D035701)</small>
+* [[Euterpe]] — [[d:Q132712|Q132712]] <small>(MeSH: D065748)</small>
+* [[Eutheria]] — [[d:Q17092469|Q17092469]] <small>(MeSH: D000073566)</small>
+* [[Evodia]] — [[d:Q17516065|Q17516065]] <small>(MeSH: D032086)</small>
+* [[Exophiala]] — [[d:Q5420631|Q5420631]] <small>(MeSH: D005093)</small>
+* [[Fabaceae]] — [[d:Q44448|Q44448]] <small>(MeSH: D007887)</small>
+* [[Fagaceae]] — [[d:Q145977|Q145977]] <small>(MeSH: D029962)</small>
+* [[Fagales]] — [[d:Q21881|Q21881]] <small>(MeSH: D000073567)</small>
+* [[Fagopyrum]] — [[d:Q7223832|Q7223832]] <small>(MeSH: D019612)</small>
+* [[Fagus]] — [[d:Q25403|Q25403]] <small>(MeSH: D029964)</small>
+* [[Falconiformes]] — [[d:Q25370|Q25370]] <small>(MeSH: D046093)</small>
+* [[Fallopia]] — [[d:Q927544|Q927544]] <small>(MeSH: D000069263)</small>
+* [[Fallopia japonica]] — [[d:Q899672|Q899672]] <small>(MeSH: D045468)</small>
+* [[Fallopia multiflora]] — [[d:Q1802551|Q1802551]] <small>(MeSH: D000068676)</small>
+* [[Fasciola]] — [[d:Q673424|Q673424]] <small>(MeSH: D005209)</small>
+* [[Fasciola hepatica]] — [[d:Q334149|Q334149]] <small>(MeSH: D005210)</small>
+* [[Fasciolidae]] — [[d:Q141809|Q141809]] <small>(MeSH: D005212)</small>
+* [[Feijoa]] — [[d:Q3603920|Q3603920]] <small>(MeSH: D031646)</small>
+* [[Felidae]] — [[d:Q25265|Q25265]] <small>(MeSH: D045989)</small>
+* [[Feliformia]] — [[d:Q27070|Q27070]] <small>(MeSH: D000073568)</small>
+* [[Felis]] — [[d:Q228283|Q228283]] <small>(MeSH: D045991)</small>
+* [[Ferns]] — [[d:Q80005|Q80005]] <small>(MeSH: D029624)</small>
+* [[Ferrets]] — [[d:Q178973|Q178973]] <small>(MeSH: D005289)</small>
+* [[Ferula]] — [[d:Q1342970|Q1342970]] <small>(MeSH: D005309)</small>
+* [[Festuca]] — [[d:Q157337|Q157337]] <small>(MeSH: D031751)</small>
+* [[Ficus]] — [[d:Q59798|Q59798]] <small>(MeSH: D030681)</small>
+* [[Filarioidea]] — [[d:Q1412499|Q1412499]] <small>(MeSH: D005370)</small>
+* [[Filipendula]] — [[d:Q148605|Q148605]] <small>(MeSH: D031984)</small>
+* [[Fin Whale]] — [[d:Q179020|Q179020]] <small>(MeSH: D050617)</small>
+* [[Finches]] — [[d:Q160835|Q160835]] <small>(MeSH: D046369)</small>
+* [[Fire Ants]] — [[d:Q1075697|Q1075697]] <small>(MeSH: D000097582)</small>
+* [[Fireflies]] — [[d:Q25420|Q25420]] <small>(MeSH: D048888)</small>
+* [[Fishes]] — [[d:Q152|Q152]] <small>(MeSH: D005399)</small>
+* [[Fishes, Poisonous]] — [[d:Q1523572|Q1523572]] <small>(MeSH: D005400)</small>
+* [[Flacourtia]] — [[d:Q610295|Q610295]] <small>(MeSH: D000076623)</small>
+* [[Flammulina]] — [[d:Q1765838|Q1765838]] <small>(MeSH: D055393)</small>
+* [[Flatfishes]] — [[d:Q59577|Q59577]] <small>(MeSH: D005412)</small>
+* [[Flaveria]] — [[d:Q5458055|Q5458055]] <small>(MeSH: D037142)</small>
+* [[Flax]] — [[d:Q161100|Q161100]] <small>(MeSH: D019597)</small>
+* [[Flounder]] — [[d:Q4246303|Q4246303]] <small>(MeSH: D005432)</small>
+* [[Foeniculum]] — [[d:Q27030|Q27030]] <small>(MeSH: D030001)</small>
+* [[Fonsecaea]] — [[d:Q5465071|Q5465071]] <small>(MeSH: D000084825)</small>
+* [[Foraminifera]] — [[d:Q107027|Q107027]] <small>(MeSH: D056908)</small>
+* [[Forsythia]] — [[d:Q672980|Q672980]] <small>(MeSH: D031657)</small>
+* [[Foxes]] — [[d:Q8331|Q8331]] <small>(MeSH: D005589)</small>
+* [[Fragaria]] — [[d:Q745|Q745]] <small>(MeSH: D031985)</small>
+* [[Fraxinus]] — [[d:Q128887|Q128887]] <small>(MeSH: D031661)</small>
+* [[Fritillaria]] — [[d:Q157503|Q157503]] <small>(MeSH: D031410)</small>
+* [[Frullania]] — [[d:Q3753784|Q3753784]] <small>(MeSH: D037961)</small>
+* [[Fucus]] — [[d:Q180597|Q180597]] <small>(MeSH: D044645)</small>
+* [[Fumaria]] — [[d:Q157496|Q157496]] <small>(MeSH: D031312)</small>
+* [[Fumarioideae]] — [[d:Q156610|Q156610]] <small>(MeSH: D031310)</small>
+* [[Fundulidae]] — [[d:Q131812|Q131812]] <small>(MeSH: D023781)</small>
+* [[Fundulus heteroclitus]] — [[d:Q939303|Q939303]] <small>(MeSH: D000096403)</small>
+* [[Fungal Genus Humicola]] — [[d:Q10527066|Q10527066]] <small>(MeSH: D000084642)</small>
+* [[Fungal Genus Venturia]] — [[d:Q292074|Q292074]] <small>(MeSH: D000084828)</small>
+* [[Fungi]] — [[d:Q764|Q764]] <small>(MeSH: D005658)</small>
+* [[Fungi, Unclassified]] — [[d:Q69351920|Q69351920]] <small>(MeSH: D020508)</small>
+* [[Fur Seals]] — [[d:Q1043473|Q1043473]] <small>(MeSH: D046069)</small>
+* [[Fusarium]] — [[d:Q131672|Q131672]] <small>(MeSH: D005670)</small>
+* [[Gadiformes]] — [[d:Q216241|Q216241]] <small>(MeSH: D048388)</small>
+* [[Gadus morhua]] — [[d:Q199788|Q199788]] <small>(MeSH: D048389)</small>
+* [[Galagidae]] — [[d:Q185239|Q185239]] <small>(MeSH: D000080623)</small>
+* [[Galago]] — [[d:Q285214|Q285214]] <small>(MeSH: D005701)</small>
+* [[Galanthus]] — [[d:Q105415|Q105415]] <small>(MeSH: D027801)</small>
+* [[Galega]] — [[d:Q134918|Q134918]] <small>(MeSH: D029881)</small>
+* [[Galium]] — [[d:Q148633|Q148633]] <small>(MeSH: D032061)</small>
+* [[Galliformes]] — [[d:Q21659|Q21659]] <small>(MeSH: D046094)</small>
+* [[Galphimia]] — [[d:Q5519320|Q5519320]] <small>(MeSH: D031582)</small>
+* [[Ganoderma]] — [[d:Q1799774|Q1799774]] <small>(MeSH: D032902)</small>
+* [[Garcinia]] — [[d:Q311454|Q311454]] <small>(MeSH: D029760)</small>
+* [[Garcinia cambogia]] — [[d:Q2089493|Q2089493]] <small>(MeSH: D029761)</small>
+* [[Garcinia kola]] — [[d:Q5233099|Q5233099]] <small>(MeSH: D029763)</small>
+* [[Garcinia mangostana]] — [[d:Q170662|Q170662]] <small>(MeSH: D029762)</small>
+* [[Gardenia]] — [[d:Q740887|Q740887]] <small>(MeSH: D032062)</small>
+* [[Garlic]] — [[d:Q23400|Q23400]] <small>(MeSH: D005737)</small>
+* [[Gastrodia]] — [[d:Q133278|Q133278]] <small>(MeSH: D031668)</small>
+* [[Gastropoda]] — [[d:Q4867740|Q4867740]] <small>(MeSH: D049851)</small>
+* [[Gaultheria]] — [[d:Q1626776|Q1626776]] <small>(MeSH: D031282)</small>
+* [[Geese]] — [[d:Q82562|Q82562]] <small>(MeSH: D005777)</small>
+* [[Geigeria]] — [[d:Q5530115|Q5530115]] <small>(MeSH: D036621)</small>
+* [[Gelsemium]] — [[d:Q134232|Q134232]] <small>(MeSH: D031450)</small>
+* [[Genista]] — [[d:Q156696|Q156696]] <small>(MeSH: D039761)</small>
+* [[Gentiana]] — [[d:Q144682|Q144682]] <small>(MeSH: D030012)</small>
+* [[Gentianaceae]] — [[d:Q157216|Q157216]] <small>(MeSH: D029965)</small>
+* [[Gentianales]] — [[d:Q21754|Q21754]] <small>(MeSH: D000070677)</small>
+* [[Gentianella]] — [[d:Q162809|Q162809]] <small>(MeSH: D031313)</small>
+* [[Geodia]] — [[d:Q3022122|Q3022122]] <small>(MeSH: D047231)</small>
+* [[Geotrichum]] — [[d:Q1527872|Q1527872]] <small>(MeSH: D005848)</small>
+* [[Geraniaceae]] — [[d:Q155945|Q155945]] <small>(MeSH: D031314)</small>
+* [[Geranium]] — [[d:Q157211|Q157211]] <small>(MeSH: D031315)</small>
+* [[Gerbillinae]] — [[d:Q244770|Q244770]] <small>(MeSH: D005849)</small>
+* [[Geum]] — [[d:Q156771|Q156771]] <small>(MeSH: D031986)</small>
+* [[Giardia]] — [[d:Q1469628|Q1469628]] <small>(MeSH: D005872)</small>
+* [[Giardia lamblia]] — [[d:Q155630|Q155630]] <small>(MeSH: D016829)</small>
+* [[Gibberella]] — [[d:Q2069976|Q2069976]] <small>(MeSH: D005874)</small>
+* [[Ginkgo biloba]] — [[d:Q43284|Q43284]] <small>(MeSH: D020441)</small>
+* [[Giraffes]] — [[d:Q862089|Q862089]] <small>(MeSH: D000068276)</small>
+* [[Glaucophyta]] — [[d:Q131116|Q131116]] <small>(MeSH: D058108)</small>
+* [[Gleditsia]] — [[d:Q161250|Q161250]] <small>(MeSH: D031501)</small>
+* [[Gliocladium]] — [[d:Q10505489|Q10505489]] <small>(MeSH: D020462)</small>
+* [[Glomeromycota]] — [[d:Q753723|Q753723]] <small>(MeSH: D055137)</small>
+* [[Glossinidae]] — [[d:Q5336147|Q5336147]] <small>(MeSH: D018429)</small>
+* [[Glugea]] — [[d:Q5572387|Q5572387]] <small>(MeSH: D050220)</small>
+* [[Glycine max]] — [[d:Q11006|Q11006]] <small>(MeSH: D013025)</small>
+* [[Glycyrrhiza]] — [[d:Q157830|Q157830]] <small>(MeSH: D006035)</small>
+* [[Glycyrrhiza uralensis]] — [[d:Q1196166|Q1196166]] <small>(MeSH: D029882)</small>
+* [[Gnaphalium]] — [[d:Q41552|Q41552]] <small>(MeSH: D036622)</small>
+* [[Gnathostoma]] — [[d:Q4119001|Q4119001]] <small>(MeSH: D006039)</small>
+* [[Gnetophyta]] — [[d:Q309147|Q309147]] <small>(MeSH: D035682)</small>
+* [[Gnetum]] — [[d:Q131550|Q131550]] <small>(MeSH: D035684)</small>
+* [[Goats]] — [[d:Q2934|Q2934]] <small>(MeSH: D006041)</small>
+* [[Goldfish]] — [[d:Q123141|Q123141]] <small>(MeSH: D006054)</small>
+* [[Goniothalamus]] — [[d:Q3309581|Q3309581]] <small>(MeSH: D054335)</small>
+* [[Gophers]] — [[d:Q756901|Q756901]] <small>(MeSH: D046348)</small>
+* [[Gorilla gorilla]] — [[d:Q737838|Q737838]] <small>(MeSH: D006071)</small>
+* [[Gossypium]] — [[d:Q719312|Q719312]] <small>(MeSH: D003368)</small>
+* [[Gracilaria]] — [[d:Q3087307|Q3087307]] <small>(MeSH: D044724)</small>
+* [[Grasshoppers]] — [[d:Q18398431|Q18398431]] <small>(MeSH: D006110)</small>
+* [[Grewia]] — [[d:Q80212|Q80212]] <small>(MeSH: D032382)</small>
+* [[Griffonia]] — [[d:Q2712144|Q2712144]] <small>(MeSH: D031295)</small>
+* [[Grifola]] — [[d:Q5235921|Q5235921]] <small>(MeSH: D048691)</small>
+* [[Grindelia]] — [[d:Q2702875|Q2702875]] <small>(MeSH: D036623)</small>
+* [[Grossulariaceae]] — [[d:Q41387|Q41387]] <small>(MeSH: D031964)</small>
+* [[Gryllidae]] — [[d:Q47328|Q47328]] <small>(MeSH: D006135)</small>
+* [[Guaiacum]] — [[d:Q1429385|Q1429385]] <small>(MeSH: D032441)</small>
+* [[Guatteria]] — [[d:Q5614335|Q5614335]] <small>(MeSH: D031043)</small>
+* [[Guinea Pigs]] — [[d:Q79803|Q79803]] <small>(MeSH: D006168)</small>
+* [[Gymnema]] — [[d:Q10923420|Q10923420]] <small>(MeSH: D031103)</small>
+* [[Gymnema sylvestre]] — [[d:Q2725835|Q2725835]] <small>(MeSH: D031104)</small>
+* [[Gymnotiformes]] — [[d:Q752264|Q752264]] <small>(MeSH: D023702)</small>
+* [[Gynostemma]] — [[d:Q1647854|Q1647854]] <small>(MeSH: D029774)</small>
+* [[Haemaphysalis longicornis]] — [[d:Q3658534|Q3658534]] <small>(MeSH: D000097622)</small>
+* [[Haemonchus]] — [[d:Q5891254|Q5891254]] <small>(MeSH: D006189)</small>
+* [[Haemosporida]] — [[d:Q4135179|Q4135179]] <small>(MeSH: D016787)</small>
+* [[Hagfishes]] — [[d:Q75713|Q75713]] <small>(MeSH: D006196)</small>
+* [[Haliclona]] — [[d:Q3457990|Q3457990]] <small>(MeSH: D047129)</small>
+* [[Hamamelidaceae]] — [[d:Q148479|Q148479]] <small>(MeSH: D029201)</small>
+* [[Hamamelis]] — [[d:Q148463|Q148463]] <small>(MeSH: D029501)</small>
+* [[Hamelia]] — [[d:Q2673632|Q2673632]] <small>(MeSH: D032063)</small>
+* [[Hanseniaspora]] — [[d:Q559489|Q559489]] <small>(MeSH: D055321)</small>
+* [[Haplopappus]] — [[d:Q2392615|Q2392615]] <small>(MeSH: D031206)</small>
+* [[Haplorhini]] — [[d:Q82261|Q82261]] <small>(MeSH: D000882)</small>
+* [[Haplosporida]] — [[d:Q137449|Q137449]] <small>(MeSH: D041602)</small>
+* [[Haptophyta]] — [[d:Q500531|Q500531]] <small>(MeSH: D058087)</small>
+* [[Hares]] — [[d:Q46076|Q46076]] <small>(MeSH: D034621)</small>
+* [[Harpagophytum]] — [[d:Q9002121|Q9002121]] <small>(MeSH: D031684)</small>
+* [[Hartmannella]] — [[d:Q1846275|Q1846275]] <small>(MeSH: D006249)</small>
+* [[Hawks]] — [[d:Q846664|Q846664]] <small>(MeSH: D046428)</small>
+* [[Hebeloma]] — [[d:Q1303743|Q1303743]] <small>(MeSH: D055364)</small>
+* [[Hedeoma]] — [[d:Q3776462|Q3776462]] <small>(MeSH: D031336)</small>
+* [[Hedera]] — [[d:Q26771|Q26771]] <small>(MeSH: D035981)</small>
+* [[Hedgehogs]] — [[d:Q28257|Q28257]] <small>(MeSH: D006364)</small>
+* [[Hedyotis]] — [[d:Q5222029|Q5222029]] <small>(MeSH: D032064)</small>
+* [[Helianthus]] — [[d:Q26949|Q26949]] <small>(MeSH: D006368)</small>
+* [[Helichrysum]] — [[d:Q28195|Q28195]] <small>(MeSH: D036562)</small>
+* [[Heliconiaceae]] — [[d:Q2731188|Q2731188]] <small>(MeSH: D032427)</small>
+* [[Helicoverpa armigera]] — [[d:Q811652|Q811652]] <small>(MeSH: D000097666)</small>
+* [[Heligmosomatoidea]] — [[d:Q69381159|Q69381159]] <small>(MeSH: D006369)</small>
+* [[Heliotropium]] — [[d:Q158082|Q158082]] <small>(MeSH: D028162)</small>
+* [[Helix, Snails]] — [[d:Q1937315|Q1937315]] <small>(MeSH: D006372)</small>
+* [[Helleborus]] — [[d:Q147289|Q147289]] <small>(MeSH: D039322)</small>
+* [[Helminthosporium]] — [[d:Q3129938|Q3129938]] <small>(MeSH: D006375)</small>
+* [[Helminths]] — [[d:Q3129936|Q3129936]] <small>(MeSH: D006376)</small>
+* [[Heloderma suspectum]] — [[d:Q207058|Q207058]] <small>(MeSH: D000097282)</small>
+* [[Hemachatus]] — [[d:Q15148378|Q15148378]] <small>(MeSH: D000073179)</small>
+* [[Hemerocallis]] — [[d:Q156275|Q156275]] <small>(MeSH: D031421)</small>
+* [[Hemicentrotus]] — [[d:Q22790652|Q22790652]] <small>(MeSH: D047330)</small>
+* [[Hemidesmus]] — [[d:Q3518836|Q3518836]] <small>(MeSH: D031102)</small>
+* [[Hemiptera]] — [[d:Q26371|Q26371]] <small>(MeSH: D006430)</small>
+* [[Hemlock]] — [[d:Q218041|Q218041]] <small>(MeSH: D018652)</small>
+* [[Hepatophyta]] — [[d:Q22159986|Q22159986]] <small>(MeSH: D035926)</small>
+* [[Heracleum]] — [[d:Q327106|Q327106]] <small>(MeSH: D030002)</small>
+* [[Hericium]] — [[d:Q1514361|Q1514361]] <small>(MeSH: D000084824)</small>
+* [[Hermissenda]] — [[d:Q25094548|Q25094548]] <small>(MeSH: D049870)</small>
+* [[Hernandiaceae]] — [[d:Q131310|Q131310]] <small>(MeSH: D049935)</small>
+* [[Herpestidae]] — [[d:Q80479|Q80479]] <small>(MeSH: D008988)</small>
+* [[Heterophyidae]] — [[d:Q3134892|Q3134892]] <small>(MeSH: D006578)</small>
+* [[Heteroptera]] — [[d:Q27191|Q27191]] <small>(MeSH: D020062)</small>
+* [[Heuchera]] — [[d:Q972663|Q972663]] <small>(MeSH: D031996)</small>
+* [[Hevea]] — [[d:Q2350189|Q2350189]] <small>(MeSH: D028482)</small>
+* [[Hibiscus]] — [[d:Q157124|Q157124]] <small>(MeSH: D031584)</small>
+* [[Hippocastanaceae]] — [[d:Q635009|Q635009]] <small>(MeSH: D031318)</small>
+* [[Hippocrateaceae]] — [[d:Q2467124|Q2467124]] <small>(MeSH: D031320)</small>
+* [[Hippomane]] — [[d:Q14566681|Q14566681]] <small>(MeSH: D031285)</small>
+* [[Hippophae]] — [[d:Q5686857|Q5686857]] <small>(MeSH: D031281)</small>
+* [[Hirudo medicinalis]] — [[d:Q30041|Q30041]] <small>(MeSH: D047709)</small>
+* [[Histoplasma]] — [[d:Q10941019|Q10941019]] <small>(MeSH: D006658)</small>
+* [[Holarrhena]] — [[d:Q15972122|Q15972122]] <small>(MeSH: D035462)</small>
+* [[Holcus]] — [[d:Q158851|Q158851]] <small>(MeSH: D031752)</small>
+* [[Holometabola]] — [[d:Q37140800|Q37140800]] <small>(MeSH: D000074748)</small>
+* [[Holothuria]] — [[d:Q1408044|Q1408044]] <small>(MeSH: D047332)</small>
+* [[Hominidae]] — [[d:Q635162|Q635162]] <small>(MeSH: D015186)</small>
+* [[Hoodia]] — [[d:Q134234|Q134234]] <small>(MeSH: D000068798)</small>
+* [[Hordeum]] — [[d:Q518044|Q518044]] <small>(MeSH: D001467)</small>
+* [[Horses]] — [[d:Q726|Q726]] <small>(MeSH: D006736)</small>
+* [[Horseshoe Crabs]] — [[d:Q19430|Q19430]] <small>(MeSH: D006737)</small>
+* [[Hosta]] — [[d:Q623347|Q623347]] <small>(MeSH: D031422)</small>
+* [[Houseflies]] — [[d:Q166111|Q166111]] <small>(MeSH: D006793)</small>
+* [[Houttuynia]] — [[d:Q162194|Q162194]] <small>(MeSH: D052859)</small>
+* [[Huckleberry Plant]] — [[d:Q130541836|Q130541836]] <small>(MeSH: D029797)</small>
+* [[Humans]] — [[d:Q5|Q5]] <small>(MeSH: D006801)</small>
+* [[Humpback Whale]] — [[d:Q132905|Q132905]] <small>(MeSH: D050640)</small>
+* [[Humulus]] — [[d:Q158790|Q158790]] <small>(MeSH: D027582)</small>
+* [[Huperzia]] — [[d:Q2111150|Q2111150]] <small>(MeSH: D032501)</small>
+* [[Hyacinthus]] — [[d:Q158758|Q158758]] <small>(MeSH: D031423)</small>
+* [[Hyaenidae]] — [[d:Q42046|Q42046]] <small>(MeSH: D045968)</small>
+* [[Hydra]] — [[d:Q192290|Q192290]] <small>(MeSH: D006829)</small>
+* [[Hydrangea]] — [[d:Q155997|Q155997]] <small>(MeSH: D031966)</small>
+* [[Hydrangeaceae]] — [[d:Q156609|Q156609]] <small>(MeSH: D029628)</small>
+* [[Hydrastis]] — [[d:Q9005595|Q9005595]] <small>(MeSH: D039321)</small>
+* [[Hydrocharitaceae]] — [[d:Q156029|Q156029]] <small>(MeSH: D031321)</small>
+* [[Hydrophiidae]] — [[d:Q44512085|Q44512085]] <small>(MeSH: D000073180)</small>
+* [[Hydrophyllaceae]] — [[d:Q164189|Q164189]] <small>(MeSH: D029522)</small>
+* [[Hydrozoa]] — [[d:Q181989|Q181989]] <small>(MeSH: D037402)</small>
+* [[Hylobates]] — [[d:Q878467|Q878467]] <small>(MeSH: D006922)</small>
+* [[Hylobatidae]] — [[d:Q185939|Q185939]] <small>(MeSH: D016674)</small>
+* [[Hymenaea]] — [[d:Q290340|Q290340]] <small>(MeSH: D052597)</small>
+* [[Hymenolepis]] — [[d:Q541917|Q541917]] <small>(MeSH: D006926)</small>
+* [[Hymenolepis diminuta]] — [[d:Q2706090|Q2706090]] <small>(MeSH: D048190)</small>
+* [[Hymenolepis nana]] — [[d:Q650470|Q650470]] <small>(MeSH: D048189)</small>
+* [[Hymenoptera]] — [[d:Q22651|Q22651]] <small>(MeSH: D006927)</small>
+* [[Hymenostomatida]] — [[d:Q25362081|Q25362081]] <small>(MeSH: D016803)</small>
+* [[Hyoscyamus]] — [[d:Q158510|Q158510]] <small>(MeSH: D032304)</small>
+* [[Hypericum]] — [[d:Q156935|Q156935]] <small>(MeSH: D020902)</small>
+* [[Hypermastigia]] — [[d:Q1833941|Q1833941]] <small>(MeSH: D056952)</small>
+* [[Hyperotreti]] — [[d:Q21446505|Q21446505]] <small>(MeSH: D024561)</small>
+* [[Hypocrea]] — [[d:Q3014219|Q3014219]] <small>(MeSH: D035901)</small>
+* [[Hypocreales]] — [[d:Q132255|Q132255]] <small>(MeSH: D006999)</small>
+* [[Hypotrichida]] — [[d:Q68805630|Q68805630]] <small>(MeSH: D016810)</small>
+* [[Hypoxidaceae]] — [[d:Q131282|Q131282]] <small>(MeSH: D000070476)</small>
+* [[Hypoxis]] — [[d:Q4308690|Q4308690]] <small>(MeSH: D027802)</small>
+* [[Hyptis]] — [[d:Q2600191|Q2600191]] <small>(MeSH: D031331)</small>
+* [[Hyraxes]] — [[d:Q53099|Q53099]] <small>(MeSH: D007043)</small>
+* [[Hyssopus Plant]] — [[d:Q720501|Q720501]] <small>(MeSH: D000068819)</small>
+* [[Ictaluridae]] — [[d:Q578666|Q578666]] <small>(MeSH: D007059)</small>
+* [[Iguanas]] — [[d:Q205531|Q205531]] <small>(MeSH: D007076)</small>
+* [[Ilex]] — [[d:Q117085|Q117085]] <small>(MeSH: D030017)</small>
+* [[Ilex guayusa]] — [[d:Q3772280|Q3772280]] <small>(MeSH: D030018)</small>
+* [[Ilex paraguariensis]] — [[d:Q117068|Q117068]] <small>(MeSH: D030019)</small>
+* [[Ilex vomitoria]] — [[d:Q1010694|Q1010694]] <small>(MeSH: D030020)</small>
+* [[Illicium]] — [[d:Q5492045|Q5492045]] <small>(MeSH: D029523)</small>
+* [[Impatiens]] — [[d:Q141672|Q141672]] <small>(MeSH: D029069)</small>
+* [[Indigofera]] — [[d:Q310648|Q310648]] <small>(MeSH: D029883)</small>
+* [[Indriidae]] — [[d:Q175626|Q175626]] <small>(MeSH: D000080544)</small>
+* [[Inonotus]] — [[d:Q1567772|Q1567772]] <small>(MeSH: D000084827)</small>
+* [[Insecta]] — [[d:Q1390|Q1390]] <small>(MeSH: D007313)</small>
+* [[Introduced Species]] — [[d:Q1065449|Q1065449]] <small>(MeSH: D058865)</small>
+* [[Inula]] — [[d:Q338207|Q338207]] <small>(MeSH: D038143)</small>
+* [[Invertebrates]] — [[d:Q43806|Q43806]] <small>(MeSH: D007448)</small>
+* [[Ipomoea]] — [[d:Q161173|Q161173]] <small>(MeSH: D027741)</small>
+* [[Ipomoea batatas]] — [[d:Q37937|Q37937]] <small>(MeSH: D027723)</small>
+* [[Ipomoea nil]] — [[d:Q162117|Q162117]] <small>(MeSH: D049915)</small>
+* [[Iridaceae]] — [[d:Q155941|Q155941]] <small>(MeSH: D027621)</small>
+* [[Iris Plant]] — [[d:Q156901|Q156901]] <small>(MeSH: D031323)</small>
+* [[Isatis]] — [[d:Q157382|Q157382]] <small>(MeSH: D031219)</small>
+* [[Ischnocera]] — [[d:Q3155167|Q3155167]] <small>(MeSH: D058326)</small>
+* [[Isodon]] — [[d:Q931964|Q931964]] <small>(MeSH: D037602)</small>
+* [[Isopoda]] — [[d:Q206338|Q206338]] <small>(MeSH: D033321)</small>
+* [[Isoptera]] — [[d:Q546583|Q546583]] <small>(MeSH: D020049)</small>
+* [[Isospora]] — [[d:Q1154157|Q1154157]] <small>(MeSH: D007549)</small>
+* [[Ixodes]] — [[d:Q1951212|Q1951212]] <small>(MeSH: D018884)</small>
+* [[Ixodidae]] — [[d:Q1429304|Q1429304]] <small>(MeSH: D026863)</small>
+* [[Jackals]] — [[d:Q125525|Q125525]] <small>(MeSH: D046030)</small>
+* [[Jasminum]] — [[d:Q82014|Q82014]] <small>(MeSH: D031660)</small>
+* [[Jatropha]] — [[d:Q152986|Q152986]] <small>(MeSH: D031286)</small>
+* [[Juglandaceae]] — [[d:Q216944|Q216944]] <small>(MeSH: D029525)</small>
+* [[Juglans]] — [[d:Q2453469|Q2453469]] <small>(MeSH: D031324)</small>
+* [[Juniperus]] — [[d:Q25662|Q25662]] <small>(MeSH: D018653)</small>
+* [[Justicia]] — [[d:Q2046390|Q2046390]] <small>(MeSH: D027902)</small>
+* [[Kadsura]] — [[d:Q146434|Q146434]] <small>(MeSH: D032135)</small>
+* [[Kalanchoe]] — [[d:Q312063|Q312063]] <small>(MeSH: D031962)</small>
+* [[Kalopanax]] — [[d:Q475133|Q475133]] <small>(MeSH: D036882)</small>
+* [[Karwinskia]] — [[d:Q148457|Q148457]] <small>(MeSH: D031956)</small>
+* [[Kava]] — [[d:Q96097703|Q96097703]] <small>(MeSH: D020901)</small>
+* [[Kelp]] — [[d:Q1055316|Q1055316]] <small>(MeSH: D044423)</small>
+* [[Killifishes]] — [[d:Q586080|Q586080]] <small>(MeSH: D007695)</small>
+* [[Kinetofragminophorea]] — [[d:Q25407040|Q25407040]] <small>(MeSH: D016799)</small>
+* [[Kinetoplastida]] — [[d:Q21446856|Q21446856]] <small>(MeSH: D016830)</small>
+* [[Kloeckera]] — [[d:Q21793981|Q21793981]] <small>(MeSH: D055322)</small>
+* [[Kluyveromyces]] — [[d:Q2258607|Q2258607]] <small>(MeSH: D007716)</small>
+* [[Krameriaceae]] — [[d:Q2700772|Q2700772]] <small>(MeSH: D031326)</small>
+* [[Kunzea]] — [[d:Q137438|Q137438]] <small>(MeSH: D031648)</small>
+* [[Laburnum]] — [[d:Q147184|Q147184]] <small>(MeSH: D031296)</small>
+* [[Lacazia]] — [[d:Q6468145|Q6468145]] <small>(MeSH: D060367)</small>
+* [[Laccaria]] — [[d:Q2666545|Q2666545]] <small>(MeSH: D055399)</small>
+* [[Lactuca]] — [[d:Q83193|Q83193]] <small>(MeSH: D018545)</small>
+* [[Lagenidium]] — [[d:Q6471992|Q6471992]] <small>(MeSH: D044726)</small>
+* [[Lagerstroemia]] — [[d:Q775229|Q775229]] <small>(MeSH: D031563)</small>
+* [[Lagomorpha]] — [[d:Q25401|Q25401]] <small>(MeSH: D007793)</small>
+* [[Lamiaceae]] — [[d:Q53476|Q53476]] <small>(MeSH: D019686)</small>
+* [[Lamiales]] — [[d:Q21742|Q21742]] <small>(MeSH: D000068378)</small>
+* [[Laminaria]] — [[d:Q310748|Q310748]] <small>(MeSH: D007795)</small>
+* [[Lampreys]] — [[d:Q261485|Q261485]] <small>(MeSH: D007798)</small>
+* [[Lancelets]] — [[d:Q1156226|Q1156226]] <small>(MeSH: D064175)</small>
+* [[Lantana]] — [[d:Q1096635|Q1096635]] <small>(MeSH: D032410)</small>
+* [[Larix]] — [[d:Q25618|Q25618]] <small>(MeSH: D028221)</small>
+* [[Larrea]] — [[d:Q2521134|Q2521134]] <small>(MeSH: D032442)</small>
+
+
+[[Category:WikiProject MeSH]]

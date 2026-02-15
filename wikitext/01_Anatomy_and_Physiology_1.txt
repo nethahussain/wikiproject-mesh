@@ -1,0 +1,1026 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Cells ===
+
+* '''Coverage:''' 30.8%
+* '''{{color|blue|Bluelinks}}:''' 127
+* '''{{color|red|Redlinks}}:''' 285
+* [[3T3 Cells]] — [[d:Q68153243|Q68153243]] <small>(MeSH: D016475)</small>
+* [[3T3-L1 Cells]] — [[d:Q4636414|Q4636414]] <small>(MeSH: D041721)</small>
+* [[A549 Cells]] — [[d:Q4649475|Q4649475]] <small>(MeSH: D000072283)</small>
+* [[Acanthocytes]] — [[d:Q415844|Q415844]] <small>(MeSH: D000050)</small>
+* [[Acinar Cells]] — [[d:Q70219504|Q70219504]] <small>(MeSH: D061354)</small>
+* [[Acrosome]] — [[d:Q421111|Q421111]] <small>(MeSH: D000177)</small>
+* [[Actin Cytoskeleton]] — [[d:Q14860845|Q14860845]] <small>(MeSH: D008841)</small>
+* [[Adherens Junctions]] — [[d:Q45173|Q45173]] <small>(MeSH: D022005)</small>
+* [[Adipocytes]] — [[d:Q357519|Q357519]] <small>(MeSH: D017667)</small>
+* [[Adipocytes, Beige]] — [[d:Q59627665|Q59627665]] <small>(MeSH: D000069797)</small>
+* [[Adipocytes, Brown]] — [[d:Q66590135|Q66590135]] <small>(MeSH: D052437)</small>
+* [[Adipocytes, White]] — [[d:Q66590134|Q66590134]] <small>(MeSH: D052438)</small>
+* [[Adult Germline Stem Cells]] — [[d:Q70060781|Q70060781]] <small>(MeSH: D000072956)</small>
+* [[Adult Stem Cells]] — [[d:Q2642600|Q2642600]] <small>(MeSH: D053687)</small>
+* [[Ameloblasts]] — [[d:Q351499|Q351499]] <small>(MeSH: D000565)</small>
+* [[Antibody-Producing Cells]] — [[d:Q70303286|Q70303286]] <small>(MeSH: D000921)</small>
+* [[Antigen-Presenting Cells]] — [[d:Q1047791|Q1047791]] <small>(MeSH: D000938)</small>
+* [[Apicoplasts]] — [[d:Q1825478|Q1825478]] <small>(MeSH: D063546)</small>
+* [[APUD Cells]] — [[d:Q2005880|Q2005880]] <small>(MeSH: D001078)</small>
+* [[Autophagosomes]] — [[d:Q14882441|Q14882441]] <small>(MeSH: D000071182)</small>
+* [[Axon Initial Segment]] — [[d:Q14862704|Q14862704]] <small>(MeSH: D000071040)</small>
+* [[Axoneme]] — [[d:Q792605|Q792605]] <small>(MeSH: D054468)</small>
+* [[Axons]] — [[d:Q178999|Q178999]] <small>(MeSH: D001369)</small>
+* [[Bacterial Chromatophores]] — [[d:Q25222072|Q25222072]] <small>(MeSH: D020130)</small>
+* [[Bacterial Outer Membrane]] — [[d:Q258248|Q258248]] <small>(MeSH: D000080943)</small>
+* [[BALB 3T3 Cells]] — [[d:Q28334278|Q28334278]] <small>(MeSH: D041702)</small>
+* [[Basal Bodies]] — [[d:Q809753|Q809753]] <small>(MeSH: D064652)</small>
+* [[Basophils]] — [[d:Q107988|Q107988]] <small>(MeSH: D001491)</small>
+* [[Biomolecular Condensates]] — [[d:Q55605491|Q55605491]] <small>(MeSH: D000091582)</small>
+* [[Blastomeres]] — [[d:Q882097|Q882097]] <small>(MeSH: D001757)</small>
+* [[Blood Cells]] — [[d:Q211709|Q211709]] <small>(MeSH: D001773)</small>
+* [[Blood Platelets]] — [[d:Q101026|Q101026]] <small>(MeSH: D001792)</small>
+* [[Bone Marrow Cells]] — [[d:Q66004840|Q66004840]] <small>(MeSH: D001854)</small>
+* [[Caco-2 Cells]] — [[d:Q5016050|Q5016050]] <small>(MeSH: D018938)</small>
+* [[Cancer-Associated Fibroblasts]] — [[d:Q42417562|Q42417562]] <small>(MeSH: D000072645)</small>
+* [[Caveolae]] — [[d:Q1051872|Q1051872]] <small>(MeSH: D021941)</small>
+* [[Cell Body]] — [[d:Q14864866|Q14864866]] <small>(MeSH: D066146)</small>
+* [[Cell Line]] — [[d:Q21014462|Q21014462]] <small>(MeSH: D002460)</small>
+* [[Cell Line, Transformed]] — [[d:Q27555384|Q27555384]] <small>(MeSH: D002461)</small>
+* [[Cell Line, Tumor]] — [[d:Q23058136|Q23058136]] <small>(MeSH: D045744)</small>
+* [[Cell Membrane]] — [[d:Q29548|Q29548]] <small>(MeSH: D002462)</small>
+* [[Cell Membrane Structures]] — [[d:Q70092384|Q70092384]] <small>(MeSH: D021961)</small>
+* [[Cell Nucleolus]] — [[d:Q30869|Q30869]] <small>(MeSH: D002466)</small>
+* [[Cell Nucleus]] — [[d:Q40260|Q40260]] <small>(MeSH: D002467)</small>
+* [[Cell Nucleus Structures]] — [[d:Q70202748|Q70202748]] <small>(MeSH: D022003)</small>
+* [[Cell Surface Extensions]] — [[d:Q70219294|Q70219294]] <small>(MeSH: D022081)</small>
+* [[Cell Wall]] — [[d:Q128700|Q128700]] <small>(MeSH: D002473)</small>
+* [[Cell-Derived Microparticles]] — [[d:Q70311240|Q70311240]] <small>(MeSH: D055252)</small>
+* [[Cell-Free System]] — [[d:Q1989580|Q1989580]] <small>(MeSH: D002474)</small>
+* [[Cell-Matrix Junctions]] — [[d:Q14864266|Q14864266]] <small>(MeSH: D021982)</small>
+* [[Cells]] — [[d:Q7868|Q7868]] <small>(MeSH: D002477)</small>
+* [[Cells, Cultured]] — [[d:Q70069716|Q70069716]] <small>(MeSH: D002478)</small>
+* [[Cells, Immobilized]] — [[d:Q12202106|Q12202106]] <small>(MeSH: D018914)</small>
+* [[Cellular Structures]] — [[d:Q5058355|Q5058355]] <small>(MeSH: D022082)</small>
+* [[Cellulosomes]] — [[d:Q5058394|Q5058394]] <small>(MeSH: D044603)</small>
+* [[Centrioles]] — [[d:Q178355|Q178355]] <small>(MeSH: D002502)</small>
+* [[Centromere]] — [[d:Q14762596|Q14762596]] <small>(MeSH: D002503)</small>
+* [[Centrosome]] — [[d:Q190769|Q190769]] <small>(MeSH: D018385)</small>
+* [[Chloroplasts]] — [[d:Q47263|Q47263]] <small>(MeSH: D002736)</small>
+* [[CHO Cells]] — [[d:Q56646|Q56646]] <small>(MeSH: D016466)</small>
+* [[Chondrocytes]] — [[d:Q775480|Q775480]] <small>(MeSH: D019902)</small>
+* [[Chromaffin Granules]] — [[d:Q14864929|Q14864929]] <small>(MeSH: D002837)</small>
+* [[Chromatids]] — [[d:Q623749|Q623749]] <small>(MeSH: D002842)</small>
+* [[Chromatin]] — [[d:Q180951|Q180951]] <small>(MeSH: D002843)</small>
+* [[Chromatophores]] — [[d:Q504699|Q504699]] <small>(MeSH: D002856)</small>
+* [[Chromosomal Puffs]] — [[d:Q22330387|Q22330387]] <small>(MeSH: D059045)</small>
+* [[Chromosome Structures]] — [[d:Q70194901|Q70194901]] <small>(MeSH: D022004)</small>
+* [[Chromosomes]] — [[d:Q37748|Q37748]] <small>(MeSH: D002875)</small>
+* [[Chromosomes, Archaeal]] — [[d:Q70091873|Q70091873]] <small>(MeSH: D019847)</small>
+* [[Chromosomes, Bacterial]] — [[d:Q804510|Q804510]] <small>(MeSH: D002876)</small>
+* [[Chromosomes, Fungal]] — [[d:Q70195933|Q70195933]] <small>(MeSH: D015825)</small>
+* [[Chromosomes, Human]] — [[d:Q21169665|Q21169665]] <small>(MeSH: D002877)</small>
+* [[Chromosomes, Human, 1-3]] — [[d:Q70192437|Q70192437]] <small>(MeSH: D002900)</small>
+* [[Chromosomes, Human, 13-15]] — [[d:Q70061593|Q70061593]] <small>(MeSH: D002901)</small>
+* [[Chromosomes, Human, 16-18]] — [[d:Q70183696|Q70183696]] <small>(MeSH: D002902)</small>
+* [[Chromosomes, Human, 19-20]] — [[d:Q70195336|Q70195336]] <small>(MeSH: D002903)</small>
+* [[Chromosomes, Human, 21-22 and Y]] — [[d:Q70071571|Q70071571]] <small>(MeSH: D002904)</small>
+* [[Chromosomes, Human, 4-5]] — [[d:Q70076728|Q70076728]] <small>(MeSH: D002905)</small>
+* [[Chromosomes, Human, 6-12 and X]] — [[d:Q70189848|Q70189848]] <small>(MeSH: D002906)</small>
+* [[Chromosomes, Human, Pair 1]] — [[d:Q430258|Q430258]] <small>(MeSH: D002878)</small>
+* [[Chromosomes, Human, Pair 10]] — [[d:Q840737|Q840737]] <small>(MeSH: D002879)</small>
+* [[Chromosomes, Human, Pair 11]] — [[d:Q847096|Q847096]] <small>(MeSH: D002880)</small>
+* [[Chromosomes, Human, Pair 12]] — [[d:Q847102|Q847102]] <small>(MeSH: D002881)</small>
+* [[Chromosomes, Human, Pair 13]] — [[d:Q840734|Q840734]] <small>(MeSH: D002882)</small>
+* [[Chromosomes, Human, Pair 14]] — [[d:Q138955|Q138955]] <small>(MeSH: D002883)</small>
+* [[Chromosomes, Human, Pair 15]] — [[d:Q765245|Q765245]] <small>(MeSH: D002884)</small>
+* [[Chromosomes, Human, Pair 16]] — [[d:Q742870|Q742870]] <small>(MeSH: D002885)</small>
+* [[Chromosomes, Human, Pair 17]] — [[d:Q220677|Q220677]] <small>(MeSH: D002886)</small>
+* [[Chromosomes, Human, Pair 18]] — [[d:Q780468|Q780468]] <small>(MeSH: D002887)</small>
+* [[Chromosomes, Human, Pair 19]] — [[d:Q510786|Q510786]] <small>(MeSH: D002888)</small>
+* [[Chromosomes, Human, Pair 2]] — [[d:Q638893|Q638893]] <small>(MeSH: D002889)</small>
+* [[Chromosomes, Human, Pair 20]] — [[d:Q666752|Q666752]] <small>(MeSH: D002890)</small>
+* [[Chromosomes, Human, Pair 21]] — [[d:Q753218|Q753218]] <small>(MeSH: D002891)</small>
+* [[Chromosomes, Human, Pair 22]] — [[d:Q753805|Q753805]] <small>(MeSH: D002892)</small>
+* [[Chromosomes, Human, Pair 3]] — [[d:Q668633|Q668633]] <small>(MeSH: D002893)</small>
+* [[Chromosomes, Human, Pair 4]] — [[d:Q836605|Q836605]] <small>(MeSH: D002894)</small>
+* [[Chromosomes, Human, Pair 5]] — [[d:Q840741|Q840741]] <small>(MeSH: D002895)</small>
+* [[Chromosomes, Human, Pair 6]] — [[d:Q540857|Q540857]] <small>(MeSH: D002896)</small>
+* [[Chromosomes, Human, Pair 7]] — [[d:Q657319|Q657319]] <small>(MeSH: D002897)</small>
+* [[Chromosomes, Human, Pair 8]] — [[d:Q572848|Q572848]] <small>(MeSH: D002898)</small>
+* [[Chromosomes, Human, Pair 9]] — [[d:Q840604|Q840604]] <small>(MeSH: D002899)</small>
+* [[Chromosomes, Human, X]] — [[d:Q29867336|Q29867336]] <small>(MeSH: D041321)</small>
+* [[Chromosomes, Human, Y]] — [[d:Q2966734|Q2966734]] <small>(MeSH: D041322)</small>
+* [[Chromosomes, Insect]] — [[d:Q70067734|Q70067734]] <small>(MeSH: D059006)</small>
+* [[Chromosomes, Mammalian]] — [[d:Q70072060|Q70072060]] <small>(MeSH: D033481)</small>
+* [[Chromosomes, Plant]] — [[d:Q70062704|Q70062704]] <small>(MeSH: D032461)</small>
+* [[Cilia]] — [[d:Q180436|Q180436]] <small>(MeSH: D002923)</small>
+* [[Clathrin-Coated Vesicles]] — [[d:Q14882520|Q14882520]] <small>(MeSH: D022163)</small>
+* [[Clone Cells]] — [[d:Q3308178|Q3308178]] <small>(MeSH: D002999)</small>
+* [[Coated Pits, Cell-Membrane]] — [[d:Q14860540|Q14860540]] <small>(MeSH: D003034)</small>
+* [[Coated Vesicles]] — [[d:Q14864976|Q14864976]] <small>(MeSH: D018699)</small>
+* [[Coiled Bodies]] — [[d:Q3234345|Q3234345]] <small>(MeSH: D020541)</small>
+* [[Connective Tissue Cells]] — [[d:Q10263086|Q10263086]] <small>(MeSH: D003239)</small>
+* [[COP-Coated Vesicles]] — [[d:Q70063181|Q70063181]] <small>(MeSH: D022181)</small>
+* [[Corneal Keratocytes]] — [[d:Q574444|Q574444]] <small>(MeSH: D060527)</small>
+* [[COS Cells]] — [[d:Q5013524|Q5013524]] <small>(MeSH: D019556)</small>
+* [[Costameres]] — [[d:Q1136436|Q1136436]] <small>(MeSH: D054974)</small>
+* [[Cumulus Cells]] — [[d:Q70203021|Q70203021]] <small>(MeSH: D054885)</small>
+* [[Cytokine-Induced Killer Cells]] — [[d:Q18712057|Q18712057]] <small>(MeSH: D055612)</small>
+* [[Cytoplasm]] — [[d:Q79899|Q79899]] <small>(MeSH: D003593)</small>
+* [[Cytoplasmic Granules]] — [[d:Q66559508|Q66559508]] <small>(MeSH: D003594)</small>
+* [[Cytoplasmic Ribonucleoprotein Granules]] — [[d:Q21096412|Q21096412]] <small>(MeSH: D000088123)</small>
+* [[Cytoplasmic Structures]] — [[d:Q67065016|Q67065016]] <small>(MeSH: D022083)</small>
+* [[Cytoplasmic Vesicles]] — [[d:Q14840128|Q14840128]] <small>(MeSH: D022162)</small>
+* [[Cytoskeleton]] — [[d:Q154626|Q154626]] <small>(MeSH: D003599)</small>
+* [[Cytosol]] — [[d:Q220599|Q220599]] <small>(MeSH: D003600)</small>
+* [[Decellularized Extracellular Matrix]] — [[d:Q112160827|Q112160827]] <small>(MeSH: D000091083)</small>
+* [[Dendrites]] — [[d:Q12821248|Q12821248]] <small>(MeSH: D003712)</small>
+* [[Dendritic Cells]] — [[d:Q506253|Q506253]] <small>(MeSH: D003713)</small>
+* [[Dendritic Spines]] — [[d:Q902079|Q902079]] <small>(MeSH: D049229)</small>
+* [[Dense Core Vesicles]] — [[d:Q14907385|Q14907385]] <small>(MeSH: D000088482)</small>
+* [[Desmosomes]] — [[d:Q846957|Q846957]] <small>(MeSH: D003896)</small>
+* [[Electrical Synapses]] — [[d:Q1187365|Q1187365]] <small>(MeSH: D054351)</small>
+* [[Embryoid Bodies]] — [[d:Q3384920|Q3384920]] <small>(MeSH: D058732)</small>
+* [[Embryonal Carcinoma Stem Cells]] — [[d:Q70229973|Q70229973]] <small>(MeSH: D054278)</small>
+* [[Embryonic Germ Cells]] — [[d:Q70202808|Q70202808]] <small>(MeSH: D000066473)</small>
+* [[Embryonic Stem Cells]] — [[d:Q1151519|Q1151519]] <small>(MeSH: D053595)</small>
+* [[Endocrine Cells]] — [[d:Q10483909|Q10483909]] <small>(MeSH: D055098)</small>
+* [[Endoplasmic Reticulum]] — [[d:Q79927|Q79927]] <small>(MeSH: D004721)</small>
+* [[Endoplasmic Reticulum, Rough]] — [[d:Q7881690|Q7881690]] <small>(MeSH: D018870)</small>
+* [[Endoplasmic Reticulum, Smooth]] — [[d:Q7880371|Q7880371]] <small>(MeSH: D018871)</small>
+* [[Endosomes]] — [[d:Q824237|Q824237]] <small>(MeSH: D011992)</small>
+* [[Endothelial Cells]] — [[d:Q3312341|Q3312341]] <small>(MeSH: D042783)</small>
+* [[Endothelial Progenitor Cells]] — [[d:Q1340830|Q1340830]] <small>(MeSH: D066026)</small>
+* [[Enteroendocrine Cells]] — [[d:Q5380231|Q5380231]] <small>(MeSH: D019858)</small>
+* [[Eosinophils]] — [[d:Q107238|Q107238]] <small>(MeSH: D004804)</small>
+* [[Epidermal Cells]] — [[d:Q66558711|Q66558711]] <small>(MeSH: D000078404)</small>
+* [[Epithelial Cells]] — [[d:Q15176415|Q15176415]] <small>(MeSH: D004847)</small>
+* [[Epithelioid Cells]] — [[d:Q1347440|Q1347440]] <small>(MeSH: D015622)</small>
+* [[Erythroblasts]] — [[d:Q3296909|Q3296909]] <small>(MeSH: D004900)</small>
+* [[Erythrocyte Inclusions]] — [[d:Q70063429|Q70063429]] <small>(MeSH: D004908)</small>
+* [[Erythrocyte Membrane]] — [[d:Q70077302|Q70077302]] <small>(MeSH: D004910)</small>
+* [[Erythrocytes]] — [[d:Q37187|Q37187]] <small>(MeSH: D004912)</small>
+* [[Erythrocytes, Abnormal]] — [[d:Q70077687|Q70077687]] <small>(MeSH: D004913)</small>
+* [[Erythroid Cells]] — [[d:Q70071943|Q70071943]] <small>(MeSH: D041905)</small>
+* [[Erythroid Precursor Cells]] — [[d:Q70074894|Q70074894]] <small>(MeSH: D015672)</small>
+* [[Euchromatin]] — [[d:Q910324|Q910324]] <small>(MeSH: D022041)</small>
+* [[Eukaryotic Cells]] — [[d:Q3307661|Q3307661]] <small>(MeSH: D005057)</small>
+* [[Exosomes]] — [[d:Q903634|Q903634]] <small>(MeSH: D055354)</small>
+* [[Extracellular Fluid]] — [[d:Q2914458|Q2914458]] <small>(MeSH: D045604)</small>
+* [[Extracellular Matrix]] — [[d:Q193825|Q193825]] <small>(MeSH: D005109)</small>
+* [[Extracellular Traps]] — [[d:Q70080734|Q70080734]] <small>(MeSH: D065206)</small>
+* [[Extracellular Vesicles]] — [[d:Q21097485|Q21097485]] <small>(MeSH: D000067128)</small>
+* [[Feeder Cells]] — [[d:Q70218291|Q70218291]] <small>(MeSH: D061252)</small>
+* [[Fetal Stem Cells]] — [[d:Q59194082|Q59194082]] <small>(MeSH: D053686)</small>
+* [[Fibroblasts]] — [[d:Q463418|Q463418]] <small>(MeSH: D005347)</small>
+* [[Fimbriae, Bacterial]] — [[d:Q1810775|Q1810775]] <small>(MeSH: D010861)</small>
+* [[Flagella]] — [[d:Q189998|Q189998]] <small>(MeSH: D005407)</small>
+* [[Foam Cells]] — [[d:Q1425962|Q1425962]] <small>(MeSH: D005487)</small>
+* [[Focal Adhesions]] — [[d:Q904514|Q904514]] <small>(MeSH: D022001)</small>
+* [[Gap Junctions]] — [[d:Q232438|Q232438]] <small>(MeSH: D017629)</small>
+* [[Gastrin-Secreting Cells]] — [[d:Q70081839|Q70081839]] <small>(MeSH: D019863)</small>
+* [[Gemini of Coiled Bodies]] — [[d:Q21108652|Q21108652]] <small>(MeSH: D055531)</small>
+* [[Germ Cell Ribonucleoprotein Granules]] — [[d:Q18347550|Q18347550]] <small>(MeSH: D000088262)</small>
+* [[Germ Cells, Plant]] — [[d:Q70300883|Q70300883]] <small>(MeSH: D055993)</small>
+* [[Giant Cells]] — [[d:Q2152526|Q2152526]] <small>(MeSH: D015726)</small>
+* [[Giant Cells, Foreign-Body]] — [[d:Q3332118|Q3332118]] <small>(MeSH: D015743)</small>
+* [[Giant Cells, Langhans]] — [[d:Q1384119|Q1384119]] <small>(MeSH: D015744)</small>
+* [[Glycocalyx]] — [[d:Q898356|Q898356]] <small>(MeSH: D019276)</small>
+* [[Glyoxysomes]] — [[d:Q2086233|Q2086233]] <small>(MeSH: D020676)</small>
+* [[Golgi Apparatus]] — [[d:Q83181|Q83181]] <small>(MeSH: D006056)</small>
+* [[Granulocyte Precursor Cells]] — [[d:Q70216999|Q70216999]] <small>(MeSH: D042381)</small>
+* [[Granulocyte-Macrophage Progenitor Cells]] — [[d:Q2931384|Q2931384]] <small>(MeSH: D055014)</small>
+* [[Granulocytes]] — [[d:Q223143|Q223143]] <small>(MeSH: D006098)</small>
+* [[Granulosa Cells]] — [[d:Q1543282|Q1543282]] <small>(MeSH: D006107)</small>
+* [[Growth Cones]] — [[d:Q559423|Q559423]] <small>(MeSH: D020439)</small>
+* [[HaCaT Cells]] — [[d:Q5636366|Q5636366]] <small>(MeSH: D000084282)</small>
+* [[HCT116 Cells]] — [[d:Q28334584|Q28334584]] <small>(MeSH: D045325)</small>
+* [[Heinz Bodies]] — [[d:Q1433921|Q1433921]] <small>(MeSH: D006366)</small>
+* [[HEK293 Cells]] — [[d:Q489618|Q489618]] <small>(MeSH: D057809)</small>
+* [[HeLa Cells]] — [[d:Q847482|Q847482]] <small>(MeSH: D006367)</small>
+* [[Hemangioblasts]] — [[d:Q1642030|Q1642030]] <small>(MeSH: D055018)</small>
+* [[Hematopoietic Stem Cells]] — [[d:Q514525|Q514525]] <small>(MeSH: D006412)</small>
+* [[Hemidesmosomes]] — [[d:Q1604780|Q1604780]] <small>(MeSH: D022002)</small>
+* [[Hemocytes]] — [[d:Q5712474|Q5712474]] <small>(MeSH: D006434)</small>
+* [[Hep G2 Cells]] — [[d:Q5731621|Q5731621]] <small>(MeSH: D056945)</small>
+* [[Hepatic Stellate Cells]] — [[d:Q1997459|Q1997459]] <small>(MeSH: D055166)</small>
+* [[Hepatocytes]] — [[d:Q827450|Q827450]] <small>(MeSH: D022781)</small>
+* [[Heterochromatin]] — [[d:Q837783|Q837783]] <small>(MeSH: D006570)</small>
+* [[Histiocytes]] — [[d:Q654612|Q654612]] <small>(MeSH: D006644)</small>
+* [[HL-60 Cells]] — [[d:Q5630035|Q5630035]] <small>(MeSH: D018922)</small>
+* [[HT29 Cells]] — [[d:Q28334700|Q28334700]] <small>(MeSH: D019073)</small>
+* [[Human Embryonic Stem Cells]] — [[d:Q59626782|Q59626782]] <small>(MeSH: D000066449)</small>
+* [[Human Umbilical Vein Endothelial Cells]] — [[d:Q5939177|Q5939177]] <small>(MeSH: D061307)</small>
+* [[Hybrid Cells]] — [[d:Q70199454|Q70199454]] <small>(MeSH: D006822)</small>
+* [[Hybridomas]] — [[d:Q27554370|Q27554370]] <small>(MeSH: D006825)</small>
+* [[Immunological Memory Cells]] — [[d:Q55842313|Q55842313]] <small>(MeSH: D000091244)</small>
+* [[Immunological Synapses]] — [[d:Q126223|Q126223]] <small>(MeSH: D054992)</small>
+* [[Inclusion Bodies]] — [[d:Q1308970|Q1308970]] <small>(MeSH: D002479)</small>
+* [[Inclusion Bodies, Viral]] — [[d:Q70203574|Q70203574]] <small>(MeSH: D007181)</small>
+* [[Induced Pluripotent Stem Cells]] — [[d:Q674925|Q674925]] <small>(MeSH: D057026)</small>
+* [[Intercellular Junctions]] — [[d:Q14873267|Q14873267]] <small>(MeSH: D007365)</small>
+* [[Intermediate Filaments]] — [[d:Q421987|Q421987]] <small>(MeSH: D007382)</small>
+* [[Interstitial Cells of Cajal]] — [[d:Q2596185|Q2596185]] <small>(MeSH: D056885)</small>
+* [[Intracellular Fluid]] — [[d:Q4409738|Q4409738]] <small>(MeSH: D007424)</small>
+* [[Intracellular Membranes]] — [[d:Q70059754|Q70059754]] <small>(MeSH: D007425)</small>
+* [[Intranuclear Inclusion Bodies]] — [[d:Q14905510|Q14905510]] <small>(MeSH: D045586)</small>
+* [[Intranuclear Space]] — [[d:Q70310609|Q70310609]] <small>(MeSH: D042581)</small>
+* [[Jurkat Cells]] — [[d:Q1632589|Q1632589]] <small>(MeSH: D019169)</small>
+* [[K562 Cells]] — [[d:Q6324626|Q6324626]] <small>(MeSH: D020014)</small>
+* [[KB Cells]] — [[d:Q28334825|Q28334825]] <small>(MeSH: D007624)</small>
+* [[Keratinocytes]] — [[d:Q1473931|Q1473931]] <small>(MeSH: D015603)</small>
+* [[Kinetochores]] — [[d:Q908912|Q908912]] <small>(MeSH: D018386)</small>
+* [[Kupffer Cells]] — [[d:Q513486|Q513486]] <small>(MeSH: D007728)</small>
+* [[L Cells]] — [[d:Q28335098|Q28335098]] <small>(MeSH: D007739)</small>
+* [[Lamellar Bodies]] — [[d:Q4253549|Q4253549]] <small>(MeSH: D000088502)</small>
+* [[Langerhans Cells]] — [[d:Q1623344|Q1623344]] <small>(MeSH: D007801)</small>
+* [[Lewy Bodies]] — [[d:Q1822234|Q1822234]] <small>(MeSH: D016631)</small>
+* [[Leydig Cells]] — [[d:Q636846|Q636846]] <small>(MeSH: D007985)</small>
+* [[Limbal Stem Cells]] — [[d:Q5918496|Q5918496]] <small>(MeSH: D000093282)</small>
+* [[Lipid Droplets]] — [[d:Q573950|Q573950]] <small>(MeSH: D066292)</small>
+* [[LLC-PK1 Cells]] — [[d:Q28334936|Q28334936]] <small>(MeSH: D018374)</small>
+* [[Luteal Cells]] — [[d:Q66509968|Q66509968]] <small>(MeSH: D008184)</small>
+* [[Lymphoid Progenitor Cells]] — [[d:Q2944064|Q2944064]] <small>(MeSH: D054503)</small>
+* [[Lysosomes]] — [[d:Q83330|Q83330]] <small>(MeSH: D008247)</small>
+* [[Macronucleus]] — [[d:Q1886511|Q1886511]] <small>(MeSH: D048648)</small>
+* [[Macrophages]] — [[d:Q184204|Q184204]] <small>(MeSH: D008264)</small>
+* [[Macrophages, Alveolar]] — [[d:Q448687|Q448687]] <small>(MeSH: D016676)</small>
+* [[Macrophages, Peritoneal]] — [[d:Q66589797|Q66589797]] <small>(MeSH: D017737)</small>
+* [[Madin Darby Canine Kidney Cells]] — [[d:Q28335011|Q28335011]] <small>(MeSH: D061985)</small>
+* [[Magnetosomes]] — [[d:Q1884420|Q1884420]] <small>(MeSH: D055944)</small>
+* [[Mallory Bodies]] — [[d:Q1887638|Q1887638]] <small>(MeSH: D059609)</small>
+* [[Mast Cells]] — [[d:Q191989|Q191989]] <small>(MeSH: D008407)</small>
+* [[MCF-7 Cells]] — [[d:Q1881253|Q1881253]] <small>(MeSH: D061986)</small>
+* [[MDA-MB-231 Cells]] — [[d:Q17577870|Q17577870]] <small>(MeSH: D000092302)</small>
+* [[Megakaryocyte Progenitor Cells]] — [[d:Q70302756|Q70302756]] <small>(MeSH: D055016)</small>
+* [[Megakaryocyte-Erythroid Progenitor Cells]] — [[d:Q12210741|Q12210741]] <small>(MeSH: D055015)</small>
+* [[Megakaryocytes]] — [[d:Q821701|Q821701]] <small>(MeSH: D008533)</small>
+* [[Megaloblasts]] — [[d:Q1520335|Q1520335]] <small>(MeSH: D008534)</small>
+* [[Melanocytes]] — [[d:Q247101|Q247101]] <small>(MeSH: D008544)</small>
+* [[Melanophores]] — [[d:Q70063071|Q70063071]] <small>(MeSH: D008547)</small>
+* [[Melanosomes]] — [[d:Q1065756|Q1065756]] <small>(MeSH: D020460)</small>
+* [[Membrane Microdomains]] — [[d:Q22327677|Q22327677]] <small>(MeSH: D021962)</small>
+* [[Memory B Cells]] — [[d:Q1195394|Q1195394]] <small>(MeSH: D000091245)</small>
+* [[Merkel Cells]] — [[d:Q1570264|Q1570264]] <small>(MeSH: D018862)</small>
+* [[Mesenchymal Stem Cells]] — [[d:Q1922379|Q1922379]] <small>(MeSH: D059630)</small>
+* [[Mesophyll Cells]] — [[d:Q70312012|Q70312012]] <small>(MeSH: D058503)</small>
+* [[Microbodies]] — [[d:Q22327977|Q22327977]] <small>(MeSH: D008830)</small>
+* [[Microfibrils]] — [[d:Q417913|Q417913]] <small>(MeSH: D020894)</small>
+* [[Microneme]] — [[d:Q2655487|Q2655487]] <small>(MeSH: D000088462)</small>
+* [[Micronuclei, Chromosome-Defective]] — [[d:Q1700733|Q1700733]] <small>(MeSH: D048629)</small>
+* [[Micronucleus, Germline]] — [[d:Q12553974|Q12553974]] <small>(MeSH: D048631)</small>
+* [[Microsomes]] — [[d:Q547502|Q547502]] <small>(MeSH: D008861)</small>
+* [[Microsomes, Liver]] — [[d:Q70192229|Q70192229]] <small>(MeSH: D008862)</small>
+* [[Microtubule-Organizing Center]] — [[d:Q903644|Q903644]] <small>(MeSH: D022101)</small>
+* [[Microtubules]] — [[d:Q189933|Q189933]] <small>(MeSH: D008870)</small>
+* [[Microvilli]] — [[d:Q939486|Q939486]] <small>(MeSH: D008871)</small>
+* [[Mitochondria]] — [[d:Q39572|Q39572]] <small>(MeSH: D008928)</small>
+* [[Mitochondria Associated Membranes]] — [[d:Q28209882|Q28209882]] <small>(MeSH: D000096322)</small>
+* [[Mitochondria, Heart]] — [[d:Q70188839|Q70188839]] <small>(MeSH: D008929)</small>
+* [[Mitochondria, Liver]] — [[d:Q70229019|Q70229019]] <small>(MeSH: D008930)</small>
+* [[Mitochondria, Muscle]] — [[d:Q70092103|Q70092103]] <small>(MeSH: D008931)</small>
+* [[Mitochondrial Membranes]] — [[d:Q14860954|Q14860954]] <small>(MeSH: D051336)</small>
+* [[Mitochondrial Ribosomes]] — [[d:Q21234507|Q21234507]] <small>(MeSH: D000069396)</small>
+* [[Monocyte-Macrophage Precursor Cells]] — [[d:Q70075162|Q70075162]] <small>(MeSH: D055017)</small>
+* [[Mouse Embryonic Stem Cells]] — [[d:Q70060965|Q70060965]] <small>(MeSH: D000066450)</small>
+* [[Multipotent Stem Cells]] — [[d:Q1760914|Q1760914]] <small>(MeSH: D039902)</small>
+* [[Multivesicular Bodies]] — [[d:Q14878286|Q14878286]] <small>(MeSH: D057146)</small>
+* [[Muscle Cells]] — [[d:Q428914|Q428914]] <small>(MeSH: D032342)</small>
+* [[Myeloid Cells]] — [[d:Q70203713|Q70203713]] <small>(MeSH: D022423)</small>
+* [[Myeloid Progenitor Cells]] — [[d:Q2944073|Q2944073]] <small>(MeSH: D023461)</small>
+* [[Myeloid-Derived Suppressor Cells]] — [[d:Q15220362|Q15220362]] <small>(MeSH: D000072737)</small>
+* [[Myoblasts]] — [[d:Q1956694|Q1956694]] <small>(MeSH: D032446)</small>
+* [[Myoblasts, Skeletal]] — [[d:Q66591232|Q66591232]] <small>(MeSH: D032448)</small>
+* [[Myoblasts, Smooth Muscle]] — [[d:Q66591231|Q66591231]] <small>(MeSH: D032390)</small>
+* [[Myocytes, Smooth Muscle]] — [[d:Q66508979|Q66508979]] <small>(MeSH: D032389)</small>
+* [[Myofibrils]] — [[d:Q318623|Q318623]] <small>(MeSH: D009210)</small>
+* [[Myofibroblasts]] — [[d:Q1467330|Q1467330]] <small>(MeSH: D058628)</small>
+* [[Neoplastic Cells, Circulating]] — [[d:Q5121689|Q5121689]] <small>(MeSH: D009360)</small>
+* [[Neoplastic Stem Cells]] — [[d:Q1638475|Q1638475]] <small>(MeSH: D014411)</small>
+* [[Nerve Fibers, Myelinated]] — [[d:Q66501949|Q66501949]] <small>(MeSH: D009413)</small>
+* [[Neural Stem Cells]] — [[d:Q2944097|Q2944097]] <small>(MeSH: D058953)</small>
+* [[Neurites]] — [[d:Q1534415|Q1534415]] <small>(MeSH: D016501)</small>
+* [[Neuroendocrine Cells]] — [[d:Q10599959|Q10599959]] <small>(MeSH: D055099)</small>
+* [[Neurofibrillary Tangles]] — [[d:Q767442|Q767442]] <small>(MeSH: D016874)</small>
+* [[Neurofibrils]] — [[d:Q70227696|Q70227696]] <small>(MeSH: D009454)</small>
+* [[Neuropil Threads]] — [[d:Q70090636|Q70090636]] <small>(MeSH: D019600)</small>
+* [[Neutrophils]] — [[d:Q188417|Q188417]] <small>(MeSH: D009504)</small>
+* [[NIH 3T3 Cells]] — [[d:Q4636420|Q4636420]] <small>(MeSH: D041681)</small>
+* [[Nissl Bodies]] — [[d:Q911877|Q911877]] <small>(MeSH: D009562)</small>
+* [[Nuclear Bodies]] — [[d:Q14817965|Q14817965]] <small>(MeSH: D000088202)</small>
+* [[Nuclear Envelope]] — [[d:Q14865821|Q14865821]] <small>(MeSH: D009685)</small>
+* [[Nuclear Lamina]] — [[d:Q687194|Q687194]] <small>(MeSH: D034881)</small>
+* [[Nuclear Matrix]] — [[d:Q906755|Q906755]] <small>(MeSH: D015530)</small>
+* [[Nuclear Pore]] — [[d:Q30679|Q30679]] <small>(MeSH: D022022)</small>
+* [[Nuclear Speckles]] — [[d:Q14819271|Q14819271]] <small>(MeSH: D000088203)</small>
+* [[Nucleosomes]] — [[d:Q271794|Q271794]] <small>(MeSH: D009707)</small>
+* [[Odontoblasts]] — [[d:Q853338|Q853338]] <small>(MeSH: D009804)</small>
+* [[Oligodendrocyte Precursor Cells]] — [[d:Q7086819|Q7086819]] <small>(MeSH: D000073637)</small>
+* [[Oogonial Stem Cells]] — [[d:Q27044094|Q27044094]] <small>(MeSH: D000072977)</small>
+* [[Organelles]] — [[d:Q45948|Q45948]] <small>(MeSH: D015388)</small>
+* [[Osteoblasts]] — [[d:Q917177|Q917177]] <small>(MeSH: D010006)</small>
+* [[Osteoclasts]] — [[d:Q828410|Q828410]] <small>(MeSH: D010010)</small>
+* [[Osteocytes]] — [[d:Q913236|Q913236]] <small>(MeSH: D010011)</small>
+* [[Oxyphil Cells]] — [[d:Q7116107|Q7116107]] <small>(MeSH: D024862)</small>
+* [[Pancreatic Stellate Cells]] — [[d:Q1164962|Q1164962]] <small>(MeSH: D058954)</small>
+* [[Paraspeckles]] — [[d:Q3823347|Q3823347]] <small>(MeSH: D000088242)</small>
+* [[PC-3 Cells]] — [[d:Q7118483|Q7118483]] <small>(MeSH: D000078722)</small>
+* [[PC12 Cells]] — [[d:Q7118481|Q7118481]] <small>(MeSH: D016716)</small>
+* [[Perineuronal Nets]] — [[d:Q7168586|Q7168586]] <small>(MeSH: D000099132)</small>
+* [[Peripheral Blood Stem Cells]] — [[d:Q66592620|Q66592620]] <small>(MeSH: D000072916)</small>
+* [[Periplasm]] — [[d:Q21198990|Q21198990]] <small>(MeSH: D019897)</small>
+* [[Peroxisomes]] — [[d:Q138639|Q138639]] <small>(MeSH: D020675)</small>
+* [[Phagocytes]] — [[d:Q107647|Q107647]] <small>(MeSH: D010586)</small>
+* [[Phagosomes]] — [[d:Q901955|Q901955]] <small>(MeSH: D010588)</small>
+* [[Phycobilisomes]] — [[d:Q22327713|Q22327713]] <small>(MeSH: D045524)</small>
+* [[Pili, Sex]] — [[d:Q70074664|Q70074664]] <small>(MeSH: D018933)</small>
+* [[Plant Cells]] — [[d:Q1056194|Q1056194]] <small>(MeSH: D059828)</small>
+* [[Plasmodesmata]] — [[d:Q1134046|Q1134046]] <small>(MeSH: D031425)</small>
+* [[Plastids]] — [[d:Q165963|Q165963]] <small>(MeSH: D018087)</small>
+* [[Pluripotent Stem Cells]] — [[d:Q15952110|Q15952110]] <small>(MeSH: D039904)</small>
+* [[Podosomes]] — [[d:Q7207063|Q7207063]] <small>(MeSH: D000069261)</small>
+* [[Polyribosomes]] — [[d:Q970614|Q970614]] <small>(MeSH: D011132)</small>
+* [[Polytene Chromosomes]] — [[d:Q899773|Q899773]] <small>(MeSH: D059007)</small>
+* [[Precursor Cells, B-Lymphoid]] — [[d:Q70094544|Q70094544]] <small>(MeSH: D054448)</small>
+* [[Precursor Cells, T-Lymphoid]] — [[d:Q70076396|Q70076396]] <small>(MeSH: D054504)</small>
+* [[Processing Bodies]] — [[d:Q14864908|Q14864908]] <small>(MeSH: D000088142)</small>
+* [[Prokaryotic Cells]] — [[d:Q3664292|Q3664292]] <small>(MeSH: D011387)</small>
+* [[Promyelocytic Leukemia Nuclear Bodies]] — [[d:Q14817968|Q14817968]] <small>(MeSH: D000088182)</small>
+* [[Protoplasts]] — [[d:Q1126500|Q1126500]] <small>(MeSH: D011523)</small>
+* [[Pseudopodia]] — [[d:Q165291|Q165291]] <small>(MeSH: D011554)</small>
+* [[Purple Membrane]] — [[d:Q70061812|Q70061812]] <small>(MeSH: D018717)</small>
+* [[RAW 264.7 Cells]] — [[d:Q28335461|Q28335461]] <small>(MeSH: D000067996)</small>
+* [[Reed-Sternberg Cells]] — [[d:Q2167074|Q2167074]] <small>(MeSH: D016539)</small>
+* [[Reticulocytes]] — [[d:Q1404923|Q1404923]] <small>(MeSH: D012156)</small>
+* [[Ribosomal Protein L10]] — [[d:Q24780227|Q24780227]] <small>(MeSH: D000080882)</small>
+* [[Ribosome Subunits]] — [[d:Q22328914|Q22328914]] <small>(MeSH: D054657)</small>
+* [[Ribosome Subunits, Large]] — [[d:Q21114669|Q21114669]] <small>(MeSH: D054658)</small>
+* [[Ribosome Subunits, Large, Archaeal]] — [[d:Q70204430|Q70204430]] <small>(MeSH: D054748)</small>
+* [[Ribosome Subunits, Large, Bacterial]] — [[d:Q43080865|Q43080865]] <small>(MeSH: D054681)</small>
+* [[Ribosome Subunits, Large, Eukaryotic]] — [[d:Q70312876|Q70312876]] <small>(MeSH: D054683)</small>
+* [[Ribosome Subunits, Small]] — [[d:Q21198640|Q21198640]] <small>(MeSH: D054679)</small>
+* [[Ribosome Subunits, Small, Archaeal]] — [[d:Q70091230|Q70091230]] <small>(MeSH: D054749)</small>
+* [[Ribosome Subunits, Small, Bacterial]] — [[d:Q70076523|Q70076523]] <small>(MeSH: D054680)</small>
+* [[Ribosome Subunits, Small, Eukaryotic]] — [[d:Q21095302|Q21095302]] <small>(MeSH: D054682)</small>
+* [[Ribosomes]] — [[d:Q42244|Q42244]] <small>(MeSH: D012270)</small>
+* [[Sarcolemma]] — [[d:Q1545001|Q1545001]] <small>(MeSH: D012508)</small>
+* [[Sarcomeres]] — [[d:Q1337087|Q1337087]] <small>(MeSH: D012518)</small>
+* [[Satellite Cells, Skeletal Muscle]] — [[d:Q2633328|Q2633328]] <small>(MeSH: D032496)</small>
+* [[Secretory Vesicles]] — [[d:Q22329028|Q22329028]] <small>(MeSH: D022142)</small>
+* [[Sertoli Cells]] — [[d:Q195614|Q195614]] <small>(MeSH: D012708)</small>
+* [[Sex Chromatin]] — [[d:Q21097476|Q21097476]] <small>(MeSH: D012728)</small>
+* [[Sex Chromosomes]] — [[d:Q667636|Q667636]] <small>(MeSH: D012730)</small>
+* [[Sf9 Cells]] — [[d:Q7459700|Q7459700]] <small>(MeSH: D061987)</small>
+* [[Side-Population Cells]] — [[d:Q7508338|Q7508338]] <small>(MeSH: D058985)</small>
+* [[Sperm Tail]] — [[d:Q15335178|Q15335178]] <small>(MeSH: D013082)</small>
+* [[Spherocytes]] — [[d:Q2309690|Q2309690]] <small>(MeSH: D013102)</small>
+* [[Spheroids, Cellular]] — [[d:Q70062517|Q70062517]] <small>(MeSH: D018874)</small>
+* [[Spheroplasts]] — [[d:Q2630359|Q2630359]] <small>(MeSH: D013104)</small>
+* [[Spindle Apparatus]] — [[d:Q918594|Q918594]] <small>(MeSH: D008941)</small>
+* [[Spindle Pole Bodies]] — [[d:Q12386518|Q12386518]] <small>(MeSH: D064048)</small>
+* [[Spindle Poles]] — [[d:Q70068405|Q70068405]] <small>(MeSH: D064047)</small>
+* [[Spliceosomes]] — [[d:Q915868|Q915868]] <small>(MeSH: D017381)</small>
+* [[Spores]] — [[d:Q177332|Q177332]] <small>(MeSH: D013170)</small>
+* [[Spores, Bacterial]] — [[d:Q4840000|Q4840000]] <small>(MeSH: D013171)</small>
+* [[Spores, Fungal]] — [[d:Q21662390|Q21662390]] <small>(MeSH: D013172)</small>
+* [[Spores, Protozoan]] — [[d:Q59626870|Q59626870]] <small>(MeSH: D033761)</small>
+* [[Stem Cells]] — [[d:Q48196|Q48196]] <small>(MeSH: D013234)</small>
+* [[Stereocilia]] — [[d:Q32843|Q32843]] <small>(MeSH: D059547)</small>
+* [[Stress Fibers]] — [[d:Q4121060|Q4121060]] <small>(MeSH: D022502)</small>
+* [[Stress Granules]] — [[d:Q14592582|Q14592582]] <small>(MeSH: D000088162)</small>
+* [[Stromal Cells]] — [[d:Q4381253|Q4381253]] <small>(MeSH: D017154)</small>
+* [[Stromal Vascular Fraction]] — [[d:Q7624337|Q7624337]] <small>(MeSH: D000090002)</small>
+* [[Subcellular Fractions]] — [[d:Q70204173|Q70204173]] <small>(MeSH: D013347)</small>
+* [[Submitochondrial Particles]] — [[d:Q7631706|Q7631706]] <small>(MeSH: D013367)</small>
+* [[Swiss 3T3 Cells]] — [[d:Q54602659|Q54602659]] <small>(MeSH: D041701)</small>
+* [[Synaptic Membranes]] — [[d:Q14914004|Q14914004]] <small>(MeSH: D013570)</small>
+* [[Synaptosomes]] — [[d:Q7662055|Q7662055]] <small>(MeSH: D013574)</small>
+* [[Synoviocytes]] — [[d:Q963397|Q963397]] <small>(MeSH: D000070918)</small>
+* [[Telocytes]] — [[d:Q7697784|Q7697784]] <small>(MeSH: D000067170)</small>
+* [[Telomere]] — [[d:Q14872779|Q14872779]] <small>(MeSH: D016615)</small>
+* [[Telopodes]] — [[d:Q70197777|Q70197777]] <small>(MeSH: D000067617)</small>
+* [[Tenocytes]] — [[d:Q7699651|Q7699651]] <small>(MeSH: D000070916)</small>
+* [[THP-1 Cells]] — [[d:Q7670282|Q7670282]] <small>(MeSH: D000074084)</small>
+* [[Thylakoids]] — [[d:Q337889|Q337889]] <small>(MeSH: D020524)</small>
+* [[Thymocytes]] — [[d:Q7799635|Q7799635]] <small>(MeSH: D060168)</small>
+* [[Thyroid Epithelial Cells]] — [[d:Q66599481|Q66599481]] <small>(MeSH: D000072637)</small>
+* [[Tight Junctions]] — [[d:Q1053832|Q1053832]] <small>(MeSH: D019108)</small>
+* [[Totipotent Stem Cells]] — [[d:Q66591223|Q66591223]] <small>(MeSH: D039901)</small>
+* [[trans-Golgi Network]] — [[d:Q14876714|Q14876714]] <small>(MeSH: D021601)</small>
+* [[Transport Vesicles]] — [[d:Q14860091|Q14860091]] <small>(MeSH: D022161)</small>
+* [[Trichomes]] — [[d:Q1125215|Q1125215]] <small>(MeSH: D064201)</small>
+* [[Tumor Cells, Cultured]] — [[d:Q70220224|Q70220224]] <small>(MeSH: D014407)</small>
+* [[Tumor-Associated Macrophages]] — [[d:Q17121648|Q17121648]] <small>(MeSH: D000084582)</small>
+* [[U937 Cells]] — [[d:Q7863610|Q7863610]] <small>(MeSH: D020298)</small>
+* [[Vacuoles]] — [[d:Q127702|Q127702]] <small>(MeSH: D014617)</small>
+* [[Vero Cells]] — [[d:Q3066564|Q3066564]] <small>(MeSH: D014709)</small>
+* [[Viral Replication Compartments]] — [[d:Q22329256|Q22329256]] <small>(MeSH: D000086969)</small>
+* [[Weibel-Palade Bodies]] — [[d:Q14863674|Q14863674]] <small>(MeSH: D020302)</small>
+* [[X Chromosome]] — [[d:Q61333|Q61333]] <small>(MeSH: D014960)</small>
+* [[Y Chromosome]] — [[d:Q202771|Q202771]] <small>(MeSH: D014998)</small>
+* [[Zona Pellucida]] — [[d:Q219841|Q219841]] <small>(MeSH: D015044)</small>
+
+=== Nervous System ===
+
+* '''Coverage:''' 31.0%
+* '''{{color|blue|Bluelinks}}:''' 118
+* '''{{color|red|Redlinks}}:''' 263
+* [[Abducens Nerve]] — [[d:Q318773|Q318773]] <small>(MeSH: D000010)</small>
+* [[Abducens Nucleus]] — [[d:Q2004202|Q2004202]] <small>(MeSH: D065827)</small>
+* [[Accessory Nerve]] — [[d:Q271987|Q271987]] <small>(MeSH: D000055)</small>
+* [[Adrenergic Fibers]] — [[d:Q4684746|Q4684746]] <small>(MeSH: D000320)</small>
+* [[Adrenergic Neurons]] — [[d:Q71262051|Q71262051]] <small>(MeSH: D059331)</small>
+* [[Afferent Pathways]] — [[d:Q68015866|Q68015866]] <small>(MeSH: D000344)</small>
+* [[Amacrine Cells]] — [[d:Q452595|Q452595]] <small>(MeSH: D025042)</small>
+* [[Amygdala]] — [[d:Q338924|Q338924]] <small>(MeSH: D000679)</small>
+* [[Anterior Commissure, Brain]] — [[d:Q203800|Q203800]] <small>(MeSH: D066240)</small>
+* [[Anterior Horn Cells]] — [[d:Q70228583|Q70228583]] <small>(MeSH: D000870)</small>
+* [[Anterior Hypothalamic Nucleus]] — [[d:Q4771352|Q4771352]] <small>(MeSH: D007025)</small>
+* [[Anterior Thalamic Nuclei]] — [[d:Q70069366|Q70069366]] <small>(MeSH: D020643)</small>
+* [[Aortic Bodies]] — [[d:Q4778753|Q4778753]] <small>(MeSH: D001016)</small>
+* [[Arachnoid]] — [[d:Q1647112|Q1647112]] <small>(MeSH: D001099)</small>
+* [[Arcuate Nucleus of Hypothalamus]] — [[d:Q253246|Q253246]] <small>(MeSH: D001111)</small>
+* [[Area Postrema]] — [[d:Q640532|Q640532]] <small>(MeSH: D031608)</small>
+* [[Astrocytes]] — [[d:Q502961|Q502961]] <small>(MeSH: D001253)</small>
+* [[Auditory Cortex]] — [[d:Q18676|Q18676]] <small>(MeSH: D001303)</small>
+* [[Auditory Pathways]] — [[d:Q70182286|Q70182286]] <small>(MeSH: D001306)</small>
+* [[Autonomic Fibers, Postganglionic]] — [[d:Q70059949|Q70059949]] <small>(MeSH: D001338)</small>
+* [[Autonomic Fibers, Preganglionic]] — [[d:Q70090366|Q70090366]] <small>(MeSH: D001339)</small>
+* [[Autonomic Nervous System]] — [[d:Q171064|Q171064]] <small>(MeSH: D001341)</small>
+* [[Autonomic Pathways]] — [[d:Q4826772|Q4826772]] <small>(MeSH: D017776)</small>
+* [[Barrington's Nucleus]] — [[d:Q70203010|Q70203010]] <small>(MeSH: D065835)</small>
+* [[Basal Forebrain]] — [[d:Q3407681|Q3407681]] <small>(MeSH: D066187)</small>
+* [[Basal Ganglia]] — [[d:Q464210|Q464210]] <small>(MeSH: D001479)</small>
+* [[Basal Nucleus of Meynert]] — [[d:Q1813830|Q1813830]] <small>(MeSH: D020532)</small>
+* [[Basolateral Nuclear Complex]] — [[d:Q70203159|Q70203159]] <small>(MeSH: D066272)</small>
+* [[Brachial Plexus]] — [[d:Q846961|Q846961]] <small>(MeSH: D001917)</small>
+* [[Brain]] — [[d:Q1073|Q1073]] <small>(MeSH: D001921)</small>
+* [[Brain Stem]] — [[d:Q182228|Q182228]] <small>(MeSH: D001933)</small>
+* [[Broca Area]] — [[d:Q728285|Q728285]] <small>(MeSH: D065711)</small>
+* [[CA1 Region, Hippocampal]] — [[d:Q70061154|Q70061154]] <small>(MeSH: D056547)</small>
+* [[CA2 Region, Hippocampal]] — [[d:Q70219007|Q70219007]] <small>(MeSH: D056651)</small>
+* [[CA3 Region, Hippocampal]] — [[d:Q70313301|Q70313301]] <small>(MeSH: D056654)</small>
+* [[Carotid Body]] — [[d:Q1532008|Q1532008]] <small>(MeSH: D002344)</small>
+* [[Cauda Equina]] — [[d:Q1051445|Q1051445]] <small>(MeSH: D002420)</small>
+* [[Caudate Nucleus]] — [[d:Q1132309|Q1132309]] <small>(MeSH: D002421)</small>
+* [[Celiac Plexus]] — [[d:Q612258|Q612258]] <small>(MeSH: D002447)</small>
+* [[Central Amygdaloid Nucleus]] — [[d:Q66571406|Q66571406]] <small>(MeSH: D066274)</small>
+* [[Central Nervous System]] — [[d:Q47273|Q47273]] <small>(MeSH: D002490)</small>
+* [[Central Pattern Generators]] — [[d:Q1054066|Q1054066]] <small>(MeSH: D063226)</small>
+* [[Cerebellar Cortex]] — [[d:Q66569847|Q66569847]] <small>(MeSH: D002525)</small>
+* [[Cerebellar Golgi Cells]] — [[d:Q83828950|Q83828950]] <small>(MeSH: D000080906)</small>
+* [[Cerebellar Nuclei]] — [[d:Q5250377|Q5250377]] <small>(MeSH: D002529)</small>
+* [[Cerebellar Vermis]] — [[d:Q3078809|Q3078809]] <small>(MeSH: D065814)</small>
+* [[Cerebellopontine Angle]] — [[d:Q3617410|Q3617410]] <small>(MeSH: D002530)</small>
+* [[Cerebellum]] — [[d:Q130983|Q130983]] <small>(MeSH: D002531)</small>
+* [[Cerebral Aqueduct]] — [[d:Q623016|Q623016]] <small>(MeSH: D002535)</small>
+* [[Cerebral Cortex]] — [[d:Q75839|Q75839]] <small>(MeSH: D002540)</small>
+* [[Cerebral Crus]] — [[d:Q12738044|Q12738044]] <small>(MeSH: D065843)</small>
+* [[Cerebral Peduncle]] — [[d:Q646944|Q646944]] <small>(MeSH: D065850)</small>
+* [[Cerebral Ventricles]] — [[d:Q105402|Q105402]] <small>(MeSH: D002552)</small>
+* [[Cerebrum]] — [[d:Q75855|Q75855]] <small>(MeSH: D054022)</small>
+* [[Cervical Cord]] — [[d:Q11664994|Q11664994]] <small>(MeSH: D066193)</small>
+* [[Cervical Plexus]] — [[d:Q921815|Q921815]] <small>(MeSH: D002572)</small>
+* [[Chemoreceptor Cells]] — [[d:Q1069641|Q1069641]] <small>(MeSH: D002628)</small>
+* [[Cholinergic Fibers]] — [[d:Q70062323|Q70062323]] <small>(MeSH: D002799)</small>
+* [[Cholinergic Neurons]] — [[d:Q12167532|Q12167532]] <small>(MeSH: D059329)</small>
+* [[Chorda Tympani Nerve]] — [[d:Q1076379|Q1076379]] <small>(MeSH: D002814)</small>
+* [[Choroid Plexus]] — [[d:Q926250|Q926250]] <small>(MeSH: D002831)</small>
+* [[Cisterna Magna]] — [[d:Q5122306|Q5122306]] <small>(MeSH: D002946)</small>
+* [[Claustrum]] — [[d:Q429036|Q429036]] <small>(MeSH: D000079482)</small>
+* [[Cochlear Nerve]] — [[d:Q2519137|Q2519137]] <small>(MeSH: D003056)</small>
+* [[Cochlear Nucleus]] — [[d:Q387776|Q387776]] <small>(MeSH: D017626)</small>
+* [[Commissural Interneurons]] — [[d:Q70093659|Q70093659]] <small>(MeSH: D066294)</small>
+* [[Corpora Allata]] — [[d:Q2081643|Q2081643]] <small>(MeSH: D003335)</small>
+* [[Corpus Callosum]] — [[d:Q223851|Q223851]] <small>(MeSH: D003337)</small>
+* [[Corpus Striatum]] — [[d:Q1319792|Q1319792]] <small>(MeSH: D003342)</small>
+* [[Corticomedial Nuclear Complex]] — [[d:Q70071506|Q70071506]] <small>(MeSH: D066276)</small>
+* [[Corticotrophs]] — [[d:Q5173293|Q5173293]] <small>(MeSH: D052680)</small>
+* [[Cranial Nerves]] — [[d:Q180454|Q180454]] <small>(MeSH: D003391)</small>
+* [[Default Mode Network]] — [[d:Q1182555|Q1182555]] <small>(MeSH: D000082702)</small>
+* [[Dentate Gyrus]] — [[d:Q545787|Q545787]] <small>(MeSH: D018891)</small>
+* [[Diagonal Band of Broca]] — [[d:Q5270363|Q5270363]] <small>(MeSH: D020667)</small>
+* [[Diencephalon]] — [[d:Q192419|Q192419]] <small>(MeSH: D004027)</small>
+* [[Dopaminergic Neurons]] — [[d:Q5297290|Q5297290]] <small>(MeSH: D059290)</small>
+* [[Dorsal Raphe Nucleus]] — [[d:Q5298804|Q5298804]] <small>(MeSH: D065847)</small>
+* [[Dorsolateral Prefrontal Cortex]] — [[d:Q72788|Q72788]] <small>(MeSH: D000087643)</small>
+* [[Dorsomedial Hypothalamic Nucleus]] — [[d:Q5298925|Q5298925]] <small>(MeSH: D004302)</small>
+* [[Dura Mater]] — [[d:Q1394389|Q1394389]] <small>(MeSH: D004388)</small>
+* [[Edinger-Westphal Nucleus]] — [[d:Q165312|Q165312]] <small>(MeSH: D065839)</small>
+* [[Efferent Pathways]] — [[d:Q59627423|Q59627423]] <small>(MeSH: D004525)</small>
+* [[Enteric Nervous System]] — [[d:Q586582|Q586582]] <small>(MeSH: D017615)</small>
+* [[Entopeduncular Nucleus]] — [[d:Q70063681|Q70063681]] <small>(MeSH: D020392)</small>
+* [[Entorhinal Cortex]] — [[d:Q2603645|Q2603645]] <small>(MeSH: D018728)</small>
+* [[Ependyma]] — [[d:Q1134467|Q1134467]] <small>(MeSH: D004805)</small>
+* [[Ependymoglial Cells]] — [[d:Q70203947|Q70203947]] <small>(MeSH: D063928)</small>
+* [[Epithalamus]] — [[d:Q849277|Q849277]] <small>(MeSH: D019261)</small>
+* [[External Capsule]] — [[d:Q5422024|Q5422024]] <small>(MeSH: D066271)</small>
+* [[Extrapyramidal Tracts]] — [[d:Q70080155|Q70080155]] <small>(MeSH: D005116)</small>
+* [[Facial Nerve]] — [[d:Q242160|Q242160]] <small>(MeSH: D005154)</small>
+* [[Facial Nucleus]] — [[d:Q2004197|Q2004197]] <small>(MeSH: D065828)</small>
+* [[Femoral Nerve]] — [[d:Q545676|Q545676]] <small>(MeSH: D005267)</small>
+* [[Fornix, Brain]] — [[d:Q1230047|Q1230047]] <small>(MeSH: D020712)</small>
+* [[Fourth Ventricle]] — [[d:Q1069121|Q1069121]] <small>(MeSH: D020546)</small>
+* [[Frontal Lobe]] — [[d:Q749520|Q749520]] <small>(MeSH: D005625)</small>
+* [[GABAergic Neurons]] — [[d:Q66591221|Q66591221]] <small>(MeSH: D059330)</small>
+* [[Ganglia]] — [[d:Q108158|Q108158]] <small>(MeSH: D005724)</small>
+* [[Ganglia, Autonomic]] — [[d:Q788151|Q788151]] <small>(MeSH: D005725)</small>
+* [[Ganglia, Invertebrate]] — [[d:Q70059226|Q70059226]] <small>(MeSH: D017952)</small>
+* [[Ganglia, Parasympathetic]] — [[d:Q947277|Q947277]] <small>(MeSH: D005726)</small>
+* [[Ganglia, Sensory]] — [[d:Q60181224|Q60181224]] <small>(MeSH: D017950)</small>
+* [[Ganglia, Spinal]] — [[d:Q1395415|Q1395415]] <small>(MeSH: D005727)</small>
+* [[Ganglia, Sympathetic]] — [[d:Q3554908|Q3554908]] <small>(MeSH: D005728)</small>
+* [[Ganglionic Eminence]] — [[d:Q4133185|Q4133185]] <small>(MeSH: D000097803)</small>
+* [[Geniculate Bodies]] — [[d:Q1753418|Q1753418]] <small>(MeSH: D005829)</small>
+* [[Geniculate Ganglion]] — [[d:Q530934|Q530934]] <small>(MeSH: D005830)</small>
+* [[Globus Pallidus]] — [[d:Q1759633|Q1759633]] <small>(MeSH: D005917)</small>
+* [[Glomus Jugulare]] — [[d:Q70233832|Q70233832]] <small>(MeSH: D005924)</small>
+* [[Glomus Tympanicum]] — [[d:Q70313763|Q70313763]] <small>(MeSH: D043485)</small>
+* [[Glossopharyngeal Nerve]] — [[d:Q334143|Q334143]] <small>(MeSH: D005930)</small>
+* [[Golgi-Mazzoni Corpuscles]] — [[d:Q66590262|Q66590262]] <small>(MeSH: D006057)</small>
+* [[Gonadotrophs]] — [[d:Q3099316|Q3099316]] <small>(MeSH: D052681)</small>
+* [[Gray Matter]] — [[d:Q646150|Q646150]] <small>(MeSH: D066128)</small>
+* [[Grid Cells]] — [[d:Q863495|Q863495]] <small>(MeSH: D000071038)</small>
+* [[Gyrus Cinguli]] — [[d:Q1892702|Q1892702]] <small>(MeSH: D006179)</small>
+* [[Habenula]] — [[d:Q267641|Q267641]] <small>(MeSH: D019262)</small>
+* [[Hair Cells, Auditory]] — [[d:Q29642065|Q29642065]] <small>(MeSH: D006198)</small>
+* [[Hair Cells, Auditory, Inner]] — [[d:Q29642076|Q29642076]] <small>(MeSH: D006199)</small>
+* [[Hair Cells, Auditory, Outer]] — [[d:Q29642077|Q29642077]] <small>(MeSH: D018072)</small>
+* [[Hair Cells, Vestibular]] — [[d:Q29654328|Q29654328]] <small>(MeSH: D018069)</small>
+* [[High Vocal Center]] — [[d:Q3918859|Q3918859]] <small>(MeSH: D053400)</small>
+* [[Hippocampus]] — [[d:Q48360|Q48360]] <small>(MeSH: D006624)</small>
+* [[Hypogastric Plexus]] — [[d:Q952595|Q952595]] <small>(MeSH: D007001)</small>
+* [[Hypoglossal Nerve]] — [[d:Q319577|Q319577]] <small>(MeSH: D007002)</small>
+* [[Hypothalamic Area, Lateral]] — [[d:Q17125841|Q17125841]] <small>(MeSH: D007026)</small>
+* [[Hypothalamic-Pituitary-Gonadal Axis]] — [[d:Q1703595|Q1703595]] <small>(MeSH: D000094365)</small>
+* [[Hypothalamo-Hypophyseal System]] — [[d:Q1531242|Q1531242]] <small>(MeSH: D007030)</small>
+* [[Hypothalamus]] — [[d:Q164386|Q164386]] <small>(MeSH: D007031)</small>
+* [[Hypothalamus, Anterior]] — [[d:Q66558196|Q66558196]] <small>(MeSH: D007032)</small>
+* [[Hypothalamus, Middle]] — [[d:Q66575312|Q66575312]] <small>(MeSH: D007033)</small>
+* [[Hypothalamus, Posterior]] — [[d:Q66558199|Q66558199]] <small>(MeSH: D007034)</small>
+* [[Inferior Colliculi]] — [[d:Q358512|Q358512]] <small>(MeSH: D007245)</small>
+* [[Inferior Olivary Complex]] — [[d:Q5620438|Q5620438]] <small>(MeSH: D000095746)</small>
+* [[Insular Cortex]] — [[d:Q1422654|Q1422654]] <small>(MeSH: D000087623)</small>
+* [[Intercostal Nerves]] — [[d:Q1515961|Q1515961]] <small>(MeSH: D007367)</small>
+* [[Internal Capsule]] — [[d:Q604747|Q604747]] <small>(MeSH: D020772)</small>
+* [[Interneurons]] — [[d:Q1500732|Q1500732]] <small>(MeSH: D007395)</small>
+* [[Interpeduncular Nucleus]] — [[d:Q17148165|Q17148165]] <small>(MeSH: D066268)</small>
+* [[Intralaminar Thalamic Nuclei]] — [[d:Q2004154|Q2004154]] <small>(MeSH: D020646)</small>
+* [[Islands of Calleja]] — [[d:Q2033380|Q2033380]] <small>(MeSH: D020670)</small>
+* [[Kolliker-Fuse Nucleus]] — [[d:Q2811592|Q2811592]] <small>(MeSH: D065836)</small>
+* [[Lactotrophs]] — [[d:Q3016161|Q3016161]] <small>(MeSH: D052682)</small>
+* [[Laryngeal Nerves]] — [[d:Q70059469|Q70059469]] <small>(MeSH: D007823)</small>
+* [[Lateral Thalamic Nuclei]] — [[d:Q9086330|Q9086330]] <small>(MeSH: D020647)</small>
+* [[Lateral Ventricles]] — [[d:Q1929623|Q1929623]] <small>(MeSH: D020547)</small>
+* [[Limbic Lobe]] — [[d:Q11345481|Q11345481]] <small>(MeSH: D065726)</small>
+* [[Limbic System]] — [[d:Q192560|Q192560]] <small>(MeSH: D008032)</small>
+* [[Lingual Nerve]] — [[d:Q1817831|Q1817831]] <small>(MeSH: D008036)</small>
+* [[Locus Coeruleus]] — [[d:Q1470452|Q1470452]] <small>(MeSH: D008125)</small>
+* [[Lumbosacral Plexus]] — [[d:Q13566427|Q13566427]] <small>(MeSH: D008160)</small>
+* [[Mammillary Bodies]] — [[d:Q499802|Q499802]] <small>(MeSH: D008326)</small>
+* [[Mandibular Nerve]] — [[d:Q385981|Q385981]] <small>(MeSH: D008340)</small>
+* [[Maxillary Nerve]] — [[d:Q1897537|Q1897537]] <small>(MeSH: D008442)</small>
+* [[Mechanoreceptors]] — [[d:Q1348853|Q1348853]] <small>(MeSH: D008465)</small>
+* [[Medial Forebrain Bundle]] — [[d:Q4287680|Q4287680]] <small>(MeSH: D008474)</small>
+* [[Median Eminence]] — [[d:Q1337712|Q1337712]] <small>(MeSH: D008473)</small>
+* [[Median Nerve]] — [[d:Q1364876|Q1364876]] <small>(MeSH: D008475)</small>
+* [[Mediodorsal Thalamic Nucleus]] — [[d:Q6806039|Q6806039]] <small>(MeSH: D020645)</small>
+* [[Medium Spiny Neurons]] — [[d:Q17152690|Q17152690]] <small>(MeSH: D000094242)</small>
+* [[Medulla Oblongata]] — [[d:Q189033|Q189033]] <small>(MeSH: D008526)</small>
+* [[Melanotrophs]] — [[d:Q6811556|Q6811556]] <small>(MeSH: D052717)</small>
+* [[Meninges]] — [[d:Q268930|Q268930]] <small>(MeSH: D008578)</small>
+* [[Mesencephalon]] — [[d:Q185080|Q185080]] <small>(MeSH: D008636)</small>
+* [[Mesolimbic System]] — [[d:Q1569460|Q1569460]] <small>(MeSH: D000098559)</small>
+* [[Metencephalon]] — [[d:Q1500793|Q1500793]] <small>(MeSH: D020540)</small>
+* [[Microglia]] — [[d:Q1622829|Q1622829]] <small>(MeSH: D017628)</small>
+* [[Midbrain Raphe Nuclei]] — [[d:Q66575426|Q66575426]] <small>(MeSH: D066267)</small>
+* [[Midbrain Reticular Formation]] — [[d:Q17118003|Q17118003]] <small>(MeSH: D066265)</small>
+* [[Middle Cerebellar Peduncle]] — [[d:Q6841657|Q6841657]] <small>(MeSH: D065837)</small>
+* [[Midline Thalamic Nuclei]] — [[d:Q2004163|Q2004163]] <small>(MeSH: D020644)</small>
+* [[Mirror Neurons]] — [[d:Q309082|Q309082]] <small>(MeSH: D059167)</small>
+* [[Mossy Fibers, Hippocampal]] — [[d:Q6916721|Q6916721]] <small>(MeSH: D019599)</small>
+* [[Motor Cortex]] — [[d:Q18696|Q18696]] <small>(MeSH: D009044)</small>
+* [[Motor Endplate]] — [[d:Q15891419|Q15891419]] <small>(MeSH: D009045)</small>
+* [[Motor Neurons]] — [[d:Q1133903|Q1133903]] <small>(MeSH: D009046)</small>
+* [[Motor Neurons, Gamma]] — [[d:Q3866857|Q3866857]] <small>(MeSH: D009047)</small>
+* [[Muscle Spindles]] — [[d:Q1414096|Q1414096]] <small>(MeSH: D009470)</small>
+* [[Musculocutaneous Nerve]] — [[d:Q1758126|Q1758126]] <small>(MeSH: D009138)</small>
+* [[Myelencephalon]] — [[d:Q2456825|Q2456825]] <small>(MeSH: D054024)</small>
+* [[Myelin Sheath]] — [[d:Q187388|Q187388]] <small>(MeSH: D009186)</small>
+* [[Myenteric Plexus]] — [[d:Q1890233|Q1890233]] <small>(MeSH: D009197)</small>
+* [[Neocortex]] — [[d:Q726562|Q726562]] <small>(MeSH: D019579)</small>
+* [[Neostriatum]] — [[d:Q66575248|Q66575248]] <small>(MeSH: D017072)</small>
+* [[Nerve Endings]] — [[d:Q5413568|Q5413568]] <small>(MeSH: D009411)</small>
+* [[Nerve Fibers]] — [[d:Q692974|Q692974]] <small>(MeSH: D009412)</small>
+* [[Nerve Fibers, Unmyelinated]] — [[d:Q66501951|Q66501951]] <small>(MeSH: D036421)</small>
+* [[Nerve Net]] — [[d:Q1762173|Q1762173]] <small>(MeSH: D009415)</small>
+* [[Nervous System]] — [[d:Q9404|Q9404]] <small>(MeSH: D009420)</small>
+* [[Neural Analyzers]] — [[d:Q70199246|Q70199246]] <small>(MeSH: D009430)</small>
+* [[Neural Pathways]] — [[d:Q2472302|Q2472302]] <small>(MeSH: D009434)</small>
+* [[Neurilemma]] — [[d:Q3184389|Q3184389]] <small>(MeSH: D009441)</small>
+* [[Neuroeffector Junction]] — [[d:Q17164408|Q17164408]] <small>(MeSH: D009451)</small>
+* [[Neuroepithelial Bodies]] — [[d:Q70062238|Q70062238]] <small>(MeSH: D046568)</small>
+* [[Neuroepithelial Cells]] — [[d:Q13652744|Q13652744]] <small>(MeSH: D046569)</small>
+* [[Neuroglia]] — [[d:Q177105|Q177105]] <small>(MeSH: D009457)</small>
+* [[Neuromuscular Junction]] — [[d:Q776995|Q776995]] <small>(MeSH: D009469)</small>
+* [[Neurons]] — [[d:Q43054|Q43054]] <small>(MeSH: D009474)</small>
+* [[Neurons, Afferent]] — [[d:Q3142126|Q3142126]] <small>(MeSH: D009475)</small>
+* [[Neurons, Efferent]] — [[d:Q70193581|Q70193581]] <small>(MeSH: D009476)</small>
+* [[Neuropil]] — [[d:Q1981429|Q1981429]] <small>(MeSH: D019581)</small>
+* [[Nitrergic Neurons]] — [[d:Q66591225|Q66591225]] <small>(MeSH: D026602)</small>
+* [[Nociceptors]] — [[d:Q412542|Q412542]] <small>(MeSH: D009619)</small>
+* [[Nodose Ganglion]] — [[d:Q6029330|Q6029330]] <small>(MeSH: D009620)</small>
+* [[Nucleus Accumbens]] — [[d:Q1476178|Q1476178]] <small>(MeSH: D009714)</small>
+* [[Nucleus Raphe Magnus]] — [[d:Q17143534|Q17143534]] <small>(MeSH: D065846)</small>
+* [[Nucleus Raphe Obscurus]] — [[d:Q17127342|Q17127342]] <small>(MeSH: D065849)</small>
+* [[Nucleus Raphe Pallidus]] — [[d:Q7068289|Q7068289]] <small>(MeSH: D065848)</small>
+* [[Obturator Nerve]] — [[d:Q1978161|Q1978161]] <small>(MeSH: D009776)</small>
+* [[Occipital Lobe]] — [[d:Q848340|Q848340]] <small>(MeSH: D009778)</small>
+* [[Oculomotor Nerve]] — [[d:Q223903|Q223903]] <small>(MeSH: D009802)</small>
+* [[Oculomotor Nuclear Complex]] — [[d:Q950852|Q950852]] <small>(MeSH: D065838)</small>
+* [[Olfactory Bulb]] — [[d:Q644945|Q644945]] <small>(MeSH: D009830)</small>
+* [[Olfactory Cortex]] — [[d:Q70750040|Q70750040]] <small>(MeSH: D066194)</small>
+* [[Olfactory Nerve]] — [[d:Q209704|Q209704]] <small>(MeSH: D009832)</small>
+* [[Olfactory Pathways]] — [[d:Q70059060|Q70059060]] <small>(MeSH: D009833)</small>
+* [[Olfactory Tubercle]] — [[d:Q7086516|Q7086516]] <small>(MeSH: D066208)</small>
+* [[Oligodendroglia]] — [[d:Q916698|Q916698]] <small>(MeSH: D009836)</small>
+* [[Olivary Nucleus]] — [[d:Q452983|Q452983]] <small>(MeSH: D009847)</small>
+* [[Ophthalmic Nerve]] — [[d:Q1420571|Q1420571]] <small>(MeSH: D009882)</small>
+* [[Optic Chiasm]] — [[d:Q1071710|Q1071710]] <small>(MeSH: D009897)</small>
+* [[Optic Disk]] — [[d:Q16873995|Q16873995]] <small>(MeSH: D009898)</small>
+* [[Optic Nerve]] — [[d:Q186029|Q186029]] <small>(MeSH: D009900)</small>
+* [[Optic Tract]] — [[d:Q1079316|Q1079316]] <small>(MeSH: D065866)</small>
+* [[Organum Vasculosum]] — [[d:Q2030057|Q2030057]] <small>(MeSH: D066278)</small>
+* [[Pacinian Corpuscles]] — [[d:Q673321|Q673321]] <small>(MeSH: D010141)</small>
+* [[Parabrachial Nucleus]] — [[d:Q936818|Q936818]] <small>(MeSH: D065823)</small>
+* [[Paraganglia, Nonchromaffin]] — [[d:Q70306736|Q70306736]] <small>(MeSH: D010234)</small>
+* [[Parahippocampal Gyrus]] — [[d:Q1545429|Q1545429]] <small>(MeSH: D020534)</small>
+* [[Parasympathetic Fibers, Postganglionic]] — [[d:Q70217352|Q70217352]] <small>(MeSH: D017777)</small>
+* [[Parasympathetic Nervous System]] — [[d:Q185589|Q185589]] <small>(MeSH: D010275)</small>
+* [[Paraventricular Hypothalamic Nucleus]] — [[d:Q444192|Q444192]] <small>(MeSH: D010286)</small>
+* [[Parietal Lobe]] — [[d:Q815334|Q815334]] <small>(MeSH: D010296)</small>
+* [[Pars Compacta]] — [[d:Q3366041|Q3366041]] <small>(MeSH: D065842)</small>
+* [[Pars Reticulata]] — [[d:Q7139918|Q7139918]] <small>(MeSH: D065841)</small>
+* [[Pedunculopontine Tegmental Nucleus]] — [[d:Q3345673|Q3345673]] <small>(MeSH: D045042)</small>
+* [[Perforant Pathway]] — [[d:Q7168164|Q7168164]] <small>(MeSH: D019580)</small>
+* [[Periamygdaloid Cortex]] — [[d:Q7168356|Q7168356]] <small>(MeSH: D066277)</small>
+* [[Periaqueductal Gray]] — [[d:Q1243765|Q1243765]] <small>(MeSH: D010487)</small>
+* [[Peripheral Nerves]] — [[d:Q11519747|Q11519747]] <small>(MeSH: D010525)</small>
+* [[Peripheral Nervous System]] — [[d:Q169953|Q169953]] <small>(MeSH: D017933)</small>
+* [[Perirhinal Cortex]] — [[d:Q2998089|Q2998089]] <small>(MeSH: D000071039)</small>
+* [[Peroneal Nerve]] — [[d:Q1577203|Q1577203]] <small>(MeSH: D010543)</small>
+* [[Photoreceptor Cells]] — [[d:Q748049|Q748049]] <small>(MeSH: D010786)</small>
+* [[Photoreceptor Cells, Invertebrate]] — [[d:Q70181802|Q70181802]] <small>(MeSH: D017956)</small>
+* [[Photoreceptor Cells, Vertebrate]] — [[d:Q70081735|Q70081735]] <small>(MeSH: D020419)</small>
+* [[Photoreceptor Connecting Cilium]] — [[d:Q14914020|Q14914020]] <small>(MeSH: D055212)</small>
+* [[Phrenic Nerve]] — [[d:Q737313|Q737313]] <small>(MeSH: D010791)</small>
+* [[Pia Mater]] — [[d:Q1647118|Q1647118]] <small>(MeSH: D010841)</small>
+* [[Pineal Gland]] — [[d:Q198654|Q198654]] <small>(MeSH: D010870)</small>
+* [[Piriform Cortex]] — [[d:Q2019583|Q2019583]] <small>(MeSH: D066195)</small>
+* [[Pituitary Gland]] — [[d:Q156871|Q156871]] <small>(MeSH: D010902)</small>
+* [[Pituitary Gland, Anterior]] — [[d:Q356002|Q356002]] <small>(MeSH: D010903)</small>
+* [[Pituitary Gland, Intermediate]] — [[d:Q70079512|Q70079512]] <small>(MeSH: D052716)</small>
+* [[Pituitary Gland, Posterior]] — [[d:Q1503735|Q1503735]] <small>(MeSH: D010904)</small>
+* [[Place Cells]] — [[d:Q2303730|Q2303730]] <small>(MeSH: D000071037)</small>
+* [[Pons]] — [[d:Q192570|Q192570]] <small>(MeSH: D011149)</small>
+* [[Pontine Tegmentum]] — [[d:Q7228298|Q7228298]] <small>(MeSH: D065821)</small>
+* [[Post-Synaptic Density]] — [[d:Q4374336|Q4374336]] <small>(MeSH: D057907)</small>
+* [[Posterior Cerebellar Commissure]] — [[d:Q915729|Q915729]] <small>(MeSH: D066243)</small>
+* [[Posterior Horn Cells]] — [[d:Q70078512|Q70078512]] <small>(MeSH: D020671)</small>
+* [[Posterior Thalamic Nuclei]] — [[d:Q70079949|Q70079949]] <small>(MeSH: D020656)</small>
+* [[Prefrontal Cortex]] — [[d:Q18680|Q18680]] <small>(MeSH: D017397)</small>
+* [[Preoptic Area]] — [[d:Q7240592|Q7240592]] <small>(MeSH: D011301)</small>
+* [[Pressoreceptors]] — [[d:Q808732|Q808732]] <small>(MeSH: D011311)</small>
+* [[Presynaptic Terminals]] — [[d:Q22327479|Q22327479]] <small>(MeSH: D017729)</small>
+* [[Pretectal Region]] — [[d:Q640536|Q640536]] <small>(MeSH: D066250)</small>
+* [[Primary Visual Cortex]] — [[d:Q66531315|Q66531315]] <small>(MeSH: D000087642)</small>
+* [[Prosencephalon]] — [[d:Q507027|Q507027]] <small>(MeSH: D016548)</small>
+* [[Pudendal Nerve]] — [[d:Q1753038|Q1753038]] <small>(MeSH: D060525)</small>
+* [[Pulmonary Stretch Receptors]] — [[d:Q7259548|Q7259548]] <small>(MeSH: D011661)</small>
+* [[Pulvinar]] — [[d:Q1429000|Q1429000]] <small>(MeSH: D020649)</small>
+* [[Purkinje Cells]] — [[d:Q1570272|Q1570272]] <small>(MeSH: D011689)</small>
+* [[Putamen]] — [[d:Q550934|Q550934]] <small>(MeSH: D011699)</small>
+* [[Pyramidal Cells]] — [[d:Q2116409|Q2116409]] <small>(MeSH: D017966)</small>
+* [[Pyramidal Tracts]] — [[d:Q968731|Q968731]] <small>(MeSH: D011712)</small>
+* [[Radial Nerve]] — [[d:Q1365325|Q1365325]] <small>(MeSH: D011826)</small>
+* [[Ranvier's Nodes]] — [[d:Q924483|Q924483]] <small>(MeSH: D011901)</small>
+* [[Raphe Nuclei]] — [[d:Q2061493|Q2061493]] <small>(MeSH: D011903)</small>
+* [[Recurrent Laryngeal Nerve]] — [[d:Q740541|Q740541]] <small>(MeSH: D012009)</small>
+* [[Red Nucleus]] — [[d:Q1751717|Q1751717]] <small>(MeSH: D012012)</small>
+* [[Renshaw Cells]] — [[d:Q1756451|Q1756451]] <small>(MeSH: D066293)</small>
+* [[Respiratory Center]] — [[d:Q7315911|Q7315911]] <small>(MeSH: D012125)</small>
+* [[Reticular Formation]] — [[d:Q750588|Q750588]] <small>(MeSH: D012154)</small>
+* [[Retinal Bipolar Cells]] — [[d:Q864951|Q864951]] <small>(MeSH: D051245)</small>
+* [[Retinal Cone Photoreceptor Cells]] — [[d:Q147298|Q147298]] <small>(MeSH: D017949)</small>
+* [[Retinal Ganglion Cells]] — [[d:Q927337|Q927337]] <small>(MeSH: D012165)</small>
+* [[Retinal Horizontal Cells]] — [[d:Q1628177|Q1628177]] <small>(MeSH: D051248)</small>
+* [[Retinal Neurons]] — [[d:Q70188529|Q70188529]] <small>(MeSH: D055351)</small>
+* [[Retinal Photoreceptor Cell Inner Segment]] — [[d:Q14859539|Q14859539]] <small>(MeSH: D055211)</small>
+* [[Retinal Photoreceptor Cell Outer Segment]] — [[d:Q70075038|Q70075038]] <small>(MeSH: D055214)</small>
+* [[Retinal Rod Photoreceptor Cells]] — [[d:Q505544|Q505544]] <small>(MeSH: D017948)</small>
+* [[Rhombencephalon]] — [[d:Q1137072|Q1137072]] <small>(MeSH: D012249)</small>
+* [[Rod Cell Outer Segment]] — [[d:Q66558343|Q66558343]] <small>(MeSH: D012374)</small>
+* [[Satellite Cells, Perineuronal]] — [[d:Q637104|Q637104]] <small>(MeSH: D027161)</small>
+* [[Schaffer Collaterals]] — [[d:Q7430916|Q7430916]] <small>(MeSH: D000094282)</small>
+* [[Schwann Cells]] — [[d:Q465621|Q465621]] <small>(MeSH: D012583)</small>
+* [[Sciatic Nerve]] — [[d:Q307869|Q307869]] <small>(MeSH: D012584)</small>
+* [[Sensorimotor Cortex]] — [[d:Q70227460|Q70227460]] <small>(MeSH: D066191)</small>
+* [[Sensory Receptor Cells]] — [[d:Q729463|Q729463]] <small>(MeSH: D011984)</small>
+* [[Septal Nuclei]] — [[d:Q7452044|Q7452044]] <small>(MeSH: D012686)</small>
+* [[Septum of Brain]] — [[d:Q70093581|Q70093581]] <small>(MeSH: D020665)</small>
+* [[Septum Pellucidum]] — [[d:Q1514754|Q1514754]] <small>(MeSH: D012688)</small>
+* [[Serotonergic Neurons]] — [[d:Q70220966|Q70220966]] <small>(MeSH: D059326)</small>
+* [[Solitary Nucleus]] — [[d:Q119744|Q119744]] <small>(MeSH: D017552)</small>
+* [[Somatosensory Cortex]] — [[d:Q64926247|Q64926247]] <small>(MeSH: D013003)</small>
+* [[Somatotrophs]] — [[d:Q3015605|Q3015605]] <small>(MeSH: D052683)</small>
+* [[Spinal Cord]] — [[d:Q9606|Q9606]] <small>(MeSH: D013116)</small>
+* [[Spinal Cord Dorsal Horn]] — [[d:Q7234198|Q7234198]] <small>(MeSH: D066148)</small>
+* [[Spinal Cord Lateral Horn]] — [[d:Q17112348|Q17112348]] <small>(MeSH: D066152)</small>
+* [[Spinal Cord Ventral Horn]] — [[d:Q2997445|Q2997445]] <small>(MeSH: D066151)</small>
+* [[Spinal Nerve Roots]] — [[d:Q16880232|Q16880232]] <small>(MeSH: D013126)</small>
+* [[Spinal Nerves]] — [[d:Q937076|Q937076]] <small>(MeSH: D013127)</small>
+* [[Spinocerebellar Tracts]] — [[d:Q7577636|Q7577636]] <small>(MeSH: D020824)</small>
+* [[Spinothalamic Tracts]] — [[d:Q2700458|Q2700458]] <small>(MeSH: D013133)</small>
+* [[Spiral Ganglion]] — [[d:Q3095145|Q3095145]] <small>(MeSH: D013136)</small>
+* [[Splanchnic Nerves]] — [[d:Q2795262|Q2795262]] <small>(MeSH: D013153)</small>
+* [[Stellate Ganglion]] — [[d:Q1493503|Q1493503]] <small>(MeSH: D013233)</small>
+* [[Subarachnoid Space]] — [[d:Q2361541|Q2361541]] <small>(MeSH: D013346)</small>
+* [[Subcommissural Organ]] — [[d:Q1423193|Q1423193]] <small>(MeSH: D013351)</small>
+* [[Subdural Space]] — [[d:Q7631109|Q7631109]] <small>(MeSH: D013355)</small>
+* [[Submucous Plexus]] — [[d:Q739865|Q739865]] <small>(MeSH: D013368)</small>
+* [[Substantia Gelatinosa]] — [[d:Q17137094|Q17137094]] <small>(MeSH: D013376)</small>
+* [[Substantia Innominata]] — [[d:Q626274|Q626274]] <small>(MeSH: D013377)</small>
+* [[Substantia Nigra]] — [[d:Q753278|Q753278]] <small>(MeSH: D013378)</small>
+* [[Subthalamic Nucleus]] — [[d:Q2270424|Q2270424]] <small>(MeSH: D020531)</small>
+* [[Subthalamus]] — [[d:Q1066549|Q1066549]] <small>(MeSH: D020530)</small>
+* [[Superior Cervical Ganglion]] — [[d:Q1493493|Q1493493]] <small>(MeSH: D017783)</small>
+* [[Superior Colliculi]] — [[d:Q1109417|Q1109417]] <small>(MeSH: D013477)</small>
+* [[Superior Olivary Complex]] — [[d:Q3881782|Q3881782]] <small>(MeSH: D065832)</small>
+* [[Suprachiasmatic Nucleus]] — [[d:Q1156516|Q1156516]] <small>(MeSH: D013493)</small>
+* [[Suprachiasmatic Nucleus Neurons]] — [[d:Q113319990|Q113319990]] <small>(MeSH: D000074523)</small>
+* [[Supraoptic Nucleus]] — [[d:Q492272|Q492272]] <small>(MeSH: D013495)</small>
+* [[Sural Nerve]] — [[d:Q6135922|Q6135922]] <small>(MeSH: D013497)</small>
+* [[Sympathetic Fibers, Postganglionic]] — [[d:Q70077166|Q70077166]] <small>(MeSH: D017779)</small>
+* [[Sympathetic Nervous System]] — [[d:Q187215|Q187215]] <small>(MeSH: D013564)</small>
+* [[Synapses]] — [[d:Q187181|Q187181]] <small>(MeSH: D013569)</small>
+* [[Synaptic Vesicles]] — [[d:Q671136|Q671136]] <small>(MeSH: D013572)</small>
+* [[Taste Buds]] — [[d:Q862867|Q862867]] <small>(MeSH: D013650)</small>
+* [[Tectospinal Fibers]] — [[d:Q7692864|Q7692864]] <small>(MeSH: D065844)</small>
+* [[Tectum Mesencephali]] — [[d:Q4465020|Q4465020]] <small>(MeSH: D003336)</small>
+* [[Tegmentum Mesencephali]] — [[d:Q6841128|Q6841128]] <small>(MeSH: D013681)</small>
+* [[Telencephalic Commissures]] — [[d:Q70068644|Q70068644]] <small>(MeSH: D066245)</small>
+* [[Telencephalon]] — [[d:Q10937390|Q10937390]] <small>(MeSH: D013687)</small>
+* [[Temporal Lobe]] — [[d:Q744385|Q744385]] <small>(MeSH: D013702)</small>
+* [[Thalamic Nuclei]] — [[d:Q6642944|Q6642944]] <small>(MeSH: D013787)</small>
+* [[Thalamus]] — [[d:Q184215|Q184215]] <small>(MeSH: D013788)</small>
+* [[Thermoreceptors]] — [[d:Q2706070|Q2706070]] <small>(MeSH: D013823)</small>
+* [[Third Ventricle]] — [[d:Q662322|Q662322]] <small>(MeSH: D020542)</small>
+* [[Thoracic Nerves]] — [[d:Q7796116|Q7796116]] <small>(MeSH: D013900)</small>
+* [[Thyrotrophs]] — [[d:Q3304865|Q3304865]] <small>(MeSH: D052684)</small>
+* [[Tibial Nerve]] — [[d:Q1978198|Q1978198]] <small>(MeSH: D013979)</small>
+* [[Trapezoid Body]] — [[d:Q7835580|Q7835580]] <small>(MeSH: D065833)</small>
+* [[Trigeminal Caudal Nucleus]] — [[d:Q70091038|Q70091038]] <small>(MeSH: D014275)</small>
+* [[Trigeminal Ganglion]] — [[d:Q776972|Q776972]] <small>(MeSH: D012668)</small>
+* [[Trigeminal Motor Nucleus]] — [[d:Q7841673|Q7841673]] <small>(MeSH: D066266)</small>
+* [[Trigeminal Nerve]] — [[d:Q189763|Q189763]] <small>(MeSH: D014276)</small>
+* [[Trigeminal Nuclei]] — [[d:Q7841674|Q7841674]] <small>(MeSH: D014278)</small>
+* [[Trigeminal Nucleus, Spinal]] — [[d:Q7577476|Q7577476]] <small>(MeSH: D014279)</small>
+* [[Trochlear Nerve]] — [[d:Q319584|Q319584]] <small>(MeSH: D014321)</small>
+* [[Tuber Cinereum]] — [[d:Q866106|Q866106]] <small>(MeSH: D014371)</small>
+* [[Tuft Cells]] — [[d:Q25325383|Q25325383]] <small>(MeSH: D000095491)</small>
+* [[Ulnar Nerve]] — [[d:Q254580|Q254580]] <small>(MeSH: D014459)</small>
+* [[Uncinate Fasciculus]] — [[d:Q176007|Q176007]] <small>(MeSH: D000083382)</small>
+* [[Vagus Nerve]] — [[d:Q190140|Q190140]] <small>(MeSH: D014630)</small>
+* [[Vasomotor System]] — [[d:Q3664916|Q3664916]] <small>(MeSH: D014666)</small>
+* [[Ventral Striatum]] — [[d:Q7920296|Q7920296]] <small>(MeSH: D066328)</small>
+* [[Ventral Tegmental Area]] — [[d:Q640562|Q640562]] <small>(MeSH: D017557)</small>
+* [[Ventral Thalamic Nuclei]] — [[d:Q7920286|Q7920286]] <small>(MeSH: D020651)</small>
+* [[Ventromedial Hypothalamic Nucleus]] — [[d:Q7920337|Q7920337]] <small>(MeSH: D014697)</small>
+* [[Vestibular Nerve]] — [[d:Q2146063|Q2146063]] <small>(MeSH: D014725)</small>
+* [[Vestibular Nuclei]] — [[d:Q2004165|Q2004165]] <small>(MeSH: D014726)</small>
+* [[Vestibular Nucleus, Lateral]] — [[d:Q6495728|Q6495728]] <small>(MeSH: D003689)</small>
+* [[Vestibulocochlear Nerve]] — [[d:Q319317|Q319317]] <small>(MeSH: D000159)</small>
+* [[Visceral Afferents]] — [[d:Q7935641|Q7935641]] <small>(MeSH: D017833)</small>
+* [[Visual Cortex]] — [[d:Q75785|Q75785]] <small>(MeSH: D014793)</small>
+* [[Visual Pathways]] — [[d:Q68015725|Q68015725]] <small>(MeSH: D014795)</small>
+* [[Wernicke Area]] — [[d:Q824214|Q824214]] <small>(MeSH: D065813)</small>
+* [[White Matter]] — [[d:Q822050|Q822050]] <small>(MeSH: D066127)</small>
+* [[Zona Incerta]] — [[d:Q3752103|Q3752103]] <small>(MeSH: D065820)</small>
+
+=== Musculoskeletal System ===
+
+* '''Coverage:''' 37.0%
+* '''{{color|blue|Bluelinks}}:''' 78
+* '''{{color|red|Redlinks}}:''' 133
+* [[Abdominal Muscles]] — [[d:Q249699|Q249699]] <small>(MeSH: D000009)</small>
+* [[Abdominal Oblique Muscles]] — [[d:Q70060580|Q70060580]] <small>(MeSH: D000071596)</small>
+* [[Acetabulum]] — [[d:Q1130461|Q1130461]] <small>(MeSH: D000077)</small>
+* [[Achilles Tendon]] — [[d:Q223172|Q223172]] <small>(MeSH: D000125)</small>
+* [[Acromioclavicular Joint]] — [[d:Q1640207|Q1640207]] <small>(MeSH: D000173)</small>
+* [[Acromion]] — [[d:Q615414|Q615414]] <small>(MeSH: D000174)</small>
+* [[Ankle Joint]] — [[d:Q10690310|Q10690310]] <small>(MeSH: D000843)</small>
+* [[Annulus Fibrosus]] — [[d:Q4769759|Q4769759]] <small>(MeSH: D000070616)</small>
+* [[Anterior Cruciate Ligament]] — [[d:Q611127|Q611127]] <small>(MeSH: D016118)</small>
+* [[Aponeurosis]] — [[d:Q619632|Q619632]] <small>(MeSH: D000070606)</small>
+* [[Arm Bones]] — [[d:Q28828068|Q28828068]] <small>(MeSH: D050280)</small>
+* [[Arytenoid Cartilage]] — [[d:Q1545154|Q1545154]] <small>(MeSH: D001193)</small>
+* [[Atlanto-Axial Joint]] — [[d:Q2865747|Q2865747]] <small>(MeSH: D001268)</small>
+* [[Atlanto-Occipital Joint]] — [[d:Q1169223|Q1169223]] <small>(MeSH: D001269)</small>
+* [[Axis, Cervical Vertebra]] — [[d:Q792567|Q792567]] <small>(MeSH: D001368)</small>
+* [[Back Muscles]] — [[d:Q974257|Q974257]] <small>(MeSH: D064131)</small>
+* [[Bone and Bones]] — [[d:Q265868|Q265868]] <small>(MeSH: D001842)</small>
+* [[Bone-Implant Interface]] — [[d:Q70202819|Q70202819]] <small>(MeSH: D000069343)</small>
+* [[Bones of Lower Extremity]] — [[d:Q70060165|Q70060165]] <small>(MeSH: D050281)</small>
+* [[Bones of Upper Extremity]] — [[d:Q70305947|Q70305947]] <small>(MeSH: D001133)</small>
+* [[Broad Ligament]] — [[d:Q629796|Q629796]] <small>(MeSH: D001956)</small>
+* [[Bursa, Synovial]] — [[d:Q1431311|Q1431311]] <small>(MeSH: D002061)</small>
+* [[Calcaneus]] — [[d:Q13075|Q13075]] <small>(MeSH: D002111)</small>
+* [[Capitate Bone]] — [[d:Q752369|Q752369]] <small>(MeSH: D051224)</small>
+* [[Carpal Bones]] — [[d:Q232377|Q232377]] <small>(MeSH: D002348)</small>
+* [[Carpal Joints]] — [[d:Q6045628|Q6045628]] <small>(MeSH: D050824)</small>
+* [[Carpometacarpal Joints]] — [[d:Q12383338|Q12383338]] <small>(MeSH: D052737)</small>
+* [[Cartilage]] — [[d:Q502730|Q502730]] <small>(MeSH: D002356)</small>
+* [[Cartilage, Articular]] — [[d:Q3704713|Q3704713]] <small>(MeSH: D002358)</small>
+* [[Cervical Atlas]] — [[d:Q655357|Q655357]] <small>(MeSH: D001270)</small>
+* [[Cervical Rib]] — [[d:Q964519|Q964519]] <small>(MeSH: D057070)</small>
+* [[Cervical Vertebrae]] — [[d:Q900457|Q900457]] <small>(MeSH: D002574)</small>
+* [[Clavicle]] — [[d:Q16343|Q16343]] <small>(MeSH: D002968)</small>
+* [[Coccyx]] — [[d:Q193176|Q193176]] <small>(MeSH: D003050)</small>
+* [[Collateral Ligament, Ulnar]] — [[d:Q7879707|Q7879707]] <small>(MeSH: D000070637)</small>
+* [[Collateral Ligaments]] — [[d:Q1824643|Q1824643]] <small>(MeSH: D017885)</small>
+* [[Coracoid Process]] — [[d:Q905716|Q905716]] <small>(MeSH: D000070597)</small>
+* [[Costal Cartilage]] — [[d:Q4357062|Q4357062]] <small>(MeSH: D066186)</small>
+* [[Cranial Fontanelles]] — [[d:Q752693|Q752693]] <small>(MeSH: D055762)</small>
+* [[Cranial Sutures]] — [[d:Q775533|Q775533]] <small>(MeSH: D003393)</small>
+* [[Cricoid Cartilage]] — [[d:Q638244|Q638244]] <small>(MeSH: D003413)</small>
+* [[Deltoid Muscle]] — [[d:Q130243|Q130243]] <small>(MeSH: D057645)</small>
+* [[Dental Arch]] — [[d:Q143480|Q143480]] <small>(MeSH: D003724)</small>
+* [[Diaphyses]] — [[d:Q2353265|Q2353265]] <small>(MeSH: D018483)</small>
+* [[Ear Cartilage]] — [[d:Q66557651|Q66557651]] <small>(MeSH: D004425)</small>
+* [[Elastic Cartilage]] — [[d:Q607735|Q607735]] <small>(MeSH: D051472)</small>
+* [[Elbow Joint]] — [[d:Q11611456|Q11611456]] <small>(MeSH: D004551)</small>
+* [[Epidural Space]] — [[d:Q3966104|Q3966104]] <small>(MeSH: D004824)</small>
+* [[Epiglottis]] — [[d:Q235378|Q235378]] <small>(MeSH: D004825)</small>
+* [[Epiphyses]] — [[d:Q1801229|Q1801229]] <small>(MeSH: D004838)</small>
+* [[Esophageal Sphincter, Upper]] — [[d:Q1407428|Q1407428]] <small>(MeSH: D049631)</small>
+* [[Ethmoid Bone]] — [[d:Q16331|Q16331]] <small>(MeSH: D005004)</small>
+* [[Facial Bones]] — [[d:Q1068553|Q1068553]] <small>(MeSH: D005147)</small>
+* [[Facial Muscles]] — [[d:Q2341604|Q2341604]] <small>(MeSH: D005152)</small>
+* [[Fascia]] — [[d:Q936531|Q936531]] <small>(MeSH: D005205)</small>
+* [[Fascia Lata]] — [[d:Q1397347|Q1397347]] <small>(MeSH: D005206)</small>
+* [[Femur]] — [[d:Q176503|Q176503]] <small>(MeSH: D005269)</small>
+* [[Femur Head]] — [[d:Q582849|Q582849]] <small>(MeSH: D005270)</small>
+* [[Femur Neck]] — [[d:Q4844892|Q4844892]] <small>(MeSH: D005272)</small>
+* [[Fibrocartilage]] — [[d:Q2192944|Q2192944]] <small>(MeSH: D051445)</small>
+* [[Fibula]] — [[d:Q302896|Q302896]] <small>(MeSH: D005360)</small>
+* [[Finger Joint]] — [[d:Q130398794|Q130398794]] <small>(MeSH: D005384)</small>
+* [[Finger Phalanges]] — [[d:Q468140|Q468140]] <small>(MeSH: D050278)</small>
+* [[Foot Bones]] — [[d:Q60029841|Q60029841]] <small>(MeSH: D005529)</small>
+* [[Foot Joints]] — [[d:Q3624379|Q3624379]] <small>(MeSH: D033023)</small>
+* [[Foramen Magnum]] — [[d:Q426139|Q426139]] <small>(MeSH: D005539)</small>
+* [[Frontal Bone]] — [[d:Q16295|Q16295]] <small>(MeSH: D005624)</small>
+* [[Glenoid Cavity]] — [[d:Q19544|Q19544]] <small>(MeSH: D061165)</small>
+* [[Gracilis Muscle]] — [[d:Q1428669|Q1428669]] <small>(MeSH: D000071976)</small>
+* [[Growth Plate]] — [[d:Q1347293|Q1347293]] <small>(MeSH: D006132)</small>
+* [[Hamate Bone]] — [[d:Q54393|Q54393]] <small>(MeSH: D051225)</small>
+* [[Hamstring Muscles]] — [[d:Q196002|Q196002]] <small>(MeSH: D000070633)</small>
+* [[Hamstring Tendons]] — [[d:Q100934056|Q100934056]] <small>(MeSH: D000070632)</small>
+* [[Hand Bones]] — [[d:Q1575012|Q1575012]] <small>(MeSH: D050276)</small>
+* [[Hand Joints]] — [[d:Q3624383|Q3624383]] <small>(MeSH: D050823)</small>
+* [[Hip Joint]] — [[d:Q2284469|Q2284469]] <small>(MeSH: D006621)</small>
+* [[Humeral Head]] — [[d:Q70060473|Q70060473]] <small>(MeSH: D058430)</small>
+* [[Humerus]] — [[d:Q162595|Q162595]] <small>(MeSH: D006811)</small>
+* [[Hyaline Cartilage]] — [[d:Q2014564|Q2014564]] <small>(MeSH: D051457)</small>
+* [[Hyoid Bone]] — [[d:Q16332|Q16332]] <small>(MeSH: D006928)</small>
+* [[Ilium]] — [[d:Q728889|Q728889]] <small>(MeSH: D007085)</small>
+* [[Intercostal Muscles]] — [[d:Q3302518|Q3302518]] <small>(MeSH: D007366)</small>
+* [[Intermediate Back Muscles]] — [[d:Q70074825|Q70074825]] <small>(MeSH: D064169)</small>
+* [[Intervertebral Disc]] — [[d:Q502781|Q502781]] <small>(MeSH: D007403)</small>
+* [[Ischium]] — [[d:Q531029|Q531029]] <small>(MeSH: D007512)</small>
+* [[Jaw]] — [[d:Q180284|Q180284]] <small>(MeSH: D007568)</small>
+* [[Joint Capsule]] — [[d:Q425667|Q425667]] <small>(MeSH: D017746)</small>
+* [[Joints]] — [[d:Q9644|Q9644]] <small>(MeSH: D007596)</small>
+* [[Knee Joint]] — [[d:Q62394131|Q62394131]] <small>(MeSH: D007719)</small>
+* [[Laryngeal Cartilages]] — [[d:Q12020766|Q12020766]] <small>(MeSH: D007817)</small>
+* [[Laryngeal Muscles]] — [[d:Q6940335|Q6940335]] <small>(MeSH: D007821)</small>
+* [[Lateral Ligament, Ankle]] — [[d:Q6495571|Q6495571]] <small>(MeSH: D017844)</small>
+* [[Leg Bones]] — [[d:Q26261881|Q26261881]] <small>(MeSH: D007867)</small>
+* [[Ligaments]] — [[d:Q39888|Q39888]] <small>(MeSH: D008022)</small>
+* [[Ligaments, Articular]] — [[d:Q70182086|Q70182086]] <small>(MeSH: D008023)</small>
+* [[Ligamentum Flavum]] — [[d:Q1468271|Q1468271]] <small>(MeSH: D017843)</small>
+* [[Longitudinal Ligaments]] — [[d:Q6674012|Q6674012]] <small>(MeSH: D017846)</small>
+* [[Lumbar Vertebrae]] — [[d:Q405478|Q405478]] <small>(MeSH: D008159)</small>
+* [[Lunate Bone]] — [[d:Q13141|Q13141]] <small>(MeSH: D012667)</small>
+* [[Mandible]] — [[d:Q16370|Q16370]] <small>(MeSH: D008334)</small>
+* [[Mandibular Canal]] — [[d:Q1032740|Q1032740]] <small>(MeSH: D000088263)</small>
+* [[Mandibular Condyle]] — [[d:Q718041|Q718041]] <small>(MeSH: D008335)</small>
+* [[Manubrium]] — [[d:Q2719344|Q2719344]] <small>(MeSH: D008371)</small>
+* [[Masseter Muscle]] — [[d:Q725408|Q725408]] <small>(MeSH: D008406)</small>
+* [[Masticatory Muscles]] — [[d:Q286978|Q286978]] <small>(MeSH: D008410)</small>
+* [[Mastoid]] — [[d:Q845740|Q845740]] <small>(MeSH: D008416)</small>
+* [[Maxilla]] — [[d:Q182895|Q182895]] <small>(MeSH: D008437)</small>
+* [[Medial Collateral Ligament, Knee]] — [[d:Q3241072|Q3241072]] <small>(MeSH: D017888)</small>
+* [[Menisci, Tibial]] — [[d:Q70231003|Q70231003]] <small>(MeSH: D008592)</small>
+* [[Meniscus]] — [[d:Q846928|Q846928]] <small>(MeSH: D000072600)</small>
+* [[Mental Foramen]] — [[d:Q833871|Q833871]] <small>(MeSH: D000080383)</small>
+* [[Metacarpal Bones]] — [[d:Q237229|Q237229]] <small>(MeSH: D050279)</small>
+* [[Metacarpophalangeal Joint]] — [[d:Q14698418|Q14698418]] <small>(MeSH: D008662)</small>
+* [[Metatarsal Bones]] — [[d:Q320524|Q320524]] <small>(MeSH: D008682)</small>
+* [[Metatarsophalangeal Joint]] — [[d:Q184490|Q184490]] <small>(MeSH: D008683)</small>
+* [[Muscle, Skeletal]] — [[d:Q1048687|Q1048687]] <small>(MeSH: D018482)</small>
+* [[Muscle, Smooth]] — [[d:Q208453|Q208453]] <small>(MeSH: D009130)</small>
+* [[Muscle, Smooth, Vascular]] — [[d:Q7916469|Q7916469]] <small>(MeSH: D009131)</small>
+* [[Muscles]] — [[d:Q7365|Q7365]] <small>(MeSH: D009132)</small>
+* [[Musculoskeletal System]] — [[d:Q726543|Q726543]] <small>(MeSH: D009141)</small>
+* [[Myocardium]] — [[d:Q84133|Q84133]] <small>(MeSH: D009206)</small>
+* [[Myometrium]] — [[d:Q2562472|Q2562472]] <small>(MeSH: D009215)</small>
+* [[Myotendinous Junction]] — [[d:Q21107786|Q21107786]] <small>(MeSH: D000094364)</small>
+* [[Nasal Bone]] — [[d:Q38155|Q38155]] <small>(MeSH: D009295)</small>
+* [[Nasal Cartilages]] — [[d:Q12229608|Q12229608]] <small>(MeSH: D055171)</small>
+* [[Neck Muscles]] — [[d:Q70231265|Q70231265]] <small>(MeSH: D009334)</small>
+* [[Nucleus Pulposus]] — [[d:Q3346043|Q3346043]] <small>(MeSH: D000070614)</small>
+* [[Occipital Bone]] — [[d:Q16317|Q16317]] <small>(MeSH: D009777)</small>
+* [[Oculomotor Muscles]] — [[d:Q533979|Q533979]] <small>(MeSH: D009801)</small>
+* [[Odontoid Process]] — [[d:Q3406409|Q3406409]] <small>(MeSH: D009809)</small>
+* [[Olecranon Process]] — [[d:Q2536335|Q2536335]] <small>(MeSH: D056740)</small>
+* [[Orbit]] — [[d:Q156075|Q156075]] <small>(MeSH: D009915)</small>
+* [[Palatal Muscles]] — [[d:Q59627080|Q59627080]] <small>(MeSH: D010156)</small>
+* [[Palmar Plate]] — [[d:Q7128149|Q7128149]] <small>(MeSH: D053401)</small>
+* [[Paraspinal Muscles]] — [[d:Q70076052|Q70076052]] <small>(MeSH: D064170)</small>
+* [[Parietal Bone]] — [[d:Q16298|Q16298]] <small>(MeSH: D010294)</small>
+* [[Patella]] — [[d:Q229081|Q229081]] <small>(MeSH: D010329)</small>
+* [[Patellar Ligament]] — [[d:Q1172095|Q1172095]] <small>(MeSH: D017847)</small>
+* [[Patellofemoral Joint]] — [[d:Q66533172|Q66533172]] <small>(MeSH: D057071)</small>
+* [[Pectoralis Muscles]] — [[d:Q660627|Q660627]] <small>(MeSH: D010369)</small>
+* [[Pelvic Bones]] — [[d:Q3356933|Q3356933]] <small>(MeSH: D010384)</small>
+* [[Petrous Bone]] — [[d:Q1404198|Q1404198]] <small>(MeSH: D010579)</small>
+* [[Pharyngeal Muscles]] — [[d:Q7180883|Q7180883]] <small>(MeSH: D010609)</small>
+* [[Pisiform Bone]] — [[d:Q691942|Q691942]] <small>(MeSH: D051220)</small>
+* [[Plantar Plate]] — [[d:Q7201589|Q7201589]] <small>(MeSH: D000069262)</small>
+* [[Posterior Cruciate Ligament]] — [[d:Q735353|Q735353]] <small>(MeSH: D016119)</small>
+* [[Psoas Muscles]] — [[d:Q68800232|Q68800232]] <small>(MeSH: D016658)</small>
+* [[Pterygoid Muscles]] — [[d:Q68549908|Q68549908]] <small>(MeSH: D011626)</small>
+* [[Pterygopalatine Fossa]] — [[d:Q780355|Q780355]] <small>(MeSH: D056739)</small>
+* [[Pubic Bone]] — [[d:Q220815|Q220815]] <small>(MeSH: D011630)</small>
+* [[Pubic Symphysis]] — [[d:Q1571074|Q1571074]] <small>(MeSH: D011631)</small>
+* [[Quadriceps Muscle]] — [[d:Q504536|Q504536]] <small>(MeSH: D052097)</small>
+* [[Radius]] — [[d:Q178492|Q178492]] <small>(MeSH: D011884)</small>
+* [[Rectus Abdominis]] — [[d:Q275150|Q275150]] <small>(MeSH: D017568)</small>
+* [[Respiratory Muscles]] — [[d:Q754337|Q754337]] <small>(MeSH: D012132)</small>
+* [[Rib Cage]] — [[d:Q2576226|Q2576226]] <small>(MeSH: D000070602)</small>
+* [[Ribs]] — [[d:Q196672|Q196672]] <small>(MeSH: D012272)</small>
+* [[Rotator Cuff]] — [[d:Q1764136|Q1764136]] <small>(MeSH: D017006)</small>
+* [[Round Ligament of Femur]] — [[d:Q6545844|Q6545844]] <small>(MeSH: D000069593)</small>
+* [[Round Ligament of Liver]] — [[d:Q6586555|Q6586555]] <small>(MeSH: D000069592)</small>
+* [[Round Ligament of Uterus]] — [[d:Q1527057|Q1527057]] <small>(MeSH: D012404)</small>
+* [[Round Ligaments]] — [[d:Q7371196|Q7371196]] <small>(MeSH: D000069590)</small>
+* [[Sacroiliac Joint]] — [[d:Q1543208|Q1543208]] <small>(MeSH: D012446)</small>
+* [[Sacrum]] — [[d:Q233316|Q233316]] <small>(MeSH: D012447)</small>
+* [[Scaphoid Bone]] — [[d:Q13143|Q13143]] <small>(MeSH: D021361)</small>
+* [[Scapula]] — [[d:Q16336|Q16336]] <small>(MeSH: D012540)</small>
+* [[Sella Turcica]] — [[d:Q1772886|Q1772886]] <small>(MeSH: D012658)</small>
+* [[Sesamoid Bones]] — [[d:Q1365684|Q1365684]] <small>(MeSH: D012716)</small>
+* [[Shoulder Joint]] — [[d:Q1758798|Q1758798]] <small>(MeSH: D012785)</small>
+* [[Skeleton]] — [[d:Q7881|Q7881]] <small>(MeSH: D012863)</small>
+* [[Skull]] — [[d:Q13147|Q13147]] <small>(MeSH: D012886)</small>
+* [[Sphenoid Bone]] — [[d:Q16321|Q16321]] <small>(MeSH: D013100)</small>
+* [[Spinal Canal]] — [[d:Q781983|Q781983]] <small>(MeSH: D013115)</small>
+* [[Spine]] — [[d:Q1979420|Q1979420]] <small>(MeSH: D013131)</small>
+* [[Stapedius]] — [[d:Q507538|Q507538]] <small>(MeSH: D013198)</small>
+* [[Sternoclavicular Joint]] — [[d:Q640022|Q640022]] <small>(MeSH: D013247)</small>
+* [[Sternocostal Joints]] — [[d:Q3624378|Q3624378]] <small>(MeSH: D013248)</small>
+* [[Sternum]] — [[d:Q8481|Q8481]] <small>(MeSH: D013249)</small>
+* [[Subtalar Joint]] — [[d:Q7632190|Q7632190]] <small>(MeSH: D013380)</small>
+* [[Superficial Back Muscles]] — [[d:Q70198201|Q70198201]] <small>(MeSH: D064171)</small>
+* [[Synovial Fluid]] — [[d:Q25581|Q25581]] <small>(MeSH: D013582)</small>
+* [[Synovial Membrane]] — [[d:Q575064|Q575064]] <small>(MeSH: D013583)</small>
+* [[Talus]] — [[d:Q13100|Q13100]] <small>(MeSH: D013628)</small>
+* [[Tarsal Bones]] — [[d:Q1059724|Q1059724]] <small>(MeSH: D013639)</small>
+* [[Tarsal Joints]] — [[d:Q6057189|Q6057189]] <small>(MeSH: D013640)</small>
+* [[Temporal Bone]] — [[d:Q16313|Q16313]] <small>(MeSH: D013701)</small>
+* [[Temporal Muscle]] — [[d:Q599406|Q599406]] <small>(MeSH: D013703)</small>
+* [[Temporomandibular Joint]] — [[d:Q827134|Q827134]] <small>(MeSH: D013704)</small>
+* [[Temporomandibular Joint Disc]] — [[d:Q4800944|Q4800944]] <small>(MeSH: D019224)</small>
+* [[Tendons]] — [[d:Q232358|Q232358]] <small>(MeSH: D013710)</small>
+* [[Tenon Capsule]] — [[d:Q126304|Q126304]] <small>(MeSH: D058475)</small>
+* [[Tensor Tympani]] — [[d:Q254643|Q254643]] <small>(MeSH: D013719)</small>
+* [[Thoracic Vertebrae]] — [[d:Q578786|Q578786]] <small>(MeSH: D013904)</small>
+* [[Thyroid Cartilage]] — [[d:Q171093|Q171093]] <small>(MeSH: D013957)</small>
+* [[Tibia]] — [[d:Q178366|Q178366]] <small>(MeSH: D013977)</small>
+* [[Tibiofemoral Joint]] — [[d:Q66533165|Q66533165]] <small>(MeSH: D000097547)</small>
+* [[Toe Joint]] — [[d:Q184488|Q184488]] <small>(MeSH: D014033)</small>
+* [[Toe Phalanges]] — [[d:Q184494|Q184494]] <small>(MeSH: D050277)</small>
+* [[Trapezium Bone]] — [[d:Q265617|Q265617]] <small>(MeSH: D051222)</small>
+* [[Trapezoid Bone]] — [[d:Q847084|Q847084]] <small>(MeSH: D051223)</small>
+* [[Triangular Fibrocartilage]] — [[d:Q1887448|Q1887448]] <small>(MeSH: D051478)</small>
+* [[Triquetrum Bone]] — [[d:Q278417|Q278417]] <small>(MeSH: D051221)</small>
+* [[Turbinates]] — [[d:Q11216176|Q11216176]] <small>(MeSH: D014420)</small>
+* [[Ulna]] — [[d:Q199507|Q199507]] <small>(MeSH: D014457)</small>
+* [[Velopharyngeal Sphincter]] — [[d:Q70075597|Q70075597]] <small>(MeSH: D055158)</small>
+* [[Vertebral Body]] — [[d:Q747904|Q747904]] <small>(MeSH: D000083442)</small>
+* [[Vomer]] — [[d:Q193527|Q193527]] <small>(MeSH: D055172)</small>
+* [[Wrist Joint]] — [[d:Q28828604|Q28828604]] <small>(MeSH: D014955)</small>
+* [[Xiphoid Bone]] — [[d:Q16359|Q16359]] <small>(MeSH: D014989)</small>
+* [[Zygapophyseal Joint]] — [[d:Q1704251|Q1704251]] <small>(MeSH: D021801)</small>
+* [[Zygoma]] — [[d:Q730302|Q730302]] <small>(MeSH: D015050)</small>
+
+
+[[Category:WikiProject MeSH]]

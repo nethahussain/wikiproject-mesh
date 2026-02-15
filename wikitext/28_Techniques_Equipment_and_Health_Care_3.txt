@@ -1,0 +1,622 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Diagnostic Techniques ===
+
+* '''Coverage:''' 27.8%
+* '''{{color|blue|Bluelinks}}:''' 170
+* '''{{color|red|Redlinks}}:''' 442
+* [[Aberrometry]] — [[d:Q73484154|Q73484154]] <small>(MeSH: D057128)</small>
+* [[Abnormal Involuntary Movement Scale]] — [[d:Q73041380|Q73041380]] <small>(MeSH: D000067399)</small>
+* [[Absorptiometry, Photon]] — [[d:Q73227822|Q73227822]] <small>(MeSH: D015502)</small>
+* [[Acoustic Impedance Tests]] — [[d:Q3307114|Q3307114]] <small>(MeSH: D000158)</small>
+* [[Actigraphy]] — [[d:Q422201|Q422201]] <small>(MeSH: D056044)</small>
+* [[Adiposity]] — [[d:Q71129164|Q71129164]] <small>(MeSH: D050154)</small>
+* [[Adrenal Cortex Function Tests]] — [[d:Q73526406|Q73526406]] <small>(MeSH: D000304)</small>
+* [[Age Determination by Skeleton]] — [[d:Q1777274|Q1777274]] <small>(MeSH: D000365)</small>
+* [[Age Determination by Teeth]] — [[d:Q73397059|Q73397059]] <small>(MeSH: D000366)</small>
+* [[Airway Resistance]] — [[d:Q754455|Q754455]] <small>(MeSH: D000403)</small>
+* [[Alpha Rhythm]] — [[d:Q2469782|Q2469782]] <small>(MeSH: D000513)</small>
+* [[Amniocentesis]] — [[d:Q473768|Q473768]] <small>(MeSH: D000649)</small>
+* [[Angiocardiography]] — [[d:Q3815025|Q3815025]] <small>(MeSH: D000790)</small>
+* [[Angiography]] — [[d:Q468414|Q468414]] <small>(MeSH: D000792)</small>
+* [[Angiography, Digital Subtraction]] — [[d:Q1224954|Q1224954]] <small>(MeSH: D015901)</small>
+* [[Ankle Brachial Index]] — [[d:Q1667879|Q1667879]] <small>(MeSH: D055109)</small>
+* [[Anthropometry]] — [[d:Q6656244|Q6656244]] <small>(MeSH: D000886)</small>
+* [[Aortography]] — [[d:Q4778773|Q4778773]] <small>(MeSH: D001027)</small>
+* [[Apgar Score]] — [[d:Q210797|Q210797]] <small>(MeSH: D001034)</small>
+* [[Arthrocentesis]] — [[d:Q4797646|Q4797646]] <small>(MeSH: D000069237)</small>
+* [[Arthrography]] — [[d:Q131565289|Q131565289]] <small>(MeSH: D001175)</small>
+* [[Arthrometry, Articular]] — [[d:Q71147733|Q71147733]] <small>(MeSH: D053587)</small>
+* [[Audiometry]] — [[d:Q758881|Q758881]] <small>(MeSH: D001299)</small>
+* [[Audiometry, Evoked Response]] — [[d:Q1382628|Q1382628]] <small>(MeSH: D001300)</small>
+* [[Audiometry, Pure-Tone]] — [[d:Q7261165|Q7261165]] <small>(MeSH: D001301)</small>
+* [[Audiometry, Speech]] — [[d:Q73219200|Q73219200]] <small>(MeSH: D001302)</small>
+* [[Auscultation]] — [[d:Q779054|Q779054]] <small>(MeSH: D001314)</small>
+* [[Autopsy]] — [[d:Q41482|Q41482]] <small>(MeSH: D001344)</small>
+* [[Bacilloscopy]] — [[d:Q137660771|Q137660771]] <small>(MeSH: D000099137)</small>
+* [[Bacterial Load]] — [[d:Q68755517|Q68755517]] <small>(MeSH: D058491)</small>
+* [[Bacterial Typing Techniques]] — [[d:Q73214299|Q73214299]] <small>(MeSH: D015373)</small>
+* [[Bacteriological Techniques]] — [[d:Q68756090|Q68756090]] <small>(MeSH: D001431)</small>
+* [[Bacteriophage Typing]] — [[d:Q73217034|Q73217034]] <small>(MeSH: D001434)</small>
+* [[Ballistocardiography]] — [[d:Q4851812|Q4851812]] <small>(MeSH: D001450)</small>
+* [[Balloon Enteroscopy]] — [[d:Q73231603|Q73231603]] <small>(MeSH: D000071087)</small>
+* [[Barium Enema]] — [[d:Q1549149|Q1549149]] <small>(MeSH: D000071941)</small>
+* [[Beta Rhythm]] — [[d:Q831014|Q831014]] <small>(MeSH: D001611)</small>
+* [[Biopsy]] — [[d:Q179991|Q179991]] <small>(MeSH: D001706)</small>
+* [[Biopsy, Fine-Needle]] — [[d:Q180071|Q180071]] <small>(MeSH: D044963)</small>
+* [[Biopsy, Large-Core Needle]] — [[d:Q73219308|Q73219308]] <small>(MeSH: D062005)</small>
+* [[Biopsy, Needle]] — [[d:Q72410173|Q72410173]] <small>(MeSH: D001707)</small>
+* [[Bleeding Time]] — [[d:Q489957|Q489957]] <small>(MeSH: D001760)</small>
+* [[Blood Chemical Analysis]] — [[d:Q886837|Q886837]] <small>(MeSH: D001774)</small>
+* [[Blood Circulation Time]] — [[d:Q73465561|Q73465561]] <small>(MeSH: D001776)</small>
+* [[Blood Coagulation Tests]] — [[d:Q5363933|Q5363933]] <small>(MeSH: D001780)</small>
+* [[Blood Culture]] — [[d:Q886695|Q886695]] <small>(MeSH: D000071997)</small>
+* [[Blood Flow Velocity]] — [[d:Q67315550|Q67315550]] <small>(MeSH: D001783)</small>
+* [[Blood Gas Analysis]] — [[d:Q17056994|Q17056994]] <small>(MeSH: D001784)</small>
+* [[Blood Gas Monitoring, Transcutaneous]] — [[d:Q72367595|Q72367595]] <small>(MeSH: D001785)</small>
+* [[Blood Glucose Self-Monitoring]] — [[d:Q59740017|Q59740017]] <small>(MeSH: D015190)</small>
+* [[Blood Pressure]] — [[d:Q82642|Q82642]] <small>(MeSH: D001794)</small>
+* [[Blood Pressure Determination]] — [[d:Q4994431|Q4994431]] <small>(MeSH: D001795)</small>
+* [[Blood Pressure Monitoring, Ambulatory]] — [[d:Q3090739|Q3090739]] <small>(MeSH: D018660)</small>
+* [[Blood Sedimentation]] — [[d:Q111208|Q111208]] <small>(MeSH: D001799)</small>
+* [[Blood Specimen Collection]] — [[d:Q3595842|Q3595842]] <small>(MeSH: D001800)</small>
+* [[Blood Urea Nitrogen]] — [[d:Q764079|Q764079]] <small>(MeSH: D001806)</small>
+* [[Blood Volume Determination]] — [[d:Q73214441|Q73214441]] <small>(MeSH: D001811)</small>
+* [[Body Constitution]] — [[d:Q66771588|Q66771588]] <small>(MeSH: D001824)</small>
+* [[Body Fat Distribution]] — [[d:Q3640197|Q3640197]] <small>(MeSH: D050218)</small>
+* [[Body Mass Index]] — [[d:Q131191|Q131191]] <small>(MeSH: D015992)</small>
+* [[Body Surface Area]] — [[d:Q1796666|Q1796666]] <small>(MeSH: D001830)</small>
+* [[Body Surface Potential Mapping]] — [[d:Q73468109|Q73468109]] <small>(MeSH: D018780)</small>
+* [[Body Temperature]] — [[d:Q751803|Q751803]] <small>(MeSH: D001831)</small>
+* [[Body Weights and Measures]] — [[d:Q66771582|Q66771582]] <small>(MeSH: D001837)</small>
+* [[Bone Marrow Examination]] — [[d:Q1777322|Q1777322]] <small>(MeSH: D001856)</small>
+* [[Brain Cortical Thickness]] — [[d:Q47011259|Q47011259]] <small>(MeSH: D000082642)</small>
+* [[Brain Mapping]] — [[d:Q639842|Q639842]] <small>(MeSH: D001931)</small>
+* [[Brain Waves]] — [[d:Q60442|Q60442]] <small>(MeSH: D058256)</small>
+* [[Breast Density]] — [[d:Q70688618|Q70688618]] <small>(MeSH: D000071060)</small>
+* [[Breast Self-Examination]] — [[d:Q2525533|Q2525533]] <small>(MeSH: D016504)</small>
+* [[Breath Tests]] — [[d:Q638366|Q638366]] <small>(MeSH: D001944)</small>
+* [[Bronchial Provocation Tests]] — [[d:Q1925324|Q1925324]] <small>(MeSH: D001985)</small>
+* [[Bronchography]] — [[d:Q3645305|Q3645305]] <small>(MeSH: D001995)</small>
+* [[Bronchoscopy]] — [[d:Q237232|Q237232]] <small>(MeSH: D001999)</small>
+* [[Bronchospirometry]] — [[d:Q73209662|Q73209662]] <small>(MeSH: D002000)</small>
+* [[Caloric Tests]] — [[d:Q5023659|Q5023659]] <small>(MeSH: D002150)</small>
+* [[Capillary Fragility]] — [[d:Q58405537|Q58405537]] <small>(MeSH: D002198)</small>
+* [[Capnography]] — [[d:Q1728669|Q1728669]] <small>(MeSH: D019296)</small>
+* [[Capsule Endoscopy]] — [[d:Q116753|Q116753]] <small>(MeSH: D053704)</small>
+* [[Cardiac Catheterization]] — [[d:Q1615191|Q1615191]] <small>(MeSH: D006328)</small>
+* [[Cardiac Imaging Techniques]] — [[d:Q5038319|Q5038319]] <small>(MeSH: D057791)</small>
+* [[Cardiac Output]] — [[d:Q596579|Q596579]] <small>(MeSH: D002302)</small>
+* [[Cardiac-Gated Imaging Techniques]] — [[d:Q67639562|Q67639562]] <small>(MeSH: D055424)</small>
+* [[Cardio Ankle Vascular Index]] — [[d:Q114431186|Q114431186]] <small>(MeSH: D000080308)</small>
+* [[Cardiography, Impedance]] — [[d:Q1660241|Q1660241]] <small>(MeSH: D002307)</small>
+* [[Cardiotocography]] — [[d:Q886292|Q886292]] <small>(MeSH: D015148)</small>
+* [[Carotid Intima-Media Thickness]] — [[d:Q71159742|Q71159742]] <small>(MeSH: D059168)</small>
+* [[Carotid-Femoral Pulse Wave Velocity]] — [[d:Q114499137|Q114499137]] <small>(MeSH: D000080909)</small>
+* [[Cell Tracking]] — [[d:Q72138281|Q72138281]] <small>(MeSH: D058948)</small>
+* [[Cephalometry]] — [[d:Q2418904|Q2418904]] <small>(MeSH: D002508)</small>
+* [[Cerebral Angiography]] — [[d:Q5064095|Q5064095]] <small>(MeSH: D002533)</small>
+* [[Cerebral Ventriculography]] — [[d:Q5064105|Q5064105]] <small>(MeSH: D014695)</small>
+* [[Cervical Length Measurement]] — [[d:Q72409350|Q72409350]] <small>(MeSH: D054791)</small>
+* [[Cholangiography]] — [[d:Q5104282|Q5104282]] <small>(MeSH: D002758)</small>
+* [[Cholangiopancreatography, Endoscopic Retrograde]] — [[d:Q637883|Q637883]] <small>(MeSH: D002760)</small>
+* [[Cholangiopancreatography, Magnetic Resonance]] — [[d:Q1578147|Q1578147]] <small>(MeSH: D049448)</small>
+* [[Cholecystography]] — [[d:Q5104297|Q5104297]] <small>(MeSH: D002765)</small>
+* [[Chorionic Villi Sampling]] — [[d:Q1076497|Q1076497]] <small>(MeSH: D015193)</small>
+* [[Cineangiography]] — [[d:Q72367909|Q72367909]] <small>(MeSH: D002932)</small>
+* [[Cineradiography]] — [[d:Q72392907|Q72392907]] <small>(MeSH: D002933)</small>
+* [[Clinical Chemistry Tests]] — [[d:Q73220074|Q73220074]] <small>(MeSH: D019963)</small>
+* [[Clinical Decision-Making]] — [[d:Q96976236|Q96976236]] <small>(MeSH: D000066491)</small>
+* [[Clinical Laboratory Techniques]] — [[d:Q1799491|Q1799491]] <small>(MeSH: D019411)</small>
+* [[Clinical Reasoning]] — [[d:Q110347510|Q110347510]] <small>(MeSH: D000086723)</small>
+* [[Clinical Relevance]] — [[d:Q116686757|Q116686757]] <small>(MeSH: D000092522)</small>
+* [[Closing Volume]] — [[d:Q5135445|Q5135445]] <small>(MeSH: D003011)</small>
+* [[Clot Retraction]] — [[d:Q5135535|Q5135535]] <small>(MeSH: D003018)</small>
+* [[Colonography, Computed Tomographic]] — [[d:Q302481|Q302481]] <small>(MeSH: D023881)</small>
+* [[Colonoscopy]] — [[d:Q840387|Q840387]] <small>(MeSH: D003113)</small>
+* [[Colony Count, Microbial]] — [[d:Q72389264|Q72389264]] <small>(MeSH: D015169)</small>
+* [[Color Perception Tests]] — [[d:Q59622840|Q59622840]] <small>(MeSH: D003119)</small>
+* [[Comprehensive Metabolic Panel]] — [[d:Q5157010|Q5157010]] <small>(MeSH: D000093182)</small>
+* [[Computed Tomography Angiography]] — [[d:Q1024492|Q1024492]] <small>(MeSH: D000072226)</small>
+* [[Cone-Beam Computed Tomography]] — [[d:Q1224951|Q1224951]] <small>(MeSH: D054893)</small>
+* [[Conization]] — [[d:Q123355|Q123355]] <small>(MeSH: D019092)</small>
+* [[Connectome]] — [[d:Q1292103|Q1292103]] <small>(MeSH: D063132)</small>
+* [[Continuous Glucose Monitoring]] — [[d:Q1638492|Q1638492]] <small>(MeSH: D000095583)</small>
+* [[Cordocentesis]] — [[d:Q4232791|Q4232791]] <small>(MeSH: D017218)</small>
+* [[Corneal Pachymetry]] — [[d:Q598876|Q598876]] <small>(MeSH: D063171)</small>
+* [[Corneal Topography]] — [[d:Q3501232|Q3501232]] <small>(MeSH: D019781)</small>
+* [[Cornell Medical Index]] — [[d:Q72087462|Q72087462]] <small>(MeSH: D003321)</small>
+* [[Coronary Angiography]] — [[d:Q1482382|Q1482382]] <small>(MeSH: D017023)</small>
+* [[Corrosion Casting]] — [[d:Q18358368|Q18358368]] <small>(MeSH: D016319)</small>
+* [[Cortical Synchronization]] — [[d:Q71148560|Q71148560]] <small>(MeSH: D003344)</small>
+* [[COVID-19 Nucleic Acid Testing]] — [[d:Q114840692|Q114840692]] <small>(MeSH: D000087123)</small>
+* [[COVID-19 Testing]] — [[d:Q86901049|Q86901049]] <small>(MeSH: D000086742)</small>
+* [[Cryoelectron Microscopy]] — [[d:Q5190506|Q5190506]] <small>(MeSH: D020285)</small>
+* [[Cryoultramicrotomy]] — [[d:Q71252178|Q71252178]] <small>(MeSH: D016616)</small>
+* [[Cystography]] — [[d:Q246052|Q246052]] <small>(MeSH: D000070621)</small>
+* [[Cystoscopy]] — [[d:Q246090|Q246090]] <small>(MeSH: D003558)</small>
+* [[Dacryocystography]] — [[d:Q111178176|Q111178176]] <small>(MeSH: D000090104)</small>
+* [[Decalcification Technique]] — [[d:Q4941547|Q4941547]] <small>(MeSH: D003648)</small>
+* [[Defecography]] — [[d:Q3704698|Q3704698]] <small>(MeSH: D019841)</small>
+* [[Delayed Diagnosis]] — [[d:Q16634907|Q16634907]] <small>(MeSH: D057210)</small>
+* [[Delta Rhythm]] — [[d:Q2623205|Q2623205]] <small>(MeSH: D003700)</small>
+* [[Dermoscopy]] — [[d:Q902923|Q902923]] <small>(MeSH: D046169)</small>
+* [[Diagnosis]] — [[d:Q16644043|Q16644043]] <small>(MeSH: D003933)</small>
+* [[Diagnosis, Computer-Assisted]] — [[d:Q1122413|Q1122413]] <small>(MeSH: D003936)</small>
+* [[Diagnosis, Differential]] — [[d:Q837512|Q837512]] <small>(MeSH: D003937)</small>
+* [[Diagnosis, Dual (Psychiatry)]] — [[d:Q2914812|Q2914812]] <small>(MeSH: D017831)</small>
+* [[Diagnostic Errors]] — [[d:Q66762420|Q66762420]] <small>(MeSH: D003951)</small>
+* [[Diagnostic Imaging]] — [[d:Q931309|Q931309]] <small>(MeSH: D003952)</small>
+* [[Diagnostic Self Evaluation]] — [[d:Q69886926|Q69886926]] <small>(MeSH: D059026)</small>
+* [[Diagnostic Techniques and Procedures]] — [[d:Q9206884|Q9206884]] <small>(MeSH: D019937)</small>
+* [[Diagnostic Techniques, Cardiovascular]] — [[d:Q5038709|Q5038709]] <small>(MeSH: D003935)</small>
+* [[Diagnostic Techniques, Digestive System]] — [[d:Q73218639|Q73218639]] <small>(MeSH: D003938)</small>
+* [[Diagnostic Techniques, Endocrine]] — [[d:Q73226091|Q73226091]] <small>(MeSH: D003940)</small>
+* [[Diagnostic Techniques, Neurological]] — [[d:Q64830627|Q64830627]] <small>(MeSH: D003943)</small>
+* [[Diagnostic Techniques, Obstetrical and Gynecological]] — [[d:Q68152259|Q68152259]] <small>(MeSH: D003944)</small>
+* [[Diagnostic Techniques, Ophthalmological]] — [[d:Q64722791|Q64722791]] <small>(MeSH: D003941)</small>
+* [[Diagnostic Techniques, Otological]] — [[d:Q72367054|Q72367054]] <small>(MeSH: D003939)</small>
+* [[Diagnostic Techniques, Radioisotope]] — [[d:Q73230651|Q73230651]] <small>(MeSH: D003947)</small>
+* [[Diagnostic Techniques, Respiratory System]] — [[d:Q73502187|Q73502187]] <small>(MeSH: D003948)</small>
+* [[Diagnostic Techniques, Surgical]] — [[d:Q73041189|Q73041189]] <small>(MeSH: D003949)</small>
+* [[Diagnostic Techniques, Urological]] — [[d:Q72367177|Q72367177]] <small>(MeSH: D003950)</small>
+* [[Diagnostic Tests, Routine]] — [[d:Q67319202|Q67319202]] <small>(MeSH: D003955)</small>
+* [[Dichotic Listening Tests]] — [[d:Q3090244|Q3090244]] <small>(MeSH: D004007)</small>
+* [[Diffusion Magnetic Resonance Imaging]] — [[d:Q899360|Q899360]] <small>(MeSH: D038524)</small>
+* [[Diffusion Tensor Imaging]] — [[d:Q30088257|Q30088257]] <small>(MeSH: D056324)</small>
+* [[Digit Ratios]] — [[d:Q1417103|Q1417103]] <small>(MeSH: D000090402)</small>
+* [[Digital Rectal Examination]] — [[d:Q29109565|Q29109565]] <small>(MeSH: D051517)</small>
+* [[Direct-To-Consumer Screening and Testing]] — [[d:Q70469512|Q70469512]] <small>(MeSH: D000067108)</small>
+* [[Disability Evaluation]] — [[d:Q64847362|Q64847362]] <small>(MeSH: D004185)</small>
+* [[Disk Diffusion Antimicrobial Tests]] — [[d:Q73526022|Q73526022]] <small>(MeSH: D052978)</small>
+* [[Dissection]] — [[d:Q116646|Q116646]] <small>(MeSH: D004210)</small>
+* [[Diving Reflex]] — [[d:Q589284|Q589284]] <small>(MeSH: D065508)</small>
+* [[Dopaminergic Imaging]] — [[d:Q116640200|Q116640200]] <small>(MeSH: D000092224)</small>
+* [[Double-Balloon Enteroscopy]] — [[d:Q913814|Q913814]] <small>(MeSH: D058582)</small>
+* [[Dried Blood Spot Testing]] — [[d:Q5307389|Q5307389]] <small>(MeSH: D059788)</small>
+* [[Drug Monitoring]] — [[d:Q1261151|Q1261151]] <small>(MeSH: D016903)</small>
+* [[Duodenoscopy]] — [[d:Q73509671|Q73509671]] <small>(MeSH: D004384)</small>
+* [[Dynamic Contrast Enhanced Magnetic Resonance Imaging]] — [[d:Q131580154|Q131580154]] <small>(MeSH: D000098543)</small>
+* [[Early Detection of Cancer]] — [[d:Q66770492|Q66770492]] <small>(MeSH: D055088)</small>
+* [[Early Diagnosis]] — [[d:Q66770759|Q66770759]] <small>(MeSH: D042241)</small>
+* [[Early Termination of Clinical Trials]] — [[d:Q70372503|Q70372503]] <small>(MeSH: D057239)</small>
+* [[Echo-Planar Imaging]] — [[d:Q3718534|Q3718534]] <small>(MeSH: D017352)</small>
+* [[Echocardiography]] — [[d:Q216933|Q216933]] <small>(MeSH: D004452)</small>
+* [[Echocardiography, Doppler]] — [[d:Q2662381|Q2662381]] <small>(MeSH: D015150)</small>
+* [[Echocardiography, Doppler, Color]] — [[d:Q67641368|Q67641368]] <small>(MeSH: D018618)</small>
+* [[Echocardiography, Doppler, Pulsed]] — [[d:Q67642853|Q67642853]] <small>(MeSH: D018619)</small>
+* [[Echocardiography, Four-Dimensional]] — [[d:Q67644753|Q67644753]] <small>(MeSH: D019561)</small>
+* [[Echocardiography, Stress]] — [[d:Q3577490|Q3577490]] <small>(MeSH: D025401)</small>
+* [[Echocardiography, Three-Dimensional]] — [[d:Q67644278|Q67644278]] <small>(MeSH: D019560)</small>
+* [[Echocardiography, Transesophageal]] — [[d:Q1744036|Q1744036]] <small>(MeSH: D017548)</small>
+* [[Echoencephalography]] — [[d:Q354231|Q354231]] <small>(MeSH: D004453)</small>
+* [[Elasticity Imaging Techniques]] — [[d:Q72392724|Q72392724]] <small>(MeSH: D054459)</small>
+* [[Electrocardiography]] — [[d:Q79785|Q79785]] <small>(MeSH: D004562)</small>
+* [[Electrocardiography, Ambulatory]] — [[d:Q72388986|Q72388986]] <small>(MeSH: D015716)</small>
+* [[Electrocorticography]] — [[d:Q3587624|Q3587624]] <small>(MeSH: D000069280)</small>
+* [[Electrodiagnosis]] — [[d:Q5357996|Q5357996]] <small>(MeSH: D004568)</small>
+* [[Electroencephalography]] — [[d:Q179965|Q179965]] <small>(MeSH: D004569)</small>
+* [[Electroencephalography Phase Synchronization]] — [[d:Q71243223|Q71243223]] <small>(MeSH: D058407)</small>
+* [[Electrokymography]] — [[d:Q73507557|Q73507557]] <small>(MeSH: D004571)</small>
+* [[Electromyography]] — [[d:Q507369|Q507369]] <small>(MeSH: D004576)</small>
+* [[Electron Microscope Tomography]] — [[d:Q5358194|Q5358194]] <small>(MeSH: D055032)</small>
+* [[Electronystagmography]] — [[d:Q1327454|Q1327454]] <small>(MeSH: D004584)</small>
+* [[Electrooculography]] — [[d:Q420647|Q420647]] <small>(MeSH: D004585)</small>
+* [[Electrophysiologic Techniques, Cardiac]] — [[d:Q73210964|Q73210964]] <small>(MeSH: D022062)</small>
+* [[Electroretinography]] — [[d:Q681562|Q681562]] <small>(MeSH: D004596)</small>
+* [[Emmetropia]] — [[d:Q1310580|Q1310580]] <small>(MeSH: D058453)</small>
+* [[Endoscopic Mucosal Resection]] — [[d:Q3257565|Q3257565]] <small>(MeSH: D000069916)</small>
+* [[Endoscopic Ultrasound-Guided Fine Needle Aspiration]] — [[d:Q71782926|Q71782926]] <small>(MeSH: D061765)</small>
+* [[Endoscopy]] — [[d:Q212809|Q212809]] <small>(MeSH: D004724)</small>
+* [[Endoscopy, Digestive System]] — [[d:Q5832589|Q5832589]] <small>(MeSH: D016145)</small>
+* [[Endoscopy, Gastrointestinal]] — [[d:Q72369231|Q72369231]] <small>(MeSH: D016099)</small>
+* [[Endosonography]] — [[d:Q1340838|Q1340838]] <small>(MeSH: D019160)</small>
+* [[Epicardial Mapping]] — [[d:Q73218794|Q73218794]] <small>(MeSH: D056149)</small>
+* [[Erythrocyte Aggregation]] — [[d:Q17119113|Q17119113]] <small>(MeSH: D004903)</small>
+* [[Erythrocyte Indices]] — [[d:Q6577969|Q6577969]] <small>(MeSH: D004909)</small>
+* [[Esophageal pH Monitoring]] — [[d:Q4446828|Q4446828]] <small>(MeSH: D050782)</small>
+* [[Esophagoscopy]] — [[d:Q298196|Q298196]] <small>(MeSH: D004945)</small>
+* [[Exercise Test]] — [[d:Q67319694|Q67319694]] <small>(MeSH: D005080)</small>
+* [[Expiratory Reserve Volume]] — [[d:Q71235774|Q71235774]] <small>(MeSH: D005105)</small>
+* [[Eye Movement Measurements]] — [[d:Q73230200|Q73230200]] <small>(MeSH: D053483)</small>
+* [[Eye-Tracking Technology]] — [[d:Q970687|Q970687]] <small>(MeSH: D000084542)</small>
+* [[Facial Expression]] — [[d:Q327968|Q327968]] <small>(MeSH: D005149)</small>
+* [[Failure to Rescue, Health Care]] — [[d:Q98795374|Q98795374]] <small>(MeSH: D000067248)</small>
+* [[Fallopian Tube Patency Tests]] — [[d:Q73524829|Q73524829]] <small>(MeSH: D005186)</small>
+* [[False Negative Reactions]] — [[d:Q1369221|Q1369221]] <small>(MeSH: D005188)</small>
+* [[False Positive Reactions]] — [[d:Q1369227|Q1369227]] <small>(MeSH: D005189)</small>
+* [[Fetal Monitoring]] — [[d:Q68151651|Q68151651]] <small>(MeSH: D005323)</small>
+* [[Fetoscopy]] — [[d:Q1409161|Q1409161]] <small>(MeSH: D005332)</small>
+* [[Fibrin Clot Lysis Time]] — [[d:Q70576941|Q70576941]] <small>(MeSH: D063285)</small>
+* [[FIGLU Test]] — [[d:Q73524450|Q73524450]] <small>(MeSH: D005365)</small>
+* [[Flicker Fusion]] — [[d:Q186129|Q186129]] <small>(MeSH: D005425)</small>
+* [[Fluorescein Angiography]] — [[d:Q1434206|Q1434206]] <small>(MeSH: D005451)</small>
+* [[Fluorine-19 Magnetic Resonance Imaging]] — [[d:Q73469029|Q73469029]] <small>(MeSH: D066235)</small>
+* [[Fluorophotometry]] — [[d:Q72086561|Q72086561]] <small>(MeSH: D015590)</small>
+* [[Fluoroscopy]] — [[d:Q614984|Q614984]] <small>(MeSH: D005471)</small>
+* [[Focused Assessment with Sonography for Trauma]] — [[d:Q1435073|Q1435073]] <small>(MeSH: D000077564)</small>
+* [[Forced Expiratory Flow Rates]] — [[d:Q71227452|Q71227452]] <small>(MeSH: D005540)</small>
+* [[Forced Expiratory Volume]] — [[d:Q102196648|Q102196648]] <small>(MeSH: D005541)</small>
+* [[Forensic Imaging]] — [[d:Q2918100|Q2918100]] <small>(MeSH: D000097785)</small>
+* [[Four-Dimensional Computed Tomography]] — [[d:Q72389496|Q72389496]] <small>(MeSH: D056973)</small>
+* [[Fractional Exhaled Nitric Oxide Testing]] — [[d:Q112074376|Q112074376]] <small>(MeSH: D000089142)</small>
+* [[Freeze Etching]] — [[d:Q9263700|Q9263700]] <small>(MeSH: D005613)</small>
+* [[Freeze Fracturing]] — [[d:Q3005718|Q3005718]] <small>(MeSH: D005614)</small>
+* [[Frozen Sections]] — [[d:Q5506326|Q5506326]] <small>(MeSH: D005629)</small>
+* [[Functional Neuroimaging]] — [[d:Q1004354|Q1004354]] <small>(MeSH: D059907)</small>
+* [[Functional Residual Capacity]] — [[d:Q1073808|Q1073808]] <small>(MeSH: D005652)</small>
+* [[Gait]] — [[d:Q1445211|Q1445211]] <small>(MeSH: D005684)</small>
+* [[Gait Analysis]] — [[d:Q1493441|Q1493441]] <small>(MeSH: D000077107)</small>
+* [[Gamma Rhythm]] — [[d:Q2623017|Q2623017]] <small>(MeSH: D065818)</small>
+* [[Gastric Acidity Determination]] — [[d:Q73038205|Q73038205]] <small>(MeSH: D005745)</small>
+* [[Gastrointestinal Transit]] — [[d:Q70715940|Q70715940]] <small>(MeSH: D005772)</small>
+* [[Gastroscopy]] — [[d:Q938957|Q938957]] <small>(MeSH: D005773)</small>
+* [[Gated Blood-Pool Imaging]] — [[d:Q67640820|Q67640820]] <small>(MeSH: D015637)</small>
+* [[Glomerular Filtration Rate]] — [[d:Q1542839|Q1542839]] <small>(MeSH: D005919)</small>
+* [[Glucose Tolerance Test]] — [[d:Q1501412|Q1501412]] <small>(MeSH: D005951)</small>
+* [[Gonioscopy]] — [[d:Q1414474|Q1414474]] <small>(MeSH: D006068)</small>
+* [[Gynecological Examination]] — [[d:Q2537629|Q2537629]] <small>(MeSH: D058869)</small>
+* [[Hair Analysis]] — [[d:Q904217|Q904217]] <small>(MeSH: D000081205)</small>
+* [[Hand Strength]] — [[d:Q5647202|Q5647202]] <small>(MeSH: D018737)</small>
+* [[Hand-Assisted Laparoscopy]] — [[d:Q73219556|Q73219556]] <small>(MeSH: D058733)</small>
+* [[Head Impulse Test]] — [[d:Q1729215|Q1729215]] <small>(MeSH: D064087)</small>
+* [[Hearing Tests]] — [[d:Q5691664|Q5691664]] <small>(MeSH: D006320)</small>
+* [[Heart Auscultation]] — [[d:Q30078800|Q30078800]] <small>(MeSH: D006326)</small>
+* [[Heart Function Tests]] — [[d:Q72087099|Q72087099]] <small>(MeSH: D006334)</small>
+* [[Heart Rate]] — [[d:Q1073121|Q1073121]] <small>(MeSH: D006339)</small>
+* [[Heart Rate Determination]] — [[d:Q72393122|Q72393122]] <small>(MeSH: D000070276)</small>
+* [[Hematocrit]] — [[d:Q111146|Q111146]] <small>(MeSH: D006400)</small>
+* [[Hematologic Tests]] — [[d:Q67067476|Q67067476]] <small>(MeSH: D006403)</small>
+* [[Hemodynamic Monitoring]] — [[d:Q113331695|Q113331695]] <small>(MeSH: D000074743)</small>
+* [[Hemoglobinometry]] — [[d:Q10431462|Q10431462]] <small>(MeSH: D006452)</small>
+* [[Histocytological Preparation Techniques]] — [[d:Q73491757|Q73491757]] <small>(MeSH: D016591)</small>
+* [[Histological Techniques]] — [[d:Q1621078|Q1621078]] <small>(MeSH: D006652)</small>
+* [[HIV Testing]] — [[d:Q337517|Q337517]] <small>(MeSH: D000082922)</small>
+* [[Holography]] — [[d:Q527628|Q527628]] <small>(MeSH: D006696)</small>
+* [[Hysterosalpingography]] — [[d:Q515623|Q515623]] <small>(MeSH: D007047)</small>
+* [[Image Enhancement]] — [[d:Q67323080|Q67323080]] <small>(MeSH: D007089)</small>
+* [[Image Interpretation, Computer-Assisted]] — [[d:Q58684788|Q58684788]] <small>(MeSH: D007090)</small>
+* [[Image-Guided Biopsy]] — [[d:Q71783572|Q71783572]] <small>(MeSH: D061705)</small>
+* [[Imaging, Three-Dimensional]] — [[d:Q4464732|Q4464732]] <small>(MeSH: D021621)</small>
+* [[Incidental Findings]] — [[d:Q228172|Q228172]] <small>(MeSH: D033162)</small>
+* [[Inspiratory Capacity]] — [[d:Q71131171|Q71131171]] <small>(MeSH: D007320)</small>
+* [[Inspiratory Reserve Volume]] — [[d:Q70710275|Q70710275]] <small>(MeSH: D007321)</small>
+* [[Insufflation]] — [[d:Q6042053|Q6042053]] <small>(MeSH: D007327)</small>
+* [[International Normalized Ratio]] — [[d:Q3494432|Q3494432]] <small>(MeSH: D019934)</small>
+* [[Intraoperative Neurophysiological Monitoring]] — [[d:Q1981299|Q1981299]] <small>(MeSH: D064795)</small>
+* [[Intravital Microscopy]] — [[d:Q1543928|Q1543928]] <small>(MeSH: D000069416)</small>
+* [[Kidney Function Tests]] — [[d:Q73210829|Q73210829]] <small>(MeSH: D007677)</small>
+* [[Kinanthropometry]] — [[d:Q6410382|Q6410382]] <small>(MeSH: D000070496)</small>
+* [[Kinetocardiography]] — [[d:Q72366872|Q72366872]] <small>(MeSH: D007702)</small>
+* [[Kymography]] — [[d:Q3674750|Q3674750]] <small>(MeSH: D007734)</small>
+* [[Laboratory Critical Values]] — [[d:Q73041086|Q73041086]] <small>(MeSH: D000071117)</small>
+* [[Lactose Tolerance Test]] — [[d:Q72138380|Q72138380]] <small>(MeSH: D007789)</small>
+* [[Laparoscopy]] — [[d:Q675754|Q675754]] <small>(MeSH: D010535)</small>
+* [[Laryngoscopy]] — [[d:Q2357917|Q2357917]] <small>(MeSH: D007828)</small>
+* [[Laser Speckle Contrast Imaging]] — [[d:Q106797913|Q106797913]] <small>(MeSH: D000081982)</small>
+* [[Laser-Doppler Flowmetry]] — [[d:Q72257500|Q72257500]] <small>(MeSH: D017078)</small>
+* [[Lipid Accumulation Product]] — [[d:Q73404102|Q73404102]] <small>(MeSH: D064237)</small>
+* [[Liver Function Tests]] — [[d:Q1359801|Q1359801]] <small>(MeSH: D008111)</small>
+* [[Local Field Potential Measurement]] — [[d:Q116788135|Q116788135]] <small>(MeSH: D000094382)</small>
+* [[Lung Compliance]] — [[d:Q2990558|Q2990558]] <small>(MeSH: D008170)</small>
+* [[Lung Volume Measurements]] — [[d:Q206120|Q206120]] <small>(MeSH: D008176)</small>
+* [[Lymphography]] — [[d:Q1425554|Q1425554]] <small>(MeSH: D008220)</small>
+* [[Lymphoscintigraphy]] — [[d:Q73038514|Q73038514]] <small>(MeSH: D061305)</small>
+* [[Magnetic Particle Imaging]] — [[d:Q1884331|Q1884331]] <small>(MeSH: D000099164)</small>
+* [[Magnetic Resonance Angiography]] — [[d:Q907325|Q907325]] <small>(MeSH: D018810)</small>
+* [[Magnetic Resonance Imaging]] — [[d:Q161238|Q161238]] <small>(MeSH: D008279)</small>
+* [[Magnetic Resonance Imaging, Cine]] — [[d:Q73467640|Q73467640]] <small>(MeSH: D019028)</small>
+* [[Magnetic Resonance Myelography]] — [[d:Q105123057|Q105123057]] <small>(MeSH: D000095497)</small>
+* [[Magnetocardiography]] — [[d:Q1884389|Q1884389]] <small>(MeSH: D053798)</small>
+* [[Magnetoencephalography]] — [[d:Q384188|Q384188]] <small>(MeSH: D015225)</small>
+* [[Mammography]] — [[d:Q324634|Q324634]] <small>(MeSH: D008327)</small>
+* [[Mass Chest X-Ray]] — [[d:Q70325391|Q70325391]] <small>(MeSH: D008400)</small>
+* [[Maternal Serum Screening Tests]] — [[d:Q73040089|Q73040089]] <small>(MeSH: D062145)</small>
+* [[Maximal Expiratory Flow Rate]] — [[d:Q71228198|Q71228198]] <small>(MeSH: D008448)</small>
+* [[Maximal Expiratory Flow-Volume Curves]] — [[d:Q71147790|Q71147790]] <small>(MeSH: D008449)</small>
+* [[Maximal Midexpiratory Flow Rate]] — [[d:Q70679650|Q70679650]] <small>(MeSH: D008450)</small>
+* [[Maximal Respiratory Pressures]] — [[d:Q72368345|Q72368345]] <small>(MeSH: D000072277)</small>
+* [[Maximal Voluntary Ventilation]] — [[d:Q70680849|Q70680849]] <small>(MeSH: D008451)</small>
+* [[Mean Platelet Volume]] — [[d:Q6803639|Q6803639]] <small>(MeSH: D063847)</small>
+* [[Medical Futility]] — [[d:Q2754973|Q2754973]] <small>(MeSH: D018447)</small>
+* [[Medical History Taking]] — [[d:Q8776455|Q8776455]] <small>(MeSH: D008487)</small>
+* [[Metabolic Equivalent]] — [[d:Q1924756|Q1924756]] <small>(MeSH: D055686)</small>
+* [[Microbiological Techniques]] — [[d:Q67506443|Q67506443]] <small>(MeSH: D008828)</small>
+* [[Microradiography]] — [[d:Q25508690|Q25508690]] <small>(MeSH: D008852)</small>
+* [[Microscopic Angioscopy]] — [[d:Q73491395|Q73491395]] <small>(MeSH: D020678)</small>
+* [[Microscopy]] — [[d:Q1074953|Q1074953]] <small>(MeSH: D008853)</small>
+* [[Microscopy, Acoustic]] — [[d:Q4674694|Q4674694]] <small>(MeSH: D033401)</small>
+* [[Microscopy, Atomic Force]] — [[d:Q10329629|Q10329629]] <small>(MeSH: D018625)</small>
+* [[Microscopy, Confocal]] — [[d:Q902045|Q902045]] <small>(MeSH: D018613)</small>
+* [[Microscopy, Electrochemical, Scanning]] — [[d:Q72085234|Q72085234]] <small>(MeSH: D064347)</small>
+* [[Microscopy, Electron]] — [[d:Q68535882|Q68535882]] <small>(MeSH: D008854)</small>
+* [[Microscopy, Electron, Scanning]] — [[d:Q321095|Q321095]] <small>(MeSH: D008855)</small>
+* [[Microscopy, Electron, Scanning Transmission]] — [[d:Q874835|Q874835]] <small>(MeSH: D017348)</small>
+* [[Microscopy, Electron, Transmission]] — [[d:Q110779037|Q110779037]] <small>(MeSH: D046529)</small>
+* [[Microscopy, Fluorescence]] — [[d:Q73490850|Q73490850]] <small>(MeSH: D008856)</small>
+* [[Microscopy, Fluorescence, Multiphoton]] — [[d:Q73040214|Q73040214]] <small>(MeSH: D036641)</small>
+* [[Microscopy, Immunoelectron]] — [[d:Q105102234|Q105102234]] <small>(MeSH: D016253)</small>
+* [[Microscopy, Polarization]] — [[d:Q12046176|Q12046176]] <small>(MeSH: D008859)</small>
+* [[Microscopy, Scanning Probe]] — [[d:Q907287|Q907287]] <small>(MeSH: D020527)</small>
+* [[Microscopy, Scanning Tunneling]] — [[d:Q71251194|Q71251194]] <small>(MeSH: D016252)</small>
+* [[Microscopy, Ultraviolet]] — [[d:Q72258803|Q72258803]] <small>(MeSH: D008860)</small>
+* [[Microtomy]] — [[d:Q73522388|Q73522388]] <small>(MeSH: D008867)</small>
+* [[Microwave Imaging]] — [[d:Q17010029|Q17010029]] <small>(MeSH: D000080925)</small>
+* [[Moire Topography]] — [[d:Q73212627|Q73212627]] <small>(MeSH: D015903)</small>
+* [[Molecular Imaging]] — [[d:Q1142297|Q1142297]] <small>(MeSH: D057054)</small>
+* [[Monitoring, Ambulatory]] — [[d:Q73499485|Q73499485]] <small>(MeSH: D018670)</small>
+* [[Monitoring, Immunologic]] — [[d:Q73401662|Q73401662]] <small>(MeSH: D015166)</small>
+* [[Monitoring, Intraoperative]] — [[d:Q15824193|Q15824193]] <small>(MeSH: D016343)</small>
+* [[Monitoring, Physiologic]] — [[d:Q66684968|Q66684968]] <small>(MeSH: D008991)</small>
+* [[Motion Capture]] — [[d:Q676252|Q676252]] <small>(MeSH: D000092682)</small>
+* [[Mucociliary Clearance]] — [[d:Q63771488|Q63771488]] <small>(MeSH: D009079)</small>
+* [[Multidetector Computed Tomography]] — [[d:Q66825304|Q66825304]] <small>(MeSH: D061330)</small>
+* [[Multimodal Imaging]] — [[d:Q66214583|Q66214583]] <small>(MeSH: D064847)</small>
+* [[Multiparametric Magnetic Resonance Imaging]] — [[d:Q111654606|Q111654606]] <small>(MeSH: D000081364)</small>
+* [[Muscle Strength]] — [[d:Q3076906|Q3076906]] <small>(MeSH: D053580)</small>
+* [[Mycological Typing Techniques]] — [[d:Q72085656|Q72085656]] <small>(MeSH: D016533)</small>
+* [[Myelography]] — [[d:Q2122468|Q2122468]] <small>(MeSH: D009192)</small>
+* [[Myocardial Perfusion Imaging]] — [[d:Q1956679|Q1956679]] <small>(MeSH: D055414)</small>
+* [[Myography]] — [[d:Q3331435|Q3331435]] <small>(MeSH: D009213)</small>
+* [[Narrow Band Imaging]] — [[d:Q6966306|Q6966306]] <small>(MeSH: D062048)</small>
+* [[Nasal Provocation Tests]] — [[d:Q16919342|Q16919342]] <small>(MeSH: D009299)</small>
+* [[Natural Orifice Endoscopic Surgery]] — [[d:Q71713580|Q71713580]] <small>(MeSH: D057605)</small>
+* [[Negative Staining]] — [[d:Q3772564|Q3772564]] <small>(MeSH: D016624)</small>
+* [[Neonatal Screening]] — [[d:Q2305910|Q2305910]] <small>(MeSH: D015997)</small>
+* [[Neoplasm Grading]] — [[d:Q1541222|Q1541222]] <small>(MeSH: D060787)</small>
+* [[Neoplasm Staging]] — [[d:Q1752284|Q1752284]] <small>(MeSH: D009367)</small>
+* [[Nerve Conduction Studies]] — [[d:Q380117|Q380117]] <small>(MeSH: D000092184)</small>
+* [[Neuroanatomical Tract-Tracing Techniques]] — [[d:Q73229936|Q73229936]] <small>(MeSH: D056347)</small>
+* [[Neuroendoscopy]] — [[d:Q73525022|Q73525022]] <small>(MeSH: D044583)</small>
+* [[Neuroimaging]] — [[d:Q551875|Q551875]] <small>(MeSH: D059906)</small>
+* [[Neurologic Examination]] — [[d:Q2916167|Q2916167]] <small>(MeSH: D009460)</small>
+* [[Neuromuscular Monitoring]] — [[d:Q1723956|Q1723956]] <small>(MeSH: D061886)</small>
+* [[Neurophysiological Monitoring]] — [[d:Q73484449|Q73484449]] <small>(MeSH: D064926)</small>
+* [[Neuroradiography]] — [[d:Q59237382|Q59237382]] <small>(MeSH: D009485)</small>
+* [[Noninvasive Prenatal Testing]] — [[d:Q11501543|Q11501543]] <small>(MeSH: D000081182)</small>
+* [[Nonlinear Optical Microscopy]] — [[d:Q107580537|Q107580537]] <small>(MeSH: D000073758)</small>
+* [[Nuchal Translucency Measurement]] — [[d:Q736944|Q736944]] <small>(MeSH: D048208)</small>
+* [[Nuclear Microscopy]] — [[d:Q7068148|Q7068148]] <small>(MeSH: D062345)</small>
+* [[Observer Variation]] — [[d:Q70347943|Q70347943]] <small>(MeSH: D015588)</small>
+* [[Occult Blood]] — [[d:Q71251453|Q71251453]] <small>(MeSH: D009780)</small>
+* [[Odontometry]] — [[d:Q7077983|Q7077983]] <small>(MeSH: D009811)</small>
+* [[Olfactometry]] — [[d:Q3350397|Q3350397]] <small>(MeSH: D064367)</small>
+* [[Ophthalmodynamometry]] — [[d:Q72087783|Q72087783]] <small>(MeSH: D009884)</small>
+* [[Ophthalmoscopy]] — [[d:Q837188|Q837188]] <small>(MeSH: D009887)</small>
+* [[Optical Imaging]] — [[d:Q4115103|Q4115103]] <small>(MeSH: D061848)</small>
+* [[Osmotic Fragility]] — [[d:Q3080327|Q3080327]] <small>(MeSH: D009996)</small>
+* [[Otoscopy]] — [[d:Q11801024|Q11801024]] <small>(MeSH: D038781)</small>
+* [[Ovarian Function Tests]] — [[d:Q73032109|Q73032109]] <small>(MeSH: D010050)</small>
+* [[Overdiagnosis]] — [[d:Q956131|Q956131]] <small>(MeSH: D000088522)</small>
+* [[Ovulation Detection]] — [[d:Q131292783|Q131292783]] <small>(MeSH: D010061)</small>
+* [[Ovulation Prediction]] — [[d:Q73041805|Q73041805]] <small>(MeSH: D044384)</small>
+* [[Oximetry]] — [[d:Q59838335|Q59838335]] <small>(MeSH: D010092)</small>
+* [[Pain Measurement]] — [[d:Q7124832|Q7124832]] <small>(MeSH: D010147)</small>
+* [[Palpation]] — [[d:Q795090|Q795090]] <small>(MeSH: D010173)</small>
+* [[Pancreatic Function Tests]] — [[d:Q73467558|Q73467558]] <small>(MeSH: D010186)</small>
+* [[Paraffin Embedding]] — [[d:Q73500904|Q73500904]] <small>(MeSH: D016612)</small>
+* [[Parasite Egg Count]] — [[d:Q5347942|Q5347942]] <small>(MeSH: D010270)</small>
+* [[Parasite Load]] — [[d:Q7135939|Q7135939]] <small>(MeSH: D059208)</small>
+* [[Partial Thromboplastin Time]] — [[d:Q1755136|Q1755136]] <small>(MeSH: D010314)</small>
+* [[Peak Expiratory Flow Rate]] — [[d:Q1719529|Q1719529]] <small>(MeSH: D010366)</small>
+* [[Pelvimetry]] — [[d:Q7161812|Q7161812]] <small>(MeSH: D010387)</small>
+* [[Percussion]] — [[d:Q1501797|Q1501797]] <small>(MeSH: D010474)</small>
+* [[Perfusion Imaging]] — [[d:Q7168308|Q7168308]] <small>(MeSH: D055420)</small>
+* [[Perfusion Index]] — [[d:Q114565963|Q114565963]] <small>(MeSH: D000081282)</small>
+* [[Perfusion Magnetic Resonance Imaging]] — [[d:Q1884406|Q1884406]] <small>(MeSH: D000098642)</small>
+* [[Periodic Acid-Schiff Reaction]] — [[d:Q72258005|Q72258005]] <small>(MeSH: D010503)</small>
+* [[Petrosal Sinus Sampling]] — [[d:Q73507699|Q73507699]] <small>(MeSH: D017591)</small>
+* [[Phlebography]] — [[d:Q1363390|Q1363390]] <small>(MeSH: D010690)</small>
+* [[Phlebotomy]] — [[d:Q3595842|Q3595842]] <small>(MeSH: D018962)</small>
+* [[Phonocardiography]] — [[d:Q2088673|Q2088673]] <small>(MeSH: D010701)</small>
+* [[Photoacoustic Techniques]] — [[d:Q63443180|Q63443180]] <small>(MeSH: D061088)</small>
+* [[Photofluorography]] — [[d:Q1995613|Q1995613]] <small>(MeSH: D010779)</small>
+* [[Photogrammetry]] — [[d:Q190149|Q190149]] <small>(MeSH: D010780)</small>
+* [[Photography]] — [[d:Q11633|Q11633]] <small>(MeSH: D010781)</small>
+* [[Photography, Dental]] — [[d:Q73501527|Q73501527]] <small>(MeSH: D023861)</small>
+* [[Photomicrography]] — [[d:Q130416|Q130416]] <small>(MeSH: D010784)</small>
+* [[Photoplethysmography]] — [[d:Q7187885|Q7187885]] <small>(MeSH: D017156)</small>
+* [[Physical Appearance, Body]] — [[d:Q780294|Q780294]] <small>(MeSH: D000067029)</small>
+* [[Physical Examination]] — [[d:Q835153|Q835153]] <small>(MeSH: D010808)</small>
+* [[Pigmentation]] — [[d:Q14863538|Q14863538]] <small>(MeSH: D010858)</small>
+* [[Pinch Strength]] — [[d:Q58232935|Q58232935]] <small>(MeSH: D052581)</small>
+* [[Pituitary Function Tests]] — [[d:Q73347319|Q73347319]] <small>(MeSH: D010901)</small>
+* [[Pituitary-Adrenal Function Tests]] — [[d:Q72365918|Q72365918]] <small>(MeSH: D010912)</small>
+* [[Placental Function Tests]] — [[d:Q73397343|Q73397343]] <small>(MeSH: D010925)</small>
+* [[Plastic Embedding]] — [[d:Q73219374|Q73219374]] <small>(MeSH: D016613)</small>
+* [[Platelet Function Tests]] — [[d:Q73223102|Q73223102]] <small>(MeSH: D010979)</small>
+* [[Plethysmography]] — [[d:Q4364900|Q4364900]] <small>(MeSH: D010991)</small>
+* [[Plethysmography, Impedance]] — [[d:Q4393307|Q4393307]] <small>(MeSH: D010992)</small>
+* [[Plethysmography, Whole Body]] — [[d:Q72088533|Q72088533]] <small>(MeSH: D010993)</small>
+* [[Pneumoencephalography]] — [[d:Q7205999|Q7205999]] <small>(MeSH: D011011)</small>
+* [[Pneumomediastinum, Diagnostic]] — [[d:Q73491478|Q73491478]] <small>(MeSH: D011012)</small>
+* [[Pneumoperitoneum, Artificial]] — [[d:Q73509185|Q73509185]] <small>(MeSH: D011028)</small>
+* [[Pneumoradiography]] — [[d:Q73218519|Q73218519]] <small>(MeSH: D011029)</small>
+* [[Polysomnography]] — [[d:Q1754874|Q1754874]] <small>(MeSH: D017286)</small>
+* [[Pooled Testing]] — [[d:Q131577319|Q131577319]] <small>(MeSH: D000098302)</small>
+* [[Portography]] — [[d:Q7232198|Q7232198]] <small>(MeSH: D011172)</small>
+* [[Positron Emission Tomography Computed Tomography]] — [[d:Q3488638|Q3488638]] <small>(MeSH: D000072078)</small>
+* [[Positron-Emission Tomography]] — [[d:Q208376|Q208376]] <small>(MeSH: D049268)</small>
+* [[Postmortem Imaging]] — [[d:Q124353918|Q124353918]] <small>(MeSH: D000097873)</small>
+* [[Pre-Analytical Phase]] — [[d:Q113023667|Q113023667]] <small>(MeSH: D000073623)</small>
+* [[Pregnancy Outcome]] — [[d:Q66057507|Q66057507]] <small>(MeSH: D011256)</small>
+* [[Pregnancy Tests]] — [[d:Q1135142|Q1135142]] <small>(MeSH: D011258)</small>
+* [[Pregnancy Tests, Immunologic]] — [[d:Q73523535|Q73523535]] <small>(MeSH: D011259)</small>
+* [[Preimplantation Diagnosis]] — [[d:Q1501356|Q1501356]] <small>(MeSH: D019836)</small>
+* [[Premarital Examinations]] — [[d:Q2946894|Q2946894]] <small>(MeSH: D011291)</small>
+* [[Prenatal Diagnosis]] — [[d:Q1136569|Q1136569]] <small>(MeSH: D011296)</small>
+* [[Proctoscopy]] — [[d:Q447295|Q447295]] <small>(MeSH: D011351)</small>
+* [[Prognosis]] — [[d:Q592442|Q592442]] <small>(MeSH: D011379)</small>
+* [[Prothrombin Time]] — [[d:Q1144385|Q1144385]] <small>(MeSH: D011517)</small>
+* [[Prussian Blue Reaction]] — [[d:Q2984410|Q2984410]] <small>(MeSH: D011540)</small>
+* [[Psychoacoustics]] — [[d:Q557399|Q557399]] <small>(MeSH: D011571)</small>
+* [[Psychophysics]] — [[d:Q500096|Q500096]] <small>(MeSH: D011601)</small>
+* [[Pulmonary Diffusing Capacity]] — [[d:Q11067835|Q11067835]] <small>(MeSH: D011653)</small>
+* [[Pulmonary Gas Exchange]] — [[d:Q70679763|Q70679763]] <small>(MeSH: D011659)</small>
+* [[Pulmonary Ventilation]] — [[d:Q70339465|Q70339465]] <small>(MeSH: D012123)</small>
+* [[Pulse Wave Analysis]] — [[d:Q21008870|Q21008870]] <small>(MeSH: D063177)</small>
+* [[Quantitative Phase Imaging]] — [[d:Q7268937|Q7268937]] <small>(MeSH: D000097913)</small>
+* [[Radiographic Image Enhancement]] — [[d:Q70319265|Q70319265]] <small>(MeSH: D011856)</small>
+* [[Radiographic Image Interpretation, Computer-Assisted]] — [[d:Q72087143|Q72087143]] <small>(MeSH: D011857)</small>
+* [[Radiographic Magnification]] — [[d:Q73348160|Q73348160]] <small>(MeSH: D011858)</small>
+* [[Radiography]] — [[d:Q245341|Q245341]] <small>(MeSH: D011859)</small>
+* [[Radiography, Abdominal]] — [[d:Q2891344|Q2891344]] <small>(MeSH: D011860)</small>
+* [[Radiography, Bitewing]] — [[d:Q72088654|Q72088654]] <small>(MeSH: D016300)</small>
+* [[Radiography, Dental]] — [[d:Q5259433|Q5259433]] <small>(MeSH: D011861)</small>
+* [[Radiography, Dental, Digital]] — [[d:Q72391730|Q72391730]] <small>(MeSH: D019252)</small>
+* [[Radiography, Dual-Energy Scanned Projection]] — [[d:Q70335573|Q70335573]] <small>(MeSH: D015900)</small>
+* [[Radiography, Interventional]] — [[d:Q73398404|Q73398404]] <small>(MeSH: D015641)</small>
+* [[Radiography, Panoramic]] — [[d:Q743868|Q743868]] <small>(MeSH: D011862)</small>
+* [[Radiography, Thoracic]] — [[d:Q1283318|Q1283318]] <small>(MeSH: D013902)</small>
+* [[Radioimmunodetection]] — [[d:Q7281273|Q7281273]] <small>(MeSH: D016719)</small>
+* [[Radioisotope Dilution Technique]] — [[d:Q73498883|Q73498883]] <small>(MeSH: D011865)</small>
+* [[Radioisotope Renography]] — [[d:Q1945504|Q1945504]] <small>(MeSH: D011866)</small>
+* [[Radioligand Assay]] — [[d:Q73355022|Q73355022]] <small>(MeSH: D011869)</small>
+* [[Radiomics]] — [[d:Q23808793|Q23808793]] <small>(MeSH: D000097188)</small>
+* [[Radionuclide Angiography]] — [[d:Q7281300|Q7281300]] <small>(MeSH: D011875)</small>
+* [[Radionuclide Imaging]] — [[d:Q73502538|Q73502538]] <small>(MeSH: D011877)</small>
+* [[Radionuclide Ventriculography]] — [[d:Q7281299|Q7281299]] <small>(MeSH: D015635)</small>
+* [[Radiostereometric Analysis]] — [[d:Q7357604|Q7357604]] <small>(MeSH: D059869)</small>
+* [[Range of Motion, Articular]] — [[d:Q494478|Q494478]] <small>(MeSH: D016059)</small>
+* [[Rapid Diagnostic Tests]] — [[d:Q3519062|Q3519062]] <small>(MeSH: D000092025)</small>
+* [[Recruitment Detection, Audiologic]] — [[d:Q73525637|Q73525637]] <small>(MeSH: D012000)</small>
+* [[Reflex]] — [[d:Q179405|Q179405]] <small>(MeSH: D012018)</small>
+* [[Reflex, Abdominal]] — [[d:Q4665126|Q4665126]] <small>(MeSH: D012020)</small>
+* [[Reflex, Abnormal]] — [[d:Q34399420|Q34399420]] <small>(MeSH: D012021)</small>
+* [[Reflex, Acoustic]] — [[d:Q1422835|Q1422835]] <small>(MeSH: D012022)</small>
+* [[Reflex, Babinski]] — [[d:Q120298401|Q120298401]] <small>(MeSH: D001405)</small>
+* [[Reflex, Pupillary]] — [[d:Q2306768|Q2306768]] <small>(MeSH: D012025)</small>
+* [[Reflex, Righting]] — [[d:Q7333746|Q7333746]] <small>(MeSH: D057897)</small>
+* [[Reflex, Startle]] — [[d:Q430986|Q430986]] <small>(MeSH: D013216)</small>
+* [[Reflex, Stretch]] — [[d:Q1183041|Q1183041]] <small>(MeSH: D012026)</small>
+* [[Refraction, Ocular]] — [[d:Q71228718|Q71228718]] <small>(MeSH: D012029)</small>
+* [[Remote Sensing Technology]] — [[d:Q199687|Q199687]] <small>(MeSH: D058998)</small>
+* [[Replica Techniques]] — [[d:Q73225379|Q73225379]] <small>(MeSH: D016628)</small>
+* [[Reproductive History]] — [[d:Q70470863|Q70470863]] <small>(MeSH: D017584)</small>
+* [[Residual Volume]] — [[d:Q71130804|Q71130804]] <small>(MeSH: D012115)</small>
+* [[Respiratory Function Tests]] — [[d:Q1877462|Q1877462]] <small>(MeSH: D012129)</small>
+* [[Respiratory Rate]] — [[d:Q754250|Q754250]] <small>(MeSH: D056152)</small>
+* [[Respiratory-Gated Imaging Techniques]] — [[d:Q72367109|Q72367109]] <small>(MeSH: D055425)</small>
+* [[Response Evaluation Criteria in Solid Tumors]] — [[d:Q2145898|Q2145898]] <small>(MeSH: D066066)</small>
+* [[Retinoscopy]] — [[d:Q2915524|Q2915524]] <small>(MeSH: D042262)</small>
+* [[Rhinomanometry]] — [[d:Q2148116|Q2148116]] <small>(MeSH: D025363)</small>
+* [[Rhinometry, Acoustic]] — [[d:Q4674705|Q4674705]] <small>(MeSH: D023842)</small>
+* [[Sagittal Abdominal Diameter]] — [[d:Q7399292|Q7399292]] <small>(MeSH: D064346)</small>
+* [[Scanning Laser Polarimetry]] — [[d:Q1607652|Q1607652]] <small>(MeSH: D057109)</small>
+* [[Schilling Test]] — [[d:Q941607|Q941607]] <small>(MeSH: D012546)</small>
+* [[Second Harmonic Generation Microscopy]] — [[d:Q17092959|Q17092959]] <small>(MeSH: D000073798)</small>
+* [[Self-Examination]] — [[d:Q54913472|Q54913472]] <small>(MeSH: D016353)</small>
+* [[Semen Analysis]] — [[d:Q1501844|Q1501844]] <small>(MeSH: D055101)</small>
+* [[Sentinel Lymph Node Biopsy]] — [[d:Q66980305|Q66980305]] <small>(MeSH: D021701)</small>
+* [[Serial Passage]] — [[d:Q7454699|Q7454699]] <small>(MeSH: D012692)</small>
+* [[Sex Determination by Skeleton]] — [[d:Q72389111|Q72389111]] <small>(MeSH: D054881)</small>
+* [[Shadowing Technique, Histology]] — [[d:Q72369705|Q72369705]] <small>(MeSH: D016626)</small>
+* [[Sialography]] — [[d:Q1127628|Q1127628]] <small>(MeSH: D012796)</small>
+* [[Sigmoidoscopy]] — [[d:Q941169|Q941169]] <small>(MeSH: D012812)</small>
+* [[Silver Staining]] — [[d:Q907841|Q907841]] <small>(MeSH: D016622)</small>
+* [[Single-Balloon Enteroscopy]] — [[d:Q65465384|Q65465384]] <small>(MeSH: D000071085)</small>
+* [[Skin Pigmentation]] — [[d:Q853516|Q853516]] <small>(MeSH: D012880)</small>
+* [[Skinfold Thickness]] — [[d:Q67172538|Q67172538]] <small>(MeSH: D012885)</small>
+* [[Slit Lamp Microscopy]] — [[d:Q73501655|Q73501655]] <small>(MeSH: D000072776)</small>
+* [[Somatotypes]] — [[d:Q1501937|Q1501937]] <small>(MeSH: D013008)</small>
+* [[Specimen Handling]] — [[d:Q7410159|Q7410159]] <small>(MeSH: D013048)</small>
+* [[Spectroscopy, Near-Infrared]] — [[d:Q30920485|Q30920485]] <small>(MeSH: D019265)</small>
+* [[Speech Articulation Tests]] — [[d:Q72368610|Q72368610]] <small>(MeSH: D013062)</small>
+* [[Speech Discrimination Tests]] — [[d:Q73222951|Q73222951]] <small>(MeSH: D013063)</small>
+* [[Speech Production Measurement]] — [[d:Q73211338|Q73211338]] <small>(MeSH: D013068)</small>
+* [[Speech Reception Threshold Test]] — [[d:Q73400982|Q73400982]] <small>(MeSH: D013069)</small>
+* [[Sperm Motility]] — [[d:Q27116486|Q27116486]] <small>(MeSH: D013081)</small>
+* [[Spinal Puncture]] — [[d:Q719444|Q719444]] <small>(MeSH: D013129)</small>
+* [[Spiral Cone-Beam Computed Tomography]] — [[d:Q97971385|Q97971385]] <small>(MeSH: D054894)</small>
+* [[Spirometry]] — [[d:Q653305|Q653305]] <small>(MeSH: D013147)</small>
+* [[Staining and Labeling]] — [[d:Q2332446|Q2332446]] <small>(MeSH: D013194)</small>
+* [[Stroboscopy]] — [[d:Q2356525|Q2356525]] <small>(MeSH: D049489)</small>
+* [[Stroke Volume]] — [[d:Q1698533|Q1698533]] <small>(MeSH: D013318)</small>
+* [[Subtraction Technique]] — [[d:Q6002283|Q6002283]] <small>(MeSH: D013382)</small>
+* [[Surgical Clearance]] — [[d:Q72393024|Q72393024]] <small>(MeSH: D000068436)</small>
+* [[Sustained Virologic Response]] — [[d:Q70490546|Q70490546]] <small>(MeSH: D000072230)</small>
+* [[Symptom Assessment]] — [[d:Q73217365|Q73217365]] <small>(MeSH: D063189)</small>
+* [[Telemetry]] — [[d:Q209867|Q209867]] <small>(MeSH: D013686)</small>
+* [[Terahertz Imaging]] — [[d:Q5962133|Q5962133]] <small>(MeSH: D055069)</small>
+* [[Therapeutic Index]] — [[d:Q113450798|Q113450798]] <small>(MeSH: D000076162)</small>
+* [[Therapeutic Index, Drug]] — [[d:Q659446|Q659446]] <small>(MeSH: D000074389)</small>
+* [[Thermography]] — [[d:Q624587|Q624587]] <small>(MeSH: D013817)</small>
+* [[Theta Rhythm]] — [[d:Q2370623|Q2370623]] <small>(MeSH: D013826)</small>
+* [[Thoracentesis]] — [[d:Q1778213|Q1778213]] <small>(MeSH: D000069258)</small>
+* [[Thrombelastography]] — [[d:Q4463725|Q4463725]] <small>(MeSH: D013916)</small>
+* [[Thrombin Time]] — [[d:Q2520736|Q2520736]] <small>(MeSH: D013918)</small>
+* [[Thyroid Function Tests]] — [[d:Q712838|Q712838]] <small>(MeSH: D013960)</small>
+* [[Tidal Volume]] — [[d:Q3493813|Q3493813]] <small>(MeSH: D013990)</small>
+* [[Tilt-Table Test]] — [[d:Q1742390|Q1742390]] <small>(MeSH: D018667)</small>
+* [[Time-Lapse Imaging]] — [[d:Q186563|Q186563]] <small>(MeSH: D059008)</small>
+* [[Tissue Embedding]] — [[d:Q73231520|Q73231520]] <small>(MeSH: D016610)</small>
+* [[Tissue Fixation]] — [[d:Q73509712|Q73509712]] <small>(MeSH: D016707)</small>
+* [[Tomography]] — [[d:Q841267|Q841267]] <small>(MeSH: D014054)</small>
+* [[Tomography, Emission-Computed]] — [[d:Q5372630|Q5372630]] <small>(MeSH: D014055)</small>
+* [[Tomography, Emission-Computed, Single-Photon]] — [[d:Q849737|Q849737]] <small>(MeSH: D015899)</small>
+* [[Tomography, Optical]] — [[d:Q73467814|Q73467814]] <small>(MeSH: D041622)</small>
+* [[Tomography, Optical Coherence]] — [[d:Q899552|Q899552]] <small>(MeSH: D041623)</small>
+* [[Tomography, Spiral Computed]] — [[d:Q3260185|Q3260185]] <small>(MeSH: D036542)</small>
+* [[Tomography, X-Ray]] — [[d:Q12049213|Q12049213]] <small>(MeSH: D014056)</small>
+* [[Tomography, X-Ray Computed]] — [[d:Q32566|Q32566]] <small>(MeSH: D014057)</small>
+* [[Tonometry, Ocular]] — [[d:Q1078066|Q1078066]] <small>(MeSH: D014065)</small>
+* [[Total Lung Capacity]] — [[d:Q11821184|Q11821184]] <small>(MeSH: D014109)</small>
+* [[Traditional Pulse Diagnosis]] — [[d:Q644889|Q644889]] <small>(MeSH: D000071061)</small>
+* [[Transillumination]] — [[d:Q2986954|Q2986954]] <small>(MeSH: D014172)</small>
+* [[Treatment Expectations]] — [[d:Q131519335|Q131519335]] <small>(MeSH: D000099055)</small>
+* [[Treatment Failure]] — [[d:Q56317195|Q56317195]] <small>(MeSH: D017211)</small>
+* [[Treatment Outcome]] — [[d:Q70490488|Q70490488]] <small>(MeSH: D016896)</small>
+* [[Tympanocentesis]] — [[d:Q16910900|Q16910900]] <small>(MeSH: D000069356)</small>
+* [[Ultrasonography]] — [[d:Q234904|Q234904]] <small>(MeSH: D014463)</small>
+* [[Ultrasonography, Carotid Arteries]] — [[d:Q5045548|Q5045548]] <small>(MeSH: D000092262)</small>
+* [[Ultrasonography, Doppler]] — [[d:Q72377453|Q72377453]] <small>(MeSH: D018608)</small>
+* [[Ultrasonography, Doppler, Color]] — [[d:Q73038283|Q73038283]] <small>(MeSH: D018615)</small>
+* [[Ultrasonography, Doppler, Duplex]] — [[d:Q73484763|Q73484763]] <small>(MeSH: D018616)</small>
+* [[Ultrasonography, Doppler, Pulsed]] — [[d:Q72138904|Q72138904]] <small>(MeSH: D018617)</small>
+* [[Ultrasonography, Doppler, Transcranial]] — [[d:Q3512319|Q3512319]] <small>(MeSH: D017585)</small>
+* [[Ultrasonography, Interventional]] — [[d:Q17081763|Q17081763]] <small>(MeSH: D018084)</small>
+* [[Ultrasonography, Mammary]] — [[d:Q1888238|Q1888238]] <small>(MeSH: D016217)</small>
+* [[Ultrasonography, Prenatal]] — [[d:Q1402036|Q1402036]] <small>(MeSH: D016216)</small>
+* [[Ureteroscopy]] — [[d:Q2500530|Q2500530]] <small>(MeSH: D018666)</small>
+* [[Urinalysis]] — [[d:Q842424|Q842424]] <small>(MeSH: D016482)</small>
+* [[Urinary Catheterization]] — [[d:Q1025432|Q1025432]] <small>(MeSH: D014546)</small>
+* [[Urinary Sediment Analysis]] — [[d:Q109365331|Q109365331]] <small>(MeSH: D000095025)</small>
+* [[Urine Specimen Collection]] — [[d:Q72391890|Q72391890]] <small>(MeSH: D059349)</small>
+* [[Urography]] — [[d:Q1567532|Q1567532]] <small>(MeSH: D014567)</small>
+* [[Uterine Monitoring]] — [[d:Q73223008|Q73223008]] <small>(MeSH: D018590)</small>
+* [[Vaginal Smears]] — [[d:Q3089269|Q3089269]] <small>(MeSH: D014626)</small>
+* [[Valsalva Maneuver]] — [[d:Q1427231|Q1427231]] <small>(MeSH: D014636)</small>
+* [[Vectorcardiography]] — [[d:Q2512243|Q2512243]] <small>(MeSH: D014672)</small>
+* [[Ventilation-Perfusion Ratio]] — [[d:Q3930257|Q3930257]] <small>(MeSH: D014692)</small>
+* [[Ventilation-Perfusion Scan]] — [[d:Q1518412|Q1518412]] <small>(MeSH: D000076665)</small>
+* [[Ventriculography, First-Pass]] — [[d:Q67645620|Q67645620]] <small>(MeSH: D015646)</small>
+* [[Vestibular Function Tests]] — [[d:Q73521217|Q73521217]] <small>(MeSH: D014724)</small>
+* [[Video-Assisted Surgery]] — [[d:Q72556070|Q72556070]] <small>(MeSH: D020535)</small>
+* [[Viral Load]] — [[d:Q2528140|Q2528140]] <small>(MeSH: D019562)</small>
+* [[Viral Plaque Assay]] — [[d:Q72086997|Q72086997]] <small>(MeSH: D010948)</small>
+* [[Virus Cultivation]] — [[d:Q7933598|Q7933598]] <small>(MeSH: D014776)</small>
+* [[Virus Inactivation]] — [[d:Q67506291|Q67506291]] <small>(MeSH: D038301)</small>
+* [[Vision Tests]] — [[d:Q1668685|Q1668685]] <small>(MeSH: D014787)</small>
+* [[Visual Acuity]] — [[d:Q555066|Q555066]] <small>(MeSH: D014792)</small>
+* [[Visual Analog Scale]] — [[d:Q1362526|Q1362526]] <small>(MeSH: D064232)</small>
+* [[Visual Field Tests]] — [[d:Q1801370|Q1801370]] <small>(MeSH: D058609)</small>
+* [[Vital Capacity]] — [[d:Q660995|Q660995]] <small>(MeSH: D014797)</small>
+* [[Vital Signs]] — [[d:Q1067560|Q1067560]] <small>(MeSH: D055986)</small>
+* [[Voltage-Sensitive Dye Imaging]] — [[d:Q2984404|Q2984404]] <small>(MeSH: D056969)</small>
+* [[Volume Electron Microscopy]] — [[d:Q116788473|Q116788473]] <small>(MeSH: D000094443)</small>
+* [[Waist Circumference]] — [[d:Q811148|Q811148]] <small>(MeSH: D055105)</small>
+* [[Waist-Height Ratio]] — [[d:Q2540769|Q2540769]] <small>(MeSH: D065927)</small>
+* [[Waist-Hip Ratio]] — [[d:Q876152|Q876152]] <small>(MeSH: D049629)</small>
+* [[Walk Test]] — [[d:Q73400915|Q73400915]] <small>(MeSH: D000070857)</small>
+* [[Walking Speed]] — [[d:Q7239848|Q7239848]] <small>(MeSH: D000072797)</small>
+* [[Whole Blood Coagulation Time]] — [[d:Q5135593|Q5135593]] <small>(MeSH: D014914)</small>
+* [[Whole Body Imaging]] — [[d:Q7997551|Q7997551]] <small>(MeSH: D051598)</small>
+* [[Work Capacity Evaluation]] — [[d:Q5508800|Q5508800]] <small>(MeSH: D014938)</small>
+* [[Work of Breathing]] — [[d:Q23808249|Q23808249]] <small>(MeSH: D014939)</small>
+* [[X-Ray Microtomography]] — [[d:Q3042540|Q3042540]] <small>(MeSH: D055114)</small>
+* [[Xenodiagnosis]] — [[d:Q4119199|Q4119199]] <small>(MeSH: D020525)</small>
+* [[Xeromammography]] — [[d:Q8043869|Q8043869]] <small>(MeSH: D014984)</small>
+* [[Xeroradiography]] — [[d:Q8043885|Q8043885]] <small>(MeSH: D014986)</small>
+
+
+[[Category:WikiProject MeSH]]

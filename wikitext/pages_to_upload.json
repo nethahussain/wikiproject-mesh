@@ -1,0 +1,94 @@
+{
+  "page_info": {
+    "Wikipedia:WikiProject MeSH/Anatomy and Physiology/Cells – Musculoskeletal System": "01_Anatomy_and_Physiology_1.txt",
+    "Wikipedia:WikiProject MeSH/Anatomy and Physiology/Cardiovascular System – Skin and Integumentary System": "02_Anatomy_and_Physiology_2.txt",
+    "Wikipedia:WikiProject MeSH/Organisms/Viruses": "03_Organisms_1.txt",
+    "Wikipedia:WikiProject MeSH/Organisms/Bacteria – Algae": "04_Organisms_2.txt",
+    "Wikipedia:WikiProject MeSH/Organisms/Eukaryota (A–L)": "05_Organisms_Eukaryota_p1.txt",
+    "Wikipedia:WikiProject MeSH/Organisms/Eukaryota (L–V)": "06_Organisms_Eukaryota_p2.txt",
+    "Wikipedia:WikiProject MeSH/Organisms/Eukaryota (V–Z)": "07_Organisms_Eukaryota_p3.txt",
+    "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Infectious Diseases": "08_Diseases_and_Clinical_Medicine_1.txt",
+    "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Neurology": "09_Diseases_and_Clinical_Medicine_2.txt",
+    "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Oncology – Urology": "10_Diseases_and_Clinical_Medicine_3.txt",
+    "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Cardiology – Pathological Conditions and Signs": "11_Diseases_and_Clinical_Medicine_4.txt",
+    "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Congenital and Genetic Disorders – Pulmonology": "12_Diseases_and_Clinical_Medicine_5.txt",
+    "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Dermatology – Environmental and Occupational Diseases": "13_Diseases_and_Clinical_Medicine_6.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Pharmacological Actions – Nucleic Acids and Nucleotides": "14_Chemicals_Drugs_and_Biochemistry_1.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Biological Factors – Inorganic Chemicals": "15_Chemicals_Drugs_and_Biochemistry_2.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Heterocyclic Compounds – Complex Mixtures": "16_Chemicals_Drugs_and_Biochemistry_3.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Lipids – Biomedical and Dental Materials": "17_Chemicals_Drugs_and_Biochemistry_4.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (1–G)": "18_Chemicals_Drugs_and_Biochemistry_Amino_Acids_Peptides_and_Proteins_p1.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (G–P)": "19_Chemicals_Drugs_and_Biochemistry_Amino_Acids_Peptides_and_Proteins_p2.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (P–T)": "20_Chemicals_Drugs_and_Biochemistry_Amino_Acids_Peptides_and_Proteins_p3.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (T–Z)": "21_Chemicals_Drugs_and_Biochemistry_Amino_Acids_Peptides_and_Proteins_p4.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Enzymes and Coenzymes (1–N)": "22_Chemicals_Drugs_and_Biochemistry_Enzymes_and_Coenzymes_p1.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Enzymes and Coenzymes (N–Z)": "23_Chemicals_Drugs_and_Biochemistry_Enzymes_and_Coenzymes_p2.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Organic Chemicals (1–M)": "24_Chemicals_Drugs_and_Biochemistry_Organic_Chemicals_p1.txt",
+    "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Organic Chemicals (M–Z)": "25_Chemicals_Drugs_and_Biochemistry_Organic_Chemicals_p2.txt",
+    "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Investigative Techniques": "26_Techniques_Equipment_and_Health_Care_1.txt",
+    "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Therapeutic Techniques": "27_Techniques_Equipment_and_Health_Care_2.txt",
+    "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Diagnostic Techniques": "28_Techniques_Equipment_and_Health_Care_3.txt",
+    "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Surgical Procedures – Medical Equipment and Devices": "29_Techniques_Equipment_and_Health_Care_4.txt",
+    "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Health Care Economics – Anesthesia and Analgesia": "30_Techniques_Equipment_and_Health_Care_5.txt",
+    "Wikipedia:WikiProject MeSH/Biological and Physical Sciences/Genetics – Physiology": "31_Biological_and_Physical_Sciences_1.txt",
+    "Wikipedia:WikiProject MeSH/Biological and Physical Sciences/Cell Biology – Microbiology": "32_Biological_and_Physical_Sciences_2.txt",
+    "Wikipedia:WikiProject MeSH/Biological and Physical Sciences/Biological Phenomena – Integumentary Physiology": "33_Biological_and_Physical_Sciences_3.txt",
+    "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Behavioral Sciences – Persons": "34_Social_Sciences_Humanities_and_Other_1.txt",
+    "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Social Sciences – Information Science": "35_Social_Sciences_Humanities_and_Other_2.txt",
+    "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Technology and Food – Human Activities": "36_Social_Sciences_Humanities_and_Other_3.txt",
+    "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Geographic Locations – Uncategorized": "37_Social_Sciences_Humanities_and_Other_4.txt"
+  },
+  "page_structure": {
+    "Anatomy and Physiology": [
+      "Wikipedia:WikiProject MeSH/Anatomy and Physiology/Cells – Musculoskeletal System",
+      "Wikipedia:WikiProject MeSH/Anatomy and Physiology/Cardiovascular System – Skin and Integumentary System"
+    ],
+    "Organisms": [
+      "Wikipedia:WikiProject MeSH/Organisms/Viruses",
+      "Wikipedia:WikiProject MeSH/Organisms/Bacteria – Algae",
+      "Wikipedia:WikiProject MeSH/Organisms/Eukaryota (A–L)",
+      "Wikipedia:WikiProject MeSH/Organisms/Eukaryota (L–V)",
+      "Wikipedia:WikiProject MeSH/Organisms/Eukaryota (V–Z)"
+    ],
+    "Diseases and Clinical Medicine": [
+      "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Infectious Diseases",
+      "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Neurology",
+      "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Oncology – Urology",
+      "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Cardiology – Pathological Conditions and Signs",
+      "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Congenital and Genetic Disorders – Pulmonology",
+      "Wikipedia:WikiProject MeSH/Diseases and Clinical Medicine/Dermatology – Environmental and Occupational Diseases"
+    ],
+    "Chemicals, Drugs, and Biochemistry": [
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Pharmacological Actions – Nucleic Acids and Nucleotides",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Biological Factors – Inorganic Chemicals",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Heterocyclic Compounds – Complex Mixtures",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Lipids – Biomedical and Dental Materials",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (1–G)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (G–P)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (P–T)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Amino Acids, Peptides, and Proteins (T–Z)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Enzymes and Coenzymes (1–N)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Enzymes and Coenzymes (N–Z)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Organic Chemicals (1–M)",
+      "Wikipedia:WikiProject MeSH/Chemicals, Drugs, and Biochemistry/Organic Chemicals (M–Z)"
+    ],
+    "Techniques, Equipment, and Health Care": [
+      "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Investigative Techniques",
+      "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Therapeutic Techniques",
+      "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Diagnostic Techniques",
+      "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Surgical Procedures – Medical Equipment and Devices",
+      "Wikipedia:WikiProject MeSH/Techniques, Equipment, and Health Care/Health Care Economics – Anesthesia and Analgesia"
+    ],
+    "Biological and Physical Sciences": [
+      "Wikipedia:WikiProject MeSH/Biological and Physical Sciences/Genetics – Physiology",
+      "Wikipedia:WikiProject MeSH/Biological and Physical Sciences/Cell Biology – Microbiology",
+      "Wikipedia:WikiProject MeSH/Biological and Physical Sciences/Biological Phenomena – Integumentary Physiology"
+    ],
+    "Social Sciences, Humanities, and Other": [
+      "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Behavioral Sciences – Persons",
+      "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Social Sciences – Information Science",
+      "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Technology and Food – Human Activities",
+      "Wikipedia:WikiProject MeSH/Social Sciences, Humanities, and Other/Geographic Locations – Uncategorized"
+    ]
+  }
+}

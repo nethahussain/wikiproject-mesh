@@ -1,0 +1,646 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Therapeutic Techniques ===
+
+* '''Coverage:''' 28.1%
+* '''{{color|blue|Bluelinks}}:''' 179
+* '''{{color|red|Redlinks}}:''' 457
+* [[Abdominoplasty]] — [[d:Q811133|Q811133]] <small>(MeSH: D061645)</small>
+* [[Acoustic Stimulation]] — [[d:Q73398187|Q73398187]] <small>(MeSH: D000161)</small>
+* [[Activities of Daily Living]] — [[d:Q423243|Q423243]] <small>(MeSH: D000203)</small>
+* [[Acupressure]] — [[d:Q3033223|Q3033223]] <small>(MeSH: D019050)</small>
+* [[Acupuncture Analgesia]] — [[d:Q73502333|Q73502333]] <small>(MeSH: D015667)</small>
+* [[Acupuncture Points]] — [[d:Q3197706|Q3197706]] <small>(MeSH: D015669)</small>
+* [[Acupuncture Therapy]] — [[d:Q67374260|Q67374260]] <small>(MeSH: D015670)</small>
+* [[Acupuncture, Ear]] — [[d:Q67391388|Q67391388]] <small>(MeSH: D020831)</small>
+* [[Administration, Buccal]] — [[d:Q16963239|Q16963239]] <small>(MeSH: D000278)</small>
+* [[Administration, Cutaneous]] — [[d:Q73522743|Q73522743]] <small>(MeSH: D000279)</small>
+* [[Administration, Inhalation]] — [[d:Q4010888|Q4010888]] <small>(MeSH: D000280)</small>
+* [[Administration, Intranasal]] — [[d:Q6966562|Q6966562]] <small>(MeSH: D000281)</small>
+* [[Administration, Intravaginal]] — [[d:Q6058566|Q6058566]] <small>(MeSH: D000282)</small>
+* [[Administration, Intravenous]] — [[d:Q29913953|Q29913953]] <small>(MeSH: D061605)</small>
+* [[Administration, Intravesical]] — [[d:Q59622796|Q59622796]] <small>(MeSH: D000283)</small>
+* [[Administration, Metronomic]] — [[d:Q72138764|Q72138764]] <small>(MeSH: D059250)</small>
+* [[Administration, Mucosal]] — [[d:Q22081633|Q22081633]] <small>(MeSH: D058956)</small>
+* [[Administration, Ophthalmic]] — [[d:Q25378288|Q25378288]] <small>(MeSH: D060433)</small>
+* [[Administration, Oral]] — [[d:Q285166|Q285166]] <small>(MeSH: D000284)</small>
+* [[Administration, Rectal]] — [[d:Q73509342|Q73509342]] <small>(MeSH: D000285)</small>
+* [[Administration, Sublingual]] — [[d:Q784720|Q784720]] <small>(MeSH: D000286)</small>
+* [[Administration, Topical]] — [[d:Q73401802|Q73401802]] <small>(MeSH: D000287)</small>
+* [[Adoptive Transfer]] — [[d:Q73212796|Q73212796]] <small>(MeSH: D019264)</small>
+* [[Advanced Cardiac Life Support]] — [[d:Q379607|Q379607]] <small>(MeSH: D022561)</small>
+* [[Advanced Trauma Life Support Care]] — [[d:Q4586939|Q4586939]] <small>(MeSH: D061906)</small>
+* [[Aftercare]] — [[d:Q4690707|Q4690707]] <small>(MeSH: D000359)</small>
+* [[Airway Extubation]] — [[d:Q770206|Q770206]] <small>(MeSH: D060666)</small>
+* [[Airway Management]] — [[d:Q286949|Q286949]] <small>(MeSH: D058109)</small>
+* [[Ambulatory Care]] — [[d:Q2512965|Q2512965]] <small>(MeSH: D000553)</small>
+* [[Ammotherapy]] — [[d:Q73469462|Q73469462]] <small>(MeSH: D000646)</small>
+* [[Animal Assisted Therapy]] — [[d:Q606591|Q606591]] <small>(MeSH: D056447)</small>
+* [[Anthroposophy]] — [[d:Q184719|Q184719]] <small>(MeSH: D000887)</small>
+* [[Antibiotic Prophylaxis]] — [[d:Q4774943|Q4774943]] <small>(MeSH: D019072)</small>
+* [[Anticoagulation Bridge]] — [[d:Q116875026|Q116875026]] <small>(MeSH: D000095062)</small>
+* [[Anticoagulation Reversal]] — [[d:Q112062666|Q112062666]] <small>(MeSH: D000088542)</small>
+* [[Antineoplastic Combined Chemotherapy Protocols]] — [[d:Q66764603|Q66764603]] <small>(MeSH: D000971)</small>
+* [[Antineoplastic Protocols]] — [[d:Q66764606|Q66764606]] <small>(MeSH: D024221)</small>
+* [[Antiretroviral Therapy, Highly Active]] — [[d:Q3536652|Q3536652]] <small>(MeSH: D023241)</small>
+* [[Apitherapy]] — [[d:Q618690|Q618690]] <small>(MeSH: D056705)</small>
+* [[Aquatic Therapy]] — [[d:Q3791974|Q3791974]] <small>(MeSH: D000088543)</small>
+* [[Argon Plasma Coagulation]] — [[d:Q4121501|Q4121501]] <small>(MeSH: D057908)</small>
+* [[Aromatherapy]] — [[d:Q206202|Q206202]] <small>(MeSH: D019341)</small>
+* [[Art Therapy]] — [[d:Q928865|Q928865]] <small>(MeSH: D001155)</small>
+* [[Auriculotherapy]] — [[d:Q2157619|Q2157619]] <small>(MeSH: D055097)</small>
+* [[Autogenic Training]] — [[d:Q753595|Q753595]] <small>(MeSH: D001326)</small>
+* [[Autosuggestion]] — [[d:Q789195|Q789195]] <small>(MeSH: D001346)</small>
+* [[Balloon Embolectomy]] — [[d:Q73524300|Q73524300]] <small>(MeSH: D063125)</small>
+* [[Balloon Occlusion]] — [[d:Q4851873|Q4851873]] <small>(MeSH: D021721)</small>
+* [[Balloon Valvuloplasty]] — [[d:Q3167917|Q3167917]] <small>(MeSH: D063126)</small>
+* [[Balneology]] — [[d:Q789523|Q789523]] <small>(MeSH: D001452)</small>
+* [[Bariatric Surgery]] — [[d:Q357503|Q357503]] <small>(MeSH: D050110)</small>
+* [[Bariatrics]] — [[d:Q69020767|Q69020767]] <small>(MeSH: D049088)</small>
+* [[Baths]] — [[d:Q327651|Q327651]] <small>(MeSH: D001494)</small>
+* [[Bed Rest]] — [[d:Q850197|Q850197]] <small>(MeSH: D001510)</small>
+* [[Behavior Control]] — [[d:Q4880696|Q4880696]] <small>(MeSH: D032763)</small>
+* [[Bibliotherapy]] — [[d:Q794611|Q794611]] <small>(MeSH: D001638)</small>
+* [[Biolistics]] — [[d:Q73484912|Q73484912]] <small>(MeSH: D019470)</small>
+* [[Biological Therapy]] — [[d:Q4915355|Q4915355]] <small>(MeSH: D001691)</small>
+* [[Bioresonance Therapy]] — [[d:Q283925|Q283925]] <small>(MeSH: D066236)</small>
+* [[Blood Banking]] — [[d:Q116873190|Q116873190]] <small>(MeSH: D000094902)</small>
+* [[Blood Component Removal]] — [[d:Q618446|Q618446]] <small>(MeSH: D001781)</small>
+* [[Blood Component Transfusion]] — [[d:Q72369284|Q72369284]] <small>(MeSH: D016913)</small>
+* [[Blood Flow Restriction Therapy]] — [[d:Q18358370|Q18358370]] <small>(MeSH: D000090003)</small>
+* [[Blood Patch, Epidural]] — [[d:Q2501772|Q2501772]] <small>(MeSH: D017217)</small>
+* [[Blood Preservation]] — [[d:Q73508314|Q73508314]] <small>(MeSH: D001793)</small>
+* [[Blood Safety]] — [[d:Q1351530|Q1351530]] <small>(MeSH: D058731)</small>
+* [[Blood Transfusion]] — [[d:Q183605|Q183605]] <small>(MeSH: D001803)</small>
+* [[Blood Transfusion, Autologous]] — [[d:Q1759505|Q1759505]] <small>(MeSH: D001804)</small>
+* [[Blood Transfusion, Intrauterine]] — [[d:Q73498726|Q73498726]] <small>(MeSH: D001805)</small>
+* [[Bloodless Medical and Surgical Procedures]] — [[d:Q6453724|Q6453724]] <small>(MeSH: D057668)</small>
+* [[Bloodletting]] — [[d:Q356405|Q356405]] <small>(MeSH: D001815)</small>
+* [[Body Contouring]] — [[d:Q4936963|Q4936963]] <small>(MeSH: D000073880)</small>
+* [[Body Modification, Non-Therapeutic]] — [[d:Q890057|Q890057]] <small>(MeSH: D046289)</small>
+* [[Body Piercing]] — [[d:Q157943|Q157943]] <small>(MeSH: D046288)</small>
+* [[Bone Marrow Purging]] — [[d:Q73211613|Q73211613]] <small>(MeSH: D016465)</small>
+* [[Bone Marrow Transplantation]] — [[d:Q13476191|Q13476191]] <small>(MeSH: D016026)</small>
+* [[Boron Neutron Capture Therapy]] — [[d:Q71676169|Q71676169]] <small>(MeSH: D016754)</small>
+* [[Brachytherapy]] — [[d:Q896687|Q896687]] <small>(MeSH: D001918)</small>
+* [[Breathing Exercises]] — [[d:Q73217661|Q73217661]] <small>(MeSH: D001945)</small>
+* [[Bridge Therapy]] — [[d:Q48996800|Q48996800]] <small>(MeSH: D000093142)</small>
+* [[Bronchial Thermoplasty]] — [[d:Q4973817|Q4973817]] <small>(MeSH: D000074060)</small>
+* [[Caloric Restriction]] — [[d:Q1332886|Q1332886]] <small>(MeSH: D031204)</small>
+* [[Cardiac Pacing, Artificial]] — [[d:Q65617591|Q65617591]] <small>(MeSH: D002304)</small>
+* [[Cardiac Rehabilitation]] — [[d:Q5038717|Q5038717]] <small>(MeSH: D000072038)</small>
+* [[Cardiac Resynchronization Therapy]] — [[d:Q3428020|Q3428020]] <small>(MeSH: D058406)</small>
+* [[Cardiopulmonary Resuscitation]] — [[d:Q185325|Q185325]] <small>(MeSH: D016887)</small>
+* [[Catheter Ablation]] — [[d:Q436572|Q436572]] <small>(MeSH: D017115)</small>
+* [[Catheterization]] — [[d:Q2312472|Q2312472]] <small>(MeSH: D002404)</small>
+* [[Catheterization, Swan-Ganz]] — [[d:Q73401082|Q73401082]] <small>(MeSH: D002407)</small>
+* [[Cautery]] — [[d:Q1136347|Q1136347]] <small>(MeSH: D002425)</small>
+* [[Cell Transplantation]] — [[d:Q65592860|Q65592860]] <small>(MeSH: D017690)</small>
+* [[Cell- and Tissue-Based Therapy]] — [[d:Q65593162|Q65593162]] <small>(MeSH: D064987)</small>
+* [[Cementoplasty]] — [[d:Q59257903|Q59257903]] <small>(MeSH: D060826)</small>
+* [[Chelation Therapy]] — [[d:Q1069061|Q1069061]] <small>(MeSH: D015913)</small>
+* [[Chemexfoliation]] — [[d:Q73231418|Q73231418]] <small>(MeSH: D002615)</small>
+* [[Chemoembolization, Therapeutic]] — [[d:Q68572802|Q68572802]] <small>(MeSH: D016461)</small>
+* [[Chemoprevention]] — [[d:Q1069606|Q1069606]] <small>(MeSH: D018890)</small>
+* [[Chemoradiotherapy]] — [[d:Q5090613|Q5090613]] <small>(MeSH: D059248)</small>
+* [[Chemoradiotherapy, Adjuvant]] — [[d:Q59650953|Q59650953]] <small>(MeSH: D059186)</small>
+* [[Chemotherapy, Adjuvant]] — [[d:Q107548221|Q107548221]] <small>(MeSH: D017024)</small>
+* [[Chemotherapy, Cancer, Regional Perfusion]] — [[d:Q73522989|Q73522989]] <small>(MeSH: D010478)</small>
+* [[Chest Wall Oscillation]] — [[d:Q5093395|Q5093395]] <small>(MeSH: D035641)</small>
+* [[Chronotherapy]] — [[d:Q5114262|Q5114262]] <small>(MeSH: D019454)</small>
+* [[Climatotherapy]] — [[d:Q1774425|Q1774425]] <small>(MeSH: D013790)</small>
+* [[Clinical Protocols]] — [[d:Q70451103|Q70451103]] <small>(MeSH: D002985)</small>
+* [[Closed Fracture Reduction]] — [[d:Q72257889|Q72257889]] <small>(MeSH: D000070628)</small>
+* [[Cognitive Enhancement]] — [[d:Q1801475|Q1801475]] <small>(MeSH: D000099312)</small>
+* [[Cognitive Training]] — [[d:Q4955822|Q4955822]] <small>(MeSH: D000091942)</small>
+* [[Coitus Interruptus]] — [[d:Q182207|Q182207]] <small>(MeSH: D003076)</small>
+* [[Color Therapy]] — [[d:Q371276|Q371276]] <small>(MeSH: D016500)</small>
+* [[Combined Modality Therapy]] — [[d:Q60676219|Q60676219]] <small>(MeSH: D003131)</small>
+* [[Communication Methods, Total]] — [[d:Q2650252|Q2650252]] <small>(MeSH: D003145)</small>
+* [[Complementary Therapies]] — [[d:Q64831118|Q64831118]] <small>(MeSH: D000529)</small>
+* [[Conservative Treatment]] — [[d:Q13495660|Q13495660]] <small>(MeSH: D000072700)</small>
+* [[Consolidation Chemotherapy]] — [[d:Q71252864|Q71252864]] <small>(MeSH: D060830)</small>
+* [[Constraint Induced Movement Therapy]] — [[d:Q3527305|Q3527305]] <small>(MeSH: D000098483)</small>
+* [[Continuity of Patient Care]] — [[d:Q65807728|Q65807728]] <small>(MeSH: D003266)</small>
+* [[Continuous Positive Airway Pressure]] — [[d:Q5165502|Q5165502]] <small>(MeSH: D045422)</small>
+* [[Continuous Renal Replacement Therapy]] — [[d:Q114396035|Q114396035]] <small>(MeSH: D000079664)</small>
+* [[Contraception]] — [[d:Q122224|Q122224]] <small>(MeSH: D003267)</small>
+* [[Contraception, Barrier]] — [[d:Q13582224|Q13582224]] <small>(MeSH: D042121)</small>
+* [[Contraception, Immunologic]] — [[d:Q6005494|Q6005494]] <small>(MeSH: D003269)</small>
+* [[Contraception, Postcoital]] — [[d:Q741027|Q741027]] <small>(MeSH: D044363)</small>
+* [[Contraceptive Effectiveness]] — [[d:Q112711380|Q112711380]] <small>(MeSH: D000073516)</small>
+* [[Contraindications]] — [[d:Q1848900|Q1848900]] <small>(MeSH: D000075202)</small>
+* [[Contraindications, Drug]] — [[d:Q107389514|Q107389514]] <small>(MeSH: D000075203)</small>
+* [[Contraindications, Procedure]] — [[d:Q111771239|Q111771239]] <small>(MeSH: D000075204)</small>
+* [[Cool-Down Exercise]] — [[d:Q430439|Q430439]] <small>(MeSH: D064590)</small>
+* [[Cord Blood Stem Cell Transplantation]] — [[d:Q67591532|Q67591532]] <small>(MeSH: D036101)</small>
+* [[Corneal Cross-Linking]] — [[d:Q3698646|Q3698646]] <small>(MeSH: D000094504)</small>
+* [[Correction of Hearing Impairment]] — [[d:Q186763|Q186763]] <small>(MeSH: D012048)</small>
+* [[Cosmetic Techniques]] — [[d:Q73347499|Q73347499]] <small>(MeSH: D003357)</small>
+* [[COVID-19 Drug Treatment]] — [[d:Q116745056|Q116745056]] <small>(MeSH: D000093485)</small>
+* [[COVID-19 Serotherapy]] — [[d:Q116752881|Q116752881]] <small>(MeSH: D000093522)</small>
+* [[Cranial Irradiation]] — [[d:Q72138330|Q72138330]] <small>(MeSH: D016371)</small>
+* [[Craniospinal Irradiation]] — [[d:Q73483966|Q73483966]] <small>(MeSH: D061888)</small>
+* [[Critical Care]] — [[d:Q679690|Q679690]] <small>(MeSH: D003422)</small>
+* [[Cryotherapy]] — [[d:Q863803|Q863803]] <small>(MeSH: D017679)</small>
+* [[Cupping Therapy]] — [[d:Q461707|Q461707]] <small>(MeSH: D000079742)</small>
+* [[Custodial Care]] — [[d:Q70490329|Q70490329]] <small>(MeSH: D003482)</small>
+* [[Cytapheresis]] — [[d:Q73031882|Q73031882]] <small>(MeSH: D016238)</small>
+* [[Dance Therapy]] — [[d:Q1326190|Q1326190]] <small>(MeSH: D003614)</small>
+* [[Day Care, Medical]] — [[d:Q70363491|Q70363491]] <small>(MeSH: D003631)</small>
+* [[Decompression]] — [[d:Q5249574|Q5249574]] <small>(MeSH: D003664)</small>
+* [[Deep Brain Stimulation]] — [[d:Q618076|Q618076]] <small>(MeSH: D046690)</small>
+* [[Deinstitutionalization]] — [[d:Q2657096|Q2657096]] <small>(MeSH: D003688)</small>
+* [[Deprescriptions]] — [[d:Q16251540|Q16251540]] <small>(MeSH: D000069340)</small>
+* [[Dermabrasion]] — [[d:Q1200226|Q1200226]] <small>(MeSH: D003869)</small>
+* [[Desensitization, Immunologic]] — [[d:Q3493547|Q3493547]] <small>(MeSH: D003888)</small>
+* [[Diathermy]] — [[d:Q533734|Q533734]] <small>(MeSH: D003972)</small>
+* [[Diet Therapy]] — [[d:Q32488645|Q32488645]] <small>(MeSH: D004035)</small>
+* [[Diet, Carbohydrate Loading]] — [[d:Q283485|Q283485]] <small>(MeSH: D000070601)</small>
+* [[Diet, Carbohydrate-Restricted]] — [[d:Q1570280|Q1570280]] <small>(MeSH: D050528)</small>
+* [[Diet, Diabetic]] — [[d:Q899519|Q899519]] <small>(MeSH: D003927)</small>
+* [[Diet, Fat-Restricted]] — [[d:Q1872526|Q1872526]] <small>(MeSH: D018752)</small>
+* [[Diet, Gluten-Free]] — [[d:Q2632776|Q2632776]] <small>(MeSH: D055050)</small>
+* [[Diet, High-Protein]] — [[d:Q3455060|Q3455060]] <small>(MeSH: D000073600)</small>
+* [[Diet, High-Protein Low-Carbohydrate]] — [[d:Q113434795|Q113434795]] <small>(MeSH: D000076107)</small>
+* [[Diet, Ketogenic]] — [[d:Q1070684|Q1070684]] <small>(MeSH: D055423)</small>
+* [[Diet, Macrobiotic]] — [[d:Q1163963|Q1163963]] <small>(MeSH: D015623)</small>
+* [[Diet, Mediterranean]] — [[d:Q47564|Q47564]] <small>(MeSH: D038441)</small>
+* [[Diet, Paleolithic]] — [[d:Q533945|Q533945]] <small>(MeSH: D066046)</small>
+* [[Diet, Plant-Based]] — [[d:Q7201457|Q7201457]] <small>(MeSH: D000095500)</small>
+* [[Diet, Protein-Restricted]] — [[d:Q17067874|Q17067874]] <small>(MeSH: D018753)</small>
+* [[Diet, Reducing]] — [[d:Q861974|Q861974]] <small>(MeSH: D004038)</small>
+* [[Diet, Sodium-Restricted]] — [[d:Q2068354|Q2068354]] <small>(MeSH: D004039)</small>
+* [[Diet, Vegan]] — [[d:Q7918284|Q7918284]] <small>(MeSH: D000067269)</small>
+* [[Diet, Vegetarian]] — [[d:Q21071635|Q21071635]] <small>(MeSH: D014676)</small>
+* [[Dietary Approaches To Stop Hypertension]] — [[d:Q5204325|Q5204325]] <small>(MeSH: D000073601)</small>
+* [[Diffuse Noxious Inhibitory Control]] — [[d:Q5275422|Q5275422]] <small>(MeSH: D059328)</small>
+* [[Donor Conception]] — [[d:Q7784739|Q7784739]] <small>(MeSH: D000072234)</small>
+* [[Dose Fractionation, Radiation]] — [[d:Q5299253|Q5299253]] <small>(MeSH: D019583)</small>
+* [[Drainage]] — [[d:Q5305547|Q5305547]] <small>(MeSH: D004322)</small>
+* [[Drainage, Postural]] — [[d:Q7234515|Q7234515]] <small>(MeSH: D015916)</small>
+* [[Drug Administration Routes]] — [[d:Q621636|Q621636]] <small>(MeSH: D004333)</small>
+* [[Drug Administration Schedule]] — [[d:Q73398352|Q73398352]] <small>(MeSH: D004334)</small>
+* [[Drug Chronotherapy]] — [[d:Q73228115|Q73228115]] <small>(MeSH: D055870)</small>
+* [[Drug Delivery Systems]] — [[d:Q64829245|Q64829245]] <small>(MeSH: D016503)</small>
+* [[Drug Dosage Calculations]] — [[d:Q73499347|Q73499347]] <small>(MeSH: D054796)</small>
+* [[Drug Prescriptions]] — [[d:Q95819473|Q95819473]] <small>(MeSH: D011307)</small>
+* [[Drug Substitution]] — [[d:Q70471113|Q70471113]] <small>(MeSH: D057915)</small>
+* [[Drug Tapering]] — [[d:Q114788373|Q114788373]] <small>(MeSH: D000084862)</small>
+* [[Drug Therapy]] — [[d:Q701216|Q701216]] <small>(MeSH: D004358)</small>
+* [[Drug Therapy, Combination]] — [[d:Q1304270|Q1304270]] <small>(MeSH: D004359)</small>
+* [[Drug Therapy, Computer-Assisted]] — [[d:Q70331548|Q70331548]] <small>(MeSH: D004360)</small>
+* [[Dry Needling]] — [[d:Q1261559|Q1261559]] <small>(MeSH: D000079245)</small>
+* [[Dual Anti-Platelet Therapy]] — [[d:Q114488721|Q114488721]] <small>(MeSH: D000080903)</small>
+* [[Duration of Therapy]] — [[d:Q114565211|Q114565211]] <small>(MeSH: D000081206)</small>
+* [[Early Ambulation]] — [[d:Q67245295|Q67245295]] <small>(MeSH: D004434)</small>
+* [[Early Goal-Directed Therapy]] — [[d:Q1277518|Q1277518]] <small>(MeSH: D000074388)</small>
+* [[Eclecticism, Historical]] — [[d:Q5332957|Q5332957]] <small>(MeSH: D027681)</small>
+* [[Electric Countershock]] — [[d:Q954202|Q954202]] <small>(MeSH: D004554)</small>
+* [[Electric Stimulation Therapy]] — [[d:Q65617749|Q65617749]] <small>(MeSH: D004599)</small>
+* [[Electroacupuncture]] — [[d:Q11784952|Q11784952]] <small>(MeSH: D015671)</small>
+* [[Electrocoagulation]] — [[d:Q2668225|Q2668225]] <small>(MeSH: D004564)</small>
+* [[Embolization, Therapeutic]] — [[d:Q1144114|Q1144114]] <small>(MeSH: D004621)</small>
+* [[Embryo Transfer]] — [[d:Q237118|Q237118]] <small>(MeSH: D004624)</small>
+* [[Emergency Treatment]] — [[d:Q73041307|Q73041307]] <small>(MeSH: D004638)</small>
+* [[Endotamponade]] — [[d:Q73041704|Q73041704]] <small>(MeSH: D058450)</small>
+* [[Endurance Training]] — [[d:Q362854|Q362854]] <small>(MeSH: D000076663)</small>
+* [[Enema]] — [[d:Q194517|Q194517]] <small>(MeSH: D004733)</small>
+* [[Enteral Nutrition]] — [[d:Q3879930|Q3879930]] <small>(MeSH: D004750)</small>
+* [[Enterosorption]] — [[d:Q73398295|Q73398295]] <small>(MeSH: D016061)</small>
+* [[Enzyme Replacement Therapy]] — [[d:Q916766|Q916766]] <small>(MeSH: D056947)</small>
+* [[Enzyme Therapy]] — [[d:Q59258117|Q59258117]] <small>(MeSH: D057487)</small>
+* [[Episode of Care]] — [[d:Q70363712|Q70363712]] <small>(MeSH: D017050)</small>
+* [[Equine-Assisted Therapy]] — [[d:Q290912|Q290912]] <small>(MeSH: D056147)</small>
+* [[Erythrocyte Transfusion]] — [[d:Q73211755|Q73211755]] <small>(MeSH: D017707)</small>
+* [[Estrogen Replacement Therapy]] — [[d:Q76285049|Q76285049]] <small>(MeSH: D015914)</small>
+* [[Euthanasia]] — [[d:Q100159|Q100159]] <small>(MeSH: D005065)</small>
+* [[Euthanasia, Active]] — [[d:Q56404325|Q56404325]] <small>(MeSH: D028601)</small>
+* [[Euthanasia, Active, Voluntary]] — [[d:Q17089549|Q17089549]] <small>(MeSH: D033101)</small>
+* [[Euthanasia, Animal]] — [[d:Q652653|Q652653]] <small>(MeSH: D037901)</small>
+* [[Euthanasia, Passive]] — [[d:Q2056084|Q2056084]] <small>(MeSH: D005066)</small>
+* [[Ex utero Intrapartum Treatment Procedures]] — [[d:Q3717540|Q3717540]] <small>(MeSH: D000088103)</small>
+* [[Exchange Transfusion, Whole Blood]] — [[d:Q886468|Q886468]] <small>(MeSH: D005078)</small>
+* [[Exercise Movement Techniques]] — [[d:Q73038387|Q73038387]] <small>(MeSH: D026241)</small>
+* [[Exercise Therapy]] — [[d:Q16885218|Q16885218]] <small>(MeSH: D005081)</small>
+* [[Extracorporeal Membrane Oxygenation]] — [[d:Q1385195|Q1385195]] <small>(MeSH: D015199)</small>
+* [[Extracorporeal Shockwave Therapy]] — [[d:Q1385189|Q1385189]] <small>(MeSH: D000074059)</small>
+* [[Faith Healing]] — [[d:Q1420463|Q1420463]] <small>(MeSH: D029221)</small>
+* [[Fecal Microbiota Transplantation]] — [[d:Q2121103|Q2121103]] <small>(MeSH: D000069467)</small>
+* [[Feeding Methods]] — [[d:Q73507633|Q73507633]] <small>(MeSH: D005248)</small>
+* [[Fertility Preservation]] — [[d:Q5445580|Q5445580]] <small>(MeSH: D059247)</small>
+* [[Fertilization in Vitro]] — [[d:Q200117|Q200117]] <small>(MeSH: D005307)</small>
+* [[Fetal Therapies]] — [[d:Q73522150|Q73522150]] <small>(MeSH: D046128)</small>
+* [[Fetal Tissue Transplantation]] — [[d:Q73491832|Q73491832]] <small>(MeSH: D016332)</small>
+* [[First Aid]] — [[d:Q133981|Q133981]] <small>(MeSH: D005392)</small>
+* [[Fluid Therapy]] — [[d:Q4529664|Q4529664]] <small>(MeSH: D005440)</small>
+* [[Forest Therapy]] — [[d:Q48645|Q48645]] <small>(MeSH: D000099080)</small>
+* [[Fracture Fixation]] — [[d:Q73228366|Q73228366]] <small>(MeSH: D005592)</small>
+* [[Fracture Fixation, Internal]] — [[d:Q1667915|Q1667915]] <small>(MeSH: D005593)</small>
+* [[Fracture Fixation, Intramedullary]] — [[d:Q72555604|Q72555604]] <small>(MeSH: D005594)</small>
+* [[Gamete Intrafallopian Transfer]] — [[d:Q5520148|Q5520148]] <small>(MeSH: D015181)</small>
+* [[Gastric Hypothermia]] — [[d:Q72368545|Q72368545]] <small>(MeSH: D050786)</small>
+* [[Gender-Affirming Procedures]] — [[d:Q67570261|Q67570261]] <small>(MeSH: D057829)</small>
+* [[Genetic Therapy]] — [[d:Q213901|Q213901]] <small>(MeSH: D015316)</small>
+* [[Genomic Medicine]] — [[d:Q6008695|Q6008695]] <small>(MeSH: D000088744)</small>
+* [[Glycemic Control]] — [[d:Q114789688|Q114789688]] <small>(MeSH: D000085002)</small>
+* [[Graft Enhancement, Immunologic]] — [[d:Q72389588|Q72389588]] <small>(MeSH: D006082)</small>
+* [[Hair Removal]] — [[d:Q625145|Q625145]] <small>(MeSH: D006204)</small>
+* [[Hand Hygiene]] — [[d:Q552461|Q552461]] <small>(MeSH: D063373)</small>
+* [[Heavy Ion Radiotherapy]] — [[d:Q493976|Q493976]] <small>(MeSH: D063193)</small>
+* [[Heimlich Maneuver]] — [[d:Q857300|Q857300]] <small>(MeSH: D059746)</small>
+* [[Heliotherapy]] — [[d:Q3144667|Q3144667]] <small>(MeSH: D006370)</small>
+* [[Hematopoietic Stem Cell Mobilization]] — [[d:Q72392280|Q72392280]] <small>(MeSH: D019650)</small>
+* [[Hematopoietic Stem Cell Transplantation]] — [[d:Q1128050|Q1128050]] <small>(MeSH: D018380)</small>
+* [[Hematoporphyrin Photoradiation]] — [[d:Q73216409|Q73216409]] <small>(MeSH: D006414)</small>
+* [[Hemibody Irradiation]] — [[d:Q73509280|Q73509280]] <small>(MeSH: D017619)</small>
+* [[Hemodiafiltration]] — [[d:Q3144940|Q3144940]] <small>(MeSH: D017583)</small>
+* [[Hemodialysis, Home]] — [[d:Q2887145|Q2887145]] <small>(MeSH: D006437)</small>
+* [[Hemodilution]] — [[d:Q1296526|Q1296526]] <small>(MeSH: D006438)</small>
+* [[Hemofiltration]] — [[d:Q2720606|Q2720606]] <small>(MeSH: D006440)</small>
+* [[Hemoperfusion]] — [[d:Q3144950|Q3144950]] <small>(MeSH: D006464)</small>
+* [[Hemostasis, Endoscopic]] — [[d:Q73526123|Q73526123]] <small>(MeSH: D016558)</small>
+* [[Hemostasis, Surgical]] — [[d:Q66088326|Q66088326]] <small>(MeSH: D006488)</small>
+* [[Hemostatic Techniques]] — [[d:Q65619910|Q65619910]] <small>(MeSH: D006489)</small>
+* [[High-Frequency Jet Ventilation]] — [[d:Q72366795|Q72366795]] <small>(MeSH: D006611)</small>
+* [[High-Frequency Ventilation]] — [[d:Q1621803|Q1621803]] <small>(MeSH: D006612)</small>
+* [[High-Intensity Focused Ultrasound Ablation]] — [[d:Q73230246|Q73230246]] <small>(MeSH: D057086)</small>
+* [[Hirudin Therapy]] — [[d:Q68418987|Q68418987]] <small>(MeSH: D024764)</small>
+* [[Holistic Health]] — [[d:Q767405|Q767405]] <small>(MeSH: D006694)</small>
+* [[Home Infusion Therapy]] — [[d:Q70439921|Q70439921]] <small>(MeSH: D018718)</small>
+* [[Homeopathy]] — [[d:Q81058|Q81058]] <small>(MeSH: D006705)</small>
+* [[Hormonal Contraception]] — [[d:Q7292449|Q7292449]] <small>(MeSH: D000080282)</small>
+* [[Hormone Replacement Therapy]] — [[d:Q3354346|Q3354346]] <small>(MeSH: D020249)</small>
+* [[Horticultural Therapy]] — [[d:Q1494745|Q1494745]] <small>(MeSH: D058611)</small>
+* [[Hospice Care]] — [[d:Q70438676|Q70438676]] <small>(MeSH: D017051)</small>
+* [[Hospital to Home Transition]] — [[d:Q112072230|Q112072230]] <small>(MeSH: D000088745)</small>
+* [[Hospitalization]] — [[d:Q1431847|Q1431847]] <small>(MeSH: D006760)</small>
+* [[Host-Directed Therapy]] — [[d:Q48996727|Q48996727]] <small>(MeSH: D000099204)</small>
+* [[Hybrid Renal Replacement Therapy]] — [[d:Q114397491|Q114397491]] <small>(MeSH: D000079782)</small>
+* [[Hydrotherapy]] — [[d:Q622676|Q622676]] <small>(MeSH: D006875)</small>
+* [[Hygiene]] — [[d:Q162297|Q162297]] <small>(MeSH: D006920)</small>
+* [[Hyperbaric Oxygenation]] — [[d:Q731615|Q731615]] <small>(MeSH: D006931)</small>
+* [[Hyperthermia, Induced]] — [[d:Q564872|Q564872]] <small>(MeSH: D006979)</small>
+* [[Hyperthermic Intraperitoneal Chemotherapy]] — [[d:Q612526|Q612526]] <small>(MeSH: D000084262)</small>
+* [[Hypnosis]] — [[d:Q8609|Q8609]] <small>(MeSH: D006990)</small>
+* [[Hypodermoclysis]] — [[d:Q2117017|Q2117017]] <small>(MeSH: D055103)</small>
+* [[Hypothermia, Induced]] — [[d:Q478590|Q478590]] <small>(MeSH: D007036)</small>
+* [[Ilizarov Technique]] — [[d:Q1188542|Q1188542]] <small>(MeSH: D018889)</small>
+* [[Imagery, Psychotherapy]] — [[d:Q1727182|Q1727182]] <small>(MeSH: D019018)</small>
+* [[Immunization Schedule]] — [[d:Q1644301|Q1644301]] <small>(MeSH: D007115)</small>
+* [[Immunization, Passive]] — [[d:Q73525231|Q73525231]] <small>(MeSH: D007116)</small>
+* [[Immunization, Secondary]] — [[d:Q2920497|Q2920497]] <small>(MeSH: D007117)</small>
+* [[Immunomodulation]] — [[d:Q27788458|Q27788458]] <small>(MeSH: D056747)</small>
+* [[Immunosuppression Therapy]] — [[d:Q1455316|Q1455316]] <small>(MeSH: D007165)</small>
+* [[Immunotherapy]] — [[d:Q1427096|Q1427096]] <small>(MeSH: D007167)</small>
+* [[Immunotherapy, Active]] — [[d:Q4677560|Q4677560]] <small>(MeSH: D016233)</small>
+* [[Immunotherapy, Adoptive]] — [[d:Q72138716|Q72138716]] <small>(MeSH: D016219)</small>
+* [[In Vitro Oocyte Maturation Techniques]] — [[d:Q2275655|Q2275655]] <small>(MeSH: D059471)</small>
+* [[Inappropriate Prescribing]] — [[d:Q65591006|Q65591006]] <small>(MeSH: D057970)</small>
+* [[Induction Chemotherapy]] — [[d:Q16888295|Q16888295]] <small>(MeSH: D060828)</small>
+* [[Infusions, Intra-Arterial]] — [[d:Q16861468|Q16861468]] <small>(MeSH: D007261)</small>
+* [[Infusions, Intralesional]] — [[d:Q72368457|Q72368457]] <small>(MeSH: D036502)</small>
+* [[Infusions, Intraosseous]] — [[d:Q573068|Q573068]] <small>(MeSH: D017148)</small>
+* [[Infusions, Intravenous]] — [[d:Q640448|Q640448]] <small>(MeSH: D007262)</small>
+* [[Infusions, Intraventricular]] — [[d:Q72277594|Q72277594]] <small>(MeSH: D057967)</small>
+* [[Infusions, Parenteral]] — [[d:Q73484264|Q73484264]] <small>(MeSH: D007263)</small>
+* [[Infusions, Spinal]] — [[d:Q72138837|Q72138837]] <small>(MeSH: D060186)</small>
+* [[Infusions, Subcutaneous]] — [[d:Q73039830|Q73039830]] <small>(MeSH: D055104)</small>
+* [[Injection, Intratympanic]] — [[d:Q73483372|Q73483372]] <small>(MeSH: D000069555)</small>
+* [[Injections]] — [[d:Q245359|Q245359]] <small>(MeSH: D007267)</small>
+* [[Injections, Epidural]] — [[d:Q68751874|Q68751874]] <small>(MeSH: D007268)</small>
+* [[Injections, Intra-Arterial]] — [[d:Q73354858|Q73354858]] <small>(MeSH: D007269)</small>
+* [[Injections, Intra-Articular]] — [[d:Q4833215|Q4833215]] <small>(MeSH: D007270)</small>
+* [[Injections, Intradermal]] — [[d:Q1671547|Q1671547]] <small>(MeSH: D007271)</small>
+* [[Injections, Intralesional]] — [[d:Q72138228|Q72138228]] <small>(MeSH: D015552)</small>
+* [[Injections, Intralymphatic]] — [[d:Q72555523|Q72555523]] <small>(MeSH: D007272)</small>
+* [[Injections, Intramuscular]] — [[d:Q432083|Q432083]] <small>(MeSH: D007273)</small>
+* [[Injections, Intraocular]] — [[d:Q73230519|Q73230519]] <small>(MeSH: D056965)</small>
+* [[Injections, Intraperitoneal]] — [[d:Q1400536|Q1400536]] <small>(MeSH: D007274)</small>
+* [[Injections, Intravenous]] — [[d:Q1369403|Q1369403]] <small>(MeSH: D007275)</small>
+* [[Injections, Intraventricular]] — [[d:Q29986117|Q29986117]] <small>(MeSH: D007276)</small>
+* [[Injections, Jet]] — [[d:Q110812408|Q110812408]] <small>(MeSH: D007277)</small>
+* [[Injections, Spinal]] — [[d:Q68752302|Q68752302]] <small>(MeSH: D007278)</small>
+* [[Injections, Subcutaneous]] — [[d:Q2035485|Q2035485]] <small>(MeSH: D007279)</small>
+* [[Insemination, Artificial]] — [[d:Q207122|Q207122]] <small>(MeSH: D007315)</small>
+* [[Insemination, Artificial, Heterologous]] — [[d:Q70580020|Q70580020]] <small>(MeSH: D007316)</small>
+* [[Insemination, Artificial, Homologous]] — [[d:Q71225567|Q71225567]] <small>(MeSH: D007317)</small>
+* [[Instillation, Drug]] — [[d:Q1664699|Q1664699]] <small>(MeSH: D007322)</small>
+* [[Institutionalization]] — [[d:Q6041218|Q6041218]] <small>(MeSH: D007326)</small>
+* [[Integrative Oncology]] — [[d:Q112650429|Q112650429]] <small>(MeSH: D000073196)</small>
+* [[Intense Pulsed Light Therapy]] — [[d:Q1193171|Q1193171]] <small>(MeSH: D062325)</small>
+* [[Intensive Care, Neonatal]] — [[d:Q70346593|Q70346593]] <small>(MeSH: D015931)</small>
+* [[Interactive Ventilatory Support]] — [[d:Q73219985|Q73219985]] <small>(MeSH: D059725)</small>
+* [[Intermittent Positive-Pressure Breathing]] — [[d:Q6047506|Q6047506]] <small>(MeSH: D007384)</small>
+* [[Intermittent Positive-Pressure Ventilation]] — [[d:Q73039106|Q73039106]] <small>(MeSH: D007385)</small>
+* [[Intermittent Renal Replacement Therapy]] — [[d:Q114397381|Q114397381]] <small>(MeSH: D000079763)</small>
+* [[Intermittent Urethral Catheterization]] — [[d:Q73468462|Q73468462]] <small>(MeSH: D057928)</small>
+* [[Intervertebral Disc Chemolysis]] — [[d:Q73524496|Q73524496]] <small>(MeSH: D007404)</small>
+* [[Intracameral Injection]] — [[d:Q30314467|Q30314467]] <small>(MeSH: D000097807)</small>
+* [[Intraoperative Care]] — [[d:Q70348084|Q70348084]] <small>(MeSH: D007430)</small>
+* [[Intravitreal Injections]] — [[d:Q180609|Q180609]] <small>(MeSH: D058449)</small>
+* [[Intubation]] — [[d:Q939018|Q939018]] <small>(MeSH: D007440)</small>
+* [[Intubation, Gastrointestinal]] — [[d:Q73212133|Q73212133]] <small>(MeSH: D007441)</small>
+* [[Intubation, Intratracheal]] — [[d:Q750195|Q750195]] <small>(MeSH: D007442)</small>
+* [[Involuntary Commitment]] — [[d:Q114368738|Q114368738]] <small>(MeSH: D000079243)</small>
+* [[Iontophoresis]] — [[d:Q1528394|Q1528394]] <small>(MeSH: D007478)</small>
+* [[Ischemic Postconditioning]] — [[d:Q67432257|Q67432257]] <small>(MeSH: D057775)</small>
+* [[Ischemic Preconditioning]] — [[d:Q17148404|Q17148404]] <small>(MeSH: D019194)</small>
+* [[Ischemic Preconditioning, Myocardial]] — [[d:Q73404036|Q73404036]] <small>(MeSH: D019157)</small>
+* [[Kinesiology, Applied]] — [[d:Q913842|Q913842]] <small>(MeSH: D018953)</small>
+* [[Kyphoplasty]] — [[d:Q1795138|Q1795138]] <small>(MeSH: D058498)</small>
+* [[Laminoplasty]] — [[d:Q6482010|Q6482010]] <small>(MeSH: D065406)</small>
+* [[Language Therapy]] — [[d:Q67252827|Q67252827]] <small>(MeSH: D007808)</small>
+* [[Laryngeal Masks]] — [[d:Q1806426|Q1806426]] <small>(MeSH: D017214)</small>
+* [[Laser Therapy]] — [[d:Q847796|Q847796]] <small>(MeSH: D053685)</small>
+* [[Laughter Therapy]] — [[d:Q9069441|Q9069441]] <small>(MeSH: D027641)</small>
+* [[Leeching]] — [[d:Q886533|Q886533]] <small>(MeSH: D024763)</small>
+* [[Left Atrial Appendage Closure]] — [[d:Q6516934|Q6516934]] <small>(MeSH: D000097546)</small>
+* [[Length of Stay]] — [[d:Q2520821|Q2520821]] <small>(MeSH: D007902)</small>
+* [[Leukapheresis]] — [[d:Q3237071|Q3237071]] <small>(MeSH: D007937)</small>
+* [[Leukocyte Transfusion]] — [[d:Q73032282|Q73032282]] <small>(MeSH: D017708)</small>
+* [[Life Support Care]] — [[d:Q2624498|Q2624498]] <small>(MeSH: D008020)</small>
+* [[Lip Augmentation]] — [[d:Q6556145|Q6556145]] <small>(MeSH: D000099125)</small>
+* [[Lipectomy]] — [[d:Q825490|Q825490]] <small>(MeSH: D015187)</small>
+* [[Lipoabdominoplasty]] — [[d:Q113961061|Q113961061]] <small>(MeSH: D000077845)</small>
+* [[Lipreading]] — [[d:Q1069953|Q1069953]] <small>(MeSH: D008085)</small>
+* [[Liquid Ventilation]] — [[d:Q923732|Q923732]] <small>(MeSH: D021061)</small>
+* [[Lithotripsy]] — [[d:Q2463395|Q2463395]] <small>(MeSH: D008096)</small>
+* [[Lithotripsy, Laser]] — [[d:Q6493082|Q6493082]] <small>(MeSH: D017602)</small>
+* [[Long-Acting Reversible Contraception]] — [[d:Q6671830|Q6671830]] <small>(MeSH: D000075523)</small>
+* [[Long-Term Care]] — [[d:Q6672123|Q6672123]] <small>(MeSH: D008134)</small>
+* [[Low-Level Light Therapy]] <small>(MeSH: D028022)</small>
+* [[Lower Body Negative Pressure]] — [[d:Q73211876|Q73211876]] <small>(MeSH: D008150)</small>
+* [[Lymphatic Irradiation]] — [[d:Q73230898|Q73230898]] <small>(MeSH: D015182)</small>
+* [[Lymphocyte Depletion]] — [[d:Q73348625|Q73348625]] <small>(MeSH: D008212)</small>
+* [[Lymphocyte Transfusion]] — [[d:Q72259650|Q72259650]] <small>(MeSH: D017710)</small>
+* [[Maggot Debridement Therapy]] — [[d:Q900310|Q900310]] <small>(MeSH: D000096383)</small>
+* [[Magic]] — [[d:Q81741|Q81741]] <small>(MeSH: D008273)</small>
+* [[Magnetic Field Therapy]] — [[d:Q73231155|Q73231155]] <small>(MeSH: D055909)</small>
+* [[Maintenance Chemotherapy]] — [[d:Q72377341|Q72377341]] <small>(MeSH: D060046)</small>
+* [[Mammaplasty]] — [[d:Q11002196|Q11002196]] <small>(MeSH: D016462)</small>
+* [[Manipulation, Chiropractic]] — [[d:Q72388883|Q72388883]] <small>(MeSH: D026882)</small>
+* [[Manipulation, Orthopedic]] — [[d:Q72258517|Q72258517]] <small>(MeSH: D008349)</small>
+* [[Manipulation, Osteopathic]] — [[d:Q7107632|Q7107632]] <small>(MeSH: D026301)</small>
+* [[Manipulation, Spinal]] — [[d:Q1074773|Q1074773]] <small>(MeSH: D020393)</small>
+* [[Manual Communication]] — [[d:Q6752310|Q6752310]] <small>(MeSH: D008369)</small>
+* [[Manual Lymphatic Drainage]] — [[d:Q1415591|Q1415591]] <small>(MeSH: D000073297)</small>
+* [[Massage]] — [[d:Q179415|Q179415]] <small>(MeSH: D008405)</small>
+* [[Mechanical Thrombolysis]] — [[d:Q72087221|Q72087221]] <small>(MeSH: D061185)</small>
+* [[Medication Errors]] — [[d:Q3057458|Q3057458]] <small>(MeSH: D008508)</small>
+* [[Medicine, African Traditional]] — [[d:Q2329068|Q2329068]] <small>(MeSH: D016488)</small>
+* [[Medicine, Arabic]] — [[d:Q3332443|Q3332443]] <small>(MeSH: D008514)</small>
+* [[Medicine, Ayurvedic]] — [[d:Q132325|Q132325]] <small>(MeSH: D008515)</small>
+* [[Medicine, Chinese Traditional]] — [[d:Q200253|Q200253]] <small>(MeSH: D008516)</small>
+* [[Medicine, East Asian Traditional]] — [[d:Q3439913|Q3439913]] <small>(MeSH: D008518)</small>
+* [[Medicine, Iranian Traditional]] — [[d:Q20707850|Q20707850]] <small>(MeSH: D000091182)</small>
+* [[Medicine, Kampo]] — [[d:Q403356|Q403356]] <small>(MeSH: D020835)</small>
+* [[Medicine, Korean Traditional]] — [[d:Q710679|Q710679]] <small>(MeSH: D055670)</small>
+* [[Medicine, Mongolian Traditional]] — [[d:Q2572867|Q2572867]] <small>(MeSH: D056785)</small>
+* [[Medicine, Thai Traditional]] — [[d:Q2447806|Q2447806]] <small>(MeSH: D000096262)</small>
+* [[Medicine, Tibetan Traditional]] — [[d:Q1567507|Q1567507]] <small>(MeSH: D038861)</small>
+* [[Medicine, Traditional]] — [[d:Q771035|Q771035]] <small>(MeSH: D008519)</small>
+* [[Medicine, Unani]] — [[d:Q1520176|Q1520176]] <small>(MeSH: D019367)</small>
+* [[Meditation]] — [[d:Q108458|Q108458]] <small>(MeSH: D019122)</small>
+* [[Mental Healing]] — [[d:Q73209979|Q73209979]] <small>(MeSH: D008602)</small>
+* [[Meridians]] — [[d:Q1413962|Q1413962]] <small>(MeSH: D016740)</small>
+* [[Mesenchymal Stem Cell Transplantation]] — [[d:Q67591222|Q67591222]] <small>(MeSH: D045164)</small>
+* [[Mesotherapy]] — [[d:Q537918|Q537918]] <small>(MeSH: D057748)</small>
+* [[Microinjections]] — [[d:Q3311945|Q3311945]] <small>(MeSH: D008845)</small>
+* [[Microneedle Drug Delivery]] — [[d:Q60794539|Q60794539]] <small>(MeSH: D000099098)</small>
+* [[Mind-Body Therapies]] — [[d:Q3527307|Q3527307]] <small>(MeSH: D026441)</small>
+* [[Mirror Movement Therapy]] — [[d:Q112072254|Q112072254]] <small>(MeSH: D000088762)</small>
+* [[Molecular Targeted Therapy]] — [[d:Q492646|Q492646]] <small>(MeSH: D058990)</small>
+* [[Motion Therapy, Continuous Passive]] — [[d:Q4379950|Q4379950]] <small>(MeSH: D015915)</small>
+* [[Moxibustion]] — [[d:Q937737|Q937737]] <small>(MeSH: D009071)</small>
+* [[Mud Therapy]] — [[d:Q304502|Q304502]] <small>(MeSH: D009094)</small>
+* [[Muscle Stretching Exercises]] — [[d:Q1183039|Q1183039]] <small>(MeSH: D052580)</small>
+* [[Musculoskeletal Manipulations]] — [[d:Q64831102|Q64831102]] <small>(MeSH: D026201)</small>
+* [[Music Therapy]] — [[d:Q209642|Q209642]] <small>(MeSH: D009147)</small>
+* [[Myofascial Release Therapy]] — [[d:Q3022368|Q3022368]] <small>(MeSH: D000089803)</small>
+* [[Myofunctional Therapy]] — [[d:Q1534470|Q1534470]] <small>(MeSH: D020247)</small>
+* [[Nasoalveolar Molding]] — [[d:Q111384412|Q111384412]] <small>(MeSH: D000084982)</small>
+* [[Natural Family Planning Methods]] — [[d:Q2717322|Q2717322]] <small>(MeSH: D012252)</small>
+* [[Naturopathy]] — [[d:Q213403|Q213403]] <small>(MeSH: D009324)</small>
+* [[Neoadjuvant Therapy]] — [[d:Q6991934|Q6991934]] <small>(MeSH: D020360)</small>
+* [[Neurological Rehabilitation]] — [[d:Q67238239|Q67238239]] <small>(MeSH: D000066530)</small>
+* [[Neutron Capture Therapy]] — [[d:Q893257|Q893257]] <small>(MeSH: D017247)</small>
+* [[Nicotine Replacement Therapy]] — [[d:Q1189783|Q1189783]] <small>(MeSH: D000095488)</small>
+* [[Night Care]] — [[d:Q70441606|Q70441606]] <small>(MeSH: D009551)</small>
+* [[Non-Medical Prescribing]] — [[d:Q124260451|Q124260451]] <small>(MeSH: D000096402)</small>
+* [[Noninvasive Ventilation]] — [[d:Q855172|Q855172]] <small>(MeSH: D063087)</small>
+* [[Nursing Care]] — [[d:Q70364769|Q70364769]] <small>(MeSH: D009732)</small>
+* [[Nutrition Therapy]] — [[d:Q4116495|Q4116495]] <small>(MeSH: D044623)</small>
+* [[Nutritional Support]] — [[d:Q1588148|Q1588148]] <small>(MeSH: D018529)</small>
+* [[Obesity Management]] — [[d:Q69021383|Q69021383]] <small>(MeSH: D000073319)</small>
+* [[Occupational Therapy]] — [[d:Q380141|Q380141]] <small>(MeSH: D009788)</small>
+* [[Off-Label Use]] — [[d:Q119697|Q119697]] <small>(MeSH: D056687)</small>
+* [[Olfactory Training]] — [[d:Q106912680|Q106912680]] <small>(MeSH: D000094562)</small>
+* [[Oncolytic Virotherapy]] — [[d:Q73217729|Q73217729]] <small>(MeSH: D050130)</small>
+* [[One-Lung Ventilation]] — [[d:Q73483131|Q73483131]] <small>(MeSH: D061810)</small>
+* [[Oocyte Donation]] — [[d:Q1115376|Q1115376]] <small>(MeSH: D018587)</small>
+* [[Oocyte Retrieval]] — [[d:Q7835401|Q7835401]] <small>(MeSH: D054315)</small>
+* [[Open Fracture Reduction]] — [[d:Q72085875|Q72085875]] <small>(MeSH: D000070799)</small>
+* [[Opiate Substitution Treatment]] — [[d:Q652676|Q652676]] <small>(MeSH: D058850)</small>
+* [[Oral Hygiene]] — [[d:Q13445028|Q13445028]] <small>(MeSH: D009910)</small>
+* [[Organ Preservation]] — [[d:Q64934750|Q64934750]] <small>(MeSH: D009926)</small>
+* [[Organ Sparing Treatments]] — [[d:Q73483643|Q73483643]] <small>(MeSH: D059351)</small>
+* [[Organotherapy]] — [[d:Q1897725|Q1897725]] <small>(MeSH: D009945)</small>
+* [[Orthokeratologic Procedures]] — [[d:Q1571081|Q1571081]] <small>(MeSH: D054158)</small>
+* [[Orthomolecular Therapy]] — [[d:Q1386195|Q1386195]] <small>(MeSH: D009974)</small>
+* [[Orthopedic Procedures]] — [[d:Q65684138|Q65684138]] <small>(MeSH: D019637)</small>
+* [[Orthoptics]] — [[d:Q1241279|Q1241279]] <small>(MeSH: D009988)</small>
+* [[Ovulation Induction]] — [[d:Q3150564|Q3150564]] <small>(MeSH: D010062)</small>
+* [[Ovulation Inhibition]] — [[d:Q71231075|Q71231075]] <small>(MeSH: D034445)</small>
+* [[Oxygen Inhalation Therapy]] — [[d:Q1988216|Q1988216]] <small>(MeSH: D010102)</small>
+* [[Pain Management]] — [[d:Q621261|Q621261]] <small>(MeSH: D059408)</small>
+* [[Palliative Care]] — [[d:Q29483|Q29483]] <small>(MeSH: D010166)</small>
+* [[Paracentesis]] — [[d:Q131542363|Q131542363]] <small>(MeSH: D019152)</small>
+* [[Parenteral Nutrition]] — [[d:Q21653202|Q21653202]] <small>(MeSH: D010288)</small>
+* [[Parenteral Nutrition, Home]] — [[d:Q70450261|Q70450261]] <small>(MeSH: D016331)</small>
+* [[Parenteral Nutrition, Home Total]] — [[d:Q70439002|Q70439002]] <small>(MeSH: D016562)</small>
+* [[Parenteral Nutrition, Total]] — [[d:Q73403521|Q73403521]] <small>(MeSH: D010289)</small>
+* [[Patient Admission]] — [[d:Q70453055|Q70453055]] <small>(MeSH: D010343)</small>
+* [[Patient Care]] — [[d:Q22906178|Q22906178]] <small>(MeSH: D005791)</small>
+* [[Patient Care Bundles]] — [[d:Q73468562|Q73468562]] <small>(MeSH: D064872)</small>
+* [[Patient Discharge]] — [[d:Q70439154|Q70439154]] <small>(MeSH: D010351)</small>
+* [[Patient Handoff]] — [[d:Q5133834|Q5133834]] <small>(MeSH: D062209)</small>
+* [[Patient Isolation]] — [[d:Q1674502|Q1674502]] <small>(MeSH: D010356)</small>
+* [[Patient Positioning]] — [[d:Q64821141|Q64821141]] <small>(MeSH: D056888)</small>
+* [[Patient Readmission]] — [[d:Q25324519|Q25324519]] <small>(MeSH: D010359)</small>
+* [[Patient Transfer]] — [[d:Q51927927|Q51927927]] <small>(MeSH: D010360)</small>
+* [[Percutaneous Collagen Induction]] — [[d:Q124350176|Q124350176]] <small>(MeSH: D000097244)</small>
+* [[Perioperative Care]] — [[d:Q7168670|Q7168670]] <small>(MeSH: D019990)</small>
+* [[Peripheral Blood Stem Cell Transplantation]] — [[d:Q67591824|Q67591824]] <small>(MeSH: D036102)</small>
+* [[Peritoneal Dialysis]] — [[d:Q1756474|Q1756474]] <small>(MeSH: D010530)</small>
+* [[Peritoneal Dialysis, Continuous Ambulatory]] — [[d:Q67500791|Q67500791]] <small>(MeSH: D010531)</small>
+* [[Phage Therapy]] — [[d:Q611870|Q611870]] <small>(MeSH: D000071059)</small>
+* [[Phonophoresis]] — [[d:Q2088698|Q2088698]] <small>(MeSH: D015612)</small>
+* [[Photochemotherapy]] — [[d:Q1428072|Q1428072]] <small>(MeSH: D010778)</small>
+* [[Photopheresis]] — [[d:Q774032|Q774032]] <small>(MeSH: D017893)</small>
+* [[Phototherapy]] — [[d:Q243570|Q243570]] <small>(MeSH: D010789)</small>
+* [[Photothermal Therapy]] — [[d:Q7187926|Q7187926]] <small>(MeSH: D000082703)</small>
+* [[Physical Therapy Modalities]] — [[d:Q65178188|Q65178188]] <small>(MeSH: D026741)</small>
+* [[Phytotherapy]] — [[d:Q1650562|Q1650562]] <small>(MeSH: D008517)</small>
+* [[Pituitary Irradiation]] — [[d:Q73509945|Q73509945]] <small>(MeSH: D010910)</small>
+* [[Plasma Exchange]] — [[d:Q100235631|Q100235631]] <small>(MeSH: D010951)</small>
+* [[Plasma Skin Regeneration]] — [[d:Q72391584|Q72391584]] <small>(MeSH: D058629)</small>
+* [[Plasmapheresis]] — [[d:Q603502|Q603502]] <small>(MeSH: D010956)</small>
+* [[Plastination]] — [[d:Q898570|Q898570]] <small>(MeSH: D000077780)</small>
+* [[Platelet Transfusion]] — [[d:Q23925170|Q23925170]] <small>(MeSH: D017713)</small>
+* [[Plateletpheresis]] — [[d:Q952508|Q952508]] <small>(MeSH: D010983)</small>
+* [[Play Therapy]] — [[d:Q1542331|Q1542331]] <small>(MeSH: D010989)</small>
+* [[Pleurodesis]] — [[d:Q1229945|Q1229945]] <small>(MeSH: D018700)</small>
+* [[Plyometric Exercise]] — [[d:Q1425021|Q1425021]] <small>(MeSH: D059385)</small>
+* [[Polypharmacy]] — [[d:Q1895998|Q1895998]] <small>(MeSH: D019338)</small>
+* [[Positive-Pressure Respiration]] — [[d:Q1024207|Q1024207]] <small>(MeSH: D011175)</small>
+* [[Post-Exercise Recovery Techniques]] — [[d:Q124257867|Q124257867]] <small>(MeSH: D000096063)</small>
+* [[Posthumous Conception]] — [[d:Q72392667|Q72392667]] <small>(MeSH: D037022)</small>
+* [[Postoperative Care]] — [[d:Q70450088|Q70450088]] <small>(MeSH: D011182)</small>
+* [[Preanesthetic Medication]] — [[d:Q7239345|Q7239345]] <small>(MeSH: D011229)</small>
+* [[Precision Medicine]] — [[d:Q17075943|Q17075943]] <small>(MeSH: D057285)</small>
+* [[Premedication]] — [[d:Q1589604|Q1589604]] <small>(MeSH: D011292)</small>
+* [[Preoperative Care]] — [[d:Q2902695|Q2902695]] <small>(MeSH: D011300)</small>
+* [[Preoperative Exercise]] — [[d:Q114732570|Q114732570]] <small>(MeSH: D000082622)</small>
+* [[Preservation, Biological]] — [[d:Q73523760|Q73523760]] <small>(MeSH: D011309)</small>
+* [[Pressurized Intraperitoneal Aerosol Chemotherapy]] — [[d:Q137671071|Q137671071]] <small>(MeSH: D000099220)</small>
+* [[Primary Care Nursing]] — [[d:Q73214500|Q73214500]] <small>(MeSH: D059017)</small>
+* [[Prolotherapy]] — [[d:Q842630|Q842630]] <small>(MeSH: D000075527)</small>
+* [[Prosthesis Fitting]] — [[d:Q73525481|Q73525481]] <small>(MeSH: D017755)</small>
+* [[Prosthesis Retention]] — [[d:Q73508911|Q73508911]] <small>(MeSH: D060489)</small>
+* [[Proton Therapy]] — [[d:Q507667|Q507667]] <small>(MeSH: D061766)</small>
+* [[Psychiatric Rehabilitation]] — [[d:Q1264378|Q1264378]] <small>(MeSH: D000067250)</small>
+* [[Psychodrama]] — [[d:Q466952|Q466952]] <small>(MeSH: D011577)</small>
+* [[Puberty Suppression]] — [[d:Q124350192|Q124350192]] <small>(MeSH: D000097765)</small>
+* [[Pulse Therapy, Drug]] — [[d:Q73041510|Q73041510]] <small>(MeSH: D020551)</small>
+* [[Pulsed Radiofrequency Treatment]] — [[d:Q67206641|Q67206641]] <small>(MeSH: D061208)</small>
+* [[Punctures]] — [[d:Q3396153|Q3396153]] <small>(MeSH: D011677)</small>
+* [[PUVA Therapy]] — [[d:Q1001106|Q1001106]] <small>(MeSH: D011701)</small>
+* [[Qigong]] — [[d:Q204368|Q204368]] <small>(MeSH: D064906)</small>
+* [[Radiation Dose Hypofractionation]] — [[d:Q73226140|Q73226140]] <small>(MeSH: D000069473)</small>
+* [[Radiesthesia]] — [[d:Q1362264|Q1362264]] <small>(MeSH: D011844)</small>
+* [[Radioembolization, Therapeutic]] — [[d:Q137660799|Q137660799]] <small>(MeSH: D000099142)</small>
+* [[Radiofrequency Ablation]] — [[d:Q1621796|Q1621796]] <small>(MeSH: D000078703)</small>
+* [[Radiofrequency Therapy]] — [[d:Q99884282|Q99884282]] <small>(MeSH: D000078702)</small>
+* [[Radioimmunotherapy]] — [[d:Q2126427|Q2126427]] <small>(MeSH: D016499)</small>
+* [[Radioisotope Teletherapy]] — [[d:Q72368688|Q72368688]] <small>(MeSH: D011867)</small>
+* [[Radiosurgery]] — [[d:Q973234|Q973234]] <small>(MeSH: D016634)</small>
+* [[Radiotherapy]] — [[d:Q180507|Q180507]] <small>(MeSH: D011878)</small>
+* [[Radiotherapy Dosage]] — [[d:Q71516412|Q71516412]] <small>(MeSH: D011879)</small>
+* [[Radiotherapy Planning, Computer-Assisted]] — [[d:Q66214882|Q66214882]] <small>(MeSH: D011880)</small>
+* [[Radiotherapy Setup Errors]] — [[d:Q70347224|Q70347224]] <small>(MeSH: D061106)</small>
+* [[Radiotherapy, Adjuvant]] — [[d:Q66764561|Q66764561]] <small>(MeSH: D018714)</small>
+* [[Radiotherapy, Computer-Assisted]] — [[d:Q70321145|Q70321145]] <small>(MeSH: D011881)</small>
+* [[Radiotherapy, Conformal]] — [[d:Q67171593|Q67171593]] <small>(MeSH: D020266)</small>
+* [[Radiotherapy, High-Energy]] — [[d:Q73403435|Q73403435]] <small>(MeSH: D011882)</small>
+* [[Radiotherapy, Image-Guided]] — [[d:Q73520084|Q73520084]] <small>(MeSH: D061089)</small>
+* [[Radiotherapy, Intensity-Modulated]] — [[d:Q8215139|Q8215139]] <small>(MeSH: D050397)</small>
+* [[Rapid Sequence Induction and Intubation]] — [[d:Q376584|Q376584]] <small>(MeSH: D000079603)</small>
+* [[Re-Irradiation]] — [[d:Q73466029|Q73466029]] <small>(MeSH: D000069475)</small>
+* [[Recreation Therapy]] — [[d:Q7303084|Q7303084]] <small>(MeSH: D057173)</small>
+* [[Reflexotherapy]] — [[d:Q73226271|Q73226271]] <small>(MeSH: D012028)</small>
+* [[Refrigeration]] — [[d:Q747713|Q747713]] <small>(MeSH: D012034)</small>
+* [[Rehabilitation]] — [[d:Q2795791|Q2795791]] <small>(MeSH: D012046)</small>
+* [[Rehabilitation of Speech and Language Disorders]] — [[d:Q67251867|Q67251867]] <small>(MeSH: D012049)</small>
+* [[Rehabilitation, Vocational]] — [[d:Q6130303|Q6130303]] <small>(MeSH: D012050)</small>
+* [[Reiki]] — [[d:Q183057|Q183057]] <small>(MeSH: D000099302)</small>
+* [[Rejuvenation]] — [[d:Q2297001|Q2297001]] <small>(MeSH: D012060)</small>
+* [[Relaxation Therapy]] — [[d:Q955260|Q955260]] <small>(MeSH: D012064)</small>
+* [[Remission Induction]] — [[d:Q73347808|Q73347808]] <small>(MeSH: D012074)</small>
+* [[Renal Dialysis]] — [[d:Q202301|Q202301]] <small>(MeSH: D006435)</small>
+* [[Renal Replacement Therapy]] — [[d:Q185643|Q185643]] <small>(MeSH: D017582)</small>
+* [[Reproductive Techniques]] — [[d:Q65361825|Q65361825]] <small>(MeSH: D012099)</small>
+* [[Reproductive Techniques, Assisted]] — [[d:Q25862|Q25862]] <small>(MeSH: D027724)</small>
+* [[Resistance Training]] — [[d:Q12834857|Q12834857]] <small>(MeSH: D055070)</small>
+* [[Respiration, Artificial]] — [[d:Q545991|Q545991]] <small>(MeSH: D012121)</small>
+* [[Respiratory Therapy]] — [[d:Q19776279|Q19776279]] <small>(MeSH: D012138)</small>
+* [[Restraint, Physical]] — [[d:Q459499|Q459499]] <small>(MeSH: D012149)</small>
+* [[Resuscitation]] — [[d:Q5491454|Q5491454]] <small>(MeSH: D012151)</small>
+* [[Resuscitation Orders]] — [[d:Q69975018|Q69975018]] <small>(MeSH: D016414)</small>
+* [[Retention in Care]] — [[d:Q113575801|Q113575801]] <small>(MeSH: D000076522)</small>
+* [[Retreatment]] — [[d:Q72259393|Q72259393]] <small>(MeSH: D019233)</small>
+* [[Rewarming]] — [[d:Q73524156|Q73524156]] <small>(MeSH: D017694)</small>
+* [[Rhytidoplasty]] — [[d:Q1423937|Q1423937]] <small>(MeSH: D015361)</small>
+* [[RNAi Therapeutics]] — [[d:Q73231000|Q73231000]] <small>(MeSH: D000067492)</small>
+* [[Role Playing]] — [[d:Q1361181|Q1361181]] <small>(MeSH: D012381)</small>
+* [[Salvage Therapy]] — [[d:Q17141389|Q17141389]] <small>(MeSH: D016879)</small>
+* [[Sclerotherapy]] — [[d:Q6298197|Q6298197]] <small>(MeSH: D015911)</small>
+* [[Secondary Prevention]] — [[d:Q2164782|Q2164782]] <small>(MeSH: D055502)</small>
+* [[Self Administration]] — [[d:Q7448011|Q7448011]] <small>(MeSH: D012646)</small>
+* [[Self Care]] — [[d:Q4519653|Q4519653]] <small>(MeSH: D012648)</small>
+* [[Self Medication]] — [[d:Q1761396|Q1761396]] <small>(MeSH: D012651)</small>
+* [[Self-Testing]] — [[d:Q114804100|Q114804100]] <small>(MeSH: D000085263)</small>
+* [[Semen Preservation]] — [[d:Q72367378|Q72367378]] <small>(MeSH: D012662)</small>
+* [[Sensory Art Therapies]] — [[d:Q838202|Q838202]] <small>(MeSH: D026421)</small>
+* [[Shamanism]] — [[d:Q42042|Q42042]] <small>(MeSH: D019423)</small>
+* [[Short-Wave Therapy]] — [[d:Q73403579|Q73403579]] <small>(MeSH: D012780)</small>
+* [[Sign Language]] — [[d:Q34228|Q34228]] <small>(MeSH: D012813)</small>
+* [[Single Embryo Transfer]] — [[d:Q100975127|Q100975127]] <small>(MeSH: D056826)</small>
+* [[Skin Care]] — [[d:Q1294114|Q1294114]] <small>(MeSH: D017592)</small>
+* [[Skin Cream]] — [[d:Q1363153|Q1363153]] <small>(MeSH: D063465)</small>
+* [[Sorption Detoxification]] — [[d:Q73468814|Q73468814]] <small>(MeSH: D016060)</small>
+* [[Speech Therapy]] — [[d:Q11888973|Q11888973]] <small>(MeSH: D013070)</small>
+* [[Speech, Alaryngeal]] — [[d:Q4708399|Q4708399]] <small>(MeSH: D013071)</small>
+* [[Speech, Esophageal]] — [[d:Q3562529|Q3562529]] <small>(MeSH: D013072)</small>
+* [[Speleotherapy]] — [[d:Q1747674|Q1747674]] <small>(MeSH: D055161)</small>
+* [[Sperm Injections, Intracytoplasmic]] — [[d:Q28700|Q28700]] <small>(MeSH: D020554)</small>
+* [[Sperm Retrieval]] — [[d:Q7449214|Q7449214]] <small>(MeSH: D053625)</small>
+* [[Spinal Cord Stimulation]] — [[d:Q67206663|Q67206663]] <small>(MeSH: D062187)</small>
+* [[Spiritual Therapies]] — [[d:Q73470155|Q73470155]] <small>(MeSH: D026443)</small>
+* [[Spray Drying]] — [[d:Q1066303|Q1066303]] <small>(MeSH: D000085642)</small>
+* [[Standing Orders]] — [[d:Q70440335|Q70440335]] <small>(MeSH: D000071065)</small>
+* [[Steam Bath]] — [[d:Q718955|Q718955]] <small>(MeSH: D029002)</small>
+* [[Stem Cell Transplantation]] — [[d:Q65592366|Q65592366]] <small>(MeSH: D033581)</small>
+* [[Sterilization, Reproductive]] — [[d:Q324503|Q324503]] <small>(MeSH: D013245)</small>
+* [[Stroke Rehabilitation]] — [[d:Q10681911|Q10681911]] <small>(MeSH: D000071939)</small>
+* [[Subacute Care]] — [[d:Q70359490|Q70359490]] <small>(MeSH: D019467)</small>
+* [[Sublingual Immunotherapy]] — [[d:Q7631530|Q7631530]] <small>(MeSH: D063729)</small>
+* [[Suggestion]] — [[d:Q690194|Q690194]] <small>(MeSH: D013404)</small>
+* [[Suicide, Assisted]] — [[d:Q689846|Q689846]] <small>(MeSH: D017236)</small>
+* [[Superovulation]] — [[d:Q70339407|Q70339407]] <small>(MeSH: D013480)</small>
+* [[Surrogacy]] — [[d:Q334645|Q334645]] <small>(MeSH: D000099114)</small>
+* [[Tai Ji]] — [[d:Q167987|Q167987]] <small>(MeSH: D026302)</small>
+* [[Tattooing]] — [[d:Q43006|Q43006]] <small>(MeSH: D013653)</small>
+* [[Telerehabilitation]] — [[d:Q7696779|Q7696779]] <small>(MeSH: D000069350)</small>
+* [[Terminal Care]] — [[d:Q2045105|Q2045105]] <small>(MeSH: D013727)</small>
+* [[Tertiary Prevention]] — [[d:Q9062587|Q9062587]] <small>(MeSH: D055512)</small>
+* [[Therapeutic Irrigation]] — [[d:Q11714089|Q11714089]] <small>(MeSH: D007507)</small>
+* [[Therapeutic Occlusion]] — [[d:Q73217492|Q73217492]] <small>(MeSH: D060205)</small>
+* [[Therapeutic Touch]] — [[d:Q1971438|Q1971438]] <small>(MeSH: D019124)</small>
+* [[Therapeutics]] — [[d:Q179661|Q179661]] <small>(MeSH: D013812)</small>
+* [[Therapies, Investigational]] — [[d:Q73510198|Q73510198]] <small>(MeSH: D035703)</small>
+* [[Therapy with Helminths]] — [[d:Q4135101|Q4135101]] <small>(MeSH: D061147)</small>
+* [[Therapy, Computer-Assisted]] — [[d:Q66215183|Q66215183]] <small>(MeSH: D013813)</small>
+* [[Therapy, Soft Tissue]] — [[d:Q7554054|Q7554054]] <small>(MeSH: D064746)</small>
+* [[Thrombolytic Therapy]] — [[d:Q1931577|Q1931577]] <small>(MeSH: D015912)</small>
+* [[Time-to-Treatment]] — [[d:Q70449444|Q70449444]] <small>(MeSH: D061665)</small>
+* [[Tissue Therapy, Historical]] — [[d:Q73222602|Q73222602]] <small>(MeSH: D014023)</small>
+* [[Tissue Transplantation]] — [[d:Q7834826|Q7834826]] <small>(MeSH: D016378)</small>
+* [[Tobacco Use Cessation Devices]] — [[d:Q69503447|Q69503447]] <small>(MeSH: D061485)</small>
+* [[Tocolysis]] — [[d:Q73040268|Q73040268]] <small>(MeSH: D015145)</small>
+* [[Transcranial Magnetic Stimulation]] — [[d:Q263962|Q263962]] <small>(MeSH: D050781)</small>
+* [[Transcutaneous Electric Nerve Stimulation]] — [[d:Q142091|Q142091]] <small>(MeSH: D004561)</small>
+* [[Transition to Adult Care]] — [[d:Q70469351|Q70469351]] <small>(MeSH: D060305)</small>
+* [[Transitional Care]] — [[d:Q7834462|Q7834462]] <small>(MeSH: D000069341)</small>
+* [[Transplantation Conditioning]] — [[d:Q72377564|Q72377564]] <small>(MeSH: D019172)</small>
+* [[Transportation of Patients]] — [[d:Q1786594|Q1786594]] <small>(MeSH: D014187)</small>
+* [[Treatment Delay]] — [[d:Q124258143|Q124258143]] <small>(MeSH: D000096182)</small>
+* [[Treatment Switching]] — [[d:Q114822508|Q114822508]] <small>(MeSH: D000085582)</small>
+* [[Ultrasonic Therapy]] — [[d:Q564875|Q564875]] <small>(MeSH: D014464)</small>
+* [[Ultraviolet Therapy]] — [[d:Q7880715|Q7880715]] <small>(MeSH: D014467)</small>
+* [[Uterine Artery Embolization]] — [[d:Q257769|Q257769]] <small>(MeSH: D055357)</small>
+* [[Uterine Balloon Tamponade]] — [[d:Q72365739|Q72365739]] <small>(MeSH: D058738)</small>
+* [[Vagus Nerve Stimulation]] — [[d:Q2062293|Q2062293]] <small>(MeSH: D055536)</small>
+* [[Ventilator Weaning]] — [[d:Q813230|Q813230]] <small>(MeSH: D015300)</small>
+* [[Vertebroplasty]] — [[d:Q785954|Q785954]] <small>(MeSH: D054854)</small>
+* [[Viscosupplementation]] — [[d:Q11903435|Q11903435]] <small>(MeSH: D055676)</small>
+* [[Voice Training]] — [[d:Q2593013|Q2593013]] <small>(MeSH: D014834)</small>
+* [[Whole-Body Irradiation]] — [[d:Q1986672|Q1986672]] <small>(MeSH: D014916)</small>
+* [[Witchcraft]] — [[d:Q259745|Q259745]] <small>(MeSH: D018599)</small>
+* [[Withholding Treatment]] — [[d:Q70444318|Q70444318]] <small>(MeSH: D028761)</small>
+* [[X-Ray Therapy]] — [[d:Q21702423|Q21702423]] <small>(MeSH: D014964)</small>
+* [[Yoga]] — [[d:Q9350|Q9350]] <small>(MeSH: D015013)</small>
+* [[Zygote Intrafallopian Transfer]] — [[d:Q8075903|Q8075903]] <small>(MeSH: D017388)</small>
+
+
+[[Category:WikiProject MeSH]]

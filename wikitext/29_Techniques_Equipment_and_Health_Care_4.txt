@@ -1,0 +1,1002 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Surgical Procedures ===
+
+* '''Coverage:''' 35.4%
+* '''{{color|blue|Bluelinks}}:''' 157
+* '''{{color|red|Redlinks}}:''' 287
+* [[Abdominal Wound Closure Techniques]] — [[d:Q73225529|Q73225529]] <small>(MeSH: D058107)</small>
+* [[Ablation Techniques]] — [[d:Q73507807|Q73507807]] <small>(MeSH: D055011)</small>
+* [[Abortion, Eugenic]] — [[d:Q67174214|Q67174214]] <small>(MeSH: D000025)</small>
+* [[Abortion, Induced]] — [[d:Q8452|Q8452]] <small>(MeSH: D000028)</small>
+* [[Abortion, Legal]] — [[d:Q73484013|Q73484013]] <small>(MeSH: D000029)</small>
+* [[Abortion, Therapeutic]] — [[d:Q24962817|Q24962817]] <small>(MeSH: D000032)</small>
+* [[Acetabuloplasty]] — [[d:Q73498473|Q73498473]] <small>(MeSH: D065526)</small>
+* [[Adenoidectomy]] — [[d:Q356194|Q356194]] <small>(MeSH: D000233)</small>
+* [[Adrenalectomy]] — [[d:Q366774|Q366774]] <small>(MeSH: D000315)</small>
+* [[Alveolar Bone Grafting]] — [[d:Q72086908|Q72086908]] <small>(MeSH: D064728)</small>
+* [[Alveolar Ridge Augmentation]] — [[d:Q73354901|Q73354901]] <small>(MeSH: D000540)</small>
+* [[Alveolectomy]] — [[d:Q20021712|Q20021712]] <small>(MeSH: D000541)</small>
+* [[Alveoloplasty]] — [[d:Q48968662|Q48968662]] <small>(MeSH: D000543)</small>
+* [[Ambulatory Surgical Procedures]] — [[d:Q2301892|Q2301892]] <small>(MeSH: D000556)</small>
+* [[Amniotomy]] — [[d:Q578311|Q578311]] <small>(MeSH: D000074885)</small>
+* [[Amputation, Surgical]] — [[d:Q17044521|Q17044521]] <small>(MeSH: D000671)</small>
+* [[Anastomosis, Roux-en-Y]] — [[d:Q3935150|Q3935150]] <small>(MeSH: D000713)</small>
+* [[Anastomosis, Surgical]] — [[d:Q3615100|Q3615100]] <small>(MeSH: D000714)</small>
+* [[Angioplasty]] — [[d:Q539795|Q539795]] <small>(MeSH: D017130)</small>
+* [[Angioplasty, Balloon]] — [[d:Q73355304|Q73355304]] <small>(MeSH: D000800)</small>
+* [[Angioplasty, Balloon, Coronary]] — [[d:Q67272498|Q67272498]] <small>(MeSH: D015906)</small>
+* [[Angioplasty, Balloon, Laser-Assisted]] — [[d:Q73489745|Q73489745]] <small>(MeSH: D017222)</small>
+* [[Angioplasty, Laser]] — [[d:Q73483331|Q73483331]] <small>(MeSH: D016342)</small>
+* [[Angioscopy]] — [[d:Q539717|Q539717]] <small>(MeSH: D017546)</small>
+* [[Anterior Cruciate Ligament Reconstruction]] — [[d:Q4771338|Q4771338]] <small>(MeSH: D059549)</small>
+* [[Anterior Temporal Lobectomy]] — [[d:Q4771405|Q4771405]] <small>(MeSH: D038481)</small>
+* [[Appendectomy]] — [[d:Q620840|Q620840]] <small>(MeSH: D001062)</small>
+* [[Aquablation]] — [[d:Q49000812|Q49000812]] <small>(MeSH: D000098944)</small>
+* [[Arterial Switch Operation]] — [[d:Q25101370|Q25101370]] <small>(MeSH: D000069278)</small>
+* [[Arteriovenous Shunt, Surgical]] — [[d:Q1092122|Q1092122]] <small>(MeSH: D001166)</small>
+* [[Arthrodesis]] — [[d:Q708143|Q708143]] <small>(MeSH: D001174)</small>
+* [[Arthroplasty]] — [[d:Q708178|Q708178]] <small>(MeSH: D001178)</small>
+* [[Arthroplasty, Replacement]] — [[d:Q1863402|Q1863402]] <small>(MeSH: D019643)</small>
+* [[Arthroplasty, Replacement, Ankle]] — [[d:Q4766085|Q4766085]] <small>(MeSH: D058737)</small>
+* [[Arthroplasty, Replacement, Elbow]] — [[d:Q73355352|Q73355352]] <small>(MeSH: D057929)</small>
+* [[Arthroplasty, Replacement, Finger]] — [[d:Q73403235|Q73403235]] <small>(MeSH: D050806)</small>
+* [[Arthroplasty, Replacement, Hip]] — [[d:Q32333487|Q32333487]] <small>(MeSH: D019644)</small>
+* [[Arthroplasty, Replacement, Knee]] — [[d:Q1693864|Q1693864]] <small>(MeSH: D019645)</small>
+* [[Arthroplasty, Replacement, Shoulder]] — [[d:Q7502716|Q7502716]] <small>(MeSH: D000072228)</small>
+* [[Arthroplasty, Subchondral]] — [[d:Q73230288|Q73230288]] <small>(MeSH: D054544)</small>
+* [[Arthroscopy]] — [[d:Q708232|Q708232]] <small>(MeSH: D001182)</small>
+* [[Assisted Circulation]] — [[d:Q3625668|Q3625668]] <small>(MeSH: D001243)</small>
+* [[Atherectomy]] — [[d:Q755475|Q755475]] <small>(MeSH: D017073)</small>
+* [[Atherectomy, Coronary]] — [[d:Q67274807|Q67274807]] <small>(MeSH: D017225)</small>
+* [[Auditory Brain Stem Implantation]] — [[d:Q73508865|Q73508865]] <small>(MeSH: D038263)</small>
+* [[Autonomic Denervation]] — [[d:Q73523680|Q73523680]] <small>(MeSH: D017763)</small>
+* [[Axillofemoral Bypass Grafting]] — [[d:Q73041757|Q73041757]] <small>(MeSH: D066254)</small>
+* [[Axotomy]] — [[d:Q792615|Q792615]] <small>(MeSH: D019771)</small>
+* [[Biliary Tract Surgical Procedures]] — [[d:Q73468337|Q73468337]] <small>(MeSH: D001662)</small>
+* [[Biliopancreatic Diversion]] — [[d:Q15140851|Q15140851]] <small>(MeSH: D015904)</small>
+* [[Blade Implantation]] — [[d:Q73209608|Q73209608]] <small>(MeSH: D001751)</small>
+* [[Blalock-Taussig Procedure]] — [[d:Q881336|Q881336]] <small>(MeSH: D058366)</small>
+* [[Blepharoplasty]] — [[d:Q2559992|Q2559992]] <small>(MeSH: D019882)</small>
+* [[Blood Vessel Prosthesis Implantation]] — [[d:Q73217173|Q73217173]] <small>(MeSH: D019917)</small>
+* [[Bone Lengthening]] — [[d:Q72393340|Q72393340]] <small>(MeSH: D001852)</small>
+* [[Bone Transplantation]] — [[d:Q3814234|Q3814234]] <small>(MeSH: D016025)</small>
+* [[Bone-Patellar Tendon-Bone Grafting]] — [[d:Q73212968|Q73212968]] <small>(MeSH: D050376)</small>
+* [[Brain Tissue Transplantation]] — [[d:Q4462026|Q4462026]] <small>(MeSH: D016380)</small>
+* [[Breast Implantation]] — [[d:Q73400801|Q73400801]] <small>(MeSH: D019928)</small>
+* [[Capsulorhexis]] — [[d:Q5036403|Q5036403]] <small>(MeSH: D019923)</small>
+* [[Cardiac Surgical Procedures]] — [[d:Q113585438|Q113585438]] <small>(MeSH: D006348)</small>
+* [[Cardiac Valve Annuloplasty]] — [[d:Q67264434|Q67264434]] <small>(MeSH: D058385)</small>
+* [[Cardiomyoplasty]] — [[d:Q5038715|Q5038715]] <small>(MeSH: D018421)</small>
+* [[Cardiopulmonary Bypass]] — [[d:Q552304|Q552304]] <small>(MeSH: D002315)</small>
+* [[Cardiovascular Surgical Procedures]] — [[d:Q73217314|Q73217314]] <small>(MeSH: D013504)</small>
+* [[Castration]] — [[d:Q58929|Q58929]] <small>(MeSH: D002369)</small>
+* [[Cataract Extraction]] — [[d:Q1818260|Q1818260]] <small>(MeSH: D002387)</small>
+* [[Catheterization, Central Venous]] — [[d:Q102046064|Q102046064]] <small>(MeSH: D002405)</small>
+* [[Catheterization, Peripheral]] — [[d:Q67490807|Q67490807]] <small>(MeSH: D002406)</small>
+* [[Cecostomy]] — [[d:Q73214380|Q73214380]] <small>(MeSH: D002431)</small>
+* [[Cerclage, Cervical]] — [[d:Q5065334|Q5065334]] <small>(MeSH: D023802)</small>
+* [[Cerebral Decortication]] — [[d:Q1183720|Q1183720]] <small>(MeSH: D002541)</small>
+* [[Cerebral Revascularization]] — [[d:Q73211260|Q73211260]] <small>(MeSH: D002548)</small>
+* [[Cerebrospinal Fluid Shunts]] — [[d:Q821852|Q821852]] <small>(MeSH: D002557)</small>
+* [[Cervicoplasty]] — [[d:Q72369474|Q72369474]] <small>(MeSH: D044964)</small>
+* [[Cesarean Section]] — [[d:Q228036|Q228036]] <small>(MeSH: D002585)</small>
+* [[Cesarean Section, Repeat]] — [[d:Q73210367|Q73210367]] <small>(MeSH: D017604)</small>
+* [[Cholecystectomy]] — [[d:Q638774|Q638774]] <small>(MeSH: D002763)</small>
+* [[Cholecystectomy, Laparoscopic]] — [[d:Q66088221|Q66088221]] <small>(MeSH: D017081)</small>
+* [[Cholecystostomy]] — [[d:Q5104302|Q5104302]] <small>(MeSH: D002767)</small>
+* [[Choledochostomy]] — [[d:Q73485111|Q73485111]] <small>(MeSH: D002768)</small>
+* [[Circulatory Arrest, Deep Hypothermia Induced]] — [[d:Q2431844|Q2431844]] <small>(MeSH: D050792)</small>
+* [[Circumcision, Female]] — [[d:Q208373|Q208373]] <small>(MeSH: D019093)</small>
+* [[Circumcision, Male]] — [[d:Q83345|Q83345]] <small>(MeSH: D002944)</small>
+* [[Cochlear Implantation]] — [[d:Q98915241|Q98915241]] <small>(MeSH: D019929)</small>
+* [[Cold Ischemia]] — [[d:Q73499780|Q73499780]] <small>(MeSH: D050377)</small>
+* [[Colectomy]] — [[d:Q1779148|Q1779148]] <small>(MeSH: D003082)</small>
+* [[Collapse Therapy]] — [[d:Q2982723|Q2982723]] <small>(MeSH: D003096)</small>
+* [[Colorectal Surgical Procedures]] — [[d:Q131584273|Q131584273]] <small>(MeSH: D000099090)</small>
+* [[Colostomy]] — [[d:Q595453|Q595453]] <small>(MeSH: D003125)</small>
+* [[Colposcopy]] — [[d:Q912741|Q912741]] <small>(MeSH: D003127)</small>
+* [[Colpotomy]] — [[d:Q72377025|Q72377025]] <small>(MeSH: D020884)</small>
+* [[Conversion to Open Surgery]] — [[d:Q72257808|Q72257808]] <small>(MeSH: D061887)</small>
+* [[Cordotomy]] — [[d:Q2073982|Q2073982]] <small>(MeSH: D002818)</small>
+* [[Corneal Surgery, Laser]] — [[d:Q73219143|Q73219143]] <small>(MeSH: D048988)</small>
+* [[Corneal Transplantation]] — [[d:Q579361|Q579361]] <small>(MeSH: D016039)</small>
+* [[Coronary Artery Bypass]] — [[d:Q186020|Q186020]] <small>(MeSH: D001026)</small>
+* [[Coronary Artery Bypass, Off-Pump]] — [[d:Q1784630|Q1784630]] <small>(MeSH: D047549)</small>
+* [[Counterpulsation]] — [[d:Q67456761|Q67456761]] <small>(MeSH: D015908)</small>
+* [[Craniotomy]] — [[d:Q514921|Q514921]] <small>(MeSH: D003399)</small>
+* [[Cryosurgery]] — [[d:Q2705075|Q2705075]] <small>(MeSH: D003452)</small>
+* [[Culdoscopy]] — [[d:Q5192887|Q5192887]] <small>(MeSH: D003464)</small>
+* [[Curettage]] — [[d:Q1428130|Q1428130]] <small>(MeSH: D003475)</small>
+* [[Cystectomy]] — [[d:Q245995|Q245995]] <small>(MeSH: D015653)</small>
+* [[Cystostomy]] — [[d:Q29014759|Q29014759]] <small>(MeSH: D003559)</small>
+* [[Cystotomy]] — [[d:Q67499516|Q67499516]] <small>(MeSH: D053715)</small>
+* [[Cytoreduction Surgical Procedures]] — [[d:Q1977435|Q1977435]] <small>(MeSH: D065426)</small>
+* [[Dacryocystorhinostomy]] — [[d:Q3700745|Q3700745]] <small>(MeSH: D003608)</small>
+* [[Debridement]] — [[d:Q1270448|Q1270448]] <small>(MeSH: D003646)</small>
+* [[Decompression, Surgical]] — [[d:Q19596746|Q19596746]] <small>(MeSH: D019299)</small>
+* [[Decompressive Craniectomy]] — [[d:Q1458658|Q1458658]] <small>(MeSH: D056424)</small>
+* [[Delivery, Obstetric]] — [[d:Q72366566|Q72366566]] <small>(MeSH: D036861)</small>
+* [[Denervation]] — [[d:Q1187030|Q1187030]] <small>(MeSH: D003714)</small>
+* [[Dental Implantation]] — [[d:Q68892328|Q68892328]] <small>(MeSH: D003757)</small>
+* [[Dental Implantation, Endosseous]] — [[d:Q73348704|Q73348704]] <small>(MeSH: D003758)</small>
+* [[Dental Implantation, Subperiosteal]] — [[d:Q73400466|Q73400466]] <small>(MeSH: D016299)</small>
+* [[Dermatologic Surgical Procedures]] — [[d:Q73396155|Q73396155]] <small>(MeSH: D062109)</small>
+* [[Descemet Stripping Endothelial Keratoplasty]] — [[d:Q73223295|Q73223295]] <small>(MeSH: D057111)</small>
+* [[Device Lead Extraction]] — [[d:Q131580052|Q131580052]] <small>(MeSH: D000098523)</small>
+* [[Device Removal]] — [[d:Q73209535|Q73209535]] <small>(MeSH: D020878)</small>
+* [[Digestive System Surgical Procedures]] — [[d:Q5275614|Q5275614]] <small>(MeSH: D013505)</small>
+* [[Dilatation and Curettage]] — [[d:Q6862502|Q6862502]] <small>(MeSH: D004107)</small>
+* [[Disarticulation]] — [[d:Q5281315|Q5281315]] <small>(MeSH: D004188)</small>
+* [[Diskectomy]] — [[d:Q3029776|Q3029776]] <small>(MeSH: D017586)</small>
+* [[Diskectomy, Percutaneous]] — [[d:Q7167195|Q7167195]] <small>(MeSH: D017587)</small>
+* [[Donor Selection]] — [[d:Q22244427|Q22244427]] <small>(MeSH: D046148)</small>
+* [[Duodenostomy]] — [[d:Q25400072|Q25400072]] <small>(MeSH: D004385)</small>
+* [[Elective Surgical Procedures]] — [[d:Q5354947|Q5354947]] <small>(MeSH: D017558)</small>
+* [[Electrosurgery]] — [[d:Q1563560|Q1563560]] <small>(MeSH: D004598)</small>
+* [[Embolectomy]] — [[d:Q475069|Q475069]] <small>(MeSH: D017128)</small>
+* [[Endarterectomy]] — [[d:Q81476|Q81476]] <small>(MeSH: D004691)</small>
+* [[Endarterectomy, Carotid]] — [[d:Q5045544|Q5045544]] <small>(MeSH: D016894)</small>
+* [[Endocrine Surgical Procedures]] — [[d:Q380064|Q380064]] <small>(MeSH: D013507)</small>
+* [[Endolymphatic Shunt]] — [[d:Q72138032|Q72138032]] <small>(MeSH: D004713)</small>
+* [[Endometrial Ablation Techniques]] — [[d:Q1340731|Q1340731]] <small>(MeSH: D055356)</small>
+* [[Endovascular Aneurysm Repair]] — [[d:Q5376563|Q5376563]] <small>(MeSH: D000094682)</small>
+* [[Endovascular Procedures]] — [[d:Q73509020|Q73509020]] <small>(MeSH: D057510)</small>
+* [[Enhanced Recovery After Surgery]] — [[d:Q1397613|Q1397613]] <small>(MeSH: D000080482)</small>
+* [[Enterostomy]] — [[d:Q24897959|Q24897959]] <small>(MeSH: D004766)</small>
+* [[Epikeratophakia]] — [[d:Q5382951|Q5382951]] <small>(MeSH: D017391)</small>
+* [[Episiotomy]] — [[d:Q1137446|Q1137446]] <small>(MeSH: D004841)</small>
+* [[Esophagectomy]] — [[d:Q298191|Q298191]] <small>(MeSH: D016629)</small>
+* [[Esophagoplasty]] — [[d:Q73219946|Q73219946]] <small>(MeSH: D004944)</small>
+* [[Esophagostomy]] — [[d:Q57998206|Q57998206]] <small>(MeSH: D004946)</small>
+* [[Extracorporeal Circulation]] — [[d:Q72365148|Q72365148]] <small>(MeSH: D005112)</small>
+* [[Extraction, Obstetrical]] — [[d:Q3062590|Q3062590]] <small>(MeSH: D005113)</small>
+* [[Eye Enucleation]] — [[d:Q1345833|Q1345833]] <small>(MeSH: D015353)</small>
+* [[Eye Evisceration]] — [[d:Q3507435|Q3507435]] <small>(MeSH: D017234)</small>
+* [[Facial Transplantation]] — [[d:Q1519214|Q1519214]] <small>(MeSH: D054445)</small>
+* [[Fasciotomy]] — [[d:Q1397866|Q1397866]] <small>(MeSH: D000071938)</small>
+* [[Fenestration, Labyrinth]] — [[d:Q71252373|Q71252373]] <small>(MeSH: D005276)</small>
+* [[Filtering Surgery]] — [[d:Q73038337|Q73038337]] <small>(MeSH: D018463)</small>
+* [[Fontan Procedure]] — [[d:Q1413554|Q1413554]] <small>(MeSH: D018729)</small>
+* [[Foraminotomy]] — [[d:Q5467192|Q5467192]] <small>(MeSH: D059526)</small>
+* [[Fundoplication]] — [[d:Q1474190|Q1474190]] <small>(MeSH: D018662)</small>
+* [[Ganglionectomy]] — [[d:Q5521150|Q5521150]] <small>(MeSH: D015171)</small>
+* [[Gastrectomy]] — [[d:Q827390|Q827390]] <small>(MeSH: D005743)</small>
+* [[Gastric Bypass]] — [[d:Q1813603|Q1813603]] <small>(MeSH: D015390)</small>
+* [[Gastroenterostomy]] — [[d:Q844669|Q844669]] <small>(MeSH: D005763)</small>
+* [[Gastropexy]] — [[d:Q3758808|Q3758808]] <small>(MeSH: D059485)</small>
+* [[Gastroplasty]] — [[d:Q21116710|Q21116710]] <small>(MeSH: D015391)</small>
+* [[Gastrostomy]] — [[d:Q1495687|Q1495687]] <small>(MeSH: D005774)</small>
+* [[Gender-Affirming Surgery]] — [[d:Q1053501|Q1053501]] <small>(MeSH: D057830)</small>
+* [[Glossectomy]] — [[d:Q5571908|Q5571908]] <small>(MeSH: D005927)</small>
+* [[Guided Tissue Regeneration]] — [[d:Q11668581|Q11668581]] <small>(MeSH: D048091)</small>
+* [[Gynecologic Surgical Procedures]] — [[d:Q2963982|Q2963982]] <small>(MeSH: D013509)</small>
+* [[Hand Transplantation]] — [[d:Q552264|Q552264]] <small>(MeSH: D063987)</small>
+* [[Hardware Removal]] — [[d:Q131580072|Q131580072]] <small>(MeSH: D000098524)</small>
+* [[Heart Arrest, Induced]] — [[d:Q2145069|Q2145069]] <small>(MeSH: D006324)</small>
+* [[Heart Bypass, Left]] — [[d:Q73499568|Q73499568]] <small>(MeSH: D018611)</small>
+* [[Heart Bypass, Right]] — [[d:Q67267608|Q67267608]] <small>(MeSH: D018610)</small>
+* [[Heart Massage]] — [[d:Q2990704|Q2990704]] <small>(MeSH: D006336)</small>
+* [[Heart Transplantation]] — [[d:Q643396|Q643396]] <small>(MeSH: D016027)</small>
+* [[Heart Valve Prosthesis Implantation]] — [[d:Q67270196|Q67270196]] <small>(MeSH: D019918)</small>
+* [[Heart-Lung Transplantation]] — [[d:Q3247762|Q3247762]] <small>(MeSH: D016041)</small>
+* [[Heller Myotomy]] — [[d:Q5707414|Q5707414]] <small>(MeSH: D000074434)</small>
+* [[Hemiarthroplasty]] — [[d:Q73225984|Q73225984]] <small>(MeSH: D062785)</small>
+* [[Hemipelvectomy]] — [[d:Q373550|Q373550]] <small>(MeSH: D006428)</small>
+* [[Hemispherectomy]] — [[d:Q166026|Q166026]] <small>(MeSH: D038421)</small>
+* [[Hemorrhoidectomy]] — [[d:Q24961157|Q24961157]] <small>(MeSH: D061865)</small>
+* [[Hepatectomy]] — [[d:Q1514021|Q1514021]] <small>(MeSH: D006498)</small>
+* [[Herniorrhaphy]] — [[d:Q2531594|Q2531594]] <small>(MeSH: D059685)</small>
+* [[Hypophysectomy]] — [[d:Q933496|Q933496]] <small>(MeSH: D007016)</small>
+* [[Hypophysectomy, Chemical]] — [[d:Q73212310|Q73212310]] <small>(MeSH: D007017)</small>
+* [[Hysterectomy]] — [[d:Q550675|Q550675]] <small>(MeSH: D007044)</small>
+* [[Hysterectomy, Vaginal]] — [[d:Q73212532|Q73212532]] <small>(MeSH: D007045)</small>
+* [[Hysteroscopy]] — [[d:Q597058|Q597058]] <small>(MeSH: D015907)</small>
+* [[Hysterotomy]] — [[d:Q3100373|Q3100373]] <small>(MeSH: D020883)</small>
+* [[Ileostomy]] — [[d:Q1344645|Q1344645]] <small>(MeSH: D007081)</small>
+* [[Immediate Dental Implant Loading]] — [[d:Q73220283|Q73220283]] <small>(MeSH: D057893)</small>
+* [[Internal Mammary-Coronary Artery Anastomosis]] — [[d:Q67276508|Q67276508]] <small>(MeSH: D007387)</small>
+* [[Intra-Aortic Balloon Pumping]] — [[d:Q72366910|Q72366910]] <small>(MeSH: D007423)</small>
+* [[Intraoperative Period]] — [[d:Q70477435|Q70477435]] <small>(MeSH: D007432)</small>
+* [[Iridectomy]] — [[d:Q1672638|Q1672638]] <small>(MeSH: D032801)</small>
+* [[Islets of Langerhans Transplantation]] — [[d:Q1664517|Q1664517]] <small>(MeSH: D016381)</small>
+* [[Jaw Fixation Techniques]] — [[d:Q6165858|Q6165858]] <small>(MeSH: D019248)</small>
+* [[Jejunoileal Bypass]] — [[d:Q3647868|Q3647868]] <small>(MeSH: D007581)</small>
+* [[Jejunostomy]] — [[d:Q430425|Q430425]] <small>(MeSH: D007582)</small>
+* [[Joint Capsule Release]] — [[d:Q73500784|Q73500784]] <small>(MeSH: D057913)</small>
+* [[Keratectomy]] — [[d:Q3201118|Q3201118]] <small>(MeSH: D000074431)</small>
+* [[Keratectomy, Subepithelial, Laser-Assisted]] — [[d:Q73210434|Q73210434]] <small>(MeSH: D049008)</small>
+* [[Keratomileusis, Laser In Situ]] — [[d:Q278846|Q278846]] <small>(MeSH: D020731)</small>
+* [[Keratoplasty, Penetrating]] — [[d:Q71252010|Q71252010]] <small>(MeSH: D015948)</small>
+* [[Keratotomy, Radial]] — [[d:Q7280272|Q7280272]] <small>(MeSH: D007646)</small>
+* [[Kidney Transplantation]] — [[d:Q740909|Q740909]] <small>(MeSH: D016030)</small>
+* [[Labor, Induced]] — [[d:Q1497276|Q1497276]] <small>(MeSH: D007751)</small>
+* [[Laminectomy]] — [[d:Q1801578|Q1801578]] <small>(MeSH: D007796)</small>
+* [[Laparotomy]] — [[d:Q1130374|Q1130374]] <small>(MeSH: D007813)</small>
+* [[Laryngectomy]] — [[d:Q1472065|Q1472065]] <small>(MeSH: D007825)</small>
+* [[Laryngoplasty]] — [[d:Q30748221|Q30748221]] <small>(MeSH: D058753)</small>
+* [[Laser Coagulation]] — [[d:Q20883885|Q20883885]] <small>(MeSH: D017075)</small>
+* [[Lateral Internal Sphincterotomy]] — [[d:Q3958696|Q3958696]] <small>(MeSH: D000074722)</small>
+* [[Lens Implantation, Intraocular]] — [[d:Q72367267|Q72367267]] <small>(MeSH: D019654)</small>
+* [[Ligation]] — [[d:Q2144381|Q2144381]] <small>(MeSH: D008026)</small>
+* [[Light Coagulation]] — [[d:Q73523884|Q73523884]] <small>(MeSH: D008028)</small>
+* [[Limb Salvage]] — [[d:Q6548933|Q6548933]] <small>(MeSH: D023821)</small>
+* [[Liver Transplantation]] — [[d:Q1368191|Q1368191]] <small>(MeSH: D016031)</small>
+* [[Lung Transplantation]] — [[d:Q1637912|Q1637912]] <small>(MeSH: D016040)</small>
+* [[Lymph Node Excision]] — [[d:Q1809305|Q1809305]] <small>(MeSH: D008197)</small>
+* [[Magnetic Resonance Imaging, Interventional]] — [[d:Q6057371|Q6057371]] <small>(MeSH: D053783)</small>
+* [[Mandibular Prosthesis Implantation]] — [[d:Q73509620|Q73509620]] <small>(MeSH: D019930)</small>
+* [[Mastectomy]] — [[d:Q848318|Q848318]] <small>(MeSH: D008408)</small>
+* [[Mastectomy, Extended Radical]] — [[d:Q72366621|Q72366621]] <small>(MeSH: D015410)</small>
+* [[Mastectomy, Modified Radical]] — [[d:Q72085299|Q72085299]] <small>(MeSH: D015411)</small>
+* [[Mastectomy, Radical]] — [[d:Q7280491|Q7280491]] <small>(MeSH: D015409)</small>
+* [[Mastectomy, Segmental]] — [[d:Q542022|Q542022]] <small>(MeSH: D015412)</small>
+* [[Mastectomy, Simple]] — [[d:Q72389767|Q72389767]] <small>(MeSH: D015413)</small>
+* [[Mastectomy, Subcutaneous]] — [[d:Q72259132|Q72259132]] <small>(MeSH: D015414)</small>
+* [[Mastoidectomy]] — [[d:Q4462424|Q4462424]] <small>(MeSH: D000074406)</small>
+* [[Maxillofacial Prosthesis Implantation]] — [[d:Q73508234|Q73508234]] <small>(MeSH: D019931)</small>
+* [[Maze Procedure]] — [[d:Q5179919|Q5179919]] <small>(MeSH: D000079042)</small>
+* [[Mediastinoscopy]] — [[d:Q1916248|Q1916248]] <small>(MeSH: D008481)</small>
+* [[Meniscectomy]] — [[d:Q65684111|Q65684111]] <small>(MeSH: D000074403)</small>
+* [[Metastasectomy]] — [[d:Q6823242|Q6823242]] <small>(MeSH: D059146)</small>
+* [[Microsurgery]] — [[d:Q977628|Q977628]] <small>(MeSH: D008866)</small>
+* [[Microvascular Decompression Surgery]] — [[d:Q73216460|Q73216460]] <small>(MeSH: D061145)</small>
+* [[Middle Ear Ventilation]] — [[d:Q72088811|Q72088811]] <small>(MeSH: D008876)</small>
+* [[Minimally Invasive Surgical Procedures]] — [[d:Q1755504|Q1755504]] <small>(MeSH: D019060)</small>
+* [[Minor Surgical Procedures]] — [[d:Q73039759|Q73039759]] <small>(MeSH: D013511)</small>
+* [[Mitral Valve Annuloplasty]] — [[d:Q6882365|Q6882365]] <small>(MeSH: D058386)</small>
+* [[Mohs Surgery]] — [[d:Q1968950|Q1968950]] <small>(MeSH: D015580)</small>
+* [[Morcellation]] — [[d:Q71997117|Q71997117]] <small>(MeSH: D000069577)</small>
+* [[Muscle Denervation]] — [[d:Q73219439|Q73219439]] <small>(MeSH: D009121)</small>
+* [[Myocardial Reperfusion]] — [[d:Q73524937|Q73524937]] <small>(MeSH: D015425)</small>
+* [[Myocardial Revascularization]] — [[d:Q67262027|Q67262027]] <small>(MeSH: D009204)</small>
+* [[Myotomy]] — [[d:Q1956720|Q1956720]] <small>(MeSH: D000074433)</small>
+* [[Myringoplasty]] — [[d:Q2033422|Q2033422]] <small>(MeSH: D009225)</small>
+* [[Nasal Surgical Procedures]] — [[d:Q73216614|Q73216614]] <small>(MeSH: D059747)</small>
+* [[Neck Dissection]] — [[d:Q355817|Q355817]] <small>(MeSH: D037981)</small>
+* [[Negative-Pressure Wound Therapy]] — [[d:Q1511599|Q1511599]] <small>(MeSH: D054843)</small>
+* [[Nephrectomy]] — [[d:Q1357376|Q1357376]] <small>(MeSH: D009392)</small>
+* [[Nephrolithotomy, Percutaneous]] — [[d:Q7167200|Q7167200]] <small>(MeSH: D000074642)</small>
+* [[Nephrostomy, Percutaneous]] — [[d:Q16962988|Q16962988]] <small>(MeSH: D009403)</small>
+* [[Nephrotomy]] — [[d:Q6995238|Q6995238]] <small>(MeSH: D000074643)</small>
+* [[Nephroureterectomy]] — [[d:Q113327806|Q113327806]] <small>(MeSH: D000074682)</small>
+* [[Nerve Crush]] — [[d:Q73038013|Q73038013]] <small>(MeSH: D009409)</small>
+* [[Nerve Expansion]] — [[d:Q73526205|Q73526205]] <small>(MeSH: D055164)</small>
+* [[Nerve Transfer]] — [[d:Q72366469|Q72366469]] <small>(MeSH: D016067)</small>
+* [[Neuronavigation]] — [[d:Q1350293|Q1350293]] <small>(MeSH: D038361)</small>
+* [[Neurosurgical Procedures]] — [[d:Q71397674|Q71397674]] <small>(MeSH: D019635)</small>
+* [[Norwood Procedures]] — [[d:Q2001516|Q2001516]] <small>(MeSH: D058327)</small>
+* [[Obstetric Surgical Procedures]] — [[d:Q73508063|Q73508063]] <small>(MeSH: D013513)</small>
+* [[Open Abdomen Techniques]] — [[d:Q114481180|Q114481180]] <small>(MeSH: D000080872)</small>
+* [[Operative Blood Salvage]] — [[d:Q1074529|Q1074529]] <small>(MeSH: D057725)</small>
+* [[Operative Time]] — [[d:Q70472017|Q70472017]] <small>(MeSH: D061646)</small>
+* [[Ophthalmologic Surgical Procedures]] — [[d:Q760348|Q760348]] <small>(MeSH: D013508)</small>
+* [[Oral Frenectomy]] — [[d:Q3087409|Q3087409]] <small>(MeSH: D000095782)</small>
+* [[Oral Surgical Procedures]] — [[d:Q68893526|Q68893526]] <small>(MeSH: D019647)</small>
+* [[Oral Surgical Procedures, Preprosthetic]] — [[d:Q68892977|Q68892977]] <small>(MeSH: D013516)</small>
+* [[Orbit Evisceration]] — [[d:Q73228177|Q73228177]] <small>(MeSH: D017233)</small>
+* [[Orchiectomy]] — [[d:Q1806228|Q1806228]] <small>(MeSH: D009919)</small>
+* [[Orchiopexy]] — [[d:Q1759591|Q1759591]] <small>(MeSH: D056126)</small>
+* [[Organ Transplantation]] — [[d:Q69253852|Q69253852]] <small>(MeSH: D016377)</small>
+* [[Orthognathic Surgical Procedures]] — [[d:Q72365823|Q72365823]] <small>(MeSH: D056948)</small>
+* [[Ossicular Replacement]] — [[d:Q73400665|Q73400665]] <small>(MeSH: D019933)</small>
+* [[Osteogenesis, Distraction]] — [[d:Q1722542|Q1722542]] <small>(MeSH: D019857)</small>
+* [[Osteotomy]] — [[d:Q2167748|Q2167748]] <small>(MeSH: D010027)</small>
+* [[Osteotomy, Le Fort]] — [[d:Q72259620|Q72259620]] <small>(MeSH: D019340)</small>
+* [[Osteotomy, Sagittal Split Ramus]] — [[d:Q73523439|Q73523439]] <small>(MeSH: D059229)</small>
+* [[Ostomy]] — [[d:Q68172732|Q68172732]] <small>(MeSH: D010030)</small>
+* [[Otologic Surgical Procedures]] — [[d:Q73228249|Q73228249]] <small>(MeSH: D013506)</small>
+* [[Otorhinolaryngologic Surgical Procedures]] — [[d:Q66619387|Q66619387]] <small>(MeSH: D013517)</small>
+* [[Ovariectomy]] — [[d:Q1751597|Q1751597]] <small>(MeSH: D010052)</small>
+* [[Overlapping Surgery]] — [[d:Q124284653|Q124284653]] <small>(MeSH: D000096584)</small>
+* [[Pallidotomy]] — [[d:Q3892641|Q3892641]] <small>(MeSH: D053860)</small>
+* [[Pancreas Transplantation]] — [[d:Q518159|Q518159]] <small>(MeSH: D016035)</small>
+* [[Pancreatectomy]] — [[d:Q3361964|Q3361964]] <small>(MeSH: D010180)</small>
+* [[Pancreaticoduodenectomy]] — [[d:Q1266423|Q1266423]] <small>(MeSH: D016577)</small>
+* [[Pancreaticojejunostomy]] — [[d:Q73467084|Q73467084]] <small>(MeSH: D010193)</small>
+* [[Parasympathectomy]] — [[d:Q73040596|Q73040596]] <small>(MeSH: D017764)</small>
+* [[Parathyroidectomy]] — [[d:Q7136153|Q7136153]] <small>(MeSH: D016105)</small>
+* [[Pelvic Exenteration]] — [[d:Q7161796|Q7161796]] <small>(MeSH: D010385)</small>
+* [[Penile Implantation]] — [[d:Q100975166|Q100975166]] <small>(MeSH: D019935)</small>
+* [[Penile Transplantation]] — [[d:Q4357664|Q4357664]] <small>(MeSH: D000093667)</small>
+* [[Percutaneous Coronary Intervention]] — [[d:Q2008344|Q2008344]] <small>(MeSH: D062645)</small>
+* [[Pericardial Window Techniques]] — [[d:Q7168387|Q7168387]] <small>(MeSH: D010491)</small>
+* [[Pericardiectomy]] — [[d:Q7168388|Q7168388]] <small>(MeSH: D010492)</small>
+* [[Pericardiocentesis]] — [[d:Q2070910|Q2070910]] <small>(MeSH: D020519)</small>
+* [[Perioperative Period]] — [[d:Q64855140|Q64855140]] <small>(MeSH: D059035)</small>
+* [[Peritoneovenous Shunt]] — [[d:Q615191|Q615191]] <small>(MeSH: D010536)</small>
+* [[Phacoemulsification]] — [[d:Q558352|Q558352]] <small>(MeSH: D018918)</small>
+* [[Phalloplasty]] — [[d:Q1889215|Q1889215]] <small>(MeSH: D000093562)</small>
+* [[Pharyngectomy]] — [[d:Q73466589|Q73466589]] <small>(MeSH: D010611)</small>
+* [[Pharyngostomy]] — [[d:Q59305754|Q59305754]] <small>(MeSH: D010613)</small>
+* [[Photorefractive Keratectomy]] — [[d:Q565832|Q565832]] <small>(MeSH: D018903)</small>
+* [[Piezosurgery]] — [[d:Q7193133|Q7193133]] <small>(MeSH: D059745)</small>
+* [[Pinealectomy]] — [[d:Q7195422|Q7195422]] <small>(MeSH: D000076822)</small>
+* [[Plastic Surgery Procedures]] — [[d:Q4131496|Q4131496]] <small>(MeSH: D019651)</small>
+* [[Pneumonectomy]] — [[d:Q46565|Q46565]] <small>(MeSH: D011013)</small>
+* [[Pneumonolysis]] — [[d:Q2100000|Q2100000]] <small>(MeSH: D011025)</small>
+* [[Pneumothorax, Artificial]] — [[d:Q73217584|Q73217584]] <small>(MeSH: D011031)</small>
+* [[Portacaval Shunt, Surgical]] — [[d:Q72088604|Q72088604]] <small>(MeSH: D011167)</small>
+* [[Portasystemic Shunt, Surgical]] — [[d:Q73040516|Q73040516]] <small>(MeSH: D011170)</small>
+* [[Portasystemic Shunt, Transjugular Intrahepatic]] — [[d:Q73397291|Q73397291]] <small>(MeSH: D019168)</small>
+* [[Portoenterostomy, Hepatic]] — [[d:Q1439271|Q1439271]] <small>(MeSH: D011171)</small>
+* [[Posterior Capsulotomy]] — [[d:Q72392150|Q72392150]] <small>(MeSH: D064727)</small>
+* [[Posterior Cruciate Ligament Reconstruction]] — [[d:Q73229544|Q73229544]] <small>(MeSH: D000072229)</small>
+* [[Postoperative Period]] — [[d:Q70469927|Q70469927]] <small>(MeSH: D011184)</small>
+* [[Pregnancy Reduction, Multifetal]] — [[d:Q3153583|Q3153583]] <small>(MeSH: D018607)</small>
+* [[Preoperative Period]] — [[d:Q70450758|Q70450758]] <small>(MeSH: D057234)</small>
+* [[Proctectomy]] — [[d:Q113992745|Q113992745]] <small>(MeSH: D000078542)</small>
+* [[Proctocolectomy, Restorative]] — [[d:Q73038156|Q73038156]] <small>(MeSH: D016737)</small>
+* [[Prophylactic Mastectomy]] — [[d:Q73210051|Q73210051]] <small>(MeSH: D000072036)</small>
+* [[Prophylactic Surgical Procedures]] — [[d:Q65042430|Q65042430]] <small>(MeSH: D065286)</small>
+* [[Prostatectomy]] — [[d:Q1765251|Q1765251]] <small>(MeSH: D011468)</small>
+* [[Prosthesis Implantation]] — [[d:Q73232075|Q73232075]] <small>(MeSH: D019919)</small>
+* [[Psychosurgery]] — [[d:Q1758020|Q1758020]] <small>(MeSH: D011612)</small>
+* [[Pulmonary Surgical Procedures]] — [[d:Q1815679|Q1815679]] <small>(MeSH: D013510)</small>
+* [[Pyloromyotomy]] — [[d:Q7263098|Q7263098]] <small>(MeSH: D000074882)</small>
+* [[Refractive Surgical Procedures]] — [[d:Q284411|Q284411]] <small>(MeSH: D054140)</small>
+* [[Reoperation]] — [[d:Q11834224|Q11834224]] <small>(MeSH: D012086)</small>
+* [[Reperfusion]] — [[d:Q11834229|Q11834229]] <small>(MeSH: D015424)</small>
+* [[Replantation]] — [[d:Q7314029|Q7314029]] <small>(MeSH: D012092)</small>
+* [[Rhinoplasty]] — [[d:Q840929|Q840929]] <small>(MeSH: D012225)</small>
+* [[Rhizotomy]] — [[d:Q7320788|Q7320788]] <small>(MeSH: D019051)</small>
+* [[Robotic Surgical Procedures]] — [[d:Q942348|Q942348]] <small>(MeSH: D065287)</small>
+* [[Salpingectomy]] — [[d:Q3470206|Q3470206]] <small>(MeSH: D058994)</small>
+* [[Salpingo-oophorectomy]] — [[d:Q2851534|Q2851534]] <small>(MeSH: D000074868)</small>
+* [[Salpingostomy]] — [[d:Q3470202|Q3470202]] <small>(MeSH: D012489)</small>
+* [[Scleral Buckling]] — [[d:Q7434130|Q7434130]] <small>(MeSH: D012591)</small>
+* [[Scleroplasty]] — [[d:Q1986625|Q1986625]] <small>(MeSH: D016639)</small>
+* [[Sclerostomy]] — [[d:Q65601648|Q65601648]] <small>(MeSH: D012599)</small>
+* [[Second-Look Surgery]] — [[d:Q73397402|Q73397402]] <small>(MeSH: D024162)</small>
+* [[Septal Myectomy]] — [[d:Q7452043|Q7452043]] <small>(MeSH: D000099303)</small>
+* [[Sinus Floor Augmentation]] — [[d:Q73484835|Q73484835]] <small>(MeSH: D059546)</small>
+* [[Skin Transplantation]] — [[d:Q1591440|Q1591440]] <small>(MeSH: D016038)</small>
+* [[Sphincterotomy]] — [[d:Q113315737|Q113315737]] <small>(MeSH: D000074432)</small>
+* [[Sphincterotomy, Endoscopic]] — [[d:Q73501722|Q73501722]] <small>(MeSH: D016717)</small>
+* [[Sphincterotomy, Transduodenal]] — [[d:Q72367551|Q72367551]] <small>(MeSH: D013105)</small>
+* [[Spinal Fusion]] — [[d:Q770609|Q770609]] <small>(MeSH: D013123)</small>
+* [[Splenectomy]] — [[d:Q580383|Q580383]] <small>(MeSH: D013156)</small>
+* [[Splenorenal Shunt, Surgical]] — [[d:Q73355521|Q73355521]] <small>(MeSH: D013164)</small>
+* [[Split-Brain Procedure]] — [[d:Q551840|Q551840]] <small>(MeSH: D050812)</small>
+* [[Stapes Mobilization]] — [[d:Q73038450|Q73038450]] <small>(MeSH: D013200)</small>
+* [[Stapes Surgery]] — [[d:Q615857|Q615857]] <small>(MeSH: D013201)</small>
+* [[Stereotaxic Techniques]] — [[d:Q71864677|Q71864677]] <small>(MeSH: D013238)</small>
+* [[Sterilization Reversal]] — [[d:Q59257752|Q59257752]] <small>(MeSH: D013243)</small>
+* [[Sterilization, Involuntary]] — [[d:Q706716|Q706716]] <small>(MeSH: D013244)</small>
+* [[Sterilization, Tubal]] — [[d:Q1764560|Q1764560]] <small>(MeSH: D013246)</small>
+* [[Sternotomy]] — [[d:Q831830|Q831830]] <small>(MeSH: D056346)</small>
+* [[Suction]] — [[d:Q331835|Q331835]] <small>(MeSH: D013396)</small>
+* [[Surgery, Computer-Assisted]] — [[d:Q937196|Q937196]] <small>(MeSH: D025321)</small>
+* [[Surgical Procedures, Operative]] — [[d:Q15636229|Q15636229]] <small>(MeSH: D013514)</small>
+* [[Surgical Stapling]] — [[d:Q73220362|Q73220362]] <small>(MeSH: D017792)</small>
+* [[Suture Techniques]] — [[d:Q28790476|Q28790476]] <small>(MeSH: D013536)</small>
+* [[Sutureless Surgical Procedures]] — [[d:Q72258654|Q72258654]] <small>(MeSH: D000071062)</small>
+* [[Sympathectomy]] — [[d:Q6128790|Q6128790]] <small>(MeSH: D013562)</small>
+* [[Sympathectomy, Chemical]] — [[d:Q72391460|Q72391460]] <small>(MeSH: D013563)</small>
+* [[Symphysiotomy]] — [[d:Q10686880|Q10686880]] <small>(MeSH: D013567)</small>
+* [[Synovectomy]] — [[d:Q971969|Q971969]] <small>(MeSH: D000074402)</small>
+* [[Tattoo Removal]] — [[d:Q3045287|Q3045287]] <small>(MeSH: D000092945)</small>
+* [[Tendon Transfer]] — [[d:Q7699654|Q7699654]] <small>(MeSH: D013709)</small>
+* [[Tenodesis]] — [[d:Q73348453|Q73348453]] <small>(MeSH: D053656)</small>
+* [[Tenotomy]] — [[d:Q7700585|Q7700585]] <small>(MeSH: D058971)</small>
+* [[Thoracic Surgery, Video-Assisted]] — [[d:Q73228898|Q73228898]] <small>(MeSH: D020775)</small>
+* [[Thoracic Surgical Procedures]] — [[d:Q64843275|Q64843275]] <small>(MeSH: D019616)</small>
+* [[Thoracoplasty]] — [[d:Q4460941|Q4460941]] <small>(MeSH: D013905)</small>
+* [[Thoracoscopy]] — [[d:Q1544032|Q1544032]] <small>(MeSH: D013906)</small>
+* [[Thoracostomy]] — [[d:Q18394264|Q18394264]] <small>(MeSH: D013907)</small>
+* [[Thoracotomy]] — [[d:Q1340337|Q1340337]] <small>(MeSH: D013908)</small>
+* [[Thrombectomy]] — [[d:Q2429588|Q2429588]] <small>(MeSH: D017131)</small>
+* [[Thymectomy]] — [[d:Q3090790|Q3090790]] <small>(MeSH: D013934)</small>
+* [[Thyroidectomy]] — [[d:Q1351681|Q1351681]] <small>(MeSH: D013965)</small>
+* [[Tissue and Organ Harvesting]] — [[d:Q3536444|Q3536444]] <small>(MeSH: D020858)</small>
+* [[Tissue Expansion]] — [[d:Q3062074|Q3062074]] <small>(MeSH: D015626)</small>
+* [[Tonsillectomy]] — [[d:Q170381|Q170381]] <small>(MeSH: D014068)</small>
+* [[Tooth Extraction]] — [[d:Q849893|Q849893]] <small>(MeSH: D014081)</small>
+* [[Tooth Replantation]] — [[d:Q73509849|Q73509849]] <small>(MeSH: D014090)</small>
+* [[Total Disc Replacement]] — [[d:Q3408015|Q3408015]] <small>(MeSH: D059145)</small>
+* [[Trabeculectomy]] — [[d:Q3177088|Q3177088]] <small>(MeSH: D014130)</small>
+* [[Trachelectomy]] — [[d:Q916859|Q916859]] <small>(MeSH: D000069339)</small>
+* [[Tracheostomy]] — [[d:Q36941642|Q36941642]] <small>(MeSH: D014139)</small>
+* [[Tracheostomy Decannulation]] — [[d:Q131580033|Q131580033]] <small>(MeSH: D000098522)</small>
+* [[Tracheotomy]] — [[d:Q324921|Q324921]] <small>(MeSH: D014140)</small>
+* [[Traction]] — [[d:Q1385001|Q1385001]] <small>(MeSH: D014143)</small>
+* [[Transanal Endoscopic Microsurgery]] — [[d:Q73483257|Q73483257]] <small>(MeSH: D000067369)</small>
+* [[Transanal Endoscopic Surgery]] — [[d:Q73466538|Q73466538]] <small>(MeSH: D000067368)</small>
+* [[Transcatheter Aortic Valve Replacement]] — [[d:Q7167196|Q7167196]] <small>(MeSH: D065467)</small>
+* [[Transcatheter Mitral Valve Replacement]] — [[d:Q137702088|Q137702088]] <small>(MeSH: D000099316)</small>
+* [[Transmyocardial Laser Revascularization]] — [[d:Q7834705|Q7834705]] <small>(MeSH: D057769)</small>
+* [[Transplantation]] — [[d:Q105196|Q105196]] <small>(MeSH: D014180)</small>
+* [[Transplantation, Autologous]] — [[d:Q379071|Q379071]] <small>(MeSH: D014182)</small>
+* [[Transplantation, Haploidentical]] — [[d:Q113381093|Q113381093]] <small>(MeSH: D000075442)</small>
+* [[Transplantation, Heterologous]] — [[d:Q55505|Q55505]] <small>(MeSH: D014183)</small>
+* [[Transplantation, Heterotopic]] — [[d:Q73509538|Q73509538]] <small>(MeSH: D016042)</small>
+* [[Transplantation, Homologous]] — [[d:Q1773075|Q1773075]] <small>(MeSH: D014184)</small>
+* [[Transplantation, Isogeneic]] — [[d:Q68417037|Q68417037]] <small>(MeSH: D014185)</small>
+* [[Transtympanic Micropressure Treatment]] — [[d:Q73490234|Q73490234]] <small>(MeSH: D062086)</small>
+* [[Transurethral Resection of Bladder]] — [[d:Q116789118|Q116789118]] <small>(MeSH: D000094463)</small>
+* [[Transurethral Resection of Prostate]] — [[d:Q1759552|Q1759552]] <small>(MeSH: D020728)</small>
+* [[Trephining]] — [[d:Q472953|Q472953]] <small>(MeSH: D014207)</small>
+* [[Tympanoplasty]] — [[d:Q9363646|Q9363646]] <small>(MeSH: D014433)</small>
+* [[Ulnar Collateral Ligament Reconstruction]] — [[d:Q948562|Q948562]] <small>(MeSH: D000070638)</small>
+* [[Ultrafiltration]] — [[d:Q559573|Q559573]] <small>(MeSH: D014462)</small>
+* [[Ultrasonic Surgical Procedures]] — [[d:Q73227912|Q73227912]] <small>(MeSH: D059708)</small>
+* [[Ultrasound, High-Intensity Focused, Transrectal]] — [[d:Q73524593|Q73524593]] <small>(MeSH: D036761)</small>
+* [[Umbilical Cord Clamping]] — [[d:Q112053002|Q112053002]] <small>(MeSH: D000087526)</small>
+* [[Ureterostomy]] — [[d:Q3552514|Q3552514]] <small>(MeSH: D014519)</small>
+* [[Urinary Diversion]] — [[d:Q7900621|Q7900621]] <small>(MeSH: D014547)</small>
+* [[Urogenital Surgical Procedures]] — [[d:Q73523825|Q73523825]] <small>(MeSH: D013519)</small>
+* [[Urologic Surgical Procedures]] — [[d:Q64925670|Q64925670]] <small>(MeSH: D013520)</small>
+* [[Urologic Surgical Procedures, Male]] — [[d:Q73231092|Q73231092]] <small>(MeSH: D013521)</small>
+* [[Uterine Myomectomy]] — [[d:Q4115148|Q4115148]] <small>(MeSH: D063186)</small>
+* [[Vacuum Curettage]] — [[d:Q4102678|Q4102678]] <small>(MeSH: D014619)</small>
+* [[Vacuum Extraction, Obstetrical]] — [[d:Q1252883|Q1252883]] <small>(MeSH: D014620)</small>
+* [[Vaginal Birth after Cesarean]] — [[d:Q7908496|Q7908496]] <small>(MeSH: D016064)</small>
+* [[Vagotomy]] — [[d:Q1417507|Q1417507]] <small>(MeSH: D014628)</small>
+* [[Vagotomy, Proximal Gastric]] — [[d:Q73403894|Q73403894]] <small>(MeSH: D014629)</small>
+* [[Vagotomy, Truncal]] — [[d:Q72368897|Q72368897]] <small>(MeSH: D015167)</small>
+* [[Vascular Grafting]] — [[d:Q7916459|Q7916459]] <small>(MeSH: D058017)</small>
+* [[Vascular Surgical Procedures]] — [[d:Q1498222|Q1498222]] <small>(MeSH: D014656)</small>
+* [[Vascularized Composite Allotransplantation]] — [[d:Q73499145|Q73499145]] <small>(MeSH: D063986)</small>
+* [[Vasectomy]] — [[d:Q690838|Q690838]] <small>(MeSH: D014659)</small>
+* [[Vasovasostomy]] — [[d:Q3106091|Q3106091]] <small>(MeSH: D014669)</small>
+* [[Venous Cutdown]] — [[d:Q7920188|Q7920188]] <small>(MeSH: D016748)</small>
+* [[Ventriculoperitoneal Shunt]] — [[d:Q73470025|Q73470025]] <small>(MeSH: D017287)</small>
+* [[Ventriculostomy]] — [[d:Q7920328|Q7920328]] <small>(MeSH: D014696)</small>
+* [[Version, Fetal]] — [[d:Q258285|Q258285]] <small>(MeSH: D014710)</small>
+* [[Vestibuloplasty]] — [[d:Q73213523|Q73213523]] <small>(MeSH: D014727)</small>
+* [[Vitrectomy]] — [[d:Q924295|Q924295]] <small>(MeSH: D014821)</small>
+* [[Vitreoretinal Surgery]] — [[d:Q73212353|Q73212353]] <small>(MeSH: D057586)</small>
+* [[Vulvectomy]] — [[d:Q1568549|Q1568549]] <small>(MeSH: D000074883)</small>
+* [[Warm Ischemia]] — [[d:Q59180575|Q59180575]] <small>(MeSH: D052096)</small>
+* [[Wound Closure Techniques]] — [[d:Q72257696|Q72257696]] <small>(MeSH: D058106)</small>
+
+=== Health Care Facilities and Services ===
+
+* '''Coverage:''' 10.2%
+* '''{{color|blue|Bluelinks}}:''' 26
+* '''{{color|red|Redlinks}}:''' 230
+* [[Academic Medical Centers]] — [[d:Q4671274|Q4671274]] <small>(MeSH: D000046)</small>
+* [[Adherence Interventions]] — [[d:Q131519385|Q131519385]] <small>(MeSH: D000099060)</small>
+* [[Admitting Department, Hospital]] — [[d:Q70361688|Q70361688]] <small>(MeSH: D000289)</small>
+* [[Adolescent Health Services]] — [[d:Q70470981|Q70470981]] <small>(MeSH: D016497)</small>
+* [[Ambulance Diversion]] — [[d:Q70453880|Q70453880]] <small>(MeSH: D064422)</small>
+* [[Ambulatory Care Facilities]] — [[d:Q66300090|Q66300090]] <small>(MeSH: D000554)</small>
+* [[Ancillary Services, Hospital]] — [[d:Q70364150|Q70364150]] <small>(MeSH: D000720)</small>
+* [[Anesthesia Department, Hospital]] — [[d:Q70362780|Q70362780]] <small>(MeSH: D000761)</small>
+* [[Bed Occupancy]] — [[d:Q70489775|Q70489775]] <small>(MeSH: D001509)</small>
+* [[Biological Specimen Banks]] — [[d:Q864217|Q864217]] <small>(MeSH: D018070)</small>
+* [[Birthing Centers]] — [[d:Q1752787|Q1752787]] <small>(MeSH: D016550)</small>
+* [[Blood Banks]] — [[d:Q763244|Q763244]] <small>(MeSH: D001771)</small>
+* [[Blood Donation]] — [[d:Q53467|Q53467]] <small>(MeSH: D000094345)</small>
+* [[Bone Banks]] — [[d:Q11668578|Q11668578]] <small>(MeSH: D018586)</small>
+* [[Building Codes]] — [[d:Q2333573|Q2333573]] <small>(MeSH: D002028)</small>
+* [[Burn Units]] — [[d:Q2151257|Q2151257]] <small>(MeSH: D002053)</small>
+* [[Cancer Care Facilities]] — [[d:Q70490064|Q70490064]] <small>(MeSH: D002173)</small>
+* [[Cardiac Care Facilities]] — [[d:Q70437502|Q70437502]] <small>(MeSH: D002300)</small>
+* [[Cardiology Service, Hospital]] — [[d:Q70373283|Q70373283]] <small>(MeSH: D016507)</small>
+* [[Central Supply, Hospital]] — [[d:Q70477228|Q70477228]] <small>(MeSH: D002495)</small>
+* [[Centralized Hospital Services]] — [[d:Q70469261|Q70469261]] <small>(MeSH: D002497)</small>
+* [[Chaplaincy Service, Hospital]] — [[d:Q70437129|Q70437129]] <small>(MeSH: D002604)</small>
+* [[Child Guidance Clinics]] — [[d:Q70440408|Q70440408]] <small>(MeSH: D002661)</small>
+* [[Child Health Services]] — [[d:Q67191449|Q67191449]] <small>(MeSH: D002662)</small>
+* [[Clinical Laboratory Services]] — [[d:Q70371207|Q70371207]] <small>(MeSH: D064790)</small>
+* [[Clinical Observation Units]] — [[d:Q113575856|Q113575856]] <small>(MeSH: D000076542)</small>
+* [[Clinical Pharmacy Information Systems]] — [[d:Q70322746|Q70322746]] <small>(MeSH: D016303)</small>
+* [[Community Health Centers]] — [[d:Q569500|Q569500]] <small>(MeSH: D003151)</small>
+* [[Community Health Services]] — [[d:Q67140949|Q67140949]] <small>(MeSH: D003153)</small>
+* [[Community Mental Health Centers]] — [[d:Q70452962|Q70452962]] <small>(MeSH: D003155)</small>
+* [[Community Mental Health Services]] — [[d:Q9390268|Q9390268]] <small>(MeSH: D003156)</small>
+* [[Community Participation]] — [[d:Q65807646|Q65807646]] <small>(MeSH: D003256)</small>
+* [[Community Pharmacy Services]] — [[d:Q70451363|Q70451363]] <small>(MeSH: D003157)</small>
+* [[Coronary Care Units]] — [[d:Q2604639|Q2604639]] <small>(MeSH: D003325)</small>
+* [[Counseling]] — [[d:Q4390239|Q4390239]] <small>(MeSH: D003376)</small>
+* [[Delivery Rooms]] — [[d:Q1787856|Q1787856]] <small>(MeSH: D003696)</small>
+* [[Dental Clinics]] — [[d:Q2979300|Q2979300]] <small>(MeSH: D003740)</small>
+* [[Dental Facilities]] — [[d:Q70477345|Q70477345]] <small>(MeSH: D003749)</small>
+* [[Dental Health Services]] — [[d:Q70364830|Q70364830]] <small>(MeSH: D003752)</small>
+* [[Dental Offices]] — [[d:Q126098718|Q126098718]] <small>(MeSH: D003770)</small>
+* [[Dental Service, Hospital]] — [[d:Q70436657|Q70436657]] <small>(MeSH: D003796)</small>
+* [[Diagnostic Screening Programs]] — [[d:Q107534295|Q107534295]] <small>(MeSH: D000076862)</small>
+* [[Diagnostic Services]] — [[d:Q67170247|Q67170247]] <small>(MeSH: D003954)</small>
+* [[Dietary Services]] — [[d:Q70449070|Q70449070]] <small>(MeSH: D004045)</small>
+* [[Directed Tissue Donation]] — [[d:Q70490583|Q70490583]] <small>(MeSH: D033001)</small>
+* [[Distance Counseling]] — [[d:Q3555418|Q3555418]] <small>(MeSH: D000068237)</small>
+* [[Drug Dispensaries]] — [[d:Q137671789|Q137671789]] <small>(MeSH: D000099238)</small>
+* [[Drug Information Services]] — [[d:Q70321745|Q70321745]] <small>(MeSH: D004346)</small>
+* [[Early Intervention, Educational]] — [[d:Q70341023|Q70341023]] <small>(MeSH: D018479)</small>
+* [[Early Medical Intervention]] — [[d:Q67103928|Q67103928]] <small>(MeSH: D061345)</small>
+* [[Education Department, Hospital]] — [[d:Q70346947|Q70346947]] <small>(MeSH: D004494)</small>
+* [[Electronic Prescribing]] — [[d:Q3560776|Q3560776]] <small>(MeSH: D055695)</small>
+* [[Emergency Medical Dispatch]] — [[d:Q5370695|Q5370695]] <small>(MeSH: D000071820)</small>
+* [[Emergency Medical Service Communication Systems]] — [[d:Q70469567|Q70469567]] <small>(MeSH: D004631)</small>
+* [[Emergency Medical Services]] — [[d:Q860447|Q860447]] <small>(MeSH: D004632)</small>
+* [[Emergency Room Visits]] — [[d:Q124372940|Q124372940]] <small>(MeSH: D000096924)</small>
+* [[Emergency Service, Hospital]] — [[d:Q1295316|Q1295316]] <small>(MeSH: D004636)</small>
+* [[Evidence-Based Facility Design]] — [[d:Q70349743|Q70349743]] <small>(MeSH: D000067013)</small>
+* [[Eye Banks]] — [[d:Q1418182|Q1418182]] <small>(MeSH: D005125)</small>
+* [[Facilitated Tucking]] — [[d:Q70453345|Q70453345]] <small>(MeSH: D060867)</small>
+* [[Family Planning Services]] — [[d:Q1280670|Q1280670]] <small>(MeSH: D005193)</small>
+* [[Fertility Clinics]] — [[d:Q5445579|Q5445579]] <small>(MeSH: D000080104)</small>
+* [[Financial Management, Hospital]] — [[d:Q70441942|Q70441942]] <small>(MeSH: D005377)</small>
+* [[Food Service, Hospital]] — [[d:Q69503357|Q69503357]] <small>(MeSH: D005521)</small>
+* [[Foster Home Care]] — [[d:Q1430789|Q1430789]] <small>(MeSH: D005581)</small>
+* [[Functional Status]] — [[d:Q11897846|Q11897846]] <small>(MeSH: D000085542)</small>
+* [[Genetic Services]] — [[d:Q70350188|Q70350188]] <small>(MeSH: D033142)</small>
+* [[Group Purchasing]] — [[d:Q1126332|Q1126332]] <small>(MeSH: D017754)</small>
+* [[Health Care Facilities Workforce and Services]] — [[d:Q70477383|Q70477383]] <small>(MeSH: D005159)</small>
+* [[Health Facilities]] — [[d:Q4260475|Q4260475]] <small>(MeSH: D006268)</small>
+* [[Health Facilities, Proprietary]] — [[d:Q70349594|Q70349594]] <small>(MeSH: D006269)</small>
+* [[Health Facility Administration]] — [[d:Q70489201|Q70489201]] <small>(MeSH: D058016)</small>
+* [[Health Facility Closure]] — [[d:Q70436150|Q70436150]] <small>(MeSH: D006271)</small>
+* [[Health Facility Environment]] — [[d:Q70453848|Q70453848]] <small>(MeSH: D006272)</small>
+* [[Health Facility Merger]] — [[d:Q70347017|Q70347017]] <small>(MeSH: D006273)</small>
+* [[Health Facility Moving]] — [[d:Q70452535|Q70452535]] <small>(MeSH: D006274)</small>
+* [[Health Facility Size]] — [[d:Q70490025|Q70490025]] <small>(MeSH: D006276)</small>
+* [[Health Resorts]] — [[d:Q70438722|Q70438722]] <small>(MeSH: D006294)</small>
+* [[Health Services]] — [[d:Q9353606|Q9353606]] <small>(MeSH: D006296)</small>
+* [[Health Services for Persons with Disabilities]] — [[d:Q70441807|Q70441807]] <small>(MeSH: D066086)</small>
+* [[Health Services for Prisoners]] — [[d:Q5172800|Q5172800]] <small>(MeSH: D000096245)</small>
+* [[Health Services for the Aged]] — [[d:Q65716805|Q65716805]] <small>(MeSH: D006299)</small>
+* [[Health Services for Transgender Persons]] — [[d:Q70488892|Q70488892]] <small>(MeSH: D062985)</small>
+* [[Health Services Misuse]] — [[d:Q70363384|Q70363384]] <small>(MeSH: D006300)</small>
+* [[Health Services, Indigenous]] — [[d:Q67173586|Q67173586]] <small>(MeSH: D006303)</small>
+* [[Health Workforce]] — [[d:Q17054975|Q17054975]] <small>(MeSH: D006280)</small>
+* [[Hemodialysis Units, Hospital]] — [[d:Q70442423|Q70442423]] <small>(MeSH: D006436)</small>
+* [[Home Care Services]] — [[d:Q70448685|Q70448685]] <small>(MeSH: D006699)</small>
+* [[Home Care Services, Hospital-Based]] — [[d:Q70469380|Q70469380]] <small>(MeSH: D018575)</small>
+* [[Home Health Nursing]] — [[d:Q5889061|Q5889061]] <small>(MeSH: D064650)</small>
+* [[Home Nursing]] — [[d:Q70490621|Q70490621]] <small>(MeSH: D006701)</small>
+* [[Homemaker Services]] — [[d:Q70346685|Q70346685]] <small>(MeSH: D006704)</small>
+* [[Hospices]] — [[d:Q608152|Q608152]] <small>(MeSH: D006738)</small>
+* [[Hospital Bed Capacity]] — [[d:Q70362525|Q70362525]] <small>(MeSH: D006742)</small>
+* [[Hospital Bed Capacity, 100 to 299]] — [[d:Q70490337|Q70490337]] <small>(MeSH: D006744)</small>
+* [[Hospital Bed Capacity, 300 to 499]] — [[d:Q70447310|Q70447310]] <small>(MeSH: D006745)</small>
+* [[Hospital Bed Capacity, 500 and over]] — [[d:Q70490635|Q70490635]] <small>(MeSH: D006746)</small>
+* [[Hospital Bed Capacity, under 100]] — [[d:Q70362251|Q70362251]] <small>(MeSH: D006743)</small>
+* [[Hospital Communication Systems]] — [[d:Q70349832|Q70349832]] <small>(MeSH: D006747)</small>
+* [[Hospital Departments]] — [[d:Q3550838|Q3550838]] <small>(MeSH: D006748)</small>
+* [[Hospital Distribution Systems]] — [[d:Q70442396|Q70442396]] <small>(MeSH: D006750)</small>
+* [[Hospital Restructuring]] — [[d:Q70477254|Q70477254]] <small>(MeSH: D006754)</small>
+* [[Hospital Shops]] — [[d:Q70489996|Q70489996]] <small>(MeSH: D006756)</small>
+* [[Hospital Units]] — [[d:Q70450529|Q70450529]] <small>(MeSH: D006757)</small>
+* [[Hospital-Patient Relations]] — [[d:Q70441694|Q70441694]] <small>(MeSH: D015285)</small>
+* [[Hospital-Physician Joint Ventures]] — [[d:Q70451164|Q70451164]] <small>(MeSH: D006759)</small>
+* [[Hospitals]] — [[d:Q16917|Q16917]] <small>(MeSH: D006761)</small>
+* [[Hospitals, Animal]] — [[d:Q1706476|Q1706476]] <small>(MeSH: D006762)</small>
+* [[Hospitals, Chronic Disease]] — [[d:Q70448381|Q70448381]] <small>(MeSH: D006763)</small>
+* [[Hospitals, Community]] — [[d:Q5154967|Q5154967]] <small>(MeSH: D006764)</small>
+* [[Hospitals, Convalescent]] — [[d:Q70452465|Q70452465]] <small>(MeSH: D006765)</small>
+* [[Hospitals, County]] — [[d:Q70363446|Q70363446]] <small>(MeSH: D006766)</small>
+* [[Hospitals, District]] — [[d:Q70373948|Q70373948]] <small>(MeSH: D006767)</small>
+* [[Hospitals, Federal]] — [[d:Q70469547|Q70469547]] <small>(MeSH: D006768)</small>
+* [[Hospitals, General]] — [[d:Q2440002|Q2440002]] <small>(MeSH: D006769)</small>
+* [[Hospitals, Group Practice]] — [[d:Q70450698|Q70450698]] <small>(MeSH: D006770)</small>
+* [[Hospitals, High-Volume]] — [[d:Q70441748|Q70441748]] <small>(MeSH: D061847)</small>
+* [[Hospitals, Isolation]] — [[d:Q70443541|Q70443541]] <small>(MeSH: D055819)</small>
+* [[Hospitals, Low-Volume]] — [[d:Q70440492|Q70440492]] <small>(MeSH: D061846)</small>
+* [[Hospitals, Maternity]] — [[d:Q958822|Q958822]] <small>(MeSH: D006771)</small>
+* [[Hospitals, Military]] — [[d:Q2387974|Q2387974]] <small>(MeSH: D006772)</small>
+* [[Hospitals, Municipal]] — [[d:Q28407737|Q28407737]] <small>(MeSH: D006773)</small>
+* [[Hospitals, Osteopathic]] — [[d:Q70444276|Q70444276]] <small>(MeSH: D006774)</small>
+* [[Hospitals, Pediatric]] — [[d:Q644264|Q644264]] <small>(MeSH: D006776)</small>
+* [[Hospitals, Private]] — [[d:Q4284971|Q4284971]] <small>(MeSH: D016304)</small>
+* [[Hospitals, Proprietary]] — [[d:Q70472124|Q70472124]] <small>(MeSH: D006777)</small>
+* [[Hospitals, Psychiatric]] — [[d:Q210999|Q210999]] <small>(MeSH: D006778)</small>
+* [[Hospitals, Public]] — [[d:Q7257872|Q7257872]] <small>(MeSH: D006779)</small>
+* [[Hospitals, Rehabilitation]] — [[d:Q124540095|Q124540095]] <small>(MeSH: D000077773)</small>
+* [[Hospitals, Religious]] — [[d:Q59244652|Q59244652]] <small>(MeSH: D016519)</small>
+* [[Hospitals, Rural]] — [[d:Q61451856|Q61451856]] <small>(MeSH: D006780)</small>
+* [[Hospitals, Satellite]] — [[d:Q70349049|Q70349049]] <small>(MeSH: D006781)</small>
+* [[Hospitals, Special]] — [[d:Q1391390|Q1391390]] <small>(MeSH: D006782)</small>
+* [[Hospitals, State]] — [[d:Q7603700|Q7603700]] <small>(MeSH: D006783)</small>
+* [[Hospitals, Teaching]] — [[d:Q1813474|Q1813474]] <small>(MeSH: D006784)</small>
+* [[Hospitals, University]] — [[d:Q1059324|Q1059324]] <small>(MeSH: D006785)</small>
+* [[Hospitals, Urban]] — [[d:Q70346455|Q70346455]] <small>(MeSH: D006786)</small>
+* [[Hospitals, Veterans]] — [[d:Q70469323|Q70469323]] <small>(MeSH: D006787)</small>
+* [[Hospitals, Voluntary]] — [[d:Q30688522|Q30688522]] <small>(MeSH: D006788)</small>
+* [[Hotlines]] — [[d:Q10991973|Q10991973]] <small>(MeSH: D015277)</small>
+* [[Household Work]] — [[d:Q708514|Q708514]] <small>(MeSH: D006796)</small>
+* [[Housekeeping, Hospital]] — [[d:Q70346870|Q70346870]] <small>(MeSH: D006797)</small>
+* [[Immunization Programs]] — [[d:Q70350576|Q70350576]] <small>(MeSH: D017589)</small>
+* [[Infant Care]] — [[d:Q70490303|Q70490303]] <small>(MeSH: D007224)</small>
+* [[Intensive Care Units]] — [[d:Q5094647|Q5094647]] <small>(MeSH: D007362)</small>
+* [[Intensive Care Units, Neonatal]] — [[d:Q9008292|Q9008292]] <small>(MeSH: D007363)</small>
+* [[Intensive Care Units, Pediatric]] — [[d:Q17146605|Q17146605]] <small>(MeSH: D015278)</small>
+* [[Intermediate Care Facilities]] — [[d:Q70469231|Q70469231]] <small>(MeSH: D007380)</small>
+* [[Inventories, Hospital]] — [[d:Q70372300|Q70372300]] <small>(MeSH: D007445)</small>
+* [[Kangaroo-Mother Care Method]] — [[d:Q2598134|Q2598134]] <small>(MeSH: D060127)</small>
+* [[Laboratories, Clinical]] — [[d:Q2296168|Q2296168]] <small>(MeSH: D000090464)</small>
+* [[Laboratories, Dental]] — [[d:Q936495|Q936495]] <small>(MeSH: D007754)</small>
+* [[Laboratories, Hospital]] — [[d:Q70447637|Q70447637]] <small>(MeSH: D007755)</small>
+* [[Laundry Service, Hospital]] — [[d:Q70440083|Q70440083]] <small>(MeSH: D007847)</small>
+* [[Leper Colonies]] — [[d:Q1406569|Q1406569]] <small>(MeSH: D007914)</small>
+* [[Maintenance]] — [[d:Q1043452|Q1043452]] <small>(MeSH: D008283)</small>
+* [[Maintenance and Engineering, Hospital]] — [[d:Q70450886|Q70450886]] <small>(MeSH: D008284)</small>
+* [[Mass Vaccination]] — [[d:Q70477194|Q70477194]] <small>(MeSH: D032541)</small>
+* [[Materials Management, Hospital]] — [[d:Q70349924|Q70349924]] <small>(MeSH: D008421)</small>
+* [[Maternal Health Services]] — [[d:Q67184598|Q67184598]] <small>(MeSH: D008427)</small>
+* [[Maternal-Child Health Centers]] — [[d:Q13163970|Q13163970]] <small>(MeSH: D008430)</small>
+* [[Maternal-Child Health Services]] — [[d:Q70442219|Q70442219]] <small>(MeSH: D000068101)</small>
+* [[Medical Errors]] — [[d:Q460433|Q460433]] <small>(MeSH: D019300)</small>
+* [[Medical Office Buildings]] — [[d:Q70374082|Q70374082]] <small>(MeSH: D008494)</small>
+* [[Medical Overuse]] — [[d:Q70372705|Q70372705]] <small>(MeSH: D000069342)</small>
+* [[Medical Records Department, Hospital]] — [[d:Q70350286|Q70350286]] <small>(MeSH: D008500)</small>
+* [[Men's Health Services]] — [[d:Q131498038|Q131498038]] <small>(MeSH: D000098802)</small>
+* [[Mental Health Recovery]] — [[d:Q2135807|Q2135807]] <small>(MeSH: D000073038)</small>
+* [[Military Health Services]] — [[d:Q114565994|Q114565994]] <small>(MeSH: D000081322)</small>
+* [[Milk Banks]] — [[d:Q2458164|Q2458164]] <small>(MeSH: D017784)</small>
+* [[Missed Diagnosis]] — [[d:Q114516258|Q114516258]] <small>(MeSH: D000081006)</small>
+* [[Mobile Health Units]] — [[d:Q67170410|Q67170410]] <small>(MeSH: D008952)</small>
+* [[Morgue]] — [[d:Q6451172|Q6451172]] <small>(MeSH: D000072896)</small>
+* [[Moving and Lifting Patients]] — [[d:Q70437562|Q70437562]] <small>(MeSH: D055805)</small>
+* [[Near Miss, Healthcare]] — [[d:Q70438251|Q70438251]] <small>(MeSH: D000067491)</small>
+* [[Needle-Exchange Programs]] — [[d:Q1760326|Q1760326]] <small>(MeSH: D018671)</small>
+* [[Nurseries, Hospital]] — [[d:Q70452197|Q70452197]] <small>(MeSH: D009725)</small>
+* [[Nurseries, Infant]] — [[d:Q3095435|Q3095435]] <small>(MeSH: D009724)</small>
+* [[Nursing Homes]] — [[d:Q837142|Q837142]] <small>(MeSH: D009735)</small>
+* [[Nursing Service, Hospital]] — [[d:Q70440378|Q70440378]] <small>(MeSH: D009738)</small>
+* [[Nursing Services]] — [[d:Q70373675|Q70373675]] <small>(MeSH: D009739)</small>
+* [[Nursing Stations]] — [[d:Q7070243|Q7070243]] <small>(MeSH: D063187)</small>
+* [[Obstetrics and Gynecology Department, Hospital]] — [[d:Q70451388|Q70451388]] <small>(MeSH: D009775)</small>
+* [[Occupational Health Services]] — [[d:Q66687036|Q66687036]] <small>(MeSH: D009786)</small>
+* [[Occupational Therapy Department, Hospital]] — [[d:Q70359572|Q70359572]] <small>(MeSH: D009789)</small>
+* [[Oncology Service, Hospital]] — [[d:Q70477285|Q70477285]] <small>(MeSH: D016522)</small>
+* [[Operating Rooms]] — [[d:Q1060822|Q1060822]] <small>(MeSH: D009873)</small>
+* [[Outpatient Clinics, Hospital]] — [[d:Q695416|Q695416]] <small>(MeSH: D010044)</small>
+* [[Overtreatment]] — [[d:Q3505478|Q3505478]] <small>(MeSH: D000088922)</small>
+* [[Pain Clinics]] — [[d:Q70450831|Q70450831]] <small>(MeSH: D018710)</small>
+* [[Pathology Department, Hospital]] — [[d:Q70373981|Q70373981]] <small>(MeSH: D010337)</small>
+* [[Patient Comfort]] — [[d:Q70448815|Q70448815]] <small>(MeSH: D000070659)</small>
+* [[Patient Escort Service]] — [[d:Q70373209|Q70373209]] <small>(MeSH: D010354)</small>
+* [[Patients' Rooms]] — [[d:Q70443092|Q70443092]] <small>(MeSH: D010362)</small>
+* [[Perinatal Care]] — [[d:Q3411951|Q3411951]] <small>(MeSH: D018743)</small>
+* [[Perioperative Nursing]] — [[d:Q7168673|Q7168673]] <small>(MeSH: D013527)</small>
+* [[Personal Health Services]] — [[d:Q70470524|Q70470524]] <small>(MeSH: D010548)</small>
+* [[Pharmaceutical Services]] — [[d:Q70453025|Q70453025]] <small>(MeSH: D010593)</small>
+* [[Pharmaceutical Services, Online]] — [[d:Q3081320|Q3081320]] <small>(MeSH: D060946)</small>
+* [[Pharmacies]] — [[d:Q13107184|Q13107184]] <small>(MeSH: D010594)</small>
+* [[Pharmacy Service, Hospital]] — [[d:Q70362305|Q70362305]] <small>(MeSH: D010607)</small>
+* [[Physical Therapy Department, Hospital]] — [[d:Q70451115|Q70451115]] <small>(MeSH: D010814)</small>
+* [[Physicians' Offices]] — [[d:Q718966|Q718966]] <small>(MeSH: D010824)</small>
+* [[Poison Control Centers]] — [[d:Q1450463|Q1450463]] <small>(MeSH: D011039)</small>
+* [[Post-Exposure Prophylaxis]] — [[d:Q1361206|Q1361206]] <small>(MeSH: D056990)</small>
+* [[Postnatal Care]] — [[d:Q70440108|Q70440108]] <small>(MeSH: D011181)</small>
+* [[Pre-Exposure Prophylaxis]] — [[d:Q7239230|Q7239230]] <small>(MeSH: D065129)</small>
+* [[Preconception Care]] — [[d:Q7239210|Q7239210]] <small>(MeSH: D016742)</small>
+* [[Prenatal Care]] — [[d:Q3308829|Q3308829]] <small>(MeSH: D011295)</small>
+* [[Prescriptions]] — [[d:Q3355478|Q3355478]] <small>(MeSH: D055656)</small>
+* [[Preventive Health Services]] — [[d:Q65732032|Q65732032]] <small>(MeSH: D011314)</small>
+* [[Primary Nursing]] — [[d:Q7243152|Q7243152]] <small>(MeSH: D011321)</small>
+* [[Primary Prevention]] — [[d:Q10353754|Q10353754]] <small>(MeSH: D011322)</small>
+* [[Psychiatric Department, Hospital]] — [[d:Q70450233|Q70450233]] <small>(MeSH: D011567)</small>
+* [[Public Health Infrastructure]] — [[d:Q124257901|Q124257901]] <small>(MeSH: D000096102)</small>
+* [[Purchasing, Hospital]] — [[d:Q70363027|Q70363027]] <small>(MeSH: D011682)</small>
+* [[Quaternary Prevention]] — [[d:Q1858805|Q1858805]] <small>(MeSH: D000081404)</small>
+* [[Quick Diagnosis Units]] — [[d:Q114785236|Q114785236]] <small>(MeSH: D000084782)</small>
+* [[Radiology Department, Hospital]] — [[d:Q10659066|Q10659066]] <small>(MeSH: D011872)</small>
+* [[Recovery Room]] — [[d:Q760111|Q760111]] <small>(MeSH: D011997)</small>
+* [[Rehabilitation Centers]] — [[d:Q7309759|Q7309759]] <small>(MeSH: D012047)</small>
+* [[Reproductive Health Services]] — [[d:Q70453109|Q70453109]] <small>(MeSH: D034121)</small>
+* [[Respiratory Care Units]] — [[d:Q70470699|Q70470699]] <small>(MeSH: D012124)</small>
+* [[Respiratory Therapy Department, Hospital]] — [[d:Q70349234|Q70349234]] <small>(MeSH: D012139)</small>
+* [[Respite Care]] — [[d:Q7315937|Q7315937]] <small>(MeSH: D012144)</small>
+* [[Rooming-in Care]] — [[d:Q70437162|Q70437162]] <small>(MeSH: D012386)</small>
+* [[Rural Health Services]] — [[d:Q97019262|Q97019262]] <small>(MeSH: D019035)</small>
+* [[School Health Services]] — [[d:Q4115527|Q4115527]] <small>(MeSH: D012572)</small>
+* [[School Mental Health Services]] — [[d:Q114397298|Q114397298]] <small>(MeSH: D000079691)</small>
+* [[Secondary Care Centers]] — [[d:Q7443849|Q7443849]] <small>(MeSH: D063728)</small>
+* [[Seed Bank]] — [[d:Q1426613|Q1426613]] <small>(MeSH: D000068098)</small>
+* [[Self-Care Units]] — [[d:Q70363076|Q70363076]] <small>(MeSH: D012654)</small>
+* [[Self-Management]] — [[d:Q77867997|Q77867997]] <small>(MeSH: D000073278)</small>
+* [[Shared Governance, Nursing]] — [[d:Q113955308|Q113955308]] <small>(MeSH: D000077772)</small>
+* [[Skilled Nursing Facilities]] — [[d:Q70452410|Q70452410]] <small>(MeSH: D012866)</small>
+* [[Social Work Department, Hospital]] — [[d:Q70490572|Q70490572]] <small>(MeSH: D012948)</small>
+* [[Social Work, Psychiatric]] — [[d:Q69886737|Q69886737]] <small>(MeSH: D012949)</small>
+* [[Sperm Banks]] — [[d:Q1049937|Q1049937]] <small>(MeSH: D013074)</small>
+* [[Student Health Services]] — [[d:Q70440193|Q70440193]] <small>(MeSH: D013333)</small>
+* [[Student Run Clinic]] — [[d:Q70444290|Q70444290]] <small>(MeSH: D000070319)</small>
+* [[Substance Abuse Treatment Centers]] — [[d:Q67190305|Q67190305]] <small>(MeSH: D016320)</small>
+* [[Suburban Health Services]] — [[d:Q126163601|Q126163601]] <small>(MeSH: D019036)</small>
+* [[Surgery Department, Hospital]] — [[d:Q70448709|Q70448709]] <small>(MeSH: D013503)</small>
+* [[Surgicenters]] — [[d:Q70488776|Q70488776]] <small>(MeSH: D013531)</small>
+* [[Tertiary Care Centers]] — [[d:Q7705274|Q7705274]] <small>(MeSH: D062606)</small>
+* [[Tissue and Organ Procurement]] — [[d:Q65982891|Q65982891]] <small>(MeSH: D009927)</small>
+* [[Tissue Banks]] — [[d:Q2893478|Q2893478]] <small>(MeSH: D014015)</small>
+* [[Trauma Centers]] — [[d:Q2473971|Q2473971]] <small>(MeSH: D014193)</small>
+* [[Triage]] — [[d:Q780067|Q780067]] <small>(MeSH: D014218)</small>
+* [[Undertreatment]] — [[d:Q124373076|Q124373076]] <small>(MeSH: D000097864)</small>
+* [[Unnecessary Procedures]] — [[d:Q7114070|Q7114070]] <small>(MeSH: D019564)</small>
+* [[Urban Health Services]] — [[d:Q70444380|Q70444380]] <small>(MeSH: D019037)</small>
+* [[Urology Department, Hospital]] — [[d:Q70351332|Q70351332]] <small>(MeSH: D014573)</small>
+* [[Vaccination Coverage]] — [[d:Q25498451|Q25498451]] <small>(MeSH: D000073887)</small>
+* [[Veterans Health Services]] — [[d:Q114566030|Q114566030]] <small>(MeSH: D000081324)</small>
+* [[Women's Health Services]] — [[d:Q67178686|Q67178686]] <small>(MeSH: D014932)</small>
+
+=== Medical Equipment and Devices ===
+
+* '''Coverage:''' 30.7%
+* '''{{color|blue|Bluelinks}}:''' 86
+* '''{{color|red|Redlinks}}:''' 194
+* [[Absorbable Implants]] — [[d:Q72367835|Q72367835]] <small>(MeSH: D020341)</small>
+* [[Absorbent Pads]] — [[d:Q101003050|Q101003050]] <small>(MeSH: D041342)</small>
+* [[Air Bags]] — [[d:Q99905|Q99905]] <small>(MeSH: D017278)</small>
+* [[Amplifiers, Electronic]] — [[d:Q211554|Q211554]] <small>(MeSH: D000669)</small>
+* [[Angioscopes]] — [[d:Q72555939|Q72555939]] <small>(MeSH: D020677)</small>
+* [[Arthroscopes]] — [[d:Q572730|Q572730]] <small>(MeSH: D020679)</small>
+* [[Artificial Limbs]] — [[d:Q1728035|Q1728035]] <small>(MeSH: D001186)</small>
+* [[Artificial Organs]] — [[d:Q1353169|Q1353169]] <small>(MeSH: D001187)</small>
+* [[Athletic Tape]] — [[d:Q917517|Q917517]] <small>(MeSH: D055052)</small>
+* [[Atmosphere Exposure Chambers]] — [[d:Q73217432|Q73217432]] <small>(MeSH: D001273)</small>
+* [[Auditory Brain Stem Implants]] — [[d:Q73039368|Q73039368]] <small>(MeSH: D038262)</small>
+* [[Bandages]] — [[d:Q376724|Q376724]] <small>(MeSH: D001458)</small>
+* [[Bandages, Hydrocolloid]] — [[d:Q1409359|Q1409359]] <small>(MeSH: D047070)</small>
+* [[Bathroom Equipment]] — [[d:Q73230398|Q73230398]] <small>(MeSH: D000072296)</small>
+* [[Bedding and Linens]] — [[d:Q796635|Q796635]] <small>(MeSH: D001512)</small>
+* [[Beds]] — [[d:Q42177|Q42177]] <small>(MeSH: D001513)</small>
+* [[Bioartificial Organs]] — [[d:Q58891373|Q58891373]] <small>(MeSH: D021522)</small>
+* [[Bioelectric Energy Sources]] — [[d:Q72368096|Q72368096]] <small>(MeSH: D001674)</small>
+* [[Biological Dressings]] — [[d:Q73483761|Q73483761]] <small>(MeSH: D001684)</small>
+* [[Bioprosthesis]] — [[d:Q73220230|Q73220230]] <small>(MeSH: D001705)</small>
+* [[Bioreactors]] — [[d:Q864699|Q864699]] <small>(MeSH: D019149)</small>
+* [[Blood Pressure Monitors]] — [[d:Q73466793|Q73466793]] <small>(MeSH: D015924)</small>
+* [[Blood Vessel Prosthesis]] — [[d:Q73484658|Q73484658]] <small>(MeSH: D001807)</small>
+* [[Bone Nails]] — [[d:Q73403743|Q73403743]] <small>(MeSH: D001858)</small>
+* [[Bone Plates]] — [[d:Q20707847|Q20707847]] <small>(MeSH: D001860)</small>
+* [[Bone Screws]] — [[d:Q57955834|Q57955834]] <small>(MeSH: D001863)</small>
+* [[Bone Wires]] — [[d:Q2530451|Q2530451]] <small>(MeSH: D001864)</small>
+* [[Bone-Anchored Prosthesis]] — [[d:Q113621209|Q113621209]] <small>(MeSH: D000077280)</small>
+* [[Braces]] — [[d:Q17638955|Q17638955]] <small>(MeSH: D001915)</small>
+* [[Brain-Computer Interfaces]] — [[d:Q897410|Q897410]] <small>(MeSH: D062207)</small>
+* [[Breast Implants]] — [[d:Q749053|Q749053]] <small>(MeSH: D018427)</small>
+* [[Bronchoscopes]] — [[d:Q5734241|Q5734241]] <small>(MeSH: D020680)</small>
+* [[Canes]] — [[d:Q1494444|Q1494444]] <small>(MeSH: D002183)</small>
+* [[Cannula]] — [[d:Q2125439|Q2125439]] <small>(MeSH: D000072601)</small>
+* [[Capillary Tubing]] — [[d:Q16086170|Q16086170]] <small>(MeSH: D060166)</small>
+* [[Capsule Endoscopes]] — [[d:Q72367459|Q72367459]] <small>(MeSH: D053705)</small>
+* [[Cardiac Catheters]] — [[d:Q67490468|Q67490468]] <small>(MeSH: D062906)</small>
+* [[Cardiac Resynchronization Therapy Devices]] — [[d:Q72138619|Q72138619]] <small>(MeSH: D058409)</small>
+* [[Casts, Surgical]] — [[d:Q1526584|Q1526584]] <small>(MeSH: D002370)</small>
+* [[Catgut]] — [[d:Q5052002|Q5052002]] <small>(MeSH: D002398)</small>
+* [[Catheters]] — [[d:Q652297|Q652297]] <small>(MeSH: D057785)</small>
+* [[Catheters, Indwelling]] — [[d:Q72366031|Q72366031]] <small>(MeSH: D002408)</small>
+* [[Cathode Ray Tube]] — [[d:Q83913|Q83913]] <small>(MeSH: D055984)</small>
+* [[Central Venous Catheters]] — [[d:Q190404|Q190404]] <small>(MeSH: D062905)</small>
+* [[Chest Tubes]] — [[d:Q1969019|Q1969019]] <small>(MeSH: D015505)</small>
+* [[Child Restraint Systems]] — [[d:Q4402404|Q4402404]] <small>(MeSH: D057207)</small>
+* [[Clinical Alarms]] — [[d:Q73482760|Q73482760]] <small>(MeSH: D056902)</small>
+* [[Cochlear Implants]] — [[d:Q724965|Q724965]] <small>(MeSH: D003054)</small>
+* [[Colonoscopes]] — [[d:Q1414668|Q1414668]] <small>(MeSH: D020685)</small>
+* [[Colposcopes]] — [[d:Q4228936|Q4228936]] <small>(MeSH: D020681)</small>
+* [[Communication Devices for People with Disabilities]] — [[d:Q73523154|Q73523154]] <small>(MeSH: D003143)</small>
+* [[Compressed Air]] — [[d:Q143746|Q143746]] <small>(MeSH: D058868)</small>
+* [[Compression Bandages]] — [[d:Q5353556|Q5353556]] <small>(MeSH: D058128)</small>
+* [[Condoms]] — [[d:Q14076|Q14076]] <small>(MeSH: D017280)</small>
+* [[Consciousness Monitors]] — [[d:Q72389679|Q72389679]] <small>(MeSH: D056805)</small>
+* [[Contact Lenses]] — [[d:Q23797|Q23797]] <small>(MeSH: D003261)</small>
+* [[Contact Lenses, Extended-Wear]] — [[d:Q73209733|Q73209733]] <small>(MeSH: D003262)</small>
+* [[Contact Lenses, Hydrophilic]] — [[d:Q73468408|Q73468408]] <small>(MeSH: D003263)</small>
+* [[Contraceptive Devices]] — [[d:Q73400539|Q73400539]] <small>(MeSH: D003273)</small>
+* [[Contraceptive Devices, Female]] — [[d:Q73397452|Q73397452]] <small>(MeSH: D003274)</small>
+* [[Contraceptive Devices, Male]] — [[d:Q949861|Q949861]] <small>(MeSH: D003275)</small>
+* [[Crutches]] — [[d:Q268828|Q268828]] <small>(MeSH: D003446)</small>
+* [[Culdoscopes]] — [[d:Q5192886|Q5192886]] <small>(MeSH: D020683)</small>
+* [[Cyclotrons]] — [[d:Q204469|Q204469]] <small>(MeSH: D017357)</small>
+* [[Cystoscopes]] — [[d:Q246078|Q246078]] <small>(MeSH: D020684)</small>
+* [[Defibrillators]] — [[d:Q1450682|Q1450682]] <small>(MeSH: D047548)</small>
+* [[Defibrillators, Implantable]] — [[d:Q594446|Q594446]] <small>(MeSH: D017147)</small>
+* [[Diagnostic Equipment]] — [[d:Q73403964|Q73403964]] <small>(MeSH: D019719)</small>
+* [[Diapers, Adult]] — [[d:Q860175|Q860175]] <small>(MeSH: D041382)</small>
+* [[Diapers, Infant]] — [[d:Q73465271|Q73465271]] <small>(MeSH: D041381)</small>
+* [[Diffusion Chambers, Culture]] — [[d:Q73483901|Q73483901]] <small>(MeSH: D015194)</small>
+* [[Disposable Equipment]] — [[d:Q1194058|Q1194058]] <small>(MeSH: D004209)</small>
+* [[Drug-Eluting Stents]] — [[d:Q3973120|Q3973120]] <small>(MeSH: D054855)</small>
+* [[Dry Powder Inhalers]] — [[d:Q1334805|Q1334805]] <small>(MeSH: D058995)</small>
+* [[Duodenoscopes]] — [[d:Q73500994|Q73500994]] <small>(MeSH: D020698)</small>
+* [[Durable Medical Equipment]] — [[d:Q5316115|Q5316115]] <small>(MeSH: D004389)</small>
+* [[Elbow Prosthesis]] — [[d:Q72369031|Q72369031]] <small>(MeSH: D058569)</small>
+* [[Electric Power Supplies]] — [[d:Q204157|Q204157]] <small>(MeSH: D011211)</small>
+* [[Electric Wiring]] — [[d:Q192043|Q192043]] <small>(MeSH: D004559)</small>
+* [[Electrical Equipment and Supplies]] — [[d:Q3749263|Q3749263]] <small>(MeSH: D055615)</small>
+* [[Electrodes]] — [[d:Q176140|Q176140]] <small>(MeSH: D004566)</small>
+* [[Electrodes, Implanted]] — [[d:Q73401942|Q73401942]] <small>(MeSH: D004567)</small>
+* [[Electronic Nose]] — [[d:Q550092|Q550092]] <small>(MeSH: D062609)</small>
+* [[Embolic Protection Devices]] — [[d:Q67495322|Q67495322]] <small>(MeSH: D057505)</small>
+* [[Emergency Medical Tags]] — [[d:Q72392377|Q72392377]] <small>(MeSH: D004633)</small>
+* [[Endoscopes]] — [[d:Q580725|Q580725]] <small>(MeSH: D019723)</small>
+* [[Endoscopes, Gastrointestinal]] — [[d:Q73228698|Q73228698]] <small>(MeSH: D020776)</small>
+* [[Equipment and Supplies]] — [[d:Q6657015|Q6657015]] <small>(MeSH: D004864)</small>
+* [[Equipment and Supplies, Hospital]] — [[d:Q69016679|Q69016679]] <small>(MeSH: D004865)</small>
+* [[Esophagoscopes]] — [[d:Q72391825|Q72391825]] <small>(MeSH: D020701)</small>
+* [[Examination Tables]] — [[d:Q5419294|Q5419294]] <small>(MeSH: D058637)</small>
+* [[Exoskeleton Device]] — [[d:Q938523|Q938523]] <small>(MeSH: D000067190)</small>
+* [[External Fixators]] — [[d:Q920565|Q920565]] <small>(MeSH: D016267)</small>
+* [[Eye Protective Devices]] — [[d:Q72797|Q72797]] <small>(MeSH: D005135)</small>
+* [[Eye, Artificial]] — [[d:Q702379|Q702379]] <small>(MeSH: D005137)</small>
+* [[Eyeglasses]] — [[d:Q37501|Q37501]] <small>(MeSH: D005139)</small>
+* [[Fetoscopes]] — [[d:Q73212070|Q73212070]] <small>(MeSH: D020669)</small>
+* [[Fiducial Markers]] — [[d:Q1469893|Q1469893]] <small>(MeSH: D057918)</small>
+* [[Fitness Trackers]] — [[d:Q16001686|Q16001686]] <small>(MeSH: D000072936)</small>
+* [[Flowmeters]] — [[d:Q861175|Q861175]] <small>(MeSH: D045268)</small>
+* [[Foot Orthoses]] — [[d:Q73216312|Q73216312]] <small>(MeSH: D061826)</small>
+* [[Gamma Cameras]] — [[d:Q612082|Q612082]] <small>(MeSH: D015902)</small>
+* [[Gas Scavengers]] — [[d:Q7430642|Q7430642]] <small>(MeSH: D015920)</small>
+* [[Gastric Balloon]] — [[d:Q2881346|Q2881346]] <small>(MeSH: D015905)</small>
+* [[Gastroscopes]] — [[d:Q1495649|Q1495649]] <small>(MeSH: D020699)</small>
+* [[Gelatin Sponge, Absorbable]] — [[d:Q4669882|Q4669882]] <small>(MeSH: D005781)</small>
+* [[Glaucoma Drainage Implants]] — [[d:Q3117462|Q3117462]] <small>(MeSH: D020327)</small>
+* [[Gloves, Protective]] — [[d:Q2252300|Q2252300]] <small>(MeSH: D017575)</small>
+* [[Gloves, Surgical]] — [[d:Q178541|Q178541]] <small>(MeSH: D005932)</small>
+* [[Gravity Suits]] — [[d:Q73231359|Q73231359]] <small>(MeSH: D005676)</small>
+* [[Head Protective Devices]] — [[d:Q173603|Q173603]] <small>(MeSH: D006260)</small>
+* [[Hearing Aids]] — [[d:Q323808|Q323808]] <small>(MeSH: D006310)</small>
+* [[Heart Valve Prosthesis]] — [[d:Q282454|Q282454]] <small>(MeSH: D006350)</small>
+* [[Heart, Artificial]] — [[d:Q126888|Q126888]] <small>(MeSH: D006354)</small>
+* [[Heart-Assist Devices]] — [[d:Q2897721|Q2897721]] <small>(MeSH: D006353)</small>
+* [[Heart-Lung Machine]] — [[d:Q29513568|Q29513568]] <small>(MeSH: D006355)</small>
+* [[Hip Prosthesis]] — [[d:Q82691962|Q82691962]] <small>(MeSH: D006622)</small>
+* [[Hospitals, Packaged]] — [[d:Q73212265|Q73212265]] <small>(MeSH: D006775)</small>
+* [[Humidifiers]] — [[d:Q1073283|Q1073283]] <small>(MeSH: D000068998)</small>
+* [[Hysteroscopes]] — [[d:Q3144452|Q3144452]] <small>(MeSH: D020702)</small>
+* [[Implantable Neurostimulators]] — [[d:Q72260213|Q72260213]] <small>(MeSH: D058542)</small>
+* [[Implants, Experimental]] — [[d:Q73210704|Q73210704]] <small>(MeSH: D020007)</small>
+* [[Incontinence Pads]] — [[d:Q6015249|Q6015249]] <small>(MeSH: D016496)</small>
+* [[Incubators]] — [[d:Q900452|Q900452]] <small>(MeSH: D007185)</small>
+* [[Incubators, Infant]] — [[d:Q586119|Q586119]] <small>(MeSH: D007186)</small>
+* [[Infant Equipment]] — [[d:Q73498530|Q73498530]] <small>(MeSH: D015370)</small>
+* [[Infusion Pumps]] — [[d:Q201035|Q201035]] <small>(MeSH: D007260)</small>
+* [[Infusion Pumps, Implantable]] — [[d:Q72392975|Q72392975]] <small>(MeSH: D015918)</small>
+* [[Inhalation Spacers]] — [[d:Q3710397|Q3710397]] <small>(MeSH: D036503)</small>
+* [[Insecticide-Treated Bednets]] — [[d:Q59178547|Q59178547]] <small>(MeSH: D057148)</small>
+* [[Insulin Infusion Systems]] — [[d:Q941674|Q941674]] <small>(MeSH: D007332)</small>
+* [[Intermittent Pneumatic Compression Devices]] — [[d:Q72365301|Q72365301]] <small>(MeSH: D048228)</small>
+* [[Internal Fixators]] — [[d:Q57955927|Q57955927]] <small>(MeSH: D016268)</small>
+* [[Intrauterine Devices]] — [[d:Q899868|Q899868]] <small>(MeSH: D007434)</small>
+* [[Intrauterine Devices, Copper]] — [[d:Q16274676|Q16274676]] <small>(MeSH: D007435)</small>
+* [[Intrauterine Devices, Medicated]] — [[d:Q73348347|Q73348347]] <small>(MeSH: D007436)</small>
+* [[Ion-Selective Electrodes]] — [[d:Q2477607|Q2477607]] <small>(MeSH: D017736)</small>
+* [[Joint Prosthesis]] — [[d:Q1340807|Q1340807]] <small>(MeSH: D007595)</small>
+* [[Kidneys, Artificial]] — [[d:Q654320|Q654320]] <small>(MeSH: D007688)</small>
+* [[Knee Prosthesis]] — [[d:Q72085517|Q72085517]] <small>(MeSH: D007720)</small>
+* [[Lab-On-A-Chip Devices]] — [[d:Q633261|Q633261]] <small>(MeSH: D056656)</small>
+* [[Laparoscopes]] — [[d:Q9020257|Q9020257]] <small>(MeSH: D020706)</small>
+* [[Laryngoscopes]] — [[d:Q662266|Q662266]] <small>(MeSH: D020704)</small>
+* [[Larynx, Artificial]] — [[d:Q58424788|Q58424788]] <small>(MeSH: D007831)</small>
+* [[Lasers]] — [[d:Q38867|Q38867]] <small>(MeSH: D007834)</small>
+* [[Lasers, Dye]] — [[d:Q1929925|Q1929925]] <small>(MeSH: D054025)</small>
+* [[Lasers, Excimer]] — [[d:Q241056|Q241056]] <small>(MeSH: D054018)</small>
+* [[Lasers, Gas]] — [[d:Q16635447|Q16635447]] <small>(MeSH: D054020)</small>
+* [[Lasers, Semiconductor]] — [[d:Q321098|Q321098]] <small>(MeSH: D054023)</small>
+* [[Lasers, Solid-State]] — [[d:Q650257|Q650257]] <small>(MeSH: D053844)</small>
+* [[Lenses]] — [[d:Q2143661|Q2143661]] <small>(MeSH: D007909)</small>
+* [[Lenses, Intraocular]] — [[d:Q32806|Q32806]] <small>(MeSH: D007910)</small>
+* [[Liver, Artificial]] — [[d:Q3742039|Q3742039]] <small>(MeSH: D019164)</small>
+* [[Mandibular Prosthesis]] — [[d:Q73231292|Q73231292]] <small>(MeSH: D008341)</small>
+* [[Masks]] — [[d:Q57445378|Q57445378]] <small>(MeSH: D008397)</small>
+* [[Maxillofacial Prosthesis]] — [[d:Q3408016|Q3408016]] <small>(MeSH: D008447)</small>
+* [[Mediastinoscopes]] — [[d:Q6806167|Q6806167]] <small>(MeSH: D020707)</small>
+* [[Medicine Chests]] — [[d:Q6806761|Q6806761]] <small>(MeSH: D019026)</small>
+* [[Menstrual Hygiene Products]] — [[d:Q3083164|Q3083164]] <small>(MeSH: D052576)</small>
+* [[Metal-on-Metal Joint Prostheses]] — [[d:Q73500026|Q73500026]] <small>(MeSH: D061825)</small>
+* [[Metered Dose Inhalers]] — [[d:Q16897784|Q16897784]] <small>(MeSH: D036501)</small>
+* [[Micro-Electrical-Mechanical Systems]] — [[d:Q175561|Q175561]] <small>(MeSH: D055617)</small>
+* [[Microbubbles]] — [[d:Q6839290|Q6839290]] <small>(MeSH: D045423)</small>
+* [[Microelectrodes]] — [[d:Q16979465|Q16979465]] <small>(MeSH: D008839)</small>
+* [[Microspheres]] — [[d:Q1759020|Q1759020]] <small>(MeSH: D008863)</small>
+* [[Molteno Implants]] — [[d:Q73467927|Q73467927]] <small>(MeSH: D018465)</small>
+* [[Mosquito Nets]] — [[d:Q696265|Q696265]] <small>(MeSH: D057147)</small>
+* [[Motorized Mobility Scooter]] — [[d:Q116701967|Q116701967]] <small>(MeSH: D000093102)</small>
+* [[Mouth Protectors]] — [[d:Q11179|Q11179]] <small>(MeSH: D009064)</small>
+* [[Multifocal Intraocular Lenses]] — [[d:Q3149436|Q3149436]] <small>(MeSH: D000075542)</small>
+* [[Muscle Strength Dynamometer]] — [[d:Q72086817|Q72086817]] <small>(MeSH: D053581)</small>
+* [[N95 Respirators]] — [[d:Q17231052|Q17231052]] <small>(MeSH: D000087162)</small>
+* [[Nanospheres]] — [[d:Q69864383|Q69864383]] <small>(MeSH: D054118)</small>
+* [[Nebulizers and Vaporizers]] — [[d:Q73346845|Q73346845]] <small>(MeSH: D009330)</small>
+* [[Needles]] — [[d:Q99525325|Q99525325]] <small>(MeSH: D009339)</small>
+* [[Neural Prostheses]] — [[d:Q73469968|Q73469968]] <small>(MeSH: D058117)</small>
+* [[Neuroendoscopes]] — [[d:Q73220168|Q73220168]] <small>(MeSH: D044582)</small>
+* [[Nuclear Power Plants]] — [[d:Q134447|Q134447]] <small>(MeSH: D055848)</small>
+* [[Nuclear Reactors]] — [[d:Q80877|Q80877]] <small>(MeSH: D009688)</small>
+* [[Obstetrical Forceps]] — [[d:Q1364965|Q1364965]] <small>(MeSH: D009772)</small>
+* [[Occlusal Splints]] — [[d:Q492810|Q492810]] <small>(MeSH: D017090)</small>
+* [[Occlusive Dressings]] — [[d:Q7075718|Q7075718]] <small>(MeSH: D009779)</small>
+* [[Operating Tables]] — [[d:Q2026556|Q2026556]] <small>(MeSH: D058638)</small>
+* [[Ophthalmoscopes]] — [[d:Q16583733|Q16583733]] <small>(MeSH: D019721)</small>
+* [[Optical Devices]] — [[d:Q1751850|Q1751850]] <small>(MeSH: D055096)</small>
+* [[Optical Fibers]] — [[d:Q162|Q162]] <small>(MeSH: D055100)</small>
+* [[Orbital Implants]] — [[d:Q73468685|Q73468685]] <small>(MeSH: D020273)</small>
+* [[Orthopedic Equipment]] — [[d:Q72085708|Q72085708]] <small>(MeSH: D009983)</small>
+* [[Orthopedic Fixation Devices]] — [[d:Q73524654|Q73524654]] <small>(MeSH: D009984)</small>
+* [[Orthotic Devices]] — [[d:Q1410069|Q1410069]] <small>(MeSH: D009989)</small>
+* [[Ossicular Prosthesis]] — [[d:Q16976334|Q16976334]] <small>(MeSH: D009998)</small>
+* [[Otoscopes]] — [[d:Q203821|Q203821]] <small>(MeSH: D019720)</small>
+* [[Oxygenators]] — [[d:Q2042891|Q2042891]] <small>(MeSH: D010106)</small>
+* [[Oxygenators, Membrane]] — [[d:Q6815136|Q6815136]] <small>(MeSH: D010107)</small>
+* [[Pacemaker, Artificial]] — [[d:Q372713|Q372713]] <small>(MeSH: D010138)</small>
+* [[Pacifiers]] — [[d:Q152596|Q152596]] <small>(MeSH: D041361)</small>
+* [[Pancreas, Artificial]] — [[d:Q1569064|Q1569064]] <small>(MeSH: D019397)</small>
+* [[Particle Accelerators]] — [[d:Q130825|Q130825]] <small>(MeSH: D010315)</small>
+* [[Patient Isolators]] — [[d:Q73230752|Q73230752]] <small>(MeSH: D010357)</small>
+* [[Pedicle Screws]] — [[d:Q73398136|Q73398136]] <small>(MeSH: D065289)</small>
+* [[Penile Prosthesis]] — [[d:Q2069010|Q2069010]] <small>(MeSH: D015917)</small>
+* [[Personal Protective Equipment]] — [[d:Q1333024|Q1333024]] <small>(MeSH: D000067393)</small>
+* [[Pessaries]] — [[d:Q174952|Q174952]] <small>(MeSH: D010570)</small>
+* [[Phakic Intraocular Lenses]] — [[d:Q7180210|Q7180210]] <small>(MeSH: D054120)</small>
+* [[Phantoms, Imaging]] — [[d:Q28324852|Q28324852]] <small>(MeSH: D019047)</small>
+* [[Photobioreactors]] — [[d:Q910837|Q910837]] <small>(MeSH: D058433)</small>
+* [[Portable X-Ray]] — [[d:Q131584199|Q131584199]] <small>(MeSH: D000099084)</small>
+* [[Proctoscopes]] — [[d:Q913692|Q913692]] <small>(MeSH: D020700)</small>
+* [[Prostheses and Implants]] — [[d:Q181802|Q181802]] <small>(MeSH: D019736)</small>
+* [[Protective Clothing]] — [[d:Q14524031|Q14524031]] <small>(MeSH: D011481)</small>
+* [[Protective Devices]] — [[d:Q3030569|Q3030569]] <small>(MeSH: D011482)</small>
+* [[Punctal Plugs]] — [[d:Q7260019|Q7260019]] <small>(MeSH: D000070635)</small>
+* [[Quantum Dots]] — [[d:Q1133068|Q1133068]] <small>(MeSH: D045663)</small>
+* [[Radiation Dosimeters]] — [[d:Q303665|Q303665]] <small>(MeSH: D000072232)</small>
+* [[Radiation Equipment and Supplies]] — [[d:Q73229889|Q73229889]] <small>(MeSH: D055618)</small>
+* [[Radio Frequency Identification Device]] — [[d:Q70447349|Q70447349]] <small>(MeSH: D057233)</small>
+* [[Radionuclide Generators]] — [[d:Q2004575|Q2004575]] <small>(MeSH: D011876)</small>
+* [[Respiratory Protective Devices]] — [[d:Q28455242|Q28455242]] <small>(MeSH: D012134)</small>
+* [[Retinoscopes]] — [[d:Q73508682|Q73508682]] <small>(MeSH: D042261)</small>
+* [[Seat Belts]] — [[d:Q200403|Q200403]] <small>(MeSH: D012622)</small>
+* [[Self Expandable Metallic Stents]] — [[d:Q7448089|Q7448089]] <small>(MeSH: D000069322)</small>
+* [[Self-Help Devices]] — [[d:Q4680737|Q4680737]] <small>(MeSH: D012656)</small>
+* [[Semiconductors]] — [[d:Q11456|Q11456]] <small>(MeSH: D012666)</small>
+* [[Sensory Aids]] — [[d:Q73469570|Q73469570]] <small>(MeSH: D012682)</small>
+* [[Septal Occluder Device]] — [[d:Q73401632|Q73401632]] <small>(MeSH: D055989)</small>
+* [[Shoulder Prosthesis]] — [[d:Q73231466|Q73231466]] <small>(MeSH: D000072227)</small>
+* [[Sigmoidoscopes]] — [[d:Q59178434|Q59178434]] <small>(MeSH: D020694)</small>
+* [[Single-Use Internal Condom]] — [[d:Q864088|Q864088]] <small>(MeSH: D019111)</small>
+* [[Skin, Artificial]] — [[d:Q3344895|Q3344895]] <small>(MeSH: D017768)</small>
+* [[Slit Lamp]] — [[d:Q965041|Q965041]] <small>(MeSH: D066167)</small>
+* [[Smart Glasses]] — [[d:Q15978715|Q15978715]] <small>(MeSH: D000080310)</small>
+* [[Space Suits]] — [[d:Q223571|Q223571]] <small>(MeSH: D019442)</small>
+* [[Sphygmomanometers]] — [[d:Q503968|Q503968]] <small>(MeSH: D019722)</small>
+* [[Splints]] — [[d:Q1992685|Q1992685]] <small>(MeSH: D013165)</small>
+* [[Stents]] — [[d:Q1325542|Q1325542]] <small>(MeSH: D015607)</small>
+* [[Stethoscopes]] — [[d:Q162339|Q162339]] <small>(MeSH: D019023)</small>
+* [[Stockings, Compression]] — [[d:Q745049|Q745049]] <small>(MeSH: D053828)</small>
+* [[Stretchers]] — [[d:Q838960|Q838960]] <small>(MeSH: D058254)</small>
+* [[Suburethral Slings]] — [[d:Q72556520|Q72556520]] <small>(MeSH: D053825)</small>
+* [[Surgical Attire]] — [[d:Q69014028|Q69014028]] <small>(MeSH: D058257)</small>
+* [[Surgical Drapes]] — [[d:Q2948578|Q2948578]] <small>(MeSH: D058636)</small>
+* [[Surgical Equipment]] — [[d:Q69014552|Q69014552]] <small>(MeSH: D013523)</small>
+* [[Surgical Fixation Devices]] — [[d:Q72366398|Q72366398]] <small>(MeSH: D053831)</small>
+* [[Surgical Instruments]] — [[d:Q1074814|Q1074814]] <small>(MeSH: D013525)</small>
+* [[Surgical Mesh]] — [[d:Q7646218|Q7646218]] <small>(MeSH: D013526)</small>
+* [[Surgical Navigation Systems]] — [[d:Q114789854|Q114789854]] <small>(MeSH: D000085022)</small>
+* [[Surgical Sponges]] — [[d:Q56316809|Q56316809]] <small>(MeSH: D015503)</small>
+* [[Surgical Staplers]] — [[d:Q98627541|Q98627541]] <small>(MeSH: D013528)</small>
+* [[Surgical Tape]] — [[d:Q3273707|Q3273707]] <small>(MeSH: D053832)</small>
+* [[Suture Anchors]] — [[d:Q73483924|Q73483924]] <small>(MeSH: D053441)</small>
+* [[Sutures]] — [[d:Q619800|Q619800]] <small>(MeSH: D013537)</small>
+* [[Synchrotrons]] — [[d:Q689863|Q689863]] <small>(MeSH: D017356)</small>
+* [[Syringes]] — [[d:Q273318|Q273318]] <small>(MeSH: D013594)</small>
+* [[Tampons, Surgical]] — [[d:Q73228584|Q73228584]] <small>(MeSH: D013630)</small>
+* [[Telescopes]] — [[d:Q4213|Q4213]] <small>(MeSH: D061351)</small>
+* [[Thermometers]] — [[d:Q621414|Q621414]] <small>(MeSH: D013821)</small>
+* [[Thoracoscopes]] — [[d:Q73490742|Q73490742]] <small>(MeSH: D020708)</small>
+* [[Tissue Expansion Devices]] — [[d:Q73039425|Q73039425]] <small>(MeSH: D015625)</small>
+* [[Tissue Scaffolds]] — [[d:Q72087991|Q72087991]] <small>(MeSH: D054457)</small>
+* [[Tomography Scanners, X-Ray Computed]] — [[d:Q73347926|Q73347926]] <small>(MeSH: D015898)</small>
+* [[Tourniquets]] — [[d:Q1132870|Q1132870]] <small>(MeSH: D014111)</small>
+* [[Transdermal Patch]] — [[d:Q1145270|Q1145270]] <small>(MeSH: D057968)</small>
+* [[Transducers]] — [[d:Q215928|Q215928]] <small>(MeSH: D014159)</small>
+* [[Transducers, Pressure]] — [[d:Q1261040|Q1261040]] <small>(MeSH: D014160)</small>
+* [[Transistors, Electronic]] — [[d:Q5339|Q5339]] <small>(MeSH: D014173)</small>
+* [[Trusses]] — [[d:Q991932|Q991932]] <small>(MeSH: D014340)</small>
+* [[Ureteroscopes]] — [[d:Q10388247|Q10388247]] <small>(MeSH: D020709)</small>
+* [[Urinary Catheters]] — [[d:Q59651608|Q59651608]] <small>(MeSH: D062885)</small>
+* [[Urinary Sphincter, Artificial]] — [[d:Q712529|Q712529]] <small>(MeSH: D016741)</small>
+* [[Vascular Access Devices]] — [[d:Q72392053|Q72392053]] <small>(MeSH: D062666)</small>
+* [[Vascular Closure Devices]] — [[d:Q7916451|Q7916451]] <small>(MeSH: D065506)</small>
+* [[Vena Cava Filters]] — [[d:Q1051689|Q1051689]] <small>(MeSH: D016306)</small>
+* [[Ventilators, Mechanical]] — [[d:Q813243|Q813243]] <small>(MeSH: D012122)</small>
+* [[Ventilators, Negative-Pressure]] — [[d:Q1313477|Q1313477]] <small>(MeSH: D015919)</small>
+* [[Visual Prosthesis]] — [[d:Q540043|Q540043]] <small>(MeSH: D057488)</small>
+* [[Walkers]] — [[d:Q1444064|Q1444064]] <small>(MeSH: D014853)</small>
+* [[Wearable Electronic Devices]] — [[d:Q4845080|Q4845080]] <small>(MeSH: D000076251)</small>
+* [[Wheelchairs]] — [[d:Q191931|Q191931]] <small>(MeSH: D014910)</small>
+* [[X-Ray Film]] — [[d:Q19709565|Q19709565]] <small>(MeSH: D014962)</small>
+* [[X-Ray Intensifying Screens]] — [[d:Q2202735|Q2202735]] <small>(MeSH: D014963)</small>
+
+
+[[Category:WikiProject MeSH]]

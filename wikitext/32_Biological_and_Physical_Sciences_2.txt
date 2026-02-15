@@ -1,0 +1,1066 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Cell Biology ===
+
+* '''Coverage:''' 34.8%
+* '''{{color|blue|Bluelinks}}:''' 49
+* '''{{color|red|Redlinks}}:''' 92
+* [[Action Potentials]] — [[d:Q194277|Q194277]] <small>(MeSH: D000200)</small>
+* [[Adipogenesis]] — [[d:Q2824461|Q2824461]] <small>(MeSH: D050156)</small>
+* [[Anaphase]] — [[d:Q22299157|Q22299157]] <small>(MeSH: D000705)</small>
+* [[Anoikis]] — [[d:Q567522|Q567522]] <small>(MeSH: D023102)</small>
+* [[Apoptosis]] — [[d:Q14599311|Q14599311]] <small>(MeSH: D017209)</small>
+* [[Asymmetric Cell Division]] — [[d:Q4812070|Q4812070]] <small>(MeSH: D060049)</small>
+* [[Autocrine Communication]] — [[d:Q21108636|Q21108636]] <small>(MeSH: D019898)</small>
+* [[Autophagic Cell Death]] — [[d:Q21105501|Q21105501]] <small>(MeSH: D000080549)</small>
+* [[Autophagy]] — [[d:Q288322|Q288322]] <small>(MeSH: D001343)</small>
+* [[Axon Fasciculation]] — [[d:Q71131094|Q71131094]] <small>(MeSH: D000071448)</small>
+* [[Axon Guidance]] — [[d:Q2034716|Q2034716]] <small>(MeSH: D000071437)</small>
+* [[Bystander Effect]] — [[d:Q4533242|Q4533242]] <small>(MeSH: D024201)</small>
+* [[Cell Adhesion]] — [[d:Q187640|Q187640]] <small>(MeSH: D002448)</small>
+* [[Cell Aggregation]] — [[d:Q22271497|Q22271497]] <small>(MeSH: D002449)</small>
+* [[Cell Communication]] — [[d:Q14860133|Q14860133]] <small>(MeSH: D002450)</small>
+* [[Cell Compartmentation]] — [[d:Q189055|Q189055]] <small>(MeSH: D002451)</small>
+* [[Cell Competition]] — [[d:Q114773342|Q114773342]] <small>(MeSH: D000084502)</small>
+* [[Cell Cycle]] — [[d:Q188941|Q188941]] <small>(MeSH: D002453)</small>
+* [[Cell Cycle Checkpoints]] — [[d:Q1068809|Q1068809]] <small>(MeSH: D059447)</small>
+* [[Cell Death]] — [[d:Q2383867|Q2383867]] <small>(MeSH: D016923)</small>
+* [[Cell Death Reversal]] — [[d:Q112206143|Q112206143]] <small>(MeSH: D000091442)</small>
+* [[Cell Dedifferentiation]] — [[d:Q14911759|Q14911759]] <small>(MeSH: D054337)</small>
+* [[Cell Degranulation]] — [[d:Q5251810|Q5251810]] <small>(MeSH: D015550)</small>
+* [[Cell Differentiation]] — [[d:Q210861|Q210861]] <small>(MeSH: D002454)</small>
+* [[Cell Division]] — [[d:Q188909|Q188909]] <small>(MeSH: D002455)</small>
+* [[Cell Enlargement]] — [[d:Q60341607|Q60341607]] <small>(MeSH: D049108)</small>
+* [[Cell Growth Processes]] — [[d:Q189159|Q189159]] <small>(MeSH: D048708)</small>
+* [[Cell Migration Inhibition]] — [[d:Q71238442|Q71238442]] <small>(MeSH: D002464)</small>
+* [[Cell Movement]] — [[d:Q14873676|Q14873676]] <small>(MeSH: D002465)</small>
+* [[Cell Nucleus Division]] — [[d:Q60388938|Q60388938]] <small>(MeSH: D048750)</small>
+* [[Cell Nucleus Shape]] — [[d:Q71231660|Q71231660]] <small>(MeSH: D053144)</small>
+* [[Cell Nucleus Size]] — [[d:Q71231780|Q71231780]] <small>(MeSH: D053145)</small>
+* [[Cell Physiological Phenomena]] — [[d:Q14873025|Q14873025]] <small>(MeSH: D002468)</small>
+* [[Cell Plasticity]] — [[d:Q71129238|Q71129238]] <small>(MeSH: D000066670)</small>
+* [[Cell Polarity]] — [[d:Q189100|Q189100]] <small>(MeSH: D016764)</small>
+* [[Cell Proliferation]] — [[d:Q189101|Q189101]] <small>(MeSH: D049109)</small>
+* [[Cell Self Renewal]] — [[d:Q70715869|Q70715869]] <small>(MeSH: D000066673)</small>
+* [[Cell Shape]] — [[d:Q70575684|Q70575684]] <small>(MeSH: D048430)</small>
+* [[Cell Size]] — [[d:Q71148418|Q71148418]] <small>(MeSH: D048429)</small>
+* [[Cell Survival]] — [[d:Q70690408|Q70690408]] <small>(MeSH: D002470)</small>
+* [[Cell Transdifferentiation]] — [[d:Q2300675|Q2300675]] <small>(MeSH: D054338)</small>
+* [[Cell-in-Cell Formation]] — [[d:Q71134193|Q71134193]] <small>(MeSH: D057686)</small>
+* [[Cellular Microenvironment]] — [[d:Q48970439|Q48970439]] <small>(MeSH: D060833)</small>
+* [[Cellular Reprogramming]] — [[d:Q68262545|Q68262545]] <small>(MeSH: D065150)</small>
+* [[Cellular Senescence]] — [[d:Q9075999|Q9075999]] <small>(MeSH: D016922)</small>
+* [[Chaperone-Mediated Autophagy]] — [[d:Q22289702|Q22289702]] <small>(MeSH: D000080642)</small>
+* [[Chemotaxis, Leukocyte]] — [[d:Q14864444|Q14864444]] <small>(MeSH: D002634)</small>
+* [[Chromosome Pairing]] — [[d:Q70578359|Q70578359]] <small>(MeSH: D023902)</small>
+* [[Chromosome Positioning]] — [[d:Q14763021|Q14763021]] <small>(MeSH: D045584)</small>
+* [[Chromosome Segregation]] — [[d:Q5113927|Q5113927]] <small>(MeSH: D020090)</small>
+* [[Clonal Evolution]] — [[d:Q7559241|Q7559241]] <small>(MeSH: D060965)</small>
+* [[Clonal Hematopoiesis]] — [[d:Q30314746|Q30314746]] <small>(MeSH: D000082182)</small>
+* [[Contact Inhibition]] — [[d:Q3151077|Q3151077]] <small>(MeSH: D003260)</small>
+* [[Cuproptosis]] — [[d:Q137671034|Q137671034]] <small>(MeSH: D000099217)</small>
+* [[Cytokinesis]] — [[d:Q1447198|Q1447198]] <small>(MeSH: D048749)</small>
+* [[Cytophagocytosis]] — [[d:Q70688846|Q70688846]] <small>(MeSH: D057899)</small>
+* [[Disulfidptosis]] — [[d:Q131411678|Q131411678]] <small>(MeSH: D000098560)</small>
+* [[DNA Packaging]] — [[d:Q21102095|Q21102095]] <small>(MeSH: D042003)</small>
+* [[Efferocytosis]] — [[d:Q5347407|Q5347407]] <small>(MeSH: D000097242)</small>
+* [[Embryonic Induction]] — [[d:Q25380890|Q25380890]] <small>(MeSH: D004627)</small>
+* [[Emperipolesis]] — [[d:Q1280161|Q1280161]] <small>(MeSH: D057687)</small>
+* [[Endocytosis]] — [[d:Q189814|Q189814]] <small>(MeSH: D004705)</small>
+* [[Endoplasmic Reticulum Stress]] — [[d:Q66305937|Q66305937]] <small>(MeSH: D059865)</small>
+* [[Endothelial-Mesenchymal Transition]] — [[d:Q124260287|Q124260287]] <small>(MeSH: D000096382)</small>
+* [[Entosis]] — [[d:Q5380643|Q5380643]] <small>(MeSH: D057691)</small>
+* [[Epithelial-Mesenchymal Transition]] — [[d:Q74419|Q74419]] <small>(MeSH: D058750)</small>
+* [[Eryptosis]] — [[d:Q60437361|Q60437361]] <small>(MeSH: D000072817)</small>
+* [[Erythrocyte Aging]] — [[d:Q71226321|Q71226321]] <small>(MeSH: D004905)</small>
+* [[Erythropoiesis]] — [[d:Q837174|Q837174]] <small>(MeSH: D004920)</small>
+* [[Exocytosis]] — [[d:Q323426|Q323426]] <small>(MeSH: D005089)</small>
+* [[Ferroptosis]] — [[d:Q24466962|Q24466962]] <small>(MeSH: D000079403)</small>
+* [[G1 Phase]] — [[d:Q306383|Q306383]] <small>(MeSH: D016193)</small>
+* [[G1 Phase Cell Cycle Checkpoints]] — [[d:Q71229177|Q71229177]] <small>(MeSH: D059585)</small>
+* [[G2 Phase]] — [[d:Q306379|Q306379]] <small>(MeSH: D016195)</small>
+* [[G2 Phase Cell Cycle Checkpoints]] — [[d:Q71134109|Q71134109]] <small>(MeSH: D059565)</small>
+* [[Gametogenesis]] — [[d:Q1410510|Q1410510]] <small>(MeSH: D005718)</small>
+* [[Gametogenesis, Plant]] — [[d:Q71160427|Q71160427]] <small>(MeSH: D056130)</small>
+* [[Hematopoiesis]] — [[d:Q919283|Q919283]] <small>(MeSH: D006410)</small>
+* [[Hematopoiesis, Extramedullary]] — [[d:Q5422215|Q5422215]] <small>(MeSH: D006411)</small>
+* [[Immunogenic Cell Death]] — [[d:Q17144704|Q17144704]] <small>(MeSH: D000079527)</small>
+* [[Immunologic Capping]] — [[d:Q71130180|Q71130180]] <small>(MeSH: D007152)</small>
+* [[Interphase]] — [[d:Q835950|Q835950]] <small>(MeSH: D007399)</small>
+* [[Leukocyte Rolling]] — [[d:Q71228927|Q71228927]] <small>(MeSH: D036904)</small>
+* [[Leukopoiesis]] — [[d:Q3237096|Q3237096]] <small>(MeSH: D019891)</small>
+* [[Lymphocyte Cooperation]] — [[d:Q71239243|Q71239243]] <small>(MeSH: D008211)</small>
+* [[Lymphopoiesis]] — [[d:Q5976738|Q5976738]] <small>(MeSH: D038041)</small>
+* [[M Phase Cell Cycle Checkpoints]] — [[d:Q71129318|Q71129318]] <small>(MeSH: D059566)</small>
+* [[Macroautophagy]] — [[d:Q14905123|Q14905123]] <small>(MeSH: D000080550)</small>
+* [[Meiosis]] — [[d:Q16424695|Q16424695]] <small>(MeSH: D008540)</small>
+* [[Meiotic Prophase I]] — [[d:Q22299182|Q22299182]] <small>(MeSH: D049469)</small>
+* [[Membrane Fusion]] — [[d:Q6556360|Q6556360]] <small>(MeSH: D008561)</small>
+* [[Metaphase]] — [[d:Q574427|Q574427]] <small>(MeSH: D008677)</small>
+* [[Microautophagy]] — [[d:Q17148326|Q17148326]] <small>(MeSH: D000080551)</small>
+* [[Mitochondrial Dynamics]] — [[d:Q70681995|Q70681995]] <small>(MeSH: D063154)</small>
+* [[Mitochondrial Size]] — [[d:Q70579996|Q70579996]] <small>(MeSH: D053142)</small>
+* [[Mitochondrial Swelling]] — [[d:Q71151444|Q71151444]] <small>(MeSH: D008933)</small>
+* [[Mitochondrial Transmembrane Permeability-Driven Necrosis]] — [[d:Q114385064|Q114385064]] <small>(MeSH: D000079530)</small>
+* [[Mitochondrial Turnover]] — [[d:Q71234272|Q71234272]] <small>(MeSH: D063269)</small>
+* [[Mitophagy]] — [[d:Q1806192|Q1806192]] <small>(MeSH: D063306)</small>
+* [[Mitosis]] — [[d:Q14763008|Q14763008]] <small>(MeSH: D008938)</small>
+* [[Myelopoiesis]] — [[d:Q9032597|Q9032597]] <small>(MeSH: D038042)</small>
+* [[Necroptosis]] — [[d:Q3346925|Q3346925]] <small>(MeSH: D000079302)</small>
+* [[Neurogenesis]] — [[d:Q1456827|Q1456827]] <small>(MeSH: D055495)</small>
+* [[Neuronal Outgrowth]] — [[d:Q71129081|Q71129081]] <small>(MeSH: D000071446)</small>
+* [[Oogenesis]] — [[d:Q507032|Q507032]] <small>(MeSH: D009866)</small>
+* [[Organelle Biogenesis]] — [[d:Q17073362|Q17073362]] <small>(MeSH: D001678)</small>
+* [[Organelle Shape]] — [[d:Q71129096|Q71129096]] <small>(MeSH: D053140)</small>
+* [[Organelle Size]] — [[d:Q60438484|Q60438484]] <small>(MeSH: D053141)</small>
+* [[Ovum Transport]] — [[d:Q70576227|Q70576227]] <small>(MeSH: D010066)</small>
+* [[Pachytene Stage]] — [[d:Q10344426|Q10344426]] <small>(MeSH: D049471)</small>
+* [[Paracrine Communication]] — [[d:Q14873666|Q14873666]] <small>(MeSH: D019899)</small>
+* [[Paraptosis]] — [[d:Q17163069|Q17163069]] <small>(MeSH: D000097924)</small>
+* [[Parthanatos]] — [[d:Q25304429|Q25304429]] <small>(MeSH: D000079323)</small>
+* [[Pinocytosis]] — [[d:Q321362|Q321362]] <small>(MeSH: D010873)</small>
+* [[Postsynaptic Potential Summation]] — [[d:Q2365287|Q2365287]] <small>(MeSH: D059227)</small>
+* [[Prometaphase]] — [[d:Q14763006|Q14763006]] <small>(MeSH: D049468)</small>
+* [[Prophase]] — [[d:Q6013254|Q6013254]] <small>(MeSH: D011418)</small>
+* [[Pyroptosis]] — [[d:Q7263707|Q7263707]] <small>(MeSH: D000069292)</small>
+* [[Quorum Sensing]] — [[d:Q905754|Q905754]] <small>(MeSH: D053038)</small>
+* [[Radiation Tolerance]] — [[d:Q2353022|Q2353022]] <small>(MeSH: D011836)</small>
+* [[Re-Epithelialization]] — [[d:Q71130752|Q71130752]] <small>(MeSH: D062326)</small>
+* [[Receptor Aggregation]] — [[d:Q71147412|Q71147412]] <small>(MeSH: D011940)</small>
+* [[Receptor Cross-Talk]] — [[d:Q5188862|Q5188862]] <small>(MeSH: D020239)</small>
+* [[Regulated Cell Death]] — [[d:Q304484|Q304484]] <small>(MeSH: D000079404)</small>
+* [[Resting Phase, Cell Cycle]] — [[d:Q71147648|Q71147648]] <small>(MeSH: D016192)</small>
+* [[S Phase Cell Cycle Checkpoints]] — [[d:Q70685401|Q70685401]] <small>(MeSH: D059807)</small>
+* [[Senescence-Associated Secretory Phenotype]] — [[d:Q85800340|Q85800340]] <small>(MeSH: D000089262)</small>
+* [[Sperm Maturation]] — [[d:Q71239296|Q71239296]] <small>(MeSH: D013079)</small>
+* [[Sperm Transport]] — [[d:Q71149030|Q71149030]] <small>(MeSH: D013083)</small>
+* [[Spermatogenesis]] — [[d:Q36961|Q36961]] <small>(MeSH: D013091)</small>
+* [[Stem Cell Niche]] — [[d:Q16729831|Q16729831]] <small>(MeSH: D055153)</small>
+* [[T-Cell Senescence]] — [[d:Q124256103|Q124256103]] <small>(MeSH: D000095843)</small>
+* [[Telomere Homeostasis]] — [[d:Q71129994|Q71129994]] <small>(MeSH: D059505)</small>
+* [[Telophase]] — [[d:Q12565265|Q12565265]] <small>(MeSH: D013692)</small>
+* [[Thrombopoiesis]] — [[d:Q278210|Q278210]] <small>(MeSH: D034061)</small>
+* [[Transcellular Cell Migration]] — [[d:Q70680808|Q70680808]] <small>(MeSH: D057688)</small>
+* [[Transcytosis]] — [[d:Q615386|Q615386]] <small>(MeSH: D057900)</small>
+* [[Transendothelial and Transepithelial Migration]] — [[d:Q1479893|Q1479893]] <small>(MeSH: D057705)</small>
+* [[Trogocytosis]] — [[d:Q3539868|Q3539868]] <small>(MeSH: D000088383)</small>
+* [[Tumor Microenvironment]] — [[d:Q1786433|Q1786433]] <small>(MeSH: D059016)</small>
+* [[Vitellogenesis]] — [[d:Q7937033|Q7937033]] <small>(MeSH: D014818)</small>
+
+=== Metabolism ===
+
+* '''Coverage:''' 16.7%
+* '''{{color|blue|Bluelinks}}:''' 14
+* '''{{color|red|Redlinks}}:''' 70
+* [[Absorption]] — [[d:Q71236841|Q71236841]] <small>(MeSH: D000042)</small>
+* [[Absorption, Physiological]] — [[d:Q66133460|Q66133460]] <small>(MeSH: D065567)</small>
+* [[Activation, Metabolic]] — [[d:Q70710313|Q70710313]] <small>(MeSH: D065767)</small>
+* [[Active Transport, Cell Nucleus]] — [[d:Q994741|Q994741]] <small>(MeSH: D021581)</small>
+* [[Anaerobic Threshold]] — [[d:Q3480702|Q3480702]] <small>(MeSH: D015308)</small>
+* [[Axonal Transport]] — [[d:Q792602|Q792602]] <small>(MeSH: D001370)</small>
+* [[Basal Metabolism]] — [[d:Q623293|Q623293]] <small>(MeSH: D001481)</small>
+* [[Bioaccumulation]] — [[d:Q864231|Q864231]] <small>(MeSH: D000081482)</small>
+* [[Biological Availability]] — [[d:Q461809|Q461809]] <small>(MeSH: D001682)</small>
+* [[Biological Transport]] — [[d:Q64842503|Q64842503]] <small>(MeSH: D001692)</small>
+* [[Biological Transport, Active]] — [[d:Q304618|Q304618]] <small>(MeSH: D001693)</small>
+* [[Biotransformation]] — [[d:Q864895|Q864895]] <small>(MeSH: D001711)</small>
+* [[Capillary Permeability]] — [[d:Q71148212|Q71148212]] <small>(MeSH: D002199)</small>
+* [[Catabolite Repression]] — [[d:Q50350837|Q50350837]] <small>(MeSH: D057465)</small>
+* [[Cell Hypoxia]] — [[d:Q71228512|Q71228512]] <small>(MeSH: D015687)</small>
+* [[Cell Membrane Permeability]] — [[d:Q71159237|Q71159237]] <small>(MeSH: D002463)</small>
+* [[Cell Respiration]] — [[d:Q912751|Q912751]] <small>(MeSH: D019069)</small>
+* [[Citric Acid Cycle]] — [[d:Q133895|Q133895]] <small>(MeSH: D002952)</small>
+* [[Cutaneous Elimination]] — [[d:Q70575722|Q70575722]] <small>(MeSH: D066238)</small>
+* [[Cytoplasmic Streaming]] — [[d:Q2477534|Q2477534]] <small>(MeSH: D003595)</small>
+* [[Drug Elimination Routes]] — [[d:Q106394515|Q106394515]] <small>(MeSH: D000084342)</small>
+* [[Electron Transport]] — [[d:Q909199|Q909199]] <small>(MeSH: D004579)</small>
+* [[Energy Metabolism]] — [[d:Q30225378|Q30225378]] <small>(MeSH: D004734)</small>
+* [[Enterohepatic Circulation]] — [[d:Q1344633|Q1344633]] <small>(MeSH: D004764)</small>
+* [[Gastric Absorption]] — [[d:Q70578567|Q70578567]] <small>(MeSH: D065570)</small>
+* [[Gastrointestinal Absorption]] — [[d:Q70579830|Q70579830]] <small>(MeSH: D065569)</small>
+* [[Glycolysis]] — [[d:Q162643|Q162643]] <small>(MeSH: D006019)</small>
+* [[Hepatobiliary Elimination]] — [[d:Q71230203|Q71230203]] <small>(MeSH: D065669)</small>
+* [[Inactivation, Metabolic]] — [[d:Q70681625|Q70681625]] <small>(MeSH: D008658)</small>
+* [[Insulin Secretion]] — [[d:Q14851913|Q14851913]] <small>(MeSH: D000078790)</small>
+* [[Intestinal Absorption]] — [[d:Q14904931|Q14904931]] <small>(MeSH: D007408)</small>
+* [[Intestinal Barrier Function]] — [[d:Q17141320|Q17141320]] <small>(MeSH: D000095644)</small>
+* [[Intestinal Elimination]] — [[d:Q70578535|Q70578535]] <small>(MeSH: D066237)</small>
+* [[Intestinal Reabsorption]] — [[d:Q71227585|Q71227585]] <small>(MeSH: D065628)</small>
+* [[Intramuscular Absorption]] — [[d:Q70682507|Q70682507]] <small>(MeSH: D065586)</small>
+* [[Ion Transport]] — [[d:Q14859673|Q14859673]] <small>(MeSH: D017136)</small>
+* [[Kallikrein-Kinin System]] — [[d:Q2270510|Q2270510]] <small>(MeSH: D016234)</small>
+* [[Lacrimal Elimination]] — [[d:Q70684390|Q70684390]] <small>(MeSH: D066234)</small>
+* [[Lacteal Elimination]] — [[d:Q71227315|Q71227315]] <small>(MeSH: D066239)</small>
+* [[Lipid Metabolism]] — [[d:Q2792936|Q2792936]] <small>(MeSH: D050356)</small>
+* [[Lipid Mobilization]] — [[d:Q70579790|Q70579790]] <small>(MeSH: D008053)</small>
+* [[Membrane Potential, Mitochondrial]] — [[d:Q70709058|Q70709058]] <small>(MeSH: D053078)</small>
+* [[Metabolic Detoxication, Phase I]] — [[d:Q71159692|Q71159692]] <small>(MeSH: D050216)</small>
+* [[Metabolic Detoxication, Phase II]] — [[d:Q70578452|Q70578452]] <small>(MeSH: D050217)</small>
+* [[Metabolic Networks and Pathways]] — [[d:Q68685|Q68685]] <small>(MeSH: D053858)</small>
+* [[Metabolic Reprogramming]] — [[d:Q124358920|Q124358920]] <small>(MeSH: D000097784)</small>
+* [[Metabolism]] — [[d:Q1057|Q1057]] <small>(MeSH: D008660)</small>
+* [[Metabolome]] — [[d:Q903667|Q903667]] <small>(MeSH: D055442)</small>
+* [[Nasal Absorption]] — [[d:Q66133422|Q66133422]] <small>(MeSH: D065588)</small>
+* [[Nitrosative Stress]] — [[d:Q101813596|Q101813596]] <small>(MeSH: D000073039)</small>
+* [[Ocular Absorption]] — [[d:Q70576931|Q70576931]] <small>(MeSH: D065587)</small>
+* [[Oral Mucosal Absorption]] — [[d:Q70697980|Q70697980]] <small>(MeSH: D065568)</small>
+* [[Oxidative Phosphorylation]] — [[d:Q227564|Q227564]] <small>(MeSH: D010085)</small>
+* [[Oxidative Stress]] — [[d:Q898814|Q898814]] <small>(MeSH: D018384)</small>
+* [[Oxygen Consumption]] — [[d:Q70339049|Q70339049]] <small>(MeSH: D010101)</small>
+* [[Oxygen Saturation]] — [[d:Q3045040|Q3045040]] <small>(MeSH: D000089382)</small>
+* [[Pentose Phosphate Pathway]] — [[d:Q827489|Q827489]] <small>(MeSH: D010427)</small>
+* [[Peritoneal Absorption]] — [[d:Q70709688|Q70709688]] <small>(MeSH: D065629)</small>
+* [[Pharmacokinetics]] — [[d:Q323936|Q323936]] <small>(MeSH: D010599)</small>
+* [[Photophosphorylation]] — [[d:Q2017980|Q2017980]] <small>(MeSH: D010785)</small>
+* [[Protein Interaction Maps]] — [[d:Q65561205|Q65561205]] <small>(MeSH: D060066)</small>
+* [[Protein Transport]] — [[d:Q14860325|Q14860325]] <small>(MeSH: D021381)</small>
+* [[Proteotoxic Stress]] — [[d:Q116788182|Q116788182]] <small>(MeSH: D000094403)</small>
+* [[Pulmonary Elimination]] — [[d:Q71129977|Q71129977]] <small>(MeSH: D066232)</small>
+* [[Rectal Absorption]] — [[d:Q419892|Q419892]] <small>(MeSH: D065590)</small>
+* [[Renal Elimination]] — [[d:Q71134065|Q71134065]] <small>(MeSH: D065667)</small>
+* [[Renal Reabsorption]] — [[d:Q14905541|Q14905541]] <small>(MeSH: D065608)</small>
+* [[Renin-Angiotensin System]] — [[d:Q898218|Q898218]] <small>(MeSH: D012084)</small>
+* [[Respiratory Burst]] — [[d:Q838181|Q838181]] <small>(MeSH: D016897)</small>
+* [[Respiratory Tract Absorption]] — [[d:Q66133434|Q66133434]] <small>(MeSH: D065589)</small>
+* [[Respiratory Transport]] — [[d:Q71130819|Q71130819]] <small>(MeSH: D015657)</small>
+* [[RNA Transport]] — [[d:Q21105696|Q21105696]] <small>(MeSH: D034443)</small>
+* [[Salivary Elimination]] — [[d:Q71231547|Q71231547]] <small>(MeSH: D065787)</small>
+* [[Secondary Metabolism]] — [[d:Q22274727|Q22274727]] <small>(MeSH: D064210)</small>
+* [[Secretory Pathway]] — [[d:Q84230|Q84230]] <small>(MeSH: D055571)</small>
+* [[Secretory Rate]] — [[d:Q71160974|Q71160974]] <small>(MeSH: D012636)</small>
+* [[Skin Absorption]] — [[d:Q4669896|Q4669896]] <small>(MeSH: D012869)</small>
+* [[Subcutaneous Absorption]] — [[d:Q71148393|Q71148393]] <small>(MeSH: D065566)</small>
+* [[Therapeutic Equivalency]] — [[d:Q70708942|Q70708942]] <small>(MeSH: D013810)</small>
+* [[Tissue Distribution]] — [[d:Q71129604|Q71129604]] <small>(MeSH: D014018)</small>
+* [[Toxicokinetics]] — [[d:Q2256694|Q2256694]] <small>(MeSH: D066007)</small>
+* [[Tumor Hypoxia]] — [[d:Q7852677|Q7852677]] <small>(MeSH: D000072258)</small>
+* [[Vaginal Absorption]] — [[d:Q70681205|Q70681205]] <small>(MeSH: D066228)</small>
+* [[Warburg Effect, Oncologic]] — [[d:Q2904886|Q2904886]] <small>(MeSH: D000082802)</small>
+
+=== Immunology ===
+
+* '''Coverage:''' 10.7%
+* '''{{color|blue|Bluelinks}}:''' 8
+* '''{{color|red|Redlinks}}:''' 67
+* [[Adaptive Immunity]] — [[d:Q1645075|Q1645075]] <small>(MeSH: D056704)</small>
+* [[Antibody Affinity]] — [[d:Q71160042|Q71160042]] <small>(MeSH: D000915)</small>
+* [[Antibody Formation]] — [[d:Q70681101|Q70681101]] <small>(MeSH: D000917)</small>
+* [[Antibody Specificity]] — [[d:Q60341073|Q60341073]] <small>(MeSH: D000918)</small>
+* [[Antibody-Dependent Cell Cytotoxicity]] — [[d:Q21418091|Q21418091]] <small>(MeSH: D000920)</small>
+* [[Antigen Presentation]] — [[d:Q575296|Q575296]] <small>(MeSH: D017951)</small>
+* [[Antigen-Antibody Reactions]] — [[d:Q70710174|Q70710174]] <small>(MeSH: D000937)</small>
+* [[Antigenic Modulation]] — [[d:Q71159046|Q71159046]] <small>(MeSH: D016525)</small>
+* [[Autoimmunity]] — [[d:Q192360|Q192360]] <small>(MeSH: D015551)</small>
+* [[Central Tolerance]] — [[d:Q606766|Q606766]] <small>(MeSH: D061167)</small>
+* [[Clonal Anergy]] — [[d:Q529298|Q529298]] <small>(MeSH: D017635)</small>
+* [[Clonal Deletion]] — [[d:Q5134952|Q5134952]] <small>(MeSH: D017637)</small>
+* [[Clonal Selection, Antigen-Mediated]] — [[d:Q1150780|Q1150780]] <small>(MeSH: D060966)</small>
+* [[Complement Activation]] — [[d:Q14864930|Q14864930]] <small>(MeSH: D003167)</small>
+* [[Complement Pathway, Alternative]] — [[d:Q4736500|Q4736500]] <small>(MeSH: D003170)</small>
+* [[Complement Pathway, Classical]] — [[d:Q5128320|Q5128320]] <small>(MeSH: D003171)</small>
+* [[Complement Pathway, Mannose-Binding Lectin]] — [[d:Q70710267|Q70710267]] <small>(MeSH: D037582)</small>
+* [[Cross Protection]] — [[d:Q71240673|Q71240673]] <small>(MeSH: D056738)</small>
+* [[Cross Reactions]] — [[d:Q1760689|Q1760689]] <small>(MeSH: D003429)</small>
+* [[Cross-Priming]] — [[d:Q70575491|Q70575491]] <small>(MeSH: D045142)</small>
+* [[Cytotoxicity, Immunologic]] — [[d:Q60345185|Q60345185]] <small>(MeSH: D003602)</small>
+* [[Disease Resistance]] — [[d:Q60790177|Q60790177]] <small>(MeSH: D060467)</small>
+* [[Dose-Response Relationship, Immunologic]] — [[d:Q70578597|Q70578597]] <small>(MeSH: D004306)</small>
+* [[Endotoxin Tolerance]] — [[d:Q112040266|Q112040266]] <small>(MeSH: D000087523)</small>
+* [[Graft Rejection]] — [[d:Q1765748|Q1765748]] <small>(MeSH: D006084)</small>
+* [[Graft Survival]] — [[d:Q71160600|Q71160600]] <small>(MeSH: D006085)</small>
+* [[Graft vs Host Reaction]] — [[d:Q71146048|Q71146048]] <small>(MeSH: D006087)</small>
+* [[Graft vs Leukemia Effect]] — [[d:Q70683140|Q70683140]] <small>(MeSH: D020544)</small>
+* [[Graft vs Tumor Effect]] — [[d:Q17144616|Q17144616]] <small>(MeSH: D020350)</small>
+* [[Histamine Release]] — [[d:Q70709159|Q70709159]] <small>(MeSH: D006636)</small>
+* [[Histocompatibility]] — [[d:Q2664028|Q2664028]] <small>(MeSH: D006648)</small>
+* [[Histocompatibility, Maternal-Fetal]] — [[d:Q70686234|Q70686234]] <small>(MeSH: D054502)</small>
+* [[HIV Seronegativity]] — [[d:Q70682472|Q70682472]] <small>(MeSH: D018023)</small>
+* [[Host vs Graft Reaction]] — [[d:Q71130356|Q71130356]] <small>(MeSH: D006789)</small>
+* [[Immune Privilege]] — [[d:Q3404271|Q3404271]] <small>(MeSH: D000073860)</small>
+* [[Immune Reconstitution]] — [[d:Q113220116|Q113220116]] <small>(MeSH: D000074243)</small>
+* [[Immune System Exhaustion]] — [[d:Q124256074|Q124256074]] <small>(MeSH: D000095842)</small>
+* [[Immune System Phenomena]] — [[d:Q64732757|Q64732757]] <small>(MeSH: D055633)</small>
+* [[Immune Tolerance]] — [[d:Q1356761|Q1356761]] <small>(MeSH: D007108)</small>
+* [[Immunity]] — [[d:Q182581|Q182581]] <small>(MeSH: D007109)</small>
+* [[Immunity, Active]] — [[d:Q70710352|Q70710352]] <small>(MeSH: D007110)</small>
+* [[Immunity, Cellular]] — [[d:Q189146|Q189146]] <small>(MeSH: D007111)</small>
+* [[Immunity, Herd]] — [[d:Q736798|Q736798]] <small>(MeSH: D032521)</small>
+* [[Immunity, Heterologous]] — [[d:Q71229317|Q71229317]] <small>(MeSH: D064789)</small>
+* [[Immunity, Humoral]] — [[d:Q1142875|Q1142875]] <small>(MeSH: D056724)</small>
+* [[Immunity, Innate]] — [[d:Q428253|Q428253]] <small>(MeSH: D007113)</small>
+* [[Immunity, Maternally-Acquired]] — [[d:Q71159167|Q71159167]] <small>(MeSH: D007112)</small>
+* [[Immunity, Mucosal]] — [[d:Q6931261|Q6931261]] <small>(MeSH: D018928)</small>
+* [[Immunocompetence]] — [[d:Q3149136|Q3149136]] <small>(MeSH: D007121)</small>
+* [[Immunocompromised Host]] — [[d:Q64732748|Q64732748]] <small>(MeSH: D016867)</small>
+* [[Immunoediting, Cancer]] — [[d:Q137688308|Q137688308]] <small>(MeSH: D000099110)</small>
+* [[Immunogenetic Phenomena]] — [[d:Q70710695|Q70710695]] <small>(MeSH: D055261)</small>
+* [[Immunologic Memory]] — [[d:Q38103695|Q38103695]] <small>(MeSH: D007156)</small>
+* [[Immunologic Surveillance]] — [[d:Q70577517|Q70577517]] <small>(MeSH: D007157)</small>
+* [[Innate Immunity Recognition]] — [[d:Q116788222|Q116788222]] <small>(MeSH: D000094406)</small>
+* [[Macrophage Activation]] — [[d:Q14865489|Q14865489]] <small>(MeSH: D008262)</small>
+* [[Neutrophil Activation]] — [[d:Q14874278|Q14874278]] <small>(MeSH: D018375)</small>
+* [[Neutrophil Infiltration]] — [[d:Q60438985|Q60438985]] <small>(MeSH: D020556)</small>
+* [[Opsonization]] — [[d:Q14859847|Q14859847]] <small>(MeSH: D000088362)</small>
+* [[Peripheral Tolerance]] — [[d:Q7168713|Q7168713]] <small>(MeSH: D061166)</small>
+* [[Phagocytosis]] — [[d:Q184726|Q184726]] <small>(MeSH: D010587)</small>
+* [[Plant Immunity]] — [[d:Q71148556|Q71148556]] <small>(MeSH: D057865)</small>
+* [[Plant Systemic Acquired Resistance]] — [[d:Q116764234|Q116764234]] <small>(MeSH: D000094142)</small>
+* [[Rh Isoimmunization]] — [[d:Q1712331|Q1712331]] <small>(MeSH: D012203)</small>
+* [[Self Tolerance]] — [[d:Q71131273|Q71131273]] <small>(MeSH: D017634)</small>
+* [[Seroconversion]] — [[d:Q2141450|Q2141450]] <small>(MeSH: D000069078)</small>
+* [[Sperm Agglutination]] — [[d:Q71148193|Q71148193]] <small>(MeSH: D013073)</small>
+* [[Sterilizing Immunity]] — [[d:Q124257882|Q124257882]] <small>(MeSH: D000096064)</small>
+* [[T-Cell Antigen Receptor Specificity]] — [[d:Q70680190|Q70680190]] <small>(MeSH: D037182)</small>
+* [[T-Cell Exhaustion]] — [[d:Q56649209|Q56649209]] <small>(MeSH: D000094383)</small>
+* [[Th1-Th2 Balance]] — [[d:Q66971267|Q66971267]] <small>(MeSH: D058408)</small>
+* [[Trained Immunity]] — [[d:Q66809844|Q66809844]] <small>(MeSH: D000094384)</small>
+* [[Transplantation Immunology]] — [[d:Q25383482|Q25383482]] <small>(MeSH: D014181)</small>
+* [[Transplantation Tolerance]] — [[d:Q68665756|Q68665756]] <small>(MeSH: D023001)</small>
+* [[Tumor Escape]] — [[d:Q67079807|Q67079807]] <small>(MeSH: D019139)</small>
+
+=== Reproductive and Developmental Biology ===
+
+* '''Coverage:''' 40.5%
+* '''{{color|blue|Bluelinks}}:''' 45
+* '''{{color|red|Redlinks}}:''' 66
+* [[Acrosome Reaction]] — [[d:Q163261|Q163261]] <small>(MeSH: D020101)</small>
+* [[Adrenarche]] — [[d:Q3774177|Q3774177]] <small>(MeSH: D050499)</small>
+* [[Advanced Maternal Age]] — [[d:Q4686351|Q4686351]] <small>(MeSH: D000099087)</small>
+* [[Andropause]] — [[d:Q1415106|Q1415106]] <small>(MeSH: D047649)</small>
+* [[Anestrus]] — [[d:Q19834738|Q19834738]] <small>(MeSH: D000780)</small>
+* [[Apomixis]] — [[d:Q528033|Q528033]] <small>(MeSH: D060832)</small>
+* [[Birth Setting]] — [[d:Q67356386|Q67356386]] <small>(MeSH: D000077085)</small>
+* [[Breech Presentation]] — [[d:Q813687|Q813687]] <small>(MeSH: D001946)</small>
+* [[Cell Lineage]] — [[d:Q189105|Q189105]] <small>(MeSH: D019070)</small>
+* [[Cervical Ripening]] — [[d:Q5065332|Q5065332]] <small>(MeSH: D020070)</small>
+* [[Climacteric]] — [[d:Q603557|Q603557]] <small>(MeSH: D002979)</small>
+* [[Clutch Size]] — [[d:Q71129135|Q71129135]] <small>(MeSH: D052284)</small>
+* [[Corpus Luteum Maintenance]] — [[d:Q67358836|Q67358836]] <small>(MeSH: D003340)</small>
+* [[Diestrus]] — [[d:Q22299145|Q22299145]] <small>(MeSH: D004031)</small>
+* [[Diuresis]] — [[d:Q584691|Q584691]] <small>(MeSH: D004231)</small>
+* [[Ejaculation]] — [[d:Q14820885|Q14820885]] <small>(MeSH: D004542)</small>
+* [[Embryo Implantation]] — [[d:Q14852002|Q14852002]] <small>(MeSH: D010064)</small>
+* [[Embryo Implantation, Delayed]] — [[d:Q1456044|Q1456044]] <small>(MeSH: D010065)</small>
+* [[Estrous Cycle]] — [[d:Q388121|Q388121]] <small>(MeSH: D030762)</small>
+* [[Estrus]] — [[d:Q12825634|Q12825634]] <small>(MeSH: D004971)</small>
+* [[Fertile Period]] — [[d:Q10544313|Q10544313]] <small>(MeSH: D046910)</small>
+* [[Fertility]] — [[d:Q964401|Q964401]] <small>(MeSH: D005298)</small>
+* [[Fertilization]] — [[d:Q14890574|Q14890574]] <small>(MeSH: D005306)</small>
+* [[Follicular Atresia]] — [[d:Q1435532|Q1435532]] <small>(MeSH: D005496)</small>
+* [[Follicular Phase]] — [[d:Q5464664|Q5464664]] <small>(MeSH: D005498)</small>
+* [[Gravidity]] — [[d:Q67299741|Q67299741]] <small>(MeSH: D020073)</small>
+* [[Home Childbirth]] — [[d:Q239385|Q239385]] <small>(MeSH: D006700)</small>
+* [[Insemination]] — [[d:Q1379223|Q1379223]] <small>(MeSH: D007314)</small>
+* [[Kidney Concentrating Ability]] — [[d:Q71236245|Q71236245]] <small>(MeSH: D007671)</small>
+* [[Labor Onset]] — [[d:Q67302081|Q67302081]] <small>(MeSH: D007745)</small>
+* [[Labor Presentation]] — [[d:Q3409113|Q3409113]] <small>(MeSH: D007746)</small>
+* [[Labor Stage, First]] — [[d:Q67303141|Q67303141]] <small>(MeSH: D007747)</small>
+* [[Labor Stage, Second]] — [[d:Q67304175|Q67304175]] <small>(MeSH: D007748)</small>
+* [[Labor Stage, Third]] — [[d:Q67305332|Q67305332]] <small>(MeSH: D007749)</small>
+* [[Labor, Obstetric]] — [[d:Q67300631|Q67300631]] <small>(MeSH: D007743)</small>
+* [[Lactation]] — [[d:Q719426|Q719426]] <small>(MeSH: D007774)</small>
+* [[Litter Size]] — [[d:Q67359273|Q67359273]] <small>(MeSH: D008098)</small>
+* [[Live Birth]] — [[d:Q1543380|Q1543380]] <small>(MeSH: D050498)</small>
+* [[Luteal Phase]] — [[d:Q2363481|Q2363481]] <small>(MeSH: D008183)</small>
+* [[Luteinization]] — [[d:Q15312522|Q15312522]] <small>(MeSH: D034461)</small>
+* [[Luteolysis]] — [[d:Q1136340|Q1136340]] <small>(MeSH: D003341)</small>
+* [[Maternal Age]] — [[d:Q64705665|Q64705665]] <small>(MeSH: D008423)</small>
+* [[Maternal-Fetal Exchange]] — [[d:Q61106978|Q61106978]] <small>(MeSH: D008431)</small>
+* [[Menarche]] — [[d:Q492514|Q492514]] <small>(MeSH: D008572)</small>
+* [[Menopause]] — [[d:Q177708|Q177708]] <small>(MeSH: D008593)</small>
+* [[Menstrual Cycle]] — [[d:Q83864|Q83864]] <small>(MeSH: D008597)</small>
+* [[Menstruation]] — [[d:Q17155666|Q17155666]] <small>(MeSH: D008598)</small>
+* [[Metestrus]] — [[d:Q22299143|Q22299143]] <small>(MeSH: D008686)</small>
+* [[Milk Ejection]] — [[d:Q15330549|Q15330549]] <small>(MeSH: D008893)</small>
+* [[Natriuresis]] — [[d:Q6980232|Q6980232]] <small>(MeSH: D009318)</small>
+* [[Natural Childbirth]] — [[d:Q2822871|Q2822871]] <small>(MeSH: D009321)</small>
+* [[Ovarian Reserve]] — [[d:Q7113253|Q7113253]] <small>(MeSH: D065851)</small>
+* [[Oviparity]] — [[d:Q212306|Q212306]] <small>(MeSH: D052287)</small>
+* [[Oviposition]] — [[d:Q22294716|Q22294716]] <small>(MeSH: D010058)</small>
+* [[Ovoviviparity]] — [[d:Q192805|Q192805]] <small>(MeSH: D052285)</small>
+* [[Ovulation]] — [[d:Q187082|Q187082]] <small>(MeSH: D010060)</small>
+* [[Parity]] — [[d:Q25661|Q25661]] <small>(MeSH: D010298)</small>
+* [[Parthenogenesis]] — [[d:Q183236|Q183236]] <small>(MeSH: D010312)</small>
+* [[Parturition]] — [[d:Q14819852|Q14819852]] <small>(MeSH: D036801)</small>
+* [[Paternal Age]] — [[d:Q70579851|Q70579851]] <small>(MeSH: D010331)</small>
+* [[Penile Erection]] — [[d:Q133993|Q133993]] <small>(MeSH: D010410)</small>
+* [[Perimenopause]] — [[d:Q1268526|Q1268526]] <small>(MeSH: D047648)</small>
+* [[Peripartum Period]] — [[d:Q71159558|Q71159558]] <small>(MeSH: D058725)</small>
+* [[Placentation]] — [[d:Q1114520|Q1114520]] <small>(MeSH: D010929)</small>
+* [[Pollination]] — [[d:Q134624|Q134624]] <small>(MeSH: D054817)</small>
+* [[Postmenopause]] — [[d:Q69565005|Q69565005]] <small>(MeSH: D017698)</small>
+* [[Postpartum Period]] — [[d:Q749115|Q749115]] <small>(MeSH: D049590)</small>
+* [[Pregnancy]] — [[d:Q11995|Q11995]] <small>(MeSH: D011247)</small>
+* [[Pregnancy in Adolescence]] — [[d:Q535691|Q535691]] <small>(MeSH: D011253)</small>
+* [[Pregnancy Maintenance]] — [[d:Q67358550|Q67358550]] <small>(MeSH: D011255)</small>
+* [[Pregnancy Trimester, First]] — [[d:Q70681149|Q70681149]] <small>(MeSH: D011261)</small>
+* [[Pregnancy Trimester, Second]] — [[d:Q70582129|Q70582129]] <small>(MeSH: D011262)</small>
+* [[Pregnancy Trimester, Third]] — [[d:Q70680242|Q70680242]] <small>(MeSH: D011263)</small>
+* [[Pregnancy Trimesters]] — [[d:Q33083015|Q33083015]] <small>(MeSH: D011264)</small>
+* [[Pregnancy, Animal]] — [[d:Q1490716|Q1490716]] <small>(MeSH: D011270)</small>
+* [[Pregnancy, High-Risk]] — [[d:Q48995773|Q48995773]] <small>(MeSH: D018566)</small>
+* [[Pregnancy, Multiple]] — [[d:Q41768637|Q41768637]] <small>(MeSH: D011272)</small>
+* [[Pregnancy, Quadruplet]] — [[d:Q71236314|Q71236314]] <small>(MeSH: D059287)</small>
+* [[Pregnancy, Quintuplet]] — [[d:Q71234532|Q71234532]] <small>(MeSH: D059288)</small>
+* [[Pregnancy, Triplet]] — [[d:Q11872266|Q11872266]] <small>(MeSH: D059286)</small>
+* [[Pregnancy, Twin]] — [[d:Q3775920|Q3775920]] <small>(MeSH: D059285)</small>
+* [[Pregnancy, Unplanned]] — [[d:Q3817591|Q3817591]] <small>(MeSH: D049168)</small>
+* [[Pregnancy, Unwanted]] — [[d:Q67359903|Q67359903]] <small>(MeSH: D011275)</small>
+* [[Premenopause]] — [[d:Q55431132|Q55431132]] <small>(MeSH: D017697)</small>
+* [[Proestrus]] — [[d:Q22299144|Q22299144]] <small>(MeSH: D011359)</small>
+* [[Pseudopregnancy]] — [[d:Q1575059|Q1575059]] <small>(MeSH: D011555)</small>
+* [[Puberty]] — [[d:Q101065|Q101065]] <small>(MeSH: D011627)</small>
+* [[Renal Blood Flow, Effective]] — [[d:Q71149009|Q71149009]] <small>(MeSH: D017597)</small>
+* [[Renal Circulation]] — [[d:Q2894103|Q2894103]] <small>(MeSH: D012079)</small>
+* [[Renal Plasma Flow]] — [[d:Q70576091|Q70576091]] <small>(MeSH: D017595)</small>
+* [[Renal Plasma Flow, Effective]] — [[d:Q5347278|Q5347278]] <small>(MeSH: D017596)</small>
+* [[Reproduction]] — [[d:Q11990|Q11990]] <small>(MeSH: D012098)</small>
+* [[Reproduction, Asexual]] — [[d:Q173432|Q173432]] <small>(MeSH: D012100)</small>
+* [[Reproductive and Urinary Physiological Phenomena]] — [[d:Q70680996|Q70680996]] <small>(MeSH: D012101)</small>
+* [[Reproductive Physiological Phenomena]] — [[d:Q67014925|Q67014925]] <small>(MeSH: D055703)</small>
+* [[Sex]] — [[d:Q290|Q290]] <small>(MeSH: D012723)</small>
+* [[Sex Characteristics]] — [[d:Q1517875|Q1517875]] <small>(MeSH: D012727)</small>
+* [[Sperm Capacitation]] — [[d:Q14860527|Q14860527]] <small>(MeSH: D013075)</small>
+* [[Sperm-Ovum Interactions]] — [[d:Q71131161|Q71131161]] <small>(MeSH: D013084)</small>
+* [[Superfetation]] — [[d:Q581100|Q581100]] <small>(MeSH: D013476)</small>
+* [[Term Birth]] — [[d:Q67358104|Q67358104]] <small>(MeSH: D047929)</small>
+* [[Time-to-Pregnancy]] — [[d:Q70491205|Q70491205]] <small>(MeSH: D061685)</small>
+* [[Trial of Labor]] — [[d:Q7839998|Q7839998]] <small>(MeSH: D014219)</small>
+* [[Twinning, Dizygotic]] — [[d:Q114450988|Q114450988]] <small>(MeSH: D000080534)</small>
+* [[Twinning, Embryonic]] — [[d:Q14756018|Q14756018]] <small>(MeSH: D000080530)</small>
+* [[Twinning, Monozygotic]] — [[d:Q70708978|Q70708978]] <small>(MeSH: D038522)</small>
+* [[Urinary Tract Physiological Phenomena]] — [[d:Q70710121|Q70710121]] <small>(MeSH: D014553)</small>
+* [[Urination]] — [[d:Q105726|Q105726]] <small>(MeSH: D014554)</small>
+* [[Urodynamics]] — [[d:Q71147830|Q71147830]] <small>(MeSH: D014563)</small>
+* [[Uterine Contraction]] — [[d:Q1751296|Q1751296]] <small>(MeSH: D014590)</small>
+* [[Viviparity, Nonmammalian]] — [[d:Q120446|Q120446]] <small>(MeSH: D052286)</small>
+
+=== Natural Sciences ===
+
+* '''Coverage:''' 68.9%
+* '''{{color|blue|Bluelinks}}:''' 142
+* '''{{color|red|Redlinks}}:''' 64
+* [[Acoustics]] — [[d:Q82811|Q82811]] <small>(MeSH: D000162)</small>
+* [[Agroecology]] — [[d:Q396338|Q396338]] <small>(MeSH: D000098184)</small>
+* [[Air Microbiology]] — [[d:Q69952515|Q69952515]] <small>(MeSH: D000391)</small>
+* [[Anatomy]] — [[d:Q514|Q514]] <small>(MeSH: D000715)</small>
+* [[Anatomy, Artistic]] — [[d:Q1213552|Q1213552]] <small>(MeSH: D000716)</small>
+* [[Anatomy, Comparative]] — [[d:Q843900|Q843900]] <small>(MeSH: D000717)</small>
+* [[Anatomy, Cross-Sectional]] — [[d:Q69961437|Q69961437]] <small>(MeSH: D019412)</small>
+* [[Anatomy, Regional]] — [[d:Q69961308|Q69961308]] <small>(MeSH: D000718)</small>
+* [[Anatomy, Veterinary]] — [[d:Q220384|Q220384]] <small>(MeSH: D000719)</small>
+* [[Artificial Life]] — [[d:Q263847|Q263847]] <small>(MeSH: D000092003)</small>
+* [[Astronomy]] — [[d:Q333|Q333]] <small>(MeSH: D001256)</small>
+* [[Autonomous Robots]] — [[d:Q2916098|Q2916098]] <small>(MeSH: D000098402)</small>
+* [[Bacteriology]] — [[d:Q243748|Q243748]] <small>(MeSH: D001432)</small>
+* [[Biobehavioral Sciences]] — [[d:Q69957167|Q69957167]] <small>(MeSH: D000066949)</small>
+* [[Biochemistry]] — [[d:Q7094|Q7094]] <small>(MeSH: D001671)</small>
+* [[Bioisosterism]] — [[d:Q137655917|Q137655917]] <small>(MeSH: D000099120)</small>
+* [[Biological Science Disciplines]] — [[d:Q864928|Q864928]] <small>(MeSH: D001690)</small>
+* [[Biology]] — [[d:Q420|Q420]] <small>(MeSH: D001695)</small>
+* [[Biomedical Research]] — [[d:Q2752427|Q2752427]] <small>(MeSH: D035843)</small>
+* [[Biomimetics]] — [[d:Q1145644|Q1145644]] <small>(MeSH: D032701)</small>
+* [[Bionics]] — [[d:Q189131|Q189131]] <small>(MeSH: D001701)</small>
+* [[Biopharmaceutics]] — [[d:Q803860|Q803860]] <small>(MeSH: D001702)</small>
+* [[Biophysics]] — [[d:Q7100|Q7100]] <small>(MeSH: D001703)</small>
+* [[Biotechnology]] — [[d:Q7108|Q7108]] <small>(MeSH: D001709)</small>
+* [[Botany]] — [[d:Q441|Q441]] <small>(MeSH: D001901)</small>
+* [[Carbohydrate Biochemistry]] — [[d:Q69953721|Q69953721]] <small>(MeSH: D055731)</small>
+* [[Cardiac Electrophysiology]] — [[d:Q3302130|Q3302130]] <small>(MeSH: D054849)</small>
+* [[Cell Biology]] — [[d:Q7141|Q7141]] <small>(MeSH: D003585)</small>
+* [[Cheminformatics]] — [[d:Q910164|Q910164]] <small>(MeSH: D000080911)</small>
+* [[Chemistry]] — [[d:Q2329|Q2329]] <small>(MeSH: D002621)</small>
+* [[Chemistry, Agricultural]] — [[d:Q397334|Q397334]] <small>(MeSH: D002622)</small>
+* [[Chemistry, Analytic]] — [[d:Q2346|Q2346]] <small>(MeSH: D056246)</small>
+* [[Chemistry, Bioinorganic]] — [[d:Q803925|Q803925]] <small>(MeSH: D015393)</small>
+* [[Chemistry, Clinical]] — [[d:Q849994|Q849994]] <small>(MeSH: D002624)</small>
+* [[Chemistry, Inorganic]] — [[d:Q11165|Q11165]] <small>(MeSH: D015392)</small>
+* [[Chemistry, Organic]] — [[d:Q11351|Q11351]] <small>(MeSH: D002625)</small>
+* [[Chemistry, Pharmaceutical]] — [[d:Q15840367|Q15840367]] <small>(MeSH: D002626)</small>
+* [[Chemistry, Physical]] — [[d:Q11372|Q11372]] <small>(MeSH: D002627)</small>
+* [[Chronobiology Discipline]] — [[d:Q506874|Q506874]] <small>(MeSH: D055881)</small>
+* [[Citizen Science]] — [[d:Q1093434|Q1093434]] <small>(MeSH: D000080029)</small>
+* [[Clinical Nursing Research]] — [[d:Q68591547|Q68591547]] <small>(MeSH: D015400)</small>
+* [[Community-Based Participatory Research]] — [[d:Q5154595|Q5154595]] <small>(MeSH: D055812)</small>
+* [[Comparative Effectiveness Research]] — [[d:Q5155639|Q5155639]] <small>(MeSH: D057186)</small>
+* [[Computational Biology]] — [[d:Q177005|Q177005]] <small>(MeSH: D019295)</small>
+* [[Computational Chemistry]] — [[d:Q369472|Q369472]] <small>(MeSH: D000080486)</small>
+* [[Correlation of Data]] — [[d:Q186290|Q186290]] <small>(MeSH: D000078331)</small>
+* [[Cryobiology]] — [[d:Q672832|Q672832]] <small>(MeSH: D000073920)</small>
+* [[Cytogenetics]] — [[d:Q246128|Q246128]] <small>(MeSH: D003582)</small>
+* [[Cytology]] — [[d:Q3009579|Q3009579]] <small>(MeSH: D000093222)</small>
+* [[Data Analysis]] — [[d:Q1988917|Q1988917]] <small>(MeSH: D000078332)</small>
+* [[Data Anonymization]] — [[d:Q17006654|Q17006654]] <small>(MeSH: D000068240)</small>
+* [[Density Functional Theory]] — [[d:Q1048589|Q1048589]] <small>(MeSH: D000077318)</small>
+* [[Dental Research]] — [[d:Q69963384|Q69963384]] <small>(MeSH: D018865)</small>
+* [[Developmental Biology]] — [[d:Q213713|Q213713]] <small>(MeSH: D015509)</small>
+* [[Digital Technology]] — [[d:Q110401739|Q110401739]] <small>(MeSH: D000082222)</small>
+* [[Document Analysis]] — [[d:Q30672397|Q30672397]] <small>(MeSH: D000092002)</small>
+* [[Dual Use Research]] — [[d:Q69953535|Q69953535]] <small>(MeSH: D000068601)</small>
+* [[Earth Sciences]] — [[d:Q8008|Q8008]] <small>(MeSH: D056448)</small>
+* [[Ecology]] — [[d:Q7150|Q7150]] <small>(MeSH: D004463)</small>
+* [[Ecotoxicology]] — [[d:Q1412144|Q1412144]] <small>(MeSH: D054750)</small>
+* [[Electrochemistry]] — [[d:Q7877|Q7877]] <small>(MeSH: D004563)</small>
+* [[Electronics]] — [[d:Q11650|Q11650]] <small>(MeSH: D004581)</small>
+* [[Electronics, Medical]] — [[d:Q69960586|Q69960586]] <small>(MeSH: D004582)</small>
+* [[Electrophysiology]] — [[d:Q1154774|Q1154774]] <small>(MeSH: D004594)</small>
+* [[Embryology]] — [[d:Q131683|Q131683]] <small>(MeSH: D004626)</small>
+* [[Empirical Research]] — [[d:Q2155640|Q2155640]] <small>(MeSH: D036262)</small>
+* [[Endocrinology]] — [[d:Q162606|Q162606]] <small>(MeSH: D004704)</small>
+* [[Entomology]] — [[d:Q39286|Q39286]] <small>(MeSH: D004772)</small>
+* [[Environmental Microbiology]] — [[d:Q3054637|Q3054637]] <small>(MeSH: D004783)</small>
+* [[Environmental Science]] — [[d:Q188847|Q188847]] <small>(MeSH: D000079265)</small>
+* [[Epigenomics]] — [[d:Q3589153|Q3589153]] <small>(MeSH: D057890)</small>
+* [[Epitranscriptomics]] — [[d:Q137660701|Q137660701]] <small>(MeSH: D000099129)</small>
+* [[Ethnobotany]] — [[d:Q841408|Q841408]] <small>(MeSH: D019448)</small>
+* [[Ethnopharmacology]] — [[d:Q1371415|Q1371415]] <small>(MeSH: D020834)</small>
+* [[Evidence Gaps]] — [[d:Q116797305|Q116797305]] <small>(MeSH: D000094505)</small>
+* [[Exobiology]] — [[d:Q411|Q411]] <small>(MeSH: D018559)</small>
+* [[Fiber Optic Technology]] — [[d:Q100973361|Q100973361]] <small>(MeSH: D005336)</small>
+* [[Forensic Entomology]] — [[d:Q277428|Q277428]] <small>(MeSH: D000081230)</small>
+* [[Forensic Microbiology]] — [[d:Q116874529|Q116874529]] <small>(MeSH: D000095024)</small>
+* [[Forensic Toxicology]] — [[d:Q587862|Q587862]] <small>(MeSH: D053593)</small>
+* [[Freshwater Biology]] — [[d:Q3306816|Q3306816]] <small>(MeSH: D056145)</small>
+* [[Genetic Counseling]] — [[d:Q1124169|Q1124169]] <small>(MeSH: D005817)</small>
+* [[Genetic Research]] — [[d:Q69953209|Q69953209]] <small>(MeSH: D036281)</small>
+* [[Genetics]] — [[d:Q7162|Q7162]] <small>(MeSH: D005823)</small>
+* [[Genetics, Medical]] — [[d:Q1071953|Q1071953]] <small>(MeSH: D005826)</small>
+* [[Genetics, Microbial]] — [[d:Q3634109|Q3634109]] <small>(MeSH: D005827)</small>
+* [[Genetics, Population]] — [[d:Q31151|Q31151]] <small>(MeSH: D005828)</small>
+* [[Genomics]] — [[d:Q222046|Q222046]] <small>(MeSH: D023281)</small>
+* [[Geography]] — [[d:Q1071|Q1071]] <small>(MeSH: D005843)</small>
+* [[Geography, Medical]] — [[d:Q3286542|Q3286542]] <small>(MeSH: D062306)</small>
+* [[Geology]] — [[d:Q1069|Q1069]] <small>(MeSH: D005844)</small>
+* [[Geroscience]] — [[d:Q15727029|Q15727029]] <small>(MeSH: D000089323)</small>
+* [[Glycobiology]] — [[d:Q899224|Q899224]] <small>(MeSH: D000099126)</small>
+* [[Glycomics]] — [[d:Q741206|Q741206]] <small>(MeSH: D054794)</small>
+* [[Grounded Theory]] — [[d:Q1152864|Q1152864]] <small>(MeSH: D066296)</small>
+* [[HapMap Project]] — [[d:Q1147298|Q1147298]] <small>(MeSH: D060148)</small>
+* [[Health Physics]] — [[d:Q5691134|Q5691134]] <small>(MeSH: D006283)</small>
+* [[Health Services Research]] — [[d:Q2518253|Q2518253]] <small>(MeSH: D006302)</small>
+* [[Herbal Medicine]] — [[d:Q861699|Q861699]] <small>(MeSH: D029001)</small>
+* [[Hermeneutics]] — [[d:Q102686|Q102686]] <small>(MeSH: D066297)</small>
+* [[Histocytochemistry]] — [[d:Q58900610|Q58900610]] <small>(MeSH: D006651)</small>
+* [[Histology]] — [[d:Q7168|Q7168]] <small>(MeSH: D006653)</small>
+* [[Histology, Comparative]] — [[d:Q69960713|Q69960713]] <small>(MeSH: D006654)</small>
+* [[Human Genetics]] — [[d:Q265799|Q265799]] <small>(MeSH: D000074705)</small>
+* [[Human Genome Project]] — [[d:Q192446|Q192446]] <small>(MeSH: D016045)</small>
+* [[Hydrobiology]] — [[d:Q1130698|Q1130698]] <small>(MeSH: D056127)</small>
+* [[Hydrology]] — [[d:Q42250|Q42250]] <small>(MeSH: D062070)</small>
+* [[Imaging Genomics]] — [[d:Q114435349|Q114435349]] <small>(MeSH: D000085843)</small>
+* [[Immunochemistry]] — [[d:Q2466273|Q2466273]] <small>(MeSH: D007120)</small>
+* [[Immunogenetics]] — [[d:Q1660177|Q1660177]] <small>(MeSH: D007125)</small>
+* [[Immunohistochemistry]] — [[d:Q899285|Q899285]] <small>(MeSH: D007150)</small>
+* [[Immunoinformatics]] — [[d:Q5157321|Q5157321]] <small>(MeSH: D000095763)</small>
+* [[Industrial Microbiology]] — [[d:Q3610387|Q3610387]] <small>(MeSH: D007218)</small>
+* [[Interdisciplinary Research]] — [[d:Q58327811|Q58327811]] <small>(MeSH: D000075762)</small>
+* [[Knowledge Discovery]] — [[d:Q6647724|Q6647724]] <small>(MeSH: D063369)</small>
+* [[Laboratory Animal Science]] — [[d:Q69957706|Q69957706]] <small>(MeSH: D007756)</small>
+* [[Limnology]] — [[d:Q165838|Q165838]] <small>(MeSH: D055994)</small>
+* [[Lipidomics]] — [[d:Q6556376|Q6556376]] <small>(MeSH: D000081362)</small>
+* [[Magnetics]] — [[d:Q3294789|Q3294789]] <small>(MeSH: D008280)</small>
+* [[Marine Biology]] — [[d:Q7173|Q7173]] <small>(MeSH: D008386)</small>
+* [[Materials Science]] — [[d:Q228736|Q228736]] <small>(MeSH: D000074266)</small>
+* [[Mathematics]] — [[d:Q395|Q395]] <small>(MeSH: D008433)</small>
+* [[Mechanics]] — [[d:Q41217|Q41217]] <small>(MeSH: D019563)</small>
+* [[Metabolomics]] — [[d:Q12149006|Q12149006]] <small>(MeSH: D055432)</small>
+* [[Metagenomics]] — [[d:Q903778|Q903778]] <small>(MeSH: D056186)</small>
+* [[Meteorology]] — [[d:Q25261|Q25261]] <small>(MeSH: D055904)</small>
+* [[Microbiology]] — [[d:Q7193|Q7193]] <small>(MeSH: D008829)</small>
+* [[Microtechnology]] — [[d:Q1484779|Q1484779]] <small>(MeSH: D055616)</small>
+* [[Molecular Biology]] — [[d:Q7202|Q7202]] <small>(MeSH: D008967)</small>
+* [[Molecular Epidemiology]] — [[d:Q4118435|Q4118435]] <small>(MeSH: D017720)</small>
+* [[Molecular Medicine]] — [[d:Q3523816|Q3523816]] <small>(MeSH: D062346)</small>
+* [[Multiomics]] — [[d:Q25110691|Q25110691]] <small>(MeSH: D000095028)</small>
+* [[Mycology]] — [[d:Q7175|Q7175]] <small>(MeSH: D009172)</small>
+* [[Nanotechnology]] — [[d:Q11468|Q11468]] <small>(MeSH: D036103)</small>
+* [[Natural History]] — [[d:Q484591|Q484591]] <small>(MeSH: D019021)</small>
+* [[Natural Science Disciplines]] — [[d:Q7991|Q7991]] <small>(MeSH: D010811)</small>
+* [[Neuroanatomy]] — [[d:Q948647|Q948647]] <small>(MeSH: D009445)</small>
+* [[Neurobiology]] — [[d:Q2728012|Q2728012]] <small>(MeSH: D009446)</small>
+* [[Neurochemistry]] — [[d:Q786278|Q786278]] <small>(MeSH: D009448)</small>
+* [[Neuroendocrinology]] — [[d:Q1335366|Q1335366]] <small>(MeSH: D009452)</small>
+* [[Neuropharmacology]] — [[d:Q3026765|Q3026765]] <small>(MeSH: D009480)</small>
+* [[Neurophysiology]] — [[d:Q660910|Q660910]] <small>(MeSH: D009482)</small>
+* [[Neurosciences]] — [[d:Q207011|Q207011]] <small>(MeSH: D009488)</small>
+* [[Nuclear Physics]] — [[d:Q81197|Q81197]] <small>(MeSH: D009686)</small>
+* [[Nursing Administration Research]] — [[d:Q69959309|Q69959309]] <small>(MeSH: D015401)</small>
+* [[Nursing Education Research]] — [[d:Q69952615|Q69952615]] <small>(MeSH: D015402)</small>
+* [[Nursing Evaluation Research]] — [[d:Q69959128|Q69959128]] <small>(MeSH: D015403)</small>
+* [[Nursing Methodology Research]] — [[d:Q69958968|Q69958968]] <small>(MeSH: D015404)</small>
+* [[Nursing Research]] — [[d:Q918533|Q918533]] <small>(MeSH: D015399)</small>
+* [[Nutrigenomics]] — [[d:Q1346452|Q1346452]] <small>(MeSH: D054647)</small>
+* [[Oceanography]] — [[d:Q43518|Q43518]] <small>(MeSH: D009791)</small>
+* [[Operations Research]] — [[d:Q194292|Q194292]] <small>(MeSH: D009874)</small>
+* [[Optics and Photonics]] — [[d:Q467054|Q467054]] <small>(MeSH: D055095)</small>
+* [[Osteology]] — [[d:Q819121|Q819121]] <small>(MeSH: D059166)</small>
+* [[Outcome Assessment, Health Care]] — [[d:Q65494947|Q65494947]] <small>(MeSH: D017063)</small>
+* [[Paleontology]] — [[d:Q7205|Q7205]] <small>(MeSH: D010163)</small>
+* [[Parasitology]] — [[d:Q180502|Q180502]] <small>(MeSH: D010274)</small>
+* [[Pathology, Molecular]] — [[d:Q1056943|Q1056943]] <small>(MeSH: D057089)</small>
+* [[Pharmaceutical Research]] — [[d:Q64816679|Q64816679]] <small>(MeSH: D000071220)</small>
+* [[Pharmacogenetics]] — [[d:Q1358521|Q1358521]] <small>(MeSH: D010597)</small>
+* [[Pharmacognosy]] — [[d:Q319616|Q319616]] <small>(MeSH: D010598)</small>
+* [[Pharmacology]] — [[d:Q128406|Q128406]] <small>(MeSH: D010600)</small>
+* [[Pharmacology, Clinical]] — [[d:Q1774688|Q1774688]] <small>(MeSH: D010601)</small>
+* [[Pharmacy Research]] — [[d:Q7180813|Q7180813]] <small>(MeSH: D000070838)</small>
+* [[Phenomics]] — [[d:Q6497275|Q6497275]] <small>(MeSH: D000080444)</small>
+* [[Photobiology]] — [[d:Q908917|Q908917]] <small>(MeSH: D018462)</small>
+* [[Photochemistry]] — [[d:Q188651|Q188651]] <small>(MeSH: D010777)</small>
+* [[Phylogeography]] — [[d:Q377756|Q377756]] <small>(MeSH: D058974)</small>
+* [[Physics]] — [[d:Q413|Q413]] <small>(MeSH: D010825)</small>
+* [[Physiology]] — [[d:Q521|Q521]] <small>(MeSH: D010827)</small>
+* [[Physiology, Comparative]] — [[d:Q5155643|Q5155643]] <small>(MeSH: D010828)</small>
+* [[Plant Pathology]] — [[d:Q188956|Q188956]] <small>(MeSH: D061066)</small>
+* [[Proof of Concept Study]] — [[d:Q113360826|Q113360826]] <small>(MeSH: D000075082)</small>
+* [[Proteogenomics]] — [[d:Q7251534|Q7251534]] <small>(MeSH: D000071696)</small>
+* [[Proteomics]] — [[d:Q471857|Q471857]] <small>(MeSH: D040901)</small>
+* [[Public Health Systems Research]] — [[d:Q69960847|Q69960847]] <small>(MeSH: D000072440)</small>
+* [[Qualitative Research]] — [[d:Q839486|Q839486]] <small>(MeSH: D036301)</small>
+* [[Quantum Mechanics]] — [[d:Q944|Q944]] <small>(MeSH: D000098222)</small>
+* [[Quantum Theory]] — [[d:Q3194786|Q3194786]] <small>(MeSH: D011789)</small>
+* [[Radiation Genetics]] — [[d:Q4387296|Q4387296]] <small>(MeSH: D011831)</small>
+* [[Radiation Genomics]] — [[d:Q7281263|Q7281263]] <small>(MeSH: D000085844)</small>
+* [[Radiobiology]] — [[d:Q690200|Q690200]] <small>(MeSH: D011853)</small>
+* [[Radiochemistry]] — [[d:Q750955|Q750955]] <small>(MeSH: D011854)</small>
+* [[Rehabilitation Research]] — [[d:Q69958400|Q69958400]] <small>(MeSH: D000066768)</small>
+* [[Research]] — [[d:Q42240|Q42240]] <small>(MeSH: D012106)</small>
+* [[Research Report]] — [[d:Q59387148|Q59387148]] <small>(MeSH: D058028)</small>
+* [[Robotics]] — [[d:Q170978|Q170978]] <small>(MeSH: D012371)</small>
+* [[Science]] — [[d:Q336|Q336]] <small>(MeSH: D012586)</small>
+* [[Social Genomics]] — [[d:Q18392127|Q18392127]] <small>(MeSH: D000097826)</small>
+* [[Social Validity, Research]] — [[d:Q69958542|Q69958542]] <small>(MeSH: D063586)</small>
+* [[Soil Microbiology]] — [[d:Q7554937|Q7554937]] <small>(MeSH: D012988)</small>
+* [[Space Research]] — [[d:Q15706425|Q15706425]] <small>(MeSH: D000080546)</small>
+* [[Synthetic Biology]] — [[d:Q862838|Q862838]] <small>(MeSH: D058615)</small>
+* [[Systems Biology]] — [[d:Q815297|Q815297]] <small>(MeSH: D049490)</small>
+* [[Systems Integration]] — [[d:Q1665453|Q1665453]] <small>(MeSH: D018511)</small>
+* [[Systems Theory]] — [[d:Q269699|Q269699]] <small>(MeSH: D013598)</small>
+* [[Teratology]] — [[d:Q631521|Q631521]] <small>(MeSH: D018600)</small>
+* [[Topography, Medical]] — [[d:Q69956111|Q69956111]] <small>(MeSH: D019371)</small>
+* [[Toxicogenetics]] — [[d:Q841450|Q841450]] <small>(MeSH: D043922)</small>
+* [[Toxicology]] — [[d:Q7218|Q7218]] <small>(MeSH: D014116)</small>
+* [[Translational Research, Biomedical]] — [[d:Q474859|Q474859]] <small>(MeSH: D057170)</small>
+* [[Translational Science, Biomedical]] — [[d:Q17112037|Q17112037]] <small>(MeSH: D000090963)</small>
+* [[Ultrasonics]] — [[d:Q66688708|Q66688708]] <small>(MeSH: D014465)</small>
+* [[Virology]] — [[d:Q7215|Q7215]] <small>(MeSH: D014773)</small>
+* [[Water Microbiology]] — [[d:Q66686044|Q66686044]] <small>(MeSH: D014871)</small>
+* [[Zoology]] — [[d:Q431|Q431]] <small>(MeSH: D015046)</small>
+
+=== Physical Phenomena ===
+
+* '''Coverage:''' 65.7%
+* '''{{color|blue|Bluelinks}}:''' 119
+* '''{{color|red|Redlinks}}:''' 62
+* [[Absorption, Physicochemical]] — [[d:Q71160690|Q71160690]] <small>(MeSH: D065966)</small>
+* [[Absorption, Radiation]] — [[d:Q71129619|Q71129619]] <small>(MeSH: D065638)</small>
+* [[Acceleration]] — [[d:Q11376|Q11376]] <small>(MeSH: D000054)</small>
+* [[Adsorption]] — [[d:Q180254|Q180254]] <small>(MeSH: D000327)</small>
+* [[Alpha Particles]] — [[d:Q103517|Q103517]] <small>(MeSH: D000512)</small>
+* [[Anisotropy]] — [[d:Q466686|Q466686]] <small>(MeSH: D016880)</small>
+* [[Astronomical Objects]] — [[d:Q6999|Q6999]] <small>(MeSH: D055587)</small>
+* [[Astronomical Phenomena]] — [[d:Q751989|Q751989]] <small>(MeSH: D055580)</small>
+* [[Avalanches]] — [[d:Q7935|Q7935]] <small>(MeSH: D055875)</small>
+* [[Background Radiation]] — [[d:Q1185086|Q1185086]] <small>(MeSH: D001417)</small>
+* [[Bays]] — [[d:Q39594|Q39594]] <small>(MeSH: D061006)</small>
+* [[Beta Particles]] — [[d:Q103531|Q103531]] <small>(MeSH: D001610)</small>
+* [[Biomechanical Phenomena]] — [[d:Q193378|Q193378]] <small>(MeSH: D001696)</small>
+* [[Biophysical Phenomena]] — [[d:Q70683835|Q70683835]] <small>(MeSH: D055592)</small>
+* [[Birefringence]] — [[d:Q108779|Q108779]] <small>(MeSH: D001718)</small>
+* [[Blue Light]] — [[d:Q1573329|Q1573329]] <small>(MeSH: D000095743)</small>
+* [[Caspian Sea]] — [[d:Q5484|Q5484]] <small>(MeSH: D000077228)</small>
+* [[Caves]] — [[d:Q35509|Q35509]] <small>(MeSH: D059552)</small>
+* [[Color]] — [[d:Q1075|Q1075]] <small>(MeSH: D003116)</small>
+* [[Compliance]] — [[d:Q633140|Q633140]] <small>(MeSH: D003187)</small>
+* [[Compressive Strength]] — [[d:Q186191|Q186191]] <small>(MeSH: D019245)</small>
+* [[Convection]] — [[d:Q160329|Q160329]] <small>(MeSH: D018481)</small>
+* [[Coriolis Force]] — [[d:Q169973|Q169973]] <small>(MeSH: D003312)</small>
+* [[Cosmic Radiation]] — [[d:Q11547|Q11547]] <small>(MeSH: D003359)</small>
+* [[Darkness]] — [[d:Q204170|Q204170]] <small>(MeSH: D003624)</small>
+* [[Deceleration]] — [[d:Q12307971|Q12307971]] <small>(MeSH: D003654)</small>
+* [[Decompression, Explosive]] — [[d:Q70697187|Q70697187]] <small>(MeSH: D019646)</small>
+* [[Diffusion]] — [[d:Q163214|Q163214]] <small>(MeSH: D004058)</small>
+* [[Doppler Effect]] — [[d:Q76436|Q76436]] <small>(MeSH: D004301)</small>
+* [[Earth, Planet]] — [[d:Q2|Q2]] <small>(MeSH: D018534)</small>
+* [[Earthquakes]] — [[d:Q7944|Q7944]] <small>(MeSH: D055866)</small>
+* [[Elastic Modulus]] — [[d:Q192005|Q192005]] <small>(MeSH: D055119)</small>
+* [[Elasticity]] — [[d:Q62932|Q62932]] <small>(MeSH: D004548)</small>
+* [[Electric Capacitance]] — [[d:Q164399|Q164399]] <small>(MeSH: D025802)</small>
+* [[Electric Conductivity]] — [[d:Q4593291|Q4593291]] <small>(MeSH: D004553)</small>
+* [[Electric Impedance]] — [[d:Q179043|Q179043]] <small>(MeSH: D017097)</small>
+* [[Electricity]] — [[d:Q12725|Q12725]] <small>(MeSH: D004560)</small>
+* [[Electromagnetic Fields]] — [[d:Q177625|Q177625]] <small>(MeSH: D004574)</small>
+* [[Electromagnetic Phenomena]] — [[d:Q70691163|Q70691163]] <small>(MeSH: D055590)</small>
+* [[Electromagnetic Radiation]] — [[d:Q12969754|Q12969754]] <small>(MeSH: D060733)</small>
+* [[Electrons]] — [[d:Q2225|Q2225]] <small>(MeSH: D004583)</small>
+* [[Elementary Particle Interactions]] — [[d:Q71130616|Q71130616]] <small>(MeSH: D019471)</small>
+* [[Elementary Particles]] — [[d:Q43116|Q43116]] <small>(MeSH: D004601)</small>
+* [[Entropy]] — [[d:Q45003|Q45003]] <small>(MeSH: D019277)</small>
+* [[Estuaries]] — [[d:Q47053|Q47053]] <small>(MeSH: D063366)</small>
+* [[Evolution, Chemical]] — [[d:Q3735717|Q3735717]] <small>(MeSH: D019418)</small>
+* [[Evolution, Planetary]] — [[d:Q71150819|Q71150819]] <small>(MeSH: D019419)</small>
+* [[Extraterrestrial Environment]] — [[d:Q71242916|Q71242916]] <small>(MeSH: D005118)</small>
+* [[Facilitated Diffusion]] — [[d:Q2155231|Q2155231]] <small>(MeSH: D055459)</small>
+* [[Fast Neutrons]] — [[d:Q2370322|Q2370322]] <small>(MeSH: D005214)</small>
+* [[Flexural Strength]] — [[d:Q857201|Q857201]] <small>(MeSH: D000077298)</small>
+* [[Fluorescence]] — [[d:Q191807|Q191807]] <small>(MeSH: D005453)</small>
+* [[Freezing]] — [[d:Q108000|Q108000]] <small>(MeSH: D005615)</small>
+* [[Friction]] — [[d:Q82580|Q82580]] <small>(MeSH: D017276)</small>
+* [[Galaxies]] — [[d:Q318|Q318]] <small>(MeSH: D055608)</small>
+* [[Gamma Rays]] — [[d:Q11523|Q11523]] <small>(MeSH: D005720)</small>
+* [[Geologic Sediments]] — [[d:Q180184|Q180184]] <small>(MeSH: D019015)</small>
+* [[Geological Phenomena]] — [[d:Q70709008|Q70709008]] <small>(MeSH: D055593)</small>
+* [[Glare]] — [[d:Q72759|Q72759]] <small>(MeSH: D019466)</small>
+* [[Gravitation]] — [[d:Q11412|Q11412]] <small>(MeSH: D006112)</small>
+* [[Gravity, Altered]] — [[d:Q70696191|Q70696191]] <small>(MeSH: D018470)</small>
+* [[Green Light]] — [[d:Q124284665|Q124284665]] <small>(MeSH: D000096585)</small>
+* [[Groundwater]] — [[d:Q161598|Q161598]] <small>(MeSH: D060587)</small>
+* [[Half-Life]] — [[d:Q47270|Q47270]] <small>(MeSH: D006207)</small>
+* [[Hardness]] — [[d:Q3236003|Q3236003]] <small>(MeSH: D006244)</small>
+* [[Heavy Ions]] — [[d:Q1411526|Q1411526]] <small>(MeSH: D020450)</small>
+* [[High-Energy Shock Waves]] — [[d:Q70681519|Q70681519]] <small>(MeSH: D019220)</small>
+* [[Hot Springs]] — [[d:Q177380|Q177380]] <small>(MeSH: D045482)</small>
+* [[Hydrodynamics]] — [[d:Q12016129|Q12016129]] <small>(MeSH: D057446)</small>
+* [[Hydrostatic Pressure]] — [[d:Q1149672|Q1149672]] <small>(MeSH: D006874)</small>
+* [[Hydrothermal Vents]] — [[d:Q867648|Q867648]] <small>(MeSH: D060086)</small>
+* [[Hypergravity]] — [[d:Q5958048|Q5958048]] <small>(MeSH: D018471)</small>
+* [[Hypogravity]] — [[d:Q48655|Q48655]] <small>(MeSH: D018472)</small>
+* [[Ice Cover]] — [[d:Q59674586|Q59674586]] <small>(MeSH: D046448)</small>
+* [[Incandescence]] — [[d:Q877096|Q877096]] <small>(MeSH: D049450)</small>
+* [[Infrared Rays]] — [[d:Q11388|Q11388]] <small>(MeSH: D007259)</small>
+* [[Iridescence]] — [[d:Q957208|Q957208]] <small>(MeSH: D000068897)</small>
+* [[Jupiter]] — [[d:Q319|Q319]] <small>(MeSH: D018538)</small>
+* [[Kinetics]] — [[d:Q1108792|Q1108792]] <small>(MeSH: D007700)</small>
+* [[Lakes]] — [[d:Q23397|Q23397]] <small>(MeSH: D060106)</small>
+* [[Landslides]] — [[d:Q167903|Q167903]] <small>(MeSH: D055876)</small>
+* [[Lifting]] — [[d:Q4116572|Q4116572]] <small>(MeSH: D017770)</small>
+* [[Light]] — [[d:Q9128|Q9128]] <small>(MeSH: D008027)</small>
+* [[Luminescence]] — [[d:Q184240|Q184240]] <small>(MeSH: D049449)</small>
+* [[Magnetic Fields]] — [[d:Q11408|Q11408]] <small>(MeSH: D060526)</small>
+* [[Magnetic Phenomena]] — [[d:Q70491316|Q70491316]] <small>(MeSH: D060328)</small>
+* [[Mars]] — [[d:Q111|Q111]] <small>(MeSH: D018535)</small>
+* [[Mechanical Phenomena]] — [[d:Q70687745|Q70687745]] <small>(MeSH: D055595)</small>
+* [[Mechanotransduction, Cellular]] — [[d:Q11936292|Q11936292]] <small>(MeSH: D040542)</small>
+* [[Membrane Fluidity]] — [[d:Q6815129|Q6815129]] <small>(MeSH: D008560)</small>
+* [[Membrane Potentials]] — [[d:Q389844|Q389844]] <small>(MeSH: D008564)</small>
+* [[Mercury, Planet]] — [[d:Q308|Q308]] <small>(MeSH: D018537)</small>
+* [[Mesons]] — [[d:Q102742|Q102742]] <small>(MeSH: D008651)</small>
+* [[Meteoroids]] — [[d:Q7012|Q7012]] <small>(MeSH: D019110)</small>
+* [[Microwaves]] — [[d:Q127995|Q127995]] <small>(MeSH: D008872)</small>
+* [[Minor Planets]] — [[d:Q1022867|Q1022867]] <small>(MeSH: D018543)</small>
+* [[Moon]] — [[d:Q405|Q405]] <small>(MeSH: D016081)</small>
+* [[Motion]] — [[d:Q79782|Q79782]] <small>(MeSH: D009038)</small>
+* [[Natural Springs]] — [[d:Q124714|Q124714]] <small>(MeSH: D060985)</small>
+* [[Neptune]] — [[d:Q332|Q332]] <small>(MeSH: D018541)</small>
+* [[Neutrons]] — [[d:Q2348|Q2348]] <small>(MeSH: D009502)</small>
+* [[Nuclear Energy]] — [[d:Q12739|Q12739]] <small>(MeSH: D009678)</small>
+* [[Nuclear Fission]] — [[d:Q11429|Q11429]] <small>(MeSH: D009680)</small>
+* [[Nuclear Fusion]] — [[d:Q13082|Q13082]] <small>(MeSH: D009681)</small>
+* [[Nucleons]] — [[d:Q102165|Q102165]] <small>(MeSH: D000071940)</small>
+* [[Oceans and Seas]] — [[d:Q52516705|Q52516705]] <small>(MeSH: D009792)</small>
+* [[Oil and Gas Fields]] — [[d:Q1845437|Q1845437]] <small>(MeSH: D061329)</small>
+* [[Optical Phenomena]] — [[d:Q14506045|Q14506045]] <small>(MeSH: D055620)</small>
+* [[Optical Rotation]] — [[d:Q530648|Q530648]] <small>(MeSH: D009904)</small>
+* [[Orthodontic Friction]] — [[d:Q70711194|Q70711194]] <small>(MeSH: D000070297)</small>
+* [[Partial Pressure]] — [[d:Q27165|Q27165]] <small>(MeSH: D010313)</small>
+* [[Partial Weight-Bearing]] — [[d:Q116701934|Q116701934]] <small>(MeSH: D000093002)</small>
+* [[Periodicity]] — [[d:Q443564|Q443564]] <small>(MeSH: D010507)</small>
+* [[Phase Separation]] — [[d:Q65087614|Q65087614]] <small>(MeSH: D000095496)</small>
+* [[Phase Transition]] — [[d:Q185357|Q185357]] <small>(MeSH: D044367)</small>
+* [[Phonons]] — [[d:Q186608|Q186608]] <small>(MeSH: D060739)</small>
+* [[Photons]] — [[d:Q3198|Q3198]] <small>(MeSH: D017785)</small>
+* [[Photoperiod]] — [[d:Q106636923|Q106636923]] <small>(MeSH: D017440)</small>
+* [[Physical Phenomena]] — [[d:Q1293220|Q1293220]] <small>(MeSH: D055585)</small>
+* [[Planets]] — [[d:Q634|Q634]] <small>(MeSH: D016083)</small>
+* [[Pliability]] — [[d:Q71227414|Q71227414]] <small>(MeSH: D018583)</small>
+* [[Pluto]] — [[d:Q339|Q339]] <small>(MeSH: D018542)</small>
+* [[Ponds]] — [[d:Q3253281|Q3253281]] <small>(MeSH: D061005)</small>
+* [[Porosity]] — [[d:Q622669|Q622669]] <small>(MeSH: D016062)</small>
+* [[Pressure]] — [[d:Q39552|Q39552]] <small>(MeSH: D011312)</small>
+* [[Protein Denaturation]] — [[d:Q22282563|Q22282563]] <small>(MeSH: D011489)</small>
+* [[Protein Folding]] — [[d:Q847556|Q847556]] <small>(MeSH: D017510)</small>
+* [[Protein Refolding]] — [[d:Q14864988|Q14864988]] <small>(MeSH: D058849)</small>
+* [[Protein Renaturation]] — [[d:Q70679737|Q70679737]] <small>(MeSH: D020673)</small>
+* [[Protein Unfolding]] — [[d:Q21103041|Q21103041]] <small>(MeSH: D058767)</small>
+* [[Pulsatile Flow]] — [[d:Q7259620|Q7259620]] <small>(MeSH: D011673)</small>
+* [[Radiation]] — [[d:Q18335|Q18335]] <small>(MeSH: D011827)</small>
+* [[Radiation Effects]] — [[d:Q14932259|Q14932259]] <small>(MeSH: D011830)</small>
+* [[Radiation Exposure]] — [[d:Q2737837|Q2737837]] <small>(MeSH: D000069079)</small>
+* [[Radiation, Ionizing]] — [[d:Q186161|Q186161]] <small>(MeSH: D011839)</small>
+* [[Radiation, Nonionizing]] — [[d:Q596860|Q596860]] <small>(MeSH: D011840)</small>
+* [[Radio Waves]] — [[d:Q4262|Q4262]] <small>(MeSH: D011846)</small>
+* [[Radioactivity]] — [[d:Q11448|Q11448]] <small>(MeSH: D011851)</small>
+* [[Red Light]] — [[d:Q124255915|Q124255915]] <small>(MeSH: D000095742)</small>
+* [[Rivers]] — [[d:Q4022|Q4022]] <small>(MeSH: D045483)</small>
+* [[Rotation]] — [[d:Q107617|Q107617]] <small>(MeSH: D012399)</small>
+* [[Sand]] — [[d:Q34679|Q34679]] <small>(MeSH: D000080463)</small>
+* [[Saturn]] — [[d:Q193|Q193]] <small>(MeSH: D018539)</small>
+* [[Seasons]] — [[d:Q24384|Q24384]] <small>(MeSH: D012621)</small>
+* [[Shear Strength]] — [[d:Q901396|Q901396]] <small>(MeSH: D033081)</small>
+* [[Soil Erosion]] — [[d:Q889503|Q889503]] <small>(MeSH: D000085902)</small>
+* [[Solar Activity]] — [[d:Q7297568|Q7297568]] <small>(MeSH: D019445)</small>
+* [[Solar Energy]] — [[d:Q40015|Q40015]] <small>(MeSH: D012993)</small>
+* [[Solar System]] — [[d:Q544|Q544]] <small>(MeSH: D016082)</small>
+* [[Sound]] — [[d:Q11461|Q11461]] <small>(MeSH: D013016)</small>
+* [[Stars, Celestial]] — [[d:Q523|Q523]] <small>(MeSH: D055609)</small>
+* [[Static Electricity]] — [[d:Q845744|Q845744]] <small>(MeSH: D055672)</small>
+* [[Stress, Mechanical]] — [[d:Q206175|Q206175]] <small>(MeSH: D013314)</small>
+* [[Sublimation, Chemical]] — [[d:Q131800|Q131800]] <small>(MeSH: D000074706)</small>
+* [[Sunlight]] — [[d:Q193788|Q193788]] <small>(MeSH: D013472)</small>
+* [[Superconductivity]] — [[d:Q124131|Q124131]] <small>(MeSH: D000072176)</small>
+* [[Tensile Strength]] — [[d:Q76005|Q76005]] <small>(MeSH: D013718)</small>
+* [[Terahertz Radiation]] — [[d:Q647887|Q647887]] <small>(MeSH: D055053)</small>
+* [[Thermal Conductivity]] — [[d:Q487005|Q487005]] <small>(MeSH: D013814)</small>
+* [[Thermal Diffusion]] — [[d:Q71149516|Q71149516]] <small>(MeSH: D055471)</small>
+* [[Thermodynamics]] — [[d:Q11473|Q11473]] <small>(MeSH: D013816)</small>
+* [[Time]] — [[d:Q11471|Q11471]] <small>(MeSH: D013995)</small>
+* [[Time Factors]] — [[d:Q71238260|Q71238260]] <small>(MeSH: D013997)</small>
+* [[Torque]] — [[d:Q48103|Q48103]] <small>(MeSH: D019415)</small>
+* [[Torsion, Mechanical]] — [[d:Q826575|Q826575]] <small>(MeSH: D054159)</small>
+* [[Transition Temperature]] — [[d:Q2478820|Q2478820]] <small>(MeSH: D044366)</small>
+* [[Tsunamis]] — [[d:Q8070|Q8070]] <small>(MeSH: D057192)</small>
+* [[Ultrasonic Waves]] — [[d:Q162564|Q162564]] <small>(MeSH: D000069453)</small>
+* [[Ultraviolet Rays]] — [[d:Q11391|Q11391]] <small>(MeSH: D014466)</small>
+* [[Uranus]] — [[d:Q324|Q324]] <small>(MeSH: D018540)</small>
+* [[Vacuum]] — [[d:Q11475|Q11475]] <small>(MeSH: D014618)</small>
+* [[Vapor Pressure]] — [[d:Q2661322|Q2661322]] <small>(MeSH: D055548)</small>
+* [[Venus]] — [[d:Q313|Q313]] <small>(MeSH: D018536)</small>
+* [[Vibration]] — [[d:Q3695508|Q3695508]] <small>(MeSH: D014732)</small>
+* [[Vitrification]] — [[d:Q1072553|Q1072553]] <small>(MeSH: D058989)</small>
+* [[Volatilization]] — [[d:Q7939996|Q7939996]] <small>(MeSH: D014835)</small>
+* [[Volcanic Eruptions]] — [[d:Q7692360|Q7692360]] <small>(MeSH: D018707)</small>
+* [[Water Cycle]] — [[d:Q81041|Q81041]] <small>(MeSH: D058438)</small>
+* [[Weight-Bearing]] — [[d:Q17126173|Q17126173]] <small>(MeSH: D016474)</small>
+* [[Weightlessness]] — [[d:Q4299309|Q4299309]] <small>(MeSH: D014893)</small>
+* [[X-Rays]] — [[d:Q34777|Q34777]] <small>(MeSH: D014965)</small>
+
+=== Circulatory and Respiratory Physiology ===
+
+* '''Coverage:''' 29.1%
+* '''{{color|blue|Bluelinks}}:''' 23
+* '''{{color|red|Redlinks}}:''' 56
+* [[Angiogenesis]] — [[d:Q539568|Q539568]] <small>(MeSH: D000096482)</small>
+* [[Arterial Pressure]] — [[d:Q9062560|Q9062560]] <small>(MeSH: D062186)</small>
+* [[Atrial Function]] — [[d:Q70679572|Q70679572]] <small>(MeSH: D016275)</small>
+* [[Atrial Function, Left]] — [[d:Q70682383|Q70682383]] <small>(MeSH: D016279)</small>
+* [[Atrial Function, Right]] — [[d:Q71237680|Q71237680]] <small>(MeSH: D016280)</small>
+* [[Atrial Pressure]] — [[d:Q47519847|Q47519847]] <small>(MeSH: D062185)</small>
+* [[Baroreflex]] — [[d:Q808725|Q808725]] <small>(MeSH: D017704)</small>
+* [[Blood Bactericidal Activity]] — [[d:Q71147696|Q71147696]] <small>(MeSH: D001770)</small>
+* [[Blood Circulation]] — [[d:Q14852003|Q14852003]] <small>(MeSH: D001775)</small>
+* [[Blood Coagulation]] — [[d:Q179217|Q179217]] <small>(MeSH: D001777)</small>
+* [[Blood Group Incompatibility]] — [[d:Q18556220|Q18556220]] <small>(MeSH: D001787)</small>
+* [[Blood Physiological Phenomena]] — [[d:Q70680972|Q70680972]] <small>(MeSH: D001790)</small>
+* [[Blood Viscosity]] — [[d:Q4118378|Q4118378]] <small>(MeSH: D001809)</small>
+* [[Blood Volume]] — [[d:Q1896673|Q1896673]] <small>(MeSH: D001810)</small>
+* [[Breath Holding]] — [[d:Q382254|Q382254]] <small>(MeSH: D062485)</small>
+* [[Bronchoconstriction]] — [[d:Q4375|Q4375]] <small>(MeSH: D016084)</small>
+* [[Capillary Resistance]] — [[d:Q71240250|Q71240250]] <small>(MeSH: D002200)</small>
+* [[Cardiac Volume]] — [[d:Q70575720|Q70575720]] <small>(MeSH: D002306)</small>
+* [[Cardiomegaly, Exercise-Induced]] — [[d:Q493682|Q493682]] <small>(MeSH: D059267)</small>
+* [[Cardiovascular Deconditioning]] — [[d:Q71241498|Q71241498]] <small>(MeSH: D018493)</small>
+* [[Cardiovascular Physiological Phenomena]] — [[d:Q70696257|Q70696257]] <small>(MeSH: D002320)</small>
+* [[Central Venous Pressure]] — [[d:Q190402|Q190402]] <small>(MeSH: D002496)</small>
+* [[Cerebral Blood Volume]] — [[d:Q70680914|Q70680914]] <small>(MeSH: D000071937)</small>
+* [[Cerebrovascular Circulation]] — [[d:Q551860|Q551860]] <small>(MeSH: D002560)</small>
+* [[Circulatory and Respiratory Physiological Phenomena]] — [[d:Q71129900|Q71129900]] <small>(MeSH: D002943)</small>
+* [[Collateral Circulation]] — [[d:Q5145979|Q5145979]] <small>(MeSH: D003097)</small>
+* [[Coronary Circulation]] — [[d:Q497232|Q497232]] <small>(MeSH: D003326)</small>
+* [[Erythrocyte Deformability]] — [[d:Q5396464|Q5396464]] <small>(MeSH: D004907)</small>
+* [[Erythrocyte Volume]] — [[d:Q71239635|Q71239635]] <small>(MeSH: D004911)</small>
+* [[Exhalation]] — [[d:Q2197000|Q2197000]] <small>(MeSH: D045853)</small>
+* [[Fibrinolysis]] — [[d:Q1410794|Q1410794]] <small>(MeSH: D005342)</small>
+* [[Fractional Flow Reserve, Myocardial]] — [[d:Q1440572|Q1440572]] <small>(MeSH: D053805)</small>
+* [[Global Longitudinal Strain]] — [[d:Q116799309|Q116799309]] <small>(MeSH: D000094582)</small>
+* [[Heart Rate, Fetal]] — [[d:Q5868917|Q5868917]] <small>(MeSH: D006340)</small>
+* [[Heart Sounds]] — [[d:Q967103|Q967103]] <small>(MeSH: D006347)</small>
+* [[Hemodynamics]] — [[d:Q1642137|Q1642137]] <small>(MeSH: D006439)</small>
+* [[Hemorheology]] — [[d:Q5712543|Q5712543]] <small>(MeSH: D018056)</small>
+* [[Hemostasis]] — [[d:Q487937|Q487937]] <small>(MeSH: D006487)</small>
+* [[Inhalation]] — [[d:Q840343|Q840343]] <small>(MeSH: D001239)</small>
+* [[Liver Circulation]] — [[d:Q70575945|Q70575945]] <small>(MeSH: D008102)</small>
+* [[Microcirculation]] — [[d:Q1632335|Q1632335]] <small>(MeSH: D008833)</small>
+* [[Microvascular Density]] — [[d:Q114732854|Q114732854]] <small>(MeSH: D000082644)</small>
+* [[Myocardial Contraction]] — [[d:Q5165683|Q5165683]] <small>(MeSH: D009200)</small>
+* [[Neovascularization, Physiologic]] — [[d:Q105299511|Q105299511]] <small>(MeSH: D018919)</small>
+* [[Neurovascular Coupling]] — [[d:Q70575704|Q70575704]] <small>(MeSH: D000069336)</small>
+* [[Phonation]] — [[d:Q678132|Q678132]] <small>(MeSH: D010699)</small>
+* [[Placental Circulation]] — [[d:Q71151469|Q71151469]] <small>(MeSH: D021041)</small>
+* [[Plasma Volume]] — [[d:Q70679686|Q70679686]] <small>(MeSH: D010953)</small>
+* [[Platelet Activation]] — [[d:Q14819467|Q14819467]] <small>(MeSH: D015539)</small>
+* [[Platelet Adhesiveness]] — [[d:Q7202246|Q7202246]] <small>(MeSH: D010973)</small>
+* [[Platelet Aggregation]] — [[d:Q14913634|Q14913634]] <small>(MeSH: D010974)</small>
+* [[Portal Pressure]] — [[d:Q7231497|Q7231497]] <small>(MeSH: D017082)</small>
+* [[Pulmonary Circulation]] — [[d:Q494603|Q494603]] <small>(MeSH: D011652)</small>
+* [[Pulmonary Wedge Pressure]] — [[d:Q1414127|Q1414127]] <small>(MeSH: D011669)</small>
+* [[Pulse]] — [[d:Q191733|Q191733]] <small>(MeSH: D011674)</small>
+* [[Regional Blood Flow]] — [[d:Q60435627|Q60435627]] <small>(MeSH: D012039)</small>
+* [[Respiration]] — [[d:Q9530|Q9530]] <small>(MeSH: D012119)</small>
+* [[Respiratory Dead Space]] — [[d:Q2164998|Q2164998]] <small>(MeSH: D012126)</small>
+* [[Respiratory Mechanics]] — [[d:Q70709236|Q70709236]] <small>(MeSH: D015656)</small>
+* [[Respiratory Physiological Phenomena]] — [[d:Q71130089|Q71130089]] <small>(MeSH: D012143)</small>
+* [[Respiratory Sinus Arrhythmia]] — [[d:Q63565261|Q63565261]] <small>(MeSH: D065809)</small>
+* [[Return of Spontaneous Circulation]] — [[d:Q7317197|Q7317197]] <small>(MeSH: D000084102)</small>
+* [[Singing]] — [[d:Q27939|Q27939]] <small>(MeSH: D063346)</small>
+* [[Splanchnic Circulation]] — [[d:Q71230698|Q71230698]] <small>(MeSH: D013152)</small>
+* [[Systole]] — [[d:Q496359|Q496359]] <small>(MeSH: D013599)</small>
+* [[Vascular Capacitance]] — [[d:Q70710824|Q70710824]] <small>(MeSH: D018924)</small>
+* [[Vascular Patency]] — [[d:Q70685093|Q70685093]] <small>(MeSH: D014654)</small>
+* [[Vascular Resistance]] — [[d:Q456026|Q456026]] <small>(MeSH: D014655)</small>
+* [[Vascular Stiffness]] — [[d:Q4797538|Q4797538]] <small>(MeSH: D059289)</small>
+* [[Vasoconstriction]] — [[d:Q1067506|Q1067506]] <small>(MeSH: D014661)</small>
+* [[Vasodilation]] — [[d:Q14859627|Q14859627]] <small>(MeSH: D014664)</small>
+* [[Venous Pressure]] — [[d:Q6085637|Q6085637]] <small>(MeSH: D014690)</small>
+* [[Ventricular Function]] — [[d:Q70698086|Q70698086]] <small>(MeSH: D016276)</small>
+* [[Ventricular Function, Left]] — [[d:Q71230614|Q71230614]] <small>(MeSH: D016277)</small>
+* [[Ventricular Function, Right]] — [[d:Q71131137|Q71131137]] <small>(MeSH: D016278)</small>
+* [[Ventricular Pressure]] — [[d:Q7920320|Q7920320]] <small>(MeSH: D017725)</small>
+* [[Voice]] — [[d:Q7390|Q7390]] <small>(MeSH: D014831)</small>
+* [[Voice Quality]] — [[d:Q70339337|Q70339337]] <small>(MeSH: D014833)</small>
+* [[Yawning]] — [[d:Q182180|Q182180]] <small>(MeSH: D015000)</small>
+
+=== Musculoskeletal and Neural Physiology ===
+
+* '''Coverage:''' 28.9%
+* '''{{color|blue|Bluelinks}}:''' 22
+* '''{{color|red|Redlinks}}:''' 54
+* [[Blinking]] — [[d:Q1044679|Q1044679]] <small>(MeSH: D001767)</small>
+* [[Bone Density]] — [[d:Q2304401|Q2304401]] <small>(MeSH: D015519)</small>
+* [[Bone Regeneration]] — [[d:Q21134441|Q21134441]] <small>(MeSH: D001861)</small>
+* [[Bone Remodeling]] — [[d:Q952019|Q952019]] <small>(MeSH: D016723)</small>
+* [[Brain-Gut Axis]] — [[d:Q17077315|Q17077315]] <small>(MeSH: D000087502)</small>
+* [[Central Nervous System Sensitization]] — [[d:Q21087540|Q21087540]] <small>(MeSH: D059333)</small>
+* [[Cerebrospinal Fluid Pressure]] — [[d:Q70710068|Q70710068]] <small>(MeSH: D015170)</small>
+* [[Circuit-Based Exercise]] — [[d:Q205821|Q205821]] <small>(MeSH: D065327)</small>
+* [[Core Stability]] — [[d:Q5170216|Q5170216]] <small>(MeSH: D000089944)</small>
+* [[Cortical Spreading Depression]] — [[d:Q461576|Q461576]] <small>(MeSH: D013181)</small>
+* [[Dependent Ambulation]] — [[d:Q70685124|Q70685124]] <small>(MeSH: D051341)</small>
+* [[Diastole]] — [[d:Q492905|Q492905]] <small>(MeSH: D003971)</small>
+* [[Dominance, Ocular]] — [[d:Q760286|Q760286]] <small>(MeSH: D023882)</small>
+* [[Exercise]] — [[d:Q219067|Q219067]] <small>(MeSH: D015444)</small>
+* [[Exercise Tolerance]] — [[d:Q71129391|Q71129391]] <small>(MeSH: D017079)</small>
+* [[Eye Movements]] — [[d:Q760256|Q760256]] <small>(MeSH: D005133)</small>
+* [[Flight, Animal]] — [[d:Q89576883|Q89576883]] <small>(MeSH: D005426)</small>
+* [[Force Potentiation]] — [[d:Q137660936|Q137660936]] <small>(MeSH: D000099165)</small>
+* [[Gravity Sensing]] — [[d:Q22272796|Q22272796]] <small>(MeSH: D018466)</small>
+* [[H-Reflex]] — [[d:Q1562476|Q1562476]] <small>(MeSH: D006181)</small>
+* [[Head Movements]] — [[d:Q70579897|Q70579897]] <small>(MeSH: D019416)</small>
+* [[Head-Down Tilt]] — [[d:Q289336|Q289336]] <small>(MeSH: D018475)</small>
+* [[High-Intensity Interval Training]] — [[d:Q2756206|Q2756206]] <small>(MeSH: D000072696)</small>
+* [[Intracranial Pressure]] — [[d:Q1416096|Q1416096]] <small>(MeSH: D007427)</small>
+* [[Isometric Contraction]] — [[d:Q56036004|Q56036004]] <small>(MeSH: D007537)</small>
+* [[Isotonic Contraction]] — [[d:Q543183|Q543183]] <small>(MeSH: D007551)</small>
+* [[Jogging]] — [[d:Q816261|Q816261]] <small>(MeSH: D007590)</small>
+* [[Kindling, Neurologic]] — [[d:Q1741970|Q1741970]] <small>(MeSH: D007696)</small>
+* [[Knee-Chest Position]] — [[d:Q56867977|Q56867977]] <small>(MeSH: D056446)</small>
+* [[Long-Term Potentiation]] — [[d:Q1805481|Q1805481]] <small>(MeSH: D017774)</small>
+* [[Long-Term Synaptic Depression]] — [[d:Q1517140|Q1517140]] <small>(MeSH: D036881)</small>
+* [[Marathon Running]] — [[d:Q100348482|Q100348482]] <small>(MeSH: D000081642)</small>
+* [[Muscle Contraction]] — [[d:Q127006|Q127006]] <small>(MeSH: D009119)</small>
+* [[Muscle Fatigue]] — [[d:Q6940317|Q6940317]] <small>(MeSH: D018763)</small>
+* [[Muscle Relaxation]] — [[d:Q10860644|Q10860644]] <small>(MeSH: D009126)</small>
+* [[Muscle Tonus]] — [[d:Q1147377|Q1147377]] <small>(MeSH: D009129)</small>
+* [[Musculoskeletal and Neural Physiological Phenomena]] — [[d:Q69040578|Q69040578]] <small>(MeSH: D055687)</small>
+* [[Musculoskeletal Physiological Phenomena]] — [[d:Q60389878|Q60389878]] <small>(MeSH: D009142)</small>
+* [[Myoelectric Complex, Migrating]] — [[d:Q70709021|Q70709021]] <small>(MeSH: D016065)</small>
+* [[Nerve Regeneration]] — [[d:Q3335079|Q3335079]] <small>(MeSH: D009416)</small>
+* [[Nervous System Physiological Phenomena]] — [[d:Q65551184|Q65551184]] <small>(MeSH: D009424)</small>
+* [[Neurodevelopment]] — [[d:Q1345738|Q1345738]] <small>(MeSH: D000099203)</small>
+* [[Neuronal Plasticity]] — [[d:Q849491|Q849491]] <small>(MeSH: D009473)</small>
+* [[Neuroprotection]] — [[d:Q1981368|Q1981368]] <small>(MeSH: D000066829)</small>
+* [[Neurosecretion]] — [[d:Q3338699|Q3338699]] <small>(MeSH: D009489)</small>
+* [[Nordic Walking]] — [[d:Q667692|Q667692]] <small>(MeSH: D000088783)</small>
+* [[Osseointegration]] — [[d:Q1541818|Q1541818]] <small>(MeSH: D016348)</small>
+* [[Periodization]] — [[d:Q7579936|Q7579936]] <small>(MeSH: D000098557)</small>
+* [[Physical Conditioning, Animal]] — [[d:Q67206434|Q67206434]] <small>(MeSH: D010805)</small>
+* [[Physical Conditioning, Human]] — [[d:Q18479330|Q18479330]] <small>(MeSH: D064797)</small>
+* [[Physical Endurance]] — [[d:Q778298|Q778298]] <small>(MeSH: D010807)</small>
+* [[Physical Exertion]] — [[d:Q71151031|Q71151031]] <small>(MeSH: D005082)</small>
+* [[Physical Fitness]] — [[d:Q309252|Q309252]] <small>(MeSH: D010809)</small>
+* [[Postural Balance]] — [[d:Q98069141|Q98069141]] <small>(MeSH: D004856)</small>
+* [[Posture]] — [[d:Q8514257|Q8514257]] <small>(MeSH: D011187)</small>
+* [[Prepulse Inhibition]] — [[d:Q1128897|Q1128897]] <small>(MeSH: D065808)</small>
+* [[Pronation]] — [[d:Q1568153|Q1568153]] <small>(MeSH: D011403)</small>
+* [[Prone Position]] — [[d:Q1064483|Q1064483]] <small>(MeSH: D016684)</small>
+* [[Psychomotor Performance]] — [[d:Q60429516|Q60429516]] <small>(MeSH: D011597)</small>
+* [[Reflex, Monosynaptic]] — [[d:Q1303234|Q1303234]] <small>(MeSH: D012023)</small>
+* [[Reflex, Oculocardiac]] — [[d:Q1726969|Q1726969]] <small>(MeSH: D012024)</small>
+* [[Reflex, Trigeminocardiac]] — [[d:Q71149323|Q71149323]] <small>(MeSH: D059230)</small>
+* [[Remyelination]] — [[d:Q7312279|Q7312279]] <small>(MeSH: D000074586)</small>
+* [[Running]] — [[d:Q105674|Q105674]] <small>(MeSH: D012420)</small>
+* [[Sensory Gating]] — [[d:Q2271368|Q2271368]] <small>(MeSH: D055139)</small>
+* [[Sitting Position]] — [[d:Q1144593|Q1144593]] <small>(MeSH: D000077708)</small>
+* [[Speech Acoustics]] — [[d:Q63766496|Q63766496]] <small>(MeSH: D013061)</small>
+* [[Spinal Cord Regeneration]] — [[d:Q71148129|Q71148129]] <small>(MeSH: D058630)</small>
+* [[Stair Climbing]] — [[d:Q2451755|Q2451755]] <small>(MeSH: D000072799)</small>
+* [[Standing Position]] — [[d:Q1986098|Q1986098]] <small>(MeSH: D000078783)</small>
+* [[Supination]] — [[d:Q1568655|Q1568655]] <small>(MeSH: D013484)</small>
+* [[Supine Position]] — [[d:Q3267428|Q3267428]] <small>(MeSH: D016683)</small>
+* [[Swimming]] — [[d:Q6388|Q6388]] <small>(MeSH: D013550)</small>
+* [[Taste Threshold]] — [[d:Q66618070|Q66618070]] <small>(MeSH: D013652)</small>
+* [[Walking]] — [[d:Q6537379|Q6537379]] <small>(MeSH: D016138)</small>
+* [[Warm-Up Exercise]] — [[d:Q760132|Q760132]] <small>(MeSH: D063996)</small>
+
+=== Microbiology ===
+
+* '''Coverage:''' 12.7%
+* '''{{color|blue|Bluelinks}}:''' 7
+* '''{{color|red|Redlinks}}:''' 48
+* [[Ampicillin Resistance]] — [[d:Q58233300|Q58233300]] <small>(MeSH: D000668)</small>
+* [[Antibiosis]] — [[d:Q770530|Q770530]] <small>(MeSH: D000898)</small>
+* [[Antibody-Dependent Enhancement]] — [[d:Q1662341|Q1662341]] <small>(MeSH: D019067)</small>
+* [[Bacterial Adhesion]] — [[d:Q59627887|Q59627887]] <small>(MeSH: D001422)</small>
+* [[Bacterial Physiological Phenomena]] — [[d:Q65980060|Q65980060]] <small>(MeSH: D018407)</small>
+* [[Bacterial Translocation]] — [[d:Q71149290|Q71149290]] <small>(MeSH: D018988)</small>
+* [[Bacteriolysis]] — [[d:Q71229343|Q71229343]] <small>(MeSH: D001433)</small>
+* [[beta-Lactam Resistance]] — [[d:Q71230772|Q71230772]] <small>(MeSH: D018440)</small>
+* [[Cephalosporin Resistance]] — [[d:Q70694462|Q70694462]] <small>(MeSH: D018550)</small>
+* [[Chloramphenicol Resistance]] — [[d:Q70682428|Q70682428]] <small>(MeSH: D002702)</small>
+* [[Drug Resistance, Bacterial]] — [[d:Q64924127|Q64924127]] <small>(MeSH: D024881)</small>
+* [[Drug Resistance, Fungal]] — [[d:Q53788821|Q53788821]] <small>(MeSH: D025141)</small>
+* [[Drug Resistance, Microbial]] — [[d:Q21698220|Q21698220]] <small>(MeSH: D004352)</small>
+* [[Drug Resistance, Multiple, Bacterial]] — [[d:Q2878482|Q2878482]] <small>(MeSH: D024901)</small>
+* [[Drug Resistance, Multiple, Viral]] — [[d:Q71234607|Q71234607]] <small>(MeSH: D024921)</small>
+* [[Drug Resistance, Viral]] — [[d:Q71228770|Q71228770]] <small>(MeSH: D024882)</small>
+* [[Gastrointestinal Microbiome]] — [[d:Q739734|Q739734]] <small>(MeSH: D000069196)</small>
+* [[Germ-Free Life]] — [[d:Q5550954|Q5550954]] <small>(MeSH: D005856)</small>
+* [[Hemadsorption]] — [[d:Q11625958|Q11625958]] <small>(MeSH: D006382)</small>
+* [[Host Microbial Interactions]] — [[d:Q68260314|Q68260314]] <small>(MeSH: D000076662)</small>
+* [[Host Specificity]] — [[d:Q124260631|Q124260631]] <small>(MeSH: D058507)</small>
+* [[Host Tropism]] — [[d:Q1536273|Q1536273]] <small>(MeSH: D000096502)</small>
+* [[Host-Pathogen Interactions]] — [[d:Q5909198|Q5909198]] <small>(MeSH: D054884)</small>
+* [[Immune Evasion]] — [[d:Q1660157|Q1660157]] <small>(MeSH: D057131)</small>
+* [[Kanamycin Resistance]] — [[d:Q70679996|Q70679996]] <small>(MeSH: D007613)</small>
+* [[Methicillin Resistance]] — [[d:Q71131348|Q71131348]] <small>(MeSH: D016106)</small>
+* [[Microbial Consortia]] — [[d:Q2986869|Q2986869]] <small>(MeSH: D059013)</small>
+* [[Microbial Interactions]] — [[d:Q71158524|Q71158524]] <small>(MeSH: D056265)</small>
+* [[Microbial Viability]] — [[d:Q60175824|Q60175824]] <small>(MeSH: D050296)</small>
+* [[Microbiological Phenomena]] — [[d:Q65980343|Q65980343]] <small>(MeSH: D008827)</small>
+* [[Microbiota]] — [[d:Q104117645|Q104117645]] <small>(MeSH: D064307)</small>
+* [[Mycobiome]] — [[d:Q24975941|Q24975941]] <small>(MeSH: D000072761)</small>
+* [[Penicillin Resistance]] — [[d:Q71226550|Q71226550]] <small>(MeSH: D010403)</small>
+* [[Skin Microbiome]] — [[d:Q1591401|Q1591401]] <small>(MeSH: D000098903)</small>
+* [[Specific Pathogen-Free Organisms]] — [[d:Q491171|Q491171]] <small>(MeSH: D013047)</small>
+* [[Symbiont Induced Cytoplasmic Incompatibility]] — [[d:Q116788161|Q116788161]] <small>(MeSH: D000094402)</small>
+* [[Symbiosis]] — [[d:Q121610|Q121610]] <small>(MeSH: D013559)</small>
+* [[Tetracycline Resistance]] — [[d:Q70579203|Q70579203]] <small>(MeSH: D013753)</small>
+* [[Toxin-Antitoxin Systems]] — [[d:Q3495384|Q3495384]] <small>(MeSH: D000075704)</small>
+* [[Trimethoprim Resistance]] — [[d:Q70695972|Q70695972]] <small>(MeSH: D014296)</small>
+* [[Vancomycin Resistance]] — [[d:Q60388669|Q60388669]] <small>(MeSH: D020713)</small>
+* [[Viral Genome Packaging]] — [[d:Q22279853|Q22279853]] <small>(MeSH: D000086482)</small>
+* [[Viral Interference]] — [[d:Q70684351|Q70684351]] <small>(MeSH: D014762)</small>
+* [[Viral Tropism]] — [[d:Q59717570|Q59717570]] <small>(MeSH: D056189)</small>
+* [[Virome]] — [[d:Q24977348|Q24977348]] <small>(MeSH: D000083422)</small>
+* [[Virulence]] — [[d:Q1460232|Q1460232]] <small>(MeSH: D014774)</small>
+* [[Virus Activation]] — [[d:Q21130028|Q21130028]] <small>(MeSH: D014775)</small>
+* [[Virus Assembly]] — [[d:Q14916420|Q14916420]] <small>(MeSH: D019065)</small>
+* [[Virus Attachment]] — [[d:Q70684652|Q70684652]] <small>(MeSH: D053585)</small>
+* [[Virus Internalization]] — [[d:Q4118894|Q4118894]] <small>(MeSH: D053586)</small>
+* [[Virus Latency]] — [[d:Q4115619|Q4115619]] <small>(MeSH: D017735)</small>
+* [[Virus Physiological Phenomena]] — [[d:Q71129524|Q71129524]] <small>(MeSH: D018406)</small>
+* [[Virus Release]] — [[d:Q71130198|Q71130198]] <small>(MeSH: D057074)</small>
+* [[Virus Replication]] — [[d:Q114773374|Q114773374]] <small>(MeSH: D014779)</small>
+* [[Virus Uncoating]] — [[d:Q70576018|Q70576018]] <small>(MeSH: D057646)</small>
+
+
+[[Category:WikiProject MeSH]]

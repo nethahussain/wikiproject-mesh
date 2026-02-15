@@ -1,0 +1,898 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Oncology ===
+
+* '''Coverage:''' 28.7%
+* '''{{color|blue|Bluelinks}}:''' 147
+* '''{{color|red|Redlinks}}:''' 366
+* [[Abdominal Neoplasms]] — [[d:Q71987564|Q71987564]] <small>(MeSH: D000008)</small>
+* [[Aberrant Crypt Foci]] — [[d:Q4667164|Q4667164]] <small>(MeSH: D058739)</small>
+* [[Acanthoma]] — [[d:Q2822569|Q2822569]] <small>(MeSH: D049309)</small>
+* [[Acrospiroma]] — [[d:Q1323187|Q1323187]] <small>(MeSH: D018250)</small>
+* [[ACTH Syndrome, Ectopic]] — [[d:Q32136799|Q32136799]] <small>(MeSH: D000182)</small>
+* [[ACTH-Secreting Pituitary Adenoma]] — [[d:Q18557438|Q18557438]] <small>(MeSH: D049913)</small>
+* [[Adamantinoma]] — [[d:Q2521747|Q2521747]] <small>(MeSH: D050398)</small>
+* [[Adenocarcinoma]] — [[d:Q356033|Q356033]] <small>(MeSH: D000230)</small>
+* [[Adenocarcinoma in Situ]] — [[d:Q18556562|Q18556562]] <small>(MeSH: D065311)</small>
+* [[Adenocarcinoma of Lung]] — [[d:Q843799|Q843799]] <small>(MeSH: D000077192)</small>
+* [[Adenocarcinoma, Bronchiolo-Alveolar]] — [[d:Q18556553|Q18556553]] <small>(MeSH: D002282)</small>
+* [[Adenocarcinoma, Clear Cell]] — [[d:Q5130800|Q5130800]] <small>(MeSH: D018262)</small>
+* [[Adenocarcinoma, Follicular]] — [[d:Q5464665|Q5464665]] <small>(MeSH: D018263)</small>
+* [[Adenocarcinoma, Mucinous]] — [[d:Q18555274|Q18555274]] <small>(MeSH: D002288)</small>
+* [[Adenocarcinoma, Papillary]] — [[d:Q7132981|Q7132981]] <small>(MeSH: D000231)</small>
+* [[Adenocarcinoma, Scirrhous]] — [[d:Q18556157|Q18556157]] <small>(MeSH: D002293)</small>
+* [[Adenocarcinoma, Sebaceous]] — [[d:Q22443673|Q22443673]] <small>(MeSH: D018266)</small>
+* [[Adenofibroma]] — [[d:Q18555159|Q18555159]] <small>(MeSH: D000232)</small>
+* [[Adenolymphoma]] — [[d:Q2300699|Q2300699]] <small>(MeSH: D000235)</small>
+* [[Adenoma]] — [[d:Q272741|Q272741]] <small>(MeSH: D000236)</small>
+* [[Adenoma, Acidophil]] — [[d:Q18556773|Q18556773]] <small>(MeSH: D000239)</small>
+* [[Adenoma, Basophil]] — [[d:Q18556374|Q18556374]] <small>(MeSH: D000237)</small>
+* [[Adenoma, Bile Duct]] — [[d:Q3605247|Q3605247]] <small>(MeSH: D002759)</small>
+* [[Adenoma, Chromophobe]] — [[d:Q18556084|Q18556084]] <small>(MeSH: D000238)</small>
+* [[Adenoma, Islet Cell]] — [[d:Q66759383|Q66759383]] <small>(MeSH: D007516)</small>
+* [[Adenoma, Liver Cell]] — [[d:Q1172076|Q1172076]] <small>(MeSH: D018248)</small>
+* [[Adenoma, Oxyphilic]] — [[d:Q1760202|Q1760202]] <small>(MeSH: D018249)</small>
+* [[Adenoma, Pleomorphic]] — [[d:Q2064603|Q2064603]] <small>(MeSH: D008949)</small>
+* [[Adenoma, Sweat Gland]] — [[d:Q12822297|Q12822297]] <small>(MeSH: D006607)</small>
+* [[Adenoma, Villous]] — [[d:Q7931125|Q7931125]] <small>(MeSH: D018253)</small>
+* [[Adenomatoid Tumor]] — [[d:Q356058|Q356058]] <small>(MeSH: D018254)</small>
+* [[Adenomatosis, Pulmonary]] — [[d:Q54943748|Q54943748]] <small>(MeSH: D018255)</small>
+* [[Adenomatous Polyps]] — [[d:Q2825480|Q2825480]] <small>(MeSH: D018256)</small>
+* [[Adenomyoepithelioma]] — [[d:Q4682248|Q4682248]] <small>(MeSH: D055331)</small>
+* [[Adenomyoma]] — [[d:Q4682249|Q4682249]] <small>(MeSH: D018194)</small>
+* [[Adenosarcoma]] — [[d:Q18968209|Q18968209]] <small>(MeSH: D018195)</small>
+* [[Adrenal Rest Tumor]] — [[d:Q18554903|Q18554903]] <small>(MeSH: D000314)</small>
+* [[Ameloblastoma]] — [[d:Q461857|Q461857]] <small>(MeSH: D000564)</small>
+* [[Anaplasia]] — [[d:Q486082|Q486082]] <small>(MeSH: D000708)</small>
+* [[Angiofibroma]] — [[d:Q4763256|Q4763256]] <small>(MeSH: D018322)</small>
+* [[Angiokeratoma]] — [[d:Q2033138|Q2033138]] <small>(MeSH: D000794)</small>
+* [[Angiolipoma]] — [[d:Q4763273|Q4763273]] <small>(MeSH: D018206)</small>
+* [[Angiomyolipoma]] — [[d:Q539681|Q539681]] <small>(MeSH: D018207)</small>
+* [[Angiomyoma]] — [[d:Q18556253|Q18556253]] <small>(MeSH: D018229)</small>
+* [[Apudoma]] — [[d:Q3621073|Q3621073]] <small>(MeSH: D001079)</small>
+* [[Arachnoid Cysts]] — [[d:Q624590|Q624590]] <small>(MeSH: D016080)</small>
+* [[Astrocytoma]] — [[d:Q177755|Q177755]] <small>(MeSH: D001254)</small>
+* [[Barrett Esophagus]] — [[d:Q808892|Q808892]] <small>(MeSH: D001471)</small>
+* [[Basal Cell Carcinoma]] — [[d:Q809758|Q809758]] <small>(MeSH: D002280)</small>
+* [[Basal Cell Nevus Syndrome]] — [[d:Q1536720|Q1536720]] <small>(MeSH: D001478)</small>
+* [[Birt-Hogg-Dube Syndrome]] — [[d:Q2532540|Q2532540]] <small>(MeSH: D058249)</small>
+* [[Blast Crisis]] — [[d:Q4925427|Q4925427]] <small>(MeSH: D001752)</small>
+* [[Blastic Plasmacytoid Dendritic Cell Neoplasm]] — [[d:Q53844611|Q53844611]] <small>(MeSH: D000099067)</small>
+* [[Bone Cysts]] — [[d:Q826918|Q826918]] <small>(MeSH: D001845)</small>
+* [[Bone Cysts, Aneurysmal]] — [[d:Q4761773|Q4761773]] <small>(MeSH: D017824)</small>
+* [[Bone Neoplasms]] — [[d:Q1328805|Q1328805]] <small>(MeSH: D001859)</small>
+* [[Bowen's Disease]] — [[d:Q979564|Q979564]] <small>(MeSH: D001913)</small>
+* [[Branchioma]] — [[d:Q2246002|Q2246002]] <small>(MeSH: D001935)</small>
+* [[Breast Carcinoma In Situ]] — [[d:Q18558015|Q18558015]] <small>(MeSH: D000071960)</small>
+* [[Breast Cyst]] — [[d:Q1647794|Q1647794]] <small>(MeSH: D047688)</small>
+* [[Breast Neoplasms]] — [[d:Q23929670|Q23929670]] <small>(MeSH: D001943)</small>
+* [[Breast Neoplasms, Male]] — [[d:Q58833981|Q58833981]] <small>(MeSH: D018567)</small>
+* [[Carcinogenesis]] — [[d:Q1637543|Q1637543]] <small>(MeSH: D063646)</small>
+* [[Carcinoid Heart Disease]] — [[d:Q3843792|Q3843792]] <small>(MeSH: D002275)</small>
+* [[Carcinoid Tumor]] — [[d:Q1734755|Q1734755]] <small>(MeSH: D002276)</small>
+* [[Carcinoma]] — [[d:Q33525|Q33525]] <small>(MeSH: D002277)</small>
+* [[Carcinoma 256, Walker]] — [[d:Q55083389|Q55083389]] <small>(MeSH: D002279)</small>
+* [[Carcinoma in Situ]] — [[d:Q1035645|Q1035645]] <small>(MeSH: D002278)</small>
+* [[Carcinoma, Acinar Cell]] — [[d:Q4674172|Q4674172]] <small>(MeSH: D018267)</small>
+* [[Carcinoma, Adenoid Cystic]] — [[d:Q356005|Q356005]] <small>(MeSH: D003528)</small>
+* [[Carcinoma, Adenosquamous]] — [[d:Q3658380|Q3658380]] <small>(MeSH: D018196)</small>
+* [[Carcinoma, Basosquamous]] — [[d:Q18556609|Q18556609]] <small>(MeSH: D002281)</small>
+* [[Carcinoma, Brown-Pearce]] — [[d:Q54911560|Q54911560]] <small>(MeSH: D002284)</small>
+* [[Carcinoma, Ductal]] — [[d:Q5311598|Q5311598]] <small>(MeSH: D044584)</small>
+* [[Carcinoma, Ductal, Breast]] — [[d:Q3658404|Q3658404]] <small>(MeSH: D018270)</small>
+* [[Carcinoma, Ehrlich Tumor]] — [[d:Q18556603|Q18556603]] <small>(MeSH: D002286)</small>
+* [[Carcinoma, Embryonal]] — [[d:Q1451877|Q1451877]] <small>(MeSH: D018236)</small>
+* [[Carcinoma, Giant Cell]] — [[d:Q5558337|Q5558337]] <small>(MeSH: D018286)</small>
+* [[Carcinoma, Hepatocellular]] — [[d:Q1148337|Q1148337]] <small>(MeSH: D006528)</small>
+* [[Carcinoma, Intraductal, Noninfiltrating]] — [[d:Q337585|Q337585]] <small>(MeSH: D002285)</small>
+* [[Carcinoma, Islet Cell]] — [[d:Q6084258|Q6084258]] <small>(MeSH: D018273)</small>
+* [[Carcinoma, Krebs 2]] — [[d:Q18976000|Q18976000]] <small>(MeSH: D002287)</small>
+* [[Carcinoma, Large Cell]] — [[d:Q18556381|Q18556381]] <small>(MeSH: D018287)</small>
+* [[Carcinoma, Lewis Lung]] — [[d:Q6537255|Q6537255]] <small>(MeSH: D018827)</small>
+* [[Carcinoma, Lobular]] — [[d:Q18553580|Q18553580]] <small>(MeSH: D018275)</small>
+* [[Carcinoma, Medullary]] — [[d:Q6807316|Q6807316]] <small>(MeSH: D018276)</small>
+* [[Carcinoma, Merkel Cell]] — [[d:Q1711744|Q1711744]] <small>(MeSH: D015266)</small>
+* [[Carcinoma, Mucoepidermoid]] — [[d:Q2736268|Q2736268]] <small>(MeSH: D018277)</small>
+* [[Carcinoma, Neuroendocrine]] — [[d:Q18554913|Q18554913]] <small>(MeSH: D018278)</small>
+* [[Carcinoma, Pancreatic Ductal]] — [[d:Q8263002|Q8263002]] <small>(MeSH: D021441)</small>
+* [[Carcinoma, Papillary]] — [[d:Q18555294|Q18555294]] <small>(MeSH: D002291)</small>
+* [[Carcinoma, Papillary, Follicular]] — [[d:Q18556134|Q18556134]] <small>(MeSH: D018265)</small>
+* [[Carcinoma, Signet Ring Cell]] — [[d:Q825923|Q825923]] <small>(MeSH: D018279)</small>
+* [[Carcinoma, Skin Appendage]] — [[d:Q18975990|Q18975990]] <small>(MeSH: D018280)</small>
+* [[Carcinoma, Small Cell]] — [[d:Q738170|Q738170]] <small>(MeSH: D018288)</small>
+* [[Carcinoma, Squamous Cell]] — [[d:Q681817|Q681817]] <small>(MeSH: D002294)</small>
+* [[Carcinoma, Transitional Cell]] — [[d:Q2501186|Q2501186]] <small>(MeSH: D002295)</small>
+* [[Carcinoma, Verrucous]] — [[d:Q7922592|Q7922592]] <small>(MeSH: D018289)</small>
+* [[Carcinosarcoma]] — [[d:Q5038170|Q5038170]] <small>(MeSH: D002296)</small>
+* [[Cardiac Papillary Fibroelastoma]] — [[d:Q339601|Q339601]] <small>(MeSH: D000084122)</small>
+* [[Carney Complex]] — [[d:Q1044007|Q1044007]] <small>(MeSH: D056733)</small>
+* [[Carotid Body Tumor]] — [[d:Q55789475|Q55789475]] <small>(MeSH: D002345)</small>
+* [[Cell Transformation, Neoplastic]] — [[d:Q1128996|Q1128996]] <small>(MeSH: D002471)</small>
+* [[Cell Transformation, Viral]] — [[d:Q17162815|Q17162815]] <small>(MeSH: D002472)</small>
+* [[Cementoma]] — [[d:Q4503868|Q4503868]] <small>(MeSH: D002485)</small>
+* [[Central Nervous System Neoplasms]] — [[d:Q4335557|Q4335557]] <small>(MeSH: D016543)</small>
+* [[Central Nervous System Venous Angioma]] — [[d:Q54974116|Q54974116]] <small>(MeSH: D020787)</small>
+* [[Chalazion]] — [[d:Q769595|Q769595]] <small>(MeSH: D017043)</small>
+* [[Cholangiocarcinoma]] — [[d:Q124292|Q124292]] <small>(MeSH: D018281)</small>
+* [[Chondroblastoma]] — [[d:Q1076053|Q1076053]] <small>(MeSH: D002804)</small>
+* [[Chondroma]] — [[d:Q1076078|Q1076078]] <small>(MeSH: D002812)</small>
+* [[Chondromatosis]] — [[d:Q1076061|Q1076061]] <small>(MeSH: D018210)</small>
+* [[Chondrosarcoma]] — [[d:Q1076087|Q1076087]] <small>(MeSH: D002813)</small>
+* [[Chondrosarcoma, Clear Cell]] — [[d:Q18557047|Q18557047]] <small>(MeSH: D000077207)</small>
+* [[Chondrosarcoma, Mesenchymal]] — [[d:Q6821200|Q6821200]] <small>(MeSH: D018211)</small>
+* [[Chordoma]] — [[d:Q1076389|Q1076389]] <small>(MeSH: D002817)</small>
+* [[Choriocarcinoma]] — [[d:Q1076481|Q1076481]] <small>(MeSH: D002822)</small>
+* [[Choriocarcinoma, Non-gestational]] — [[d:Q18556281|Q18556281]] <small>(MeSH: D031954)</small>
+* [[Cocarcinogenesis]] — [[d:Q54911386|Q54911386]] <small>(MeSH: D003043)</small>
+* [[Colloid Cysts]] — [[d:Q1779478|Q1779478]] <small>(MeSH: D056364)</small>
+* [[Composite Lymphoma]] — [[d:Q18557019|Q18557019]] <small>(MeSH: D058617)</small>
+* [[Craniopharyngioma]] — [[d:Q1786513|Q1786513]] <small>(MeSH: D003397)</small>
+* [[Cutaneous Malignant Melanoma]] — [[d:Q124258091|Q124258091]] <small>(MeSH: D000096142)</small>
+* [[Cutaneous Squamous Cell Carcinoma]] — [[d:Q5749018|Q5749018]] <small>(MeSH: D000099314)</small>
+* [[Cystadenocarcinoma]] — [[d:Q5201177|Q5201177]] <small>(MeSH: D003536)</small>
+* [[Cystadenocarcinoma, Mucinous]] — [[d:Q6931140|Q6931140]] <small>(MeSH: D018282)</small>
+* [[Cystadenocarcinoma, Papillary]] — [[d:Q18555293|Q18555293]] <small>(MeSH: D018283)</small>
+* [[Cystadenocarcinoma, Serous]] — [[d:Q7455060|Q7455060]] <small>(MeSH: D018284)</small>
+* [[Cystadenofibroma]] — [[d:Q18556809|Q18556809]] <small>(MeSH: D062625)</small>
+* [[Cystadenoma]] — [[d:Q246070|Q246070]] <small>(MeSH: D003537)</small>
+* [[Cystadenoma, Mucinous]] — [[d:Q6931143|Q6931143]] <small>(MeSH: D018291)</small>
+* [[Cystadenoma, Papillary]] — [[d:Q18975106|Q18975106]] <small>(MeSH: D018292)</small>
+* [[Cystadenoma, Serous]] — [[d:Q7455061|Q7455061]] <small>(MeSH: D018293)</small>
+* [[Cysts]] — [[d:Q193211|Q193211]] <small>(MeSH: D003560)</small>
+* [[Dendritic Cell Sarcoma, Follicular]] — [[d:Q5464657|Q5464657]] <small>(MeSH: D054740)</small>
+* [[Dendritic Cell Sarcoma, Interdigitating]] — [[d:Q6046092|Q6046092]] <small>(MeSH: D054739)</small>
+* [[Dentigerous Cyst]] — [[d:Q5259492|Q5259492]] <small>(MeSH: D003803)</small>
+* [[Dermatofibrosarcoma]] — [[d:Q1200239|Q1200239]] <small>(MeSH: D018223)</small>
+* [[Dermoid Cyst]] — [[d:Q1200267|Q1200267]] <small>(MeSH: D003884)</small>
+* [[Desmoid Tumors]] — [[d:Q475086|Q475086]] <small>(MeSH: D018222)</small>
+* [[Desmoplastic Small Round Cell Tumor]] — [[d:Q5264831|Q5264831]] <small>(MeSH: D058405)</small>
+* [[Diffuse Intrinsic Pontine Glioma]] — [[d:Q25339127|Q25339127]] <small>(MeSH: D000080443)</small>
+* [[Digestive System Neoplasms]] — [[d:Q58845312|Q58845312]] <small>(MeSH: D004067)</small>
+* [[Dupuytren Contracture]] — [[d:Q1330254|Q1330254]] <small>(MeSH: D004387)</small>
+* [[Dysgerminoma]] — [[d:Q1269251|Q1269251]] <small>(MeSH: D004407)</small>
+* [[Dysplastic Nevus Syndrome]] — [[d:Q5319554|Q5319554]] <small>(MeSH: D004416)</small>
+* [[Eccrine Porocarcinoma]] — [[d:Q18557651|Q18557651]] <small>(MeSH: D057090)</small>
+* [[Endocrine Gland Neoplasms]] — [[d:Q3542030|Q3542030]] <small>(MeSH: D004701)</small>
+* [[Endodermal Sinus Tumor]] — [[d:Q3542021|Q3542021]] <small>(MeSH: D018240)</small>
+* [[Enteropathy-Associated T-Cell Lymphoma]] — [[d:Q5380239|Q5380239]] <small>(MeSH: D058527)</small>
+* [[Ependymoma]] — [[d:Q1346753|Q1346753]] <small>(MeSH: D004806)</small>
+* [[Epidermal Cyst]] — [[d:Q379476|Q379476]] <small>(MeSH: D004814)</small>
+* [[Erythroplasia]] — [[d:Q897843|Q897843]] <small>(MeSH: D004919)</small>
+* [[Esophageal Cyst]] — [[d:Q54947288|Q54947288]] <small>(MeSH: D004934)</small>
+* [[Esophageal Squamous Cell Carcinoma]] — [[d:Q108442577|Q108442577]] <small>(MeSH: D000077277)</small>
+* [[Esthesioneuroblastoma, Olfactory]] — [[d:Q256806|Q256806]] <small>(MeSH: D018304)</small>
+* [[Exostoses, Multiple Hereditary]] — [[d:Q1952467|Q1952467]] <small>(MeSH: D005097)</small>
+* [[Extranodal Extension]] — [[d:Q114398881|Q114398881]] <small>(MeSH: D000079822)</small>
+* [[Eye Neoplasms]] — [[d:Q56013680|Q56013680]] <small>(MeSH: D005134)</small>
+* [[Facial Neoplasms]] — [[d:Q18975910|Q18975910]] <small>(MeSH: D005153)</small>
+* [[Femoral Neoplasms]] — [[d:Q55789746|Q55789746]] <small>(MeSH: D005266)</small>
+* [[Fibroadenoma]] — [[d:Q1410808|Q1410808]] <small>(MeSH: D018226)</small>
+* [[Fibroma]] — [[d:Q4667072|Q4667072]] <small>(MeSH: D005350)</small>
+* [[Fibroma, Desmoplastic]] — [[d:Q5264826|Q5264826]] <small>(MeSH: D018220)</small>
+* [[Fibroma, Ossifying]] — [[d:Q7107615|Q7107615]] <small>(MeSH: D018214)</small>
+* [[Fibromatosis, Abdominal]] — [[d:Q54889321|Q54889321]] <small>(MeSH: D018221)</small>
+* [[Fibrosarcoma]] — [[d:Q1362453|Q1362453]] <small>(MeSH: D005354)</small>
+* [[Follicular Cyst]] — [[d:Q67376135|Q67376135]] <small>(MeSH: D005497)</small>
+* [[Ganglioglioma]] — [[d:Q460556|Q460556]] <small>(MeSH: D018303)</small>
+* [[Ganglion Cysts]] — [[d:Q1144367|Q1144367]] <small>(MeSH: D045888)</small>
+* [[Ganglioneuroblastoma]] — [[d:Q5521151|Q5521151]] <small>(MeSH: D018305)</small>
+* [[Ganglioneuroma]] — [[d:Q1124606|Q1124606]] <small>(MeSH: D005729)</small>
+* [[Gastrinoma]] — [[d:Q786852|Q786852]] <small>(MeSH: D015408)</small>
+* [[Germinoma]] — [[d:Q950838|Q950838]] <small>(MeSH: D018237)</small>
+* [[Gestational Trophoblastic Disease]] — [[d:Q3433884|Q3433884]] <small>(MeSH: D031901)</small>
+* [[Giant Cell Tumor of Bone]] — [[d:Q1785791|Q1785791]] <small>(MeSH: D018212)</small>
+* [[Giant Cell Tumors]] — [[d:Q18554961|Q18554961]] <small>(MeSH: D005870)</small>
+* [[Glioblastoma]] — [[d:Q282142|Q282142]] <small>(MeSH: D005909)</small>
+* [[Glioma]] — [[d:Q1365309|Q1365309]] <small>(MeSH: D005910)</small>
+* [[Glioma, Subependymal]] — [[d:Q18556497|Q18556497]] <small>(MeSH: D018315)</small>
+* [[Gliosarcoma]] — [[d:Q609503|Q609503]] <small>(MeSH: D018316)</small>
+* [[Glomus Jugulare Tumor]] — [[d:Q55093109|Q55093109]] <small>(MeSH: D005925)</small>
+* [[Glomus Tumor]] — [[d:Q4139987|Q4139987]] <small>(MeSH: D005918)</small>
+* [[Glomus Tympanicum Tumor]] — [[d:Q54931036|Q54931036]] <small>(MeSH: D043604)</small>
+* [[Glucagonoma]] — [[d:Q770843|Q770843]] <small>(MeSH: D005935)</small>
+* [[Granular Cell Tumor]] — [[d:Q940874|Q940874]] <small>(MeSH: D016586)</small>
+* [[Growth Hormone-Secreting Pituitary Adenoma]] — [[d:Q18557191|Q18557191]] <small>(MeSH: D049912)</small>
+* [[Hamartoma]] — [[d:Q525075|Q525075]] <small>(MeSH: D006222)</small>
+* [[Hamartoma Syndrome, Multiple]] — [[d:Q3508737|Q3508737]] <small>(MeSH: D006223)</small>
+* [[Head and Neck Neoplasms]] — [[d:Q18975915|Q18975915]] <small>(MeSH: D006258)</small>
+* [[Heart Neoplasms]] — [[d:Q10385444|Q10385444]] <small>(MeSH: D006338)</small>
+* [[Hemangioblastoma]] — [[d:Q460937|Q460937]] <small>(MeSH: D018325)</small>
+* [[Hemangioendothelioma]] — [[d:Q5710984|Q5710984]] <small>(MeSH: D006390)</small>
+* [[Hemangioendothelioma, Epithelioid]] — [[d:Q1887340|Q1887340]] <small>(MeSH: D018323)</small>
+* [[Hemangioma]] — [[d:Q861028|Q861028]] <small>(MeSH: D006391)</small>
+* [[Hemangioma, Capillary]] — [[d:Q2072821|Q2072821]] <small>(MeSH: D018324)</small>
+* [[Hemangioma, Cavernous]] — [[d:Q1737261|Q1737261]] <small>(MeSH: D006392)</small>
+* [[Hemangiopericytoma]] — [[d:Q3144913|Q3144913]] <small>(MeSH: D006393)</small>
+* [[Hemangiosarcoma]] — [[d:Q539728|Q539728]] <small>(MeSH: D006394)</small>
+* [[Hematologic Neoplasms]] — [[d:Q2509220|Q2509220]] <small>(MeSH: D019337)</small>
+* [[Hepatoblastoma]] — [[d:Q1607658|Q1607658]] <small>(MeSH: D018197)</small>
+* [[Hidrocystoma]] — [[d:Q1617386|Q1617386]] <small>(MeSH: D018251)</small>
+* [[Histiocytic Disorders, Malignant]] — [[d:Q164952|Q164952]] <small>(MeSH: D015620)</small>
+* [[Histiocytic Sarcoma]] — [[d:Q5773034|Q5773034]] <small>(MeSH: D054747)</small>
+* [[Histiocytoma]] — [[d:Q5773040|Q5773040]] <small>(MeSH: D051642)</small>
+* [[Histiocytoma, Benign Fibrous]] — [[d:Q18556314|Q18556314]] <small>(MeSH: D018219)</small>
+* [[Histiocytoma, Malignant Fibrous]] — [[d:Q1887348|Q1887348]] <small>(MeSH: D051677)</small>
+* [[Hodgkin Disease]] — [[d:Q209369|Q209369]] <small>(MeSH: D006689)</small>
+* [[Hutchinson's Melanotic Freckle]] — [[d:Q13257137|Q13257137]] <small>(MeSH: D018327)</small>
+* [[Hydatidiform Mole]] — [[d:Q881855|Q881855]] <small>(MeSH: D006828)</small>
+* [[Hydatidiform Mole, Invasive]] — [[d:Q6059775|Q6059775]] <small>(MeSH: D002820)</small>
+* [[Inflammatory Breast Neoplasms]] — [[d:Q5922406|Q5922406]] <small>(MeSH: D058922)</small>
+* [[Insulinoma]] — [[d:Q1501239|Q1501239]] <small>(MeSH: D007340)</small>
+* [[Intraocular Lymphoma]] — [[d:Q6058506|Q6058506]] <small>(MeSH: D064090)</small>
+* [[Jaw Cysts]] — [[d:Q17085172|Q17085172]] <small>(MeSH: D007570)</small>
+* [[Keratosis, Actinic]] — [[d:Q422225|Q422225]] <small>(MeSH: D055623)</small>
+* [[Klatskin Tumor]] — [[d:Q475260|Q475260]] <small>(MeSH: D018285)</small>
+* [[Krukenberg Tumor]] — [[d:Q1790134|Q1790134]] <small>(MeSH: D007725)</small>
+* [[Langerhans Cell Sarcoma]] — [[d:Q17024798|Q17024798]] <small>(MeSH: D054752)</small>
+* [[Leiomyoma]] — [[d:Q4667534|Q4667534]] <small>(MeSH: D007889)</small>
+* [[Leiomyoma, Epithelioid]] — [[d:Q54927959|Q54927959]] <small>(MeSH: D018230)</small>
+* [[Leiomyomatosis]] — [[d:Q18556640|Q18556640]] <small>(MeSH: D018231)</small>
+* [[Leiomyosarcoma]] — [[d:Q1504713|Q1504713]] <small>(MeSH: D007890)</small>
+* [[Leukemia]] — [[d:Q29496|Q29496]] <small>(MeSH: D007938)</small>
+* [[Leukemia L1210]] — [[d:Q6456824|Q6456824]] <small>(MeSH: D007939)</small>
+* [[Leukemia L5178]] — [[d:Q54974090|Q54974090]] <small>(MeSH: D007940)</small>
+* [[Leukemia P388]] — [[d:Q54911773|Q54911773]] <small>(MeSH: D007941)</small>
+* [[Leukemia, Basophilic, Acute]] — [[d:Q4677911|Q4677911]] <small>(MeSH: D015471)</small>
+* [[Leukemia, Eosinophilic, Acute]] — [[d:Q4677921|Q4677921]] <small>(MeSH: D015472)</small>
+* [[Leukemia, Experimental]] — [[d:Q55045018|Q55045018]] <small>(MeSH: D007942)</small>
+* [[Leukemia, Mast-Cell]] — [[d:Q6784873|Q6784873]] <small>(MeSH: D007946)</small>
+* [[Leukemia, Megakaryoblastic, Acute]] — [[d:Q4677933|Q4677933]] <small>(MeSH: D007947)</small>
+* [[Leukemia, Monocytic, Acute]] — [[d:Q4677938|Q4677938]] <small>(MeSH: D007948)</small>
+* [[Leukemia, Myeloid]] — [[d:Q11688946|Q11688946]] <small>(MeSH: D007951)</small>
+* [[Leukemia, Myeloid, Acute]] — [[d:Q264118|Q264118]] <small>(MeSH: D015470)</small>
+* [[Leukemia, Myelomonocytic, Acute]] — [[d:Q4677943|Q4677943]] <small>(MeSH: D015479)</small>
+* [[Leukemia, Plasma Cell]] — [[d:Q7201765|Q7201765]] <small>(MeSH: D007952)</small>
+* [[Leukemia, Promyelocytic, Acute]] — [[d:Q612108|Q612108]] <small>(MeSH: D015473)</small>
+* [[Leukemia, Radiation-Induced]] — [[d:Q54934802|Q54934802]] <small>(MeSH: D007953)</small>
+* [[Leukemic Infiltration]] — [[d:Q54911749|Q54911749]] <small>(MeSH: D017254)</small>
+* [[Leukoplakia]] — [[d:Q838145|Q838145]] <small>(MeSH: D007971)</small>
+* [[Leukoplakia, Hairy]] — [[d:Q1425185|Q1425185]] <small>(MeSH: D017733)</small>
+* [[Leukoplakia, Oral]] — [[d:Q18558187|Q18558187]] <small>(MeSH: D007972)</small>
+* [[Li-Fraumeni Syndrome]] — [[d:Q187542|Q187542]] <small>(MeSH: D016864)</small>
+* [[Linitis Plastica]] — [[d:Q870891|Q870891]] <small>(MeSH: D008039)</small>
+* [[Lipoblastoma]] — [[d:Q1827370|Q1827370]] <small>(MeSH: D062689)</small>
+* [[Lipoma]] — [[d:Q689985|Q689985]] <small>(MeSH: D008067)</small>
+* [[Liposarcoma]] — [[d:Q1827425|Q1827425]] <small>(MeSH: D008080)</small>
+* [[Liposarcoma, Myxoid]] — [[d:Q6949365|Q6949365]] <small>(MeSH: D018208)</small>
+* [[Liver Neoplasms, Experimental]] — [[d:Q54911723|Q54911723]] <small>(MeSH: D008114)</small>
+* [[Lymphangioleiomyomatosis]] — [[d:Q1878759|Q1878759]] <small>(MeSH: D018192)</small>
+* [[Lymphangioma]] — [[d:Q1545750|Q1545750]] <small>(MeSH: D008202)</small>
+* [[Lymphangioma, Cystic]] — [[d:Q459896|Q459896]] <small>(MeSH: D018191)</small>
+* [[Lymphangiomyoma]] — [[d:Q18975116|Q18975116]] <small>(MeSH: D008203)</small>
+* [[Lymphangiosarcoma]] — [[d:Q3913024|Q3913024]] <small>(MeSH: D008204)</small>
+* [[Lymphatic Metastasis]] — [[d:Q1878737|Q1878737]] <small>(MeSH: D008207)</small>
+* [[Lymphocele]] — [[d:Q1878741|Q1878741]] <small>(MeSH: D008210)</small>
+* [[Lymphoma]] — [[d:Q208414|Q208414]] <small>(MeSH: D008223)</small>
+* [[Lymphoma, AIDS-Related]] — [[d:Q4651856|Q4651856]] <small>(MeSH: D016483)</small>
+* [[Lymphoma, B-Cell]] — [[d:Q4833719|Q4833719]] <small>(MeSH: D016393)</small>
+* [[Lymphoma, B-Cell, Marginal Zone]] — [[d:Q591256|Q591256]] <small>(MeSH: D018442)</small>
+* [[Lymphoma, Extranodal NK-T-Cell]] — [[d:Q4763254|Q4763254]] <small>(MeSH: D054391)</small>
+* [[Lymphoma, Follicular]] — [[d:Q123251|Q123251]] <small>(MeSH: D008224)</small>
+* [[Lymphoma, Large B-Cell, Diffuse]] — [[d:Q2626074|Q2626074]] <small>(MeSH: D016403)</small>
+* [[Lymphoma, Large-Cell, Anaplastic]] — [[d:Q486090|Q486090]] <small>(MeSH: D017728)</small>
+* [[Lymphoma, Large-Cell, Immunoblastic]] — [[d:Q54945783|Q54945783]] <small>(MeSH: D016400)</small>
+* [[Lymphoma, Mantle-Cell]] — [[d:Q268713|Q268713]] <small>(MeSH: D020522)</small>
+* [[Lymphoma, Non-Hodgkin]] — [[d:Q1138590|Q1138590]] <small>(MeSH: D008228)</small>
+* [[Lymphoma, Primary Cutaneous Anaplastic Large Cell]] — [[d:Q5009807|Q5009807]] <small>(MeSH: D054446)</small>
+* [[Lymphoma, Primary Effusion]] — [[d:Q3832899|Q3832899]] <small>(MeSH: D054685)</small>
+* [[Lymphoma, T-Cell]] — [[d:Q7667896|Q7667896]] <small>(MeSH: D016399)</small>
+* [[Lymphoma, T-Cell, Cutaneous]] — [[d:Q5196687|Q5196687]] <small>(MeSH: D016410)</small>
+* [[Lymphoma, T-Cell, Peripheral]] — [[d:Q7168693|Q7168693]] <small>(MeSH: D016411)</small>
+* [[Lymphomatoid Granulomatosis]] — [[d:Q3775784|Q3775784]] <small>(MeSH: D008230)</small>
+* [[Lymphomatoid Papulosis]] — [[d:Q1878745|Q1878745]] <small>(MeSH: D017731)</small>
+* [[Lynch Syndrome II]] — [[d:Q55093233|Q55093233]] <small>(MeSH: D055847)</small>
+* [[Malignant Carcinoid Syndrome]] — [[d:Q339547|Q339547]] <small>(MeSH: D008303)</small>
+* [[Mammary Analogue Secretory Carcinoma]] — [[d:Q28439793|Q28439793]] <small>(MeSH: D000069295)</small>
+* [[Mammary Neoplasms, Animal]] — [[d:Q30015729|Q30015729]] <small>(MeSH: D015674)</small>
+* [[Mammary Neoplasms, Experimental]] — [[d:Q30015675|Q30015675]] <small>(MeSH: D008325)</small>
+* [[Mast-Cell Sarcoma]] — [[d:Q17119512|Q17119512]] <small>(MeSH: D012515)</small>
+* [[Mastocytoma]] — [[d:Q6785569|Q6785569]] <small>(MeSH: D034801)</small>
+* [[Mastocytoma, Skin]] — [[d:Q7558253|Q7558253]] <small>(MeSH: D054705)</small>
+* [[Mastocytosis]] — [[d:Q112670|Q112670]] <small>(MeSH: D008415)</small>
+* [[Mastocytosis, Cutaneous]] — [[d:Q3851645|Q3851645]] <small>(MeSH: D034701)</small>
+* [[Mastocytosis, Systemic]] — [[d:Q3851644|Q3851644]] <small>(MeSH: D034721)</small>
+* [[Mediastinal Cyst]] — [[d:Q55092923|Q55092923]] <small>(MeSH: D008476)</small>
+* [[Mediastinal Neoplasms]] — [[d:Q4271422|Q4271422]] <small>(MeSH: D008479)</small>
+* [[Medulloblastoma]] — [[d:Q1333608|Q1333608]] <small>(MeSH: D008527)</small>
+* [[Melanoma]] — [[d:Q180614|Q180614]] <small>(MeSH: D008545)</small>
+* [[Melanoma, Amelanotic]] — [[d:Q4742183|Q4742183]] <small>(MeSH: D018328)</small>
+* [[Melanoma, Experimental]] — [[d:Q18975854|Q18975854]] <small>(MeSH: D008546)</small>
+* [[Meningeal Carcinomatosis]] — [[d:Q1920586|Q1920586]] <small>(MeSH: D055756)</small>
+* [[Meningeal Neoplasms]] — [[d:Q66106658|Q66106658]] <small>(MeSH: D008577)</small>
+* [[Meningioma]] — [[d:Q369157|Q369157]] <small>(MeSH: D008579)</small>
+* [[Mesenchymoma]] — [[d:Q18555152|Q18555152]] <small>(MeSH: D008637)</small>
+* [[Mesenteric Cyst]] — [[d:Q6821207|Q6821207]] <small>(MeSH: D008639)</small>
+* [[Mesonephroma]] — [[d:Q18968213|Q18968213]] <small>(MeSH: D008649)</small>
+* [[Mesothelioma]] — [[d:Q1077603|Q1077603]] <small>(MeSH: D008654)</small>
+* [[Mesothelioma, Cystic]] — [[d:Q54911649|Q54911649]] <small>(MeSH: D018261)</small>
+* [[Mesothelioma, Malignant]] — [[d:Q107699713|Q107699713]] <small>(MeSH: D000086002)</small>
+* [[Mixed Tumor, Malignant]] — [[d:Q6743510|Q6743510]] <small>(MeSH: D018198)</small>
+* [[Mixed Tumor, Mesodermal]] — [[d:Q66826179|Q66826179]] <small>(MeSH: D018199)</small>
+* [[Mixed Tumor, Mullerian]] — [[d:Q1958786|Q1958786]] <small>(MeSH: D018200)</small>
+* [[Mongolian Spot]] — [[d:Q1072716|Q1072716]] <small>(MeSH: D049328)</small>
+* [[Mouth Neoplasms]] — [[d:Q55789538|Q55789538]] <small>(MeSH: D009062)</small>
+* [[Mucocele]] — [[d:Q6931220|Q6931220]] <small>(MeSH: D009078)</small>
+* [[Mucoepidermoid Tumor]] — [[d:Q18968076|Q18968076]] <small>(MeSH: D018298)</small>
+* [[Multiple Endocrine Neoplasia]] — [[d:Q1553018|Q1553018]] <small>(MeSH: D009377)</small>
+* [[Multiple Endocrine Neoplasia Type 1]] — [[d:Q3347154|Q3347154]] <small>(MeSH: D018761)</small>
+* [[Multiple Endocrine Neoplasia Type 2a]] — [[d:Q604075|Q604075]] <small>(MeSH: D018813)</small>
+* [[Multiple Endocrine Neoplasia Type 2b]] — [[d:Q624748|Q624748]] <small>(MeSH: D018814)</small>
+* [[Muscle Neoplasms]] — [[d:Q18975957|Q18975957]] <small>(MeSH: D019042)</small>
+* [[Mycosis Fungoides]] — [[d:Q1891209|Q1891209]] <small>(MeSH: D009182)</small>
+* [[Myelolipoma]] — [[d:Q1956552|Q1956552]] <small>(MeSH: D018209)</small>
+* [[Myoepithelioma]] — [[d:Q6947913|Q6947913]] <small>(MeSH: D009208)</small>
+* [[Myofibroma]] — [[d:Q18556303|Q18556303]] <small>(MeSH: D047708)</small>
+* [[Myofibromatosis]] — [[d:Q6029048|Q6029048]] <small>(MeSH: D018224)</small>
+* [[Myoma]] — [[d:Q1941101|Q1941101]] <small>(MeSH: D009214)</small>
+* [[Myopericytoma]] — [[d:Q1956699|Q1956699]] <small>(MeSH: D000077777)</small>
+* [[Myosarcoma]] — [[d:Q12735648|Q12735648]] <small>(MeSH: D009217)</small>
+* [[Myxoma]] — [[d:Q589612|Q589612]] <small>(MeSH: D009232)</small>
+* [[Myxosarcoma]] — [[d:Q6949370|Q6949370]] <small>(MeSH: D009236)</small>
+* [[Neoplasm Invasiveness]] — [[d:Q55093148|Q55093148]] <small>(MeSH: D009361)</small>
+* [[Neoplasm Metastasis]] — [[d:Q181876|Q181876]] <small>(MeSH: D009362)</small>
+* [[Neoplasm Micrometastasis]] — [[d:Q2779635|Q2779635]] <small>(MeSH: D061206)</small>
+* [[Neoplasm Recurrence, Local]] — [[d:Q54945651|Q54945651]] <small>(MeSH: D009364)</small>
+* [[Neoplasm Regression, Spontaneous]] — [[d:Q55228765|Q55228765]] <small>(MeSH: D009365)</small>
+* [[Neoplasm Seeding]] — [[d:Q42293527|Q42293527]] <small>(MeSH: D009366)</small>
+* [[Neoplasm, Lymphatic Tissue]] — [[d:Q18968121|Q18968121]] <small>(MeSH: D018190)</small>
+* [[Neoplasm, Residual]] — [[d:Q58833980|Q58833980]] <small>(MeSH: D018365)</small>
+* [[Neoplasms]] — [[d:Q1216998|Q1216998]] <small>(MeSH: D009369)</small>
+* [[Neoplasms by Histologic Type]] — [[d:Q54973970|Q54973970]] <small>(MeSH: D009370)</small>
+* [[Neoplasms by Site]] — [[d:Q18553400|Q18553400]] <small>(MeSH: D009371)</small>
+* [[Neoplasms, Adipose Tissue]] — [[d:Q4682941|Q4682941]] <small>(MeSH: D018205)</small>
+* [[Neoplasms, Adnexal and Skin Appendage]] — [[d:Q4683946|Q4683946]] <small>(MeSH: D018294)</small>
+* [[Neoplasms, Basal Cell]] — [[d:Q66758588|Q66758588]] <small>(MeSH: D018295)</small>
+* [[Neoplasms, Bone Tissue]] — [[d:Q66911469|Q66911469]] <small>(MeSH: D018213)</small>
+* [[Neoplasms, Complex and Mixed]] — [[d:Q5156568|Q5156568]] <small>(MeSH: D018193)</small>
+* [[Neoplasms, Connective and Soft Tissue]] — [[d:Q58845352|Q58845352]] <small>(MeSH: D018204)</small>
+* [[Neoplasms, Connective Tissue]] — [[d:Q3542012|Q3542012]] <small>(MeSH: D009372)</small>
+* [[Neoplasms, Cystic, Mucinous, and Serous]] — [[d:Q5201203|Q5201203]] <small>(MeSH: D018297)</small>
+* [[Neoplasms, Ductal, Lobular, and Medullary]] — [[d:Q5311596|Q5311596]] <small>(MeSH: D018299)</small>
+* [[Neoplasms, Experimental]] — [[d:Q54972042|Q54972042]] <small>(MeSH: D009374)</small>
+* [[Neoplasms, Fibroepithelial]] — [[d:Q5446462|Q5446462]] <small>(MeSH: D018225)</small>
+* [[Neoplasms, Fibrous Tissue]] — [[d:Q3542018|Q3542018]] <small>(MeSH: D018218)</small>
+* [[Neoplasms, Germ Cell and Embryonal]] — [[d:Q58833955|Q58833955]] <small>(MeSH: D009373)</small>
+* [[Neoplasms, Glandular and Epithelial]] — [[d:Q5566612|Q5566612]] <small>(MeSH: D009375)</small>
+* [[Neoplasms, Gonadal Tissue]] — [[d:Q5581314|Q5581314]] <small>(MeSH: D018309)</small>
+* [[Neoplasms, Hormone-Dependent]] — [[d:Q71959899|Q71959899]] <small>(MeSH: D009376)</small>
+* [[Neoplasms, Mesothelial]] — [[d:Q18968050|Q18968050]] <small>(MeSH: D018301)</small>
+* [[Neoplasms, Multiple Primary]] — [[d:Q11793793|Q11793793]] <small>(MeSH: D009378)</small>
+* [[Neoplasms, Muscle Tissue]] — [[d:Q6940324|Q6940324]] <small>(MeSH: D009379)</small>
+* [[Neoplasms, Nerve Tissue]] — [[d:Q67628955|Q67628955]] <small>(MeSH: D009380)</small>
+* [[Neoplasms, Neuroepithelial]] — [[d:Q18975327|Q18975327]] <small>(MeSH: D018302)</small>
+* [[Neoplasms, Plasma Cell]] — [[d:Q18557283|Q18557283]] <small>(MeSH: D054219)</small>
+* [[Neoplasms, Post-Traumatic]] — [[d:Q55086685|Q55086685]] <small>(MeSH: D017169)</small>
+* [[Neoplasms, Radiation-Induced]] — [[d:Q7280327|Q7280327]] <small>(MeSH: D009381)</small>
+* [[Neoplasms, Second Primary]] — [[d:Q25402299|Q25402299]] <small>(MeSH: D016609)</small>
+* [[Neoplasms, Squamous Cell]] — [[d:Q18555316|Q18555316]] <small>(MeSH: D018307)</small>
+* [[Neoplasms, Unknown Primary]] — [[d:Q1024546|Q1024546]] <small>(MeSH: D009382)</small>
+* [[Neoplasms, Vascular Tissue]] — [[d:Q7916470|Q7916470]] <small>(MeSH: D009383)</small>
+* [[Neoplastic Processes]] — [[d:Q18554796|Q18554796]] <small>(MeSH: D009385)</small>
+* [[Neoplastic Syndromes, Hereditary]] — [[d:Q1348398|Q1348398]] <small>(MeSH: D009386)</small>
+* [[Nervous System Neoplasms]] — [[d:Q55789539|Q55789539]] <small>(MeSH: D009423)</small>
+* [[Neurilemmoma]] — [[d:Q369148|Q369148]] <small>(MeSH: D009442)</small>
+* [[Neuroblastoma]] — [[d:Q938205|Q938205]] <small>(MeSH: D009447)</small>
+* [[Neurocytoma]] — [[d:Q1668089|Q1668089]] <small>(MeSH: D018306)</small>
+* [[Neuroectodermal Tumor, Melanotic]] — [[d:Q16938399|Q16938399]] <small>(MeSH: D017600)</small>
+* [[Neuroectodermal Tumors]] — [[d:Q3542016|Q3542016]] <small>(MeSH: D017599)</small>
+* [[Neuroectodermal Tumors, Primitive]] — [[d:Q618660|Q618660]] <small>(MeSH: D018242)</small>
+* [[Neuroectodermal Tumors, Primitive, Peripheral]] — [[d:Q56014124|Q56014124]] <small>(MeSH: D018241)</small>
+* [[Neuroendocrine Tumors]] — [[d:Q1981276|Q1981276]] <small>(MeSH: D018358)</small>
+* [[Neurofibromatoses]] — [[d:Q847605|Q847605]] <small>(MeSH: D017253)</small>
+* [[Neurofibromatosis 2]] — [[d:Q1935832|Q1935832]] <small>(MeSH: D016518)</small>
+* [[Neurofibrosarcoma]] — [[d:Q18555964|Q18555964]] <small>(MeSH: D018319)</small>
+* [[Neuroma]] — [[d:Q1981345|Q1981345]] <small>(MeSH: D009463)</small>
+* [[Neuroma, Acoustic]] — [[d:Q423965|Q423965]] <small>(MeSH: D009464)</small>
+* [[Neurothekeoma]] — [[d:Q7002720|Q7002720]] <small>(MeSH: D018321)</small>
+* [[Nevi and Melanomas]] — [[d:Q7004538|Q7004538]] <small>(MeSH: D018326)</small>
+* [[Nevus]] — [[d:Q692077|Q692077]] <small>(MeSH: D009506)</small>
+* [[Nevus of Ota]] — [[d:Q2053690|Q2053690]] <small>(MeSH: D009507)</small>
+* [[Nevus, Blue]] — [[d:Q2006470|Q2006470]] <small>(MeSH: D018329)</small>
+* [[Nevus, Epithelioid and Spindle Cell]] — [[d:Q18971640|Q18971640]] <small>(MeSH: D018332)</small>
+* [[Nevus, Halo]] — [[d:Q863857|Q863857]] <small>(MeSH: D055882)</small>
+* [[Nevus, Intradermal]] — [[d:Q18971653|Q18971653]] <small>(MeSH: D018330)</small>
+* [[Nevus, Pigmented]] — [[d:Q377568|Q377568]] <small>(MeSH: D009508)</small>
+* [[Nevus, Sebaceous of Jadassohn]] — [[d:Q1274018|Q1274018]] <small>(MeSH: D054000)</small>
+* [[Nevus, Spindle Cell]] — [[d:Q7193412|Q7193412]] <small>(MeSH: D018331)</small>
+* [[Non-Melanoma Skin Neoplasms]] — [[d:Q137701515|Q137701515]] <small>(MeSH: D000099313)</small>
+* [[Nonodontogenic Cysts]] — [[d:Q1985225|Q1985225]] <small>(MeSH: D009631)</small>
+* [[Nose Neoplasms]] — [[d:Q71785199|Q71785199]] <small>(MeSH: D009669)</small>
+* [[Odontogenic Cyst, Calcifying]] — [[d:Q5018774|Q5018774]] <small>(MeSH: D018333)</small>
+* [[Odontogenic Cysts]] — [[d:Q7077950|Q7077950]] <small>(MeSH: D009807)</small>
+* [[Odontogenic Tumor, Squamous]] — [[d:Q7581957|Q7581957]] <small>(MeSH: D051527)</small>
+* [[Odontogenic Tumors]] — [[d:Q7077953|Q7077953]] <small>(MeSH: D009808)</small>
+* [[Odontoma]] — [[d:Q2520684|Q2520684]] <small>(MeSH: D009810)</small>
+* [[Oligodendroglioma]] — [[d:Q1318384|Q1318384]] <small>(MeSH: D009837)</small>
+* [[Oncogene Addiction]] — [[d:Q97366443|Q97366443]] <small>(MeSH: D000074723)</small>
+* [[Optic Nerve Glioma]] — [[d:Q7098796|Q7098796]] <small>(MeSH: D020339)</small>
+* [[Orbital Neoplasms]] — [[d:Q6153804|Q6153804]] <small>(MeSH: D009918)</small>
+* [[Osteoblastoma]] — [[d:Q1807280|Q1807280]] <small>(MeSH: D018215)</small>
+* [[Osteochondroma]] — [[d:Q2035032|Q2035032]] <small>(MeSH: D015831)</small>
+* [[Osteochondromatosis]] — [[d:Q7107610|Q7107610]] <small>(MeSH: D018216)</small>
+* [[Osteoma]] — [[d:Q1675957|Q1675957]] <small>(MeSH: D010016)</small>
+* [[Osteoma, Osteoid]] — [[d:Q1473802|Q1473802]] <small>(MeSH: D010017)</small>
+* [[Osteosarcoma]] — [[d:Q549534|Q549534]] <small>(MeSH: D012516)</small>
+* [[Osteosarcoma, Juxtacortical]] — [[d:Q18555400|Q18555400]] <small>(MeSH: D018217)</small>
+* [[Otorhinolaryngologic Neoplasms]] — [[d:Q54927859|Q54927859]] <small>(MeSH: D010039)</small>
+* [[Paget Disease, Extramammary]] — [[d:Q3077016|Q3077016]] <small>(MeSH: D010145)</small>
+* [[Paget's Disease, Mammary]] — [[d:Q1572384|Q1572384]] <small>(MeSH: D010144)</small>
+* [[Pagetoid Reticulosis]] — [[d:Q7124338|Q7124338]] <small>(MeSH: D056267)</small>
+* [[Palatal Neoplasms]] — [[d:Q55212322|Q55212322]] <small>(MeSH: D010157)</small>
+* [[Pancreatic Cyst]] — [[d:Q25324230|Q25324230]] <small>(MeSH: D010181)</small>
+* [[Pancreatic Intraductal Neoplasms]] — [[d:Q69866626|Q69866626]] <small>(MeSH: D000077779)</small>
+* [[Pancreatic Neoplasms]] — [[d:Q7130412|Q7130412]] <small>(MeSH: D010190)</small>
+* [[Pancreatic Pseudocyst]] — [[d:Q689496|Q689496]] <small>(MeSH: D010192)</small>
+* [[Papilloma]] — [[d:Q912796|Q912796]] <small>(MeSH: D010212)</small>
+* [[Papilloma, Intraductal]] — [[d:Q6058395|Q6058395]] <small>(MeSH: D018300)</small>
+* [[Papilloma, Inverted]] — [[d:Q11393885|Q11393885]] <small>(MeSH: D018308)</small>
+* [[Paraganglioma]] — [[d:Q581592|Q581592]] <small>(MeSH: D010235)</small>
+* [[Paraganglioma, Extra-Adrenal]] — [[d:Q54932022|Q54932022]] <small>(MeSH: D010236)</small>
+* [[Paraneoplastic Cerebellar Degeneration]] — [[d:Q3508804|Q3508804]] <small>(MeSH: D020362)</small>
+* [[Paraneoplastic Endocrine Syndromes]] — [[d:Q54973435|Q54973435]] <small>(MeSH: D009384)</small>
+* [[Paraneoplastic Polyneuropathy]] — [[d:Q18558000|Q18558000]] <small>(MeSH: D020364)</small>
+* [[Paraneoplastic Syndromes]] — [[d:Q936417|Q936417]] <small>(MeSH: D010257)</small>
+* [[Paraneoplastic Syndromes, Nervous System]] — [[d:Q54931551|Q54931551]] <small>(MeSH: D020361)</small>
+* [[Paraneoplastic Syndromes, Ocular]] — [[d:Q55082349|Q55082349]] <small>(MeSH: D059545)</small>
+* [[Parathyroid Neoplasms]] — [[d:Q7136148|Q7136148]] <small>(MeSH: D010282)</small>
+* [[Parovarian Cyst]] — [[d:Q18556287|Q18556287]] <small>(MeSH: D010310)</small>
+* [[Pelvic Neoplasms]] — [[d:Q7161811|Q7161811]] <small>(MeSH: D010386)</small>
+* [[Peritoneal Neoplasms]] — [[d:Q19000425|Q19000425]] <small>(MeSH: D010534)</small>
+* [[Perivascular Epithelioid Cell Neoplasms]] — [[d:Q7118906|Q7118906]] <small>(MeSH: D054973)</small>
+* [[Peutz-Jeghers Syndrome]] — [[d:Q1544989|Q1544989]] <small>(MeSH: D010580)</small>
+* [[Pheochromocytoma]] — [[d:Q536269|Q536269]] <small>(MeSH: D010673)</small>
+* [[Phyllodes Tumor]] — [[d:Q1149070|Q1149070]] <small>(MeSH: D003557)</small>
+* [[Pilomatrixoma]] — [[d:Q1704531|Q1704531]] <small>(MeSH: D018296)</small>
+* [[Pilonidal Sinus]] — [[d:Q961331|Q961331]] <small>(MeSH: D010864)</small>
+* [[Pinealoma]] — [[d:Q1047551|Q1047551]] <small>(MeSH: D010871)</small>
+* [[Plasmablastic Lymphoma]] — [[d:Q17635591|Q17635591]] <small>(MeSH: D000069293)</small>
+* [[Plasmacytoma]] — [[d:Q2090167|Q2090167]] <small>(MeSH: D010954)</small>
+* [[Popliteal Cyst]] — [[d:Q804332|Q804332]] <small>(MeSH: D011151)</small>
+* [[Poroma]] — [[d:Q18556792|Q18556792]] <small>(MeSH: D057091)</small>
+* [[Precancerous Conditions]] — [[d:Q1088163|Q1088163]] <small>(MeSH: D011230)</small>
+* [[Pregnancy Complications, Neoplastic]] — [[d:Q18967783|Q18967783]] <small>(MeSH: D011252)</small>
+* [[Preleukemia]] — [[d:Q68462838|Q68462838]] <small>(MeSH: D011289)</small>
+* [[Prolactinoma]] — [[d:Q954831|Q954831]] <small>(MeSH: D015175)</small>
+* [[Prostatic Intraepithelial Neoplasia]] — [[d:Q54911767|Q54911767]] <small>(MeSH: D019048)</small>
+* [[Proteus Syndrome]] — [[d:Q281115|Q281115]] <small>(MeSH: D016715)</small>
+* [[Pseudomyxoma Peritonei]] — [[d:Q574694|Q574694]] <small>(MeSH: D011553)</small>
+* [[Pulmonary Blastoma]] — [[d:Q3640885|Q3640885]] <small>(MeSH: D018202)</small>
+* [[Ranula]] — [[d:Q1756640|Q1756640]] <small>(MeSH: D011900)</small>
+* [[Respiratory Tract Neoplasms]] — [[d:Q58833963|Q58833963]] <small>(MeSH: D012142)</small>
+* [[Retinoblastoma]] — [[d:Q500695|Q500695]] <small>(MeSH: D012175)</small>
+* [[Retroperitoneal Neoplasms]] — [[d:Q56014660|Q56014660]] <small>(MeSH: D012186)</small>
+* [[Rhabdoid Tumor]] — [[d:Q6743515|Q6743515]] <small>(MeSH: D018335)</small>
+* [[Rhabdomyoma]] — [[d:Q2147401|Q2147401]] <small>(MeSH: D012207)</small>
+* [[Rhabdomyosarcoma]] — [[d:Q1898141|Q1898141]] <small>(MeSH: D012208)</small>
+* [[Rhabdomyosarcoma, Alveolar]] — [[d:Q4737958|Q4737958]] <small>(MeSH: D018232)</small>
+* [[Rhabdomyosarcoma, Embryonal]] — [[d:Q5370233|Q5370233]] <small>(MeSH: D018233)</small>
+* [[Sarcoma]] — [[d:Q223911|Q223911]] <small>(MeSH: D012509)</small>
+* [[Sarcoma 180]] — [[d:Q54947605|Q54947605]] <small>(MeSH: D012510)</small>
+* [[Sarcoma 37]] — [[d:Q55045001|Q55045001]] <small>(MeSH: D012511)</small>
+* [[Sarcoma, Alveolar Soft Part]] — [[d:Q4063436|Q4063436]] <small>(MeSH: D018234)</small>
+* [[Sarcoma, Clear Cell]] — [[d:Q3473544|Q3473544]] <small>(MeSH: D018227)</small>
+* [[Sarcoma, Ewing]] — [[d:Q1138580|Q1138580]] <small>(MeSH: D012512)</small>
+* [[Sarcoma, Experimental]] — [[d:Q54944230|Q54944230]] <small>(MeSH: D012513)</small>
+* [[Sarcoma, Kaposi]] — [[d:Q725345|Q725345]] <small>(MeSH: D012514)</small>
+* [[Sarcoma, Myeloid]] — [[d:Q3680952|Q3680952]] <small>(MeSH: D023981)</small>
+* [[Sarcoma, Small Cell]] — [[d:Q18555287|Q18555287]] <small>(MeSH: D018228)</small>
+* [[Sarcoma, Synovial]] — [[d:Q2619315|Q2619315]] <small>(MeSH: D013584)</small>
+* [[Sarcoma, Yoshida]] — [[d:Q54911633|Q54911633]] <small>(MeSH: D012517)</small>
+* [[Seminoma]] — [[d:Q1786953|Q1786953]] <small>(MeSH: D018239)</small>
+* [[Sex Cord-Gonadal Stromal Tumors]] — [[d:Q5474322|Q5474322]] <small>(MeSH: D018312)</small>
+* [[Sister Mary Joseph's Nodule]] — [[d:Q1093872|Q1093872]] <small>(MeSH: D058288)</small>
+* [[Skin Neoplasms]] — [[d:Q18921119|Q18921119]] <small>(MeSH: D012878)</small>
+* [[Skull Base Neoplasms]] — [[d:Q18556086|Q18556086]] <small>(MeSH: D019292)</small>
+* [[Skull Neoplasms]] — [[d:Q56014663|Q56014663]] <small>(MeSH: D012888)</small>
+* [[Smooth Muscle Tumor]] — [[d:Q18556280|Q18556280]] <small>(MeSH: D018235)</small>
+* [[Soft Tissue Neoplasms]] — [[d:Q17640201|Q17640201]] <small>(MeSH: D012983)</small>
+* [[Solitary Fibrous Tumor, Pleural]] — [[d:Q18555146|Q18555146]] <small>(MeSH: D054363)</small>
+* [[Solitary Fibrous Tumors]] — [[d:Q7558248|Q7558248]] <small>(MeSH: D054364)</small>
+* [[Somatostatinoma]] — [[d:Q1736456|Q1736456]] <small>(MeSH: D013005)</small>
+* [[Splenic Neoplasms]] — [[d:Q7578547|Q7578547]] <small>(MeSH: D013160)</small>
+* [[Squamous Cell Carcinoma of Head and Neck]] — [[d:Q18348812|Q18348812]] <small>(MeSH: D000077195)</small>
+* [[Struma Ovarii]] — [[d:Q2357409|Q2357409]] <small>(MeSH: D013330)</small>
+* [[Sturge-Weber Syndrome]] — [[d:Q1886238|Q1886238]] <small>(MeSH: D013341)</small>
+* [[Synovial Cyst]] — [[d:Q3200997|Q3200997]] <small>(MeSH: D013581)</small>
+* [[Syringoma]] — [[d:Q2376518|Q2376518]] <small>(MeSH: D018252)</small>
+* [[Tarlov Cysts]] — [[d:Q1648960|Q1648960]] <small>(MeSH: D052958)</small>
+* [[Teratocarcinoma]] — [[d:Q18555369|Q18555369]] <small>(MeSH: D018243)</small>
+* [[Teratoma]] — [[d:Q200741|Q200741]] <small>(MeSH: D013724)</small>
+* [[Thoracic Neoplasms]] — [[d:Q56014516|Q56014516]] <small>(MeSH: D013899)</small>
+* [[Thymoma]] — [[d:Q1429863|Q1429863]] <small>(MeSH: D013945)</small>
+* [[Thymus Neoplasms]] — [[d:Q53844926|Q53844926]] <small>(MeSH: D013953)</small>
+* [[Thyroglossal Cyst]] — [[d:Q502785|Q502785]] <small>(MeSH: D013955)</small>
+* [[Thyroid Cancer, Papillary]] — [[d:Q2292945|Q2292945]] <small>(MeSH: D000077273)</small>
+* [[Thyroid Carcinoma, Anaplastic]] — [[d:Q19000862|Q19000862]] <small>(MeSH: D065646)</small>
+* [[Thyroid Neoplasms]] — [[d:Q13632630|Q13632630]] <small>(MeSH: D013964)</small>
+* [[Thyroid Nodule]] — [[d:Q53829|Q53829]] <small>(MeSH: D016606)</small>
+* [[Tracheal Neoplasms]] — [[d:Q7831293|Q7831293]] <small>(MeSH: D014134)</small>
+* [[Triple Negative Breast Neoplasms]] — [[d:Q58833983|Q58833983]] <small>(MeSH: D064726)</small>
+* [[Trophoblastic Neoplasms]] — [[d:Q7845637|Q7845637]] <small>(MeSH: D014328)</small>
+* [[Trophoblastic Tumor, Placental Site]] — [[d:Q7200301|Q7200301]] <small>(MeSH: D018245)</small>
+* [[Tuberous Sclerosis]] — [[d:Q1362721|Q1362721]] <small>(MeSH: D014402)</small>
+* [[Tubular Sweat Gland Adenomas]] — [[d:Q64785911|Q64785911]] <small>(MeSH: D000074009)</small>
+* [[Unilateral Breast Neoplasms]] — [[d:Q55093078|Q55093078]] <small>(MeSH: D000069584)</small>
+* [[Urachal Cyst]] — [[d:Q7899540|Q7899540]] <small>(MeSH: D014496)</small>
+* [[Urticaria Pigmentosa]] — [[d:Q3886247|Q3886247]] <small>(MeSH: D014582)</small>
+* [[Uveal Melanoma]] — [[d:Q356372|Q356372]] <small>(MeSH: D000098943)</small>
+* [[Vascular Neoplasms]] — [[d:Q25422732|Q25422732]] <small>(MeSH: D019043)</small>
+* [[Venereal Tumors, Veterinary]] — [[d:Q1779250|Q1779250]] <small>(MeSH: D014685)</small>
+* [[Vipoma]] — [[d:Q1518637|Q1518637]] <small>(MeSH: D003969)</small>
+
+=== Urology ===
+
+* '''Coverage:''' 32.2%
+* '''{{color|blue|Bluelinks}}:''' 119
+* '''{{color|red|Redlinks}}:''' 250
+* [[46, XX Disorders of Sex Development]] — [[d:Q54946913|Q54946913]] <small>(MeSH: D058489)</small>
+* [[46, XX Testicular Disorders of Sex Development]] — [[d:Q365589|Q365589]] <small>(MeSH: D058531)</small>
+* [[Abortion, Habitual]] — [[d:Q25787|Q25787]] <small>(MeSH: D000026)</small>
+* [[Abortion, Incomplete]] — [[d:Q54973841|Q54973841]] <small>(MeSH: D000027)</small>
+* [[Abortion, Missed]] — [[d:Q2515884|Q2515884]] <small>(MeSH: D000030)</small>
+* [[Abortion, Septic]] — [[d:Q17011656|Q17011656]] <small>(MeSH: D000031)</small>
+* [[Abortion, Spontaneous]] — [[d:Q28693|Q28693]] <small>(MeSH: D000022)</small>
+* [[Abortion, Threatened]] — [[d:Q10889918|Q10889918]] <small>(MeSH: D000033)</small>
+* [[Abortion, Veterinary]] — [[d:Q55093337|Q55093337]] <small>(MeSH: D000034)</small>
+* [[Abruptio Placentae]] — [[d:Q388113|Q388113]] <small>(MeSH: D000037)</small>
+* [[Acidosis, Renal Tubular]] — [[d:Q1516211|Q1516211]] <small>(MeSH: D000141)</small>
+* [[Acute Kidney Injury]] — [[d:Q424337|Q424337]] <small>(MeSH: D058186)</small>
+* [[Adenomyosis]] — [[d:Q2012569|Q2012569]] <small>(MeSH: D062788)</small>
+* [[Adnexal Diseases]] — [[d:Q54945591|Q54945591]] <small>(MeSH: D000291)</small>
+* [[Adrenal Hyperplasia, Congenital]] — [[d:Q366868|Q366868]] <small>(MeSH: D000312)</small>
+* [[Adrenogenital Syndrome]] — [[d:Q13368382|Q13368382]] <small>(MeSH: D047808)</small>
+* [[Albuminuria]] — [[d:Q974792|Q974792]] <small>(MeSH: D000419)</small>
+* [[Androgen-Insensitivity Syndrome]] — [[d:Q512313|Q512313]] <small>(MeSH: D013734)</small>
+* [[Anovulation]] — [[d:Q25556|Q25556]] <small>(MeSH: D000858)</small>
+* [[Anti-Glomerular Basement Membrane Disease]] — [[d:Q1345792|Q1345792]] <small>(MeSH: D019867)</small>
+* [[Anuria]] — [[d:Q612681|Q612681]] <small>(MeSH: D001002)</small>
+* [[Aspermia]] — [[d:Q736599|Q736599]] <small>(MeSH: D053714)</small>
+* [[Asthenozoospermia]] — [[d:Q2329041|Q2329041]] <small>(MeSH: D053627)</small>
+* [[Atrophic Vaginitis]] — [[d:Q4007235|Q4007235]] <small>(MeSH: D059268)</small>
+* [[Atypical Hemolytic Uremic Syndrome]] — [[d:Q17165460|Q17165460]] <small>(MeSH: D065766)</small>
+* [[Atypical Squamous Cells of the Cervix]] — [[d:Q55092991|Q55092991]] <small>(MeSH: D065309)</small>
+* [[Azoospermia]] — [[d:Q794026|Q794026]] <small>(MeSH: D053713)</small>
+* [[Azotemia]] — [[d:Q794072|Q794072]] <small>(MeSH: D053099)</small>
+* [[Bacteriuria]] — [[d:Q632522|Q632522]] <small>(MeSH: D001437)</small>
+* [[Balanitis]] — [[d:Q1138584|Q1138584]] <small>(MeSH: D001446)</small>
+* [[Balanitis Xerotica Obliterans]] — [[d:Q4850044|Q4850044]] <small>(MeSH: D052798)</small>
+* [[Balkan Nephropathy]] — [[d:Q805030|Q805030]] <small>(MeSH: D001449)</small>
+* [[Bartter Syndrome]] — [[d:Q790971|Q790971]] <small>(MeSH: D001477)</small>
+* [[Bicornuate Uterus]] — [[d:Q2403166|Q2403166]] <small>(MeSH: D000093663)</small>
+* [[Bladder Exstrophy]] — [[d:Q258858|Q258858]] <small>(MeSH: D001746)</small>
+* [[Brenner Tumor]] — [[d:Q55790443|Q55790443]] <small>(MeSH: D001948)</small>
+* [[Candidiasis, Vulvovaginal]] — [[d:Q977090|Q977090]] <small>(MeSH: D002181)</small>
+* [[Carcinoma, Endometrioid]] — [[d:Q18555222|Q18555222]] <small>(MeSH: D018269)</small>
+* [[Carcinoma, Ovarian Epithelial]] — [[d:Q103839148|Q103839148]] <small>(MeSH: D000077216)</small>
+* [[Carcinoma, Renal Cell]] — [[d:Q1164529|Q1164529]] <small>(MeSH: D002292)</small>
+* [[Cardio-Renal Syndrome]] — [[d:Q5038718|Q5038718]] <small>(MeSH: D059347)</small>
+* [[Cephalopelvic Disproportion]] — [[d:Q3030582|Q3030582]] <small>(MeSH: D052178)</small>
+* [[Chiari-Frommel Syndrome]] — [[d:Q3492580|Q3492580]] <small>(MeSH: D002640)</small>
+* [[Chorioamnionitis]] — [[d:Q473739|Q473739]] <small>(MeSH: D002821)</small>
+* [[Chronic Kidney Disease-Mineral and Bone Disorder]] — [[d:Q25339734|Q25339734]] <small>(MeSH: D012080)</small>
+* [[Chronic Kidney Diseases of Uncertain Etiology]] — [[d:Q116687299|Q116687299]] <small>(MeSH: D000092702)</small>
+* [[Cloacal Exstrophy]] — [[d:Q5134736|Q5134736]] <small>(MeSH: D000099005)</small>
+* [[Cryptorchidism]] — [[d:Q966052|Q966052]] <small>(MeSH: D003456)</small>
+* [[Cystinuria]] — [[d:Q1149046|Q1149046]] <small>(MeSH: D003555)</small>
+* [[Cystitis]] — [[d:Q246084|Q246084]] <small>(MeSH: D003556)</small>
+* [[Cystitis, Hemorrhagic]] — [[d:Q5712565|Q5712565]] <small>(MeSH: D000096722)</small>
+* [[Cystitis, Interstitial]] — [[d:Q1671412|Q1671412]] <small>(MeSH: D018856)</small>
+* [[Cystocele]] — [[d:Q246085|Q246085]] <small>(MeSH: D052858)</small>
+* [[Dent Disease]] — [[d:Q4420121|Q4420121]] <small>(MeSH: D057973)</small>
+* [[Denys-Drash Syndrome]] — [[d:Q774016|Q774016]] <small>(MeSH: D030321)</small>
+* [[Depression, Postpartum]] — [[d:Q935129|Q935129]] <small>(MeSH: D019052)</small>
+* [[Developmental Origins of Health and Disease]] — [[d:Q85756612|Q85756612]] <small>(MeSH: D000098845)</small>
+* [[Diabetes Insipidus]] — [[d:Q220551|Q220551]] <small>(MeSH: D003919)</small>
+* [[Diabetes Insipidus, Nephrogenic]] — [[d:Q2892779|Q2892779]] <small>(MeSH: D018500)</small>
+* [[Diabetes Insipidus, Neurogenic]] — [[d:Q12412172|Q12412172]] <small>(MeSH: D020790)</small>
+* [[Diabetes, Gestational]] — [[d:Q126691|Q126691]] <small>(MeSH: D016640)</small>
+* [[Diabetic Nephropathies]] — [[d:Q1129105|Q1129105]] <small>(MeSH: D003928)</small>
+* [[Disorder of Sex Development, 46,XY]] — [[d:Q66653235|Q66653235]] <small>(MeSH: D058490)</small>
+* [[Disorders of Sex Development]] — [[d:Q5282521|Q5282521]] <small>(MeSH: D012734)</small>
+* [[Diurnal Enuresis]] — [[d:Q5283757|Q5283757]] <small>(MeSH: D053207)</small>
+* [[Dyspareunia]] — [[d:Q120395|Q120395]] <small>(MeSH: D004414)</small>
+* [[Dystocia]] — [[d:Q1811189|Q1811189]] <small>(MeSH: D004420)</small>
+* [[Echogenic Bowel]] — [[d:Q55190262|Q55190262]] <small>(MeSH: D058535)</small>
+* [[Eclampsia]] — [[d:Q552348|Q552348]] <small>(MeSH: D004461)</small>
+* [[Ejaculatory Dysfunction]] — [[d:Q47528917|Q47528917]] <small>(MeSH: D000097910)</small>
+* [[Embryo Loss]] — [[d:Q64698726|Q64698726]] <small>(MeSH: D020964)</small>
+* [[Emphysematous Pyelonephritis]] — [[d:Q4531740|Q4531740]] <small>(MeSH: D000098985)</small>
+* [[Endometrial Hyperplasia]] — [[d:Q686574|Q686574]] <small>(MeSH: D004714)</small>
+* [[Endometrial Neoplasms]] — [[d:Q58833978|Q58833978]] <small>(MeSH: D016889)</small>
+* [[Endometrial Stromal Tumors]] — [[d:Q15802235|Q15802235]] <small>(MeSH: D036821)</small>
+* [[Endometriosis]] — [[d:Q205764|Q205764]] <small>(MeSH: D004715)</small>
+* [[Endometritis]] — [[d:Q1340774|Q1340774]] <small>(MeSH: D004716)</small>
+* [[Enuresis]] — [[d:Q3448862|Q3448862]] <small>(MeSH: D004775)</small>
+* [[Epididymitis]] — [[d:Q1344812|Q1344812]] <small>(MeSH: D004823)</small>
+* [[Epispadias]] — [[d:Q1347416|Q1347416]] <small>(MeSH: D004842)</small>
+* [[Erectile Dysfunction]] — [[d:Q184674|Q184674]] <small>(MeSH: D007172)</small>
+* [[Fallopian Tube Diseases]] — [[d:Q18554947|Q18554947]] <small>(MeSH: D005184)</small>
+* [[Fallopian Tube Neoplasms]] — [[d:Q58833940|Q58833940]] <small>(MeSH: D005185)</small>
+* [[Fanconi Syndrome]] — [[d:Q1179460|Q1179460]] <small>(MeSH: D005198)</small>
+* [[Female Urogenital Diseases]] — [[d:Q54927807|Q54927807]] <small>(MeSH: D052776)</small>
+* [[Female Urogenital Diseases and Pregnancy Complications]] — [[d:Q54944003|Q54944003]] <small>(MeSH: D005261)</small>
+* [[Fetal Alcohol Spectrum Disorders]] — [[d:Q17002116|Q17002116]] <small>(MeSH: D063647)</small>
+* [[Fetal Death]] — [[d:Q30397754|Q30397754]] <small>(MeSH: D005313)</small>
+* [[Fetal Diseases]] — [[d:Q1409154|Q1409154]] <small>(MeSH: D005315)</small>
+* [[Fetal Growth Retardation]] — [[d:Q1671598|Q1671598]] <small>(MeSH: D005317)</small>
+* [[Fetal Hypoxia]] — [[d:Q4113828|Q4113828]] <small>(MeSH: D005311)</small>
+* [[Fetal Macrosomia]] — [[d:Q55011503|Q55011503]] <small>(MeSH: D005320)</small>
+* [[Fetal Nutrition Disorders]] — [[d:Q18967622|Q18967622]] <small>(MeSH: D048070)</small>
+* [[Fetal Resorption]] — [[d:Q65090420|Q65090420]] <small>(MeSH: D005327)</small>
+* [[Fournier Gangrene]] — [[d:Q616449|Q616449]] <small>(MeSH: D018934)</small>
+* [[Frasier Syndrome]] — [[d:Q5493754|Q5493754]] <small>(MeSH: D052159)</small>
+* [[Freemartinism]] — [[d:Q1453590|Q1453590]] <small>(MeSH: D005611)</small>
+* [[Fused Kidney]] — [[d:Q16948277|Q16948277]] <small>(MeSH: D000069337)</small>
+* [[Galactorrhea]] — [[d:Q278515|Q278515]] <small>(MeSH: D005687)</small>
+* [[Genital Diseases]] — [[d:Q7314317|Q7314317]] <small>(MeSH: D000091662)</small>
+* [[Genital Diseases, Female]] — [[d:Q5442760|Q5442760]] <small>(MeSH: D005831)</small>
+* [[Genital Diseases, Male]] — [[d:Q6742925|Q6742925]] <small>(MeSH: D005832)</small>
+* [[Genital Neoplasms, Female]] — [[d:Q56014489|Q56014489]] <small>(MeSH: D005833)</small>
+* [[Genital Neoplasms, Male]] — [[d:Q56014655|Q56014655]] <small>(MeSH: D005834)</small>
+* [[Gitelman Syndrome]] — [[d:Q1053120|Q1053120]] <small>(MeSH: D053579)</small>
+* [[Glomerulonephritis]] — [[d:Q605006|Q605006]] <small>(MeSH: D005921)</small>
+* [[Glomerulonephritis, IGA]] — [[d:Q1146454|Q1146454]] <small>(MeSH: D005922)</small>
+* [[Glomerulonephritis, Membranoproliferative]] — [[d:Q2299379|Q2299379]] <small>(MeSH: D015432)</small>
+* [[Glomerulonephritis, Membranous]] — [[d:Q1713037|Q1713037]] <small>(MeSH: D015433)</small>
+* [[Glomerulosclerosis, Focal Segmental]] — [[d:Q1435223|Q1435223]] <small>(MeSH: D005923)</small>
+* [[Glycosuria]] — [[d:Q1136213|Q1136213]] <small>(MeSH: D006029)</small>
+* [[Glycosuria, Renal]] — [[d:Q1207967|Q1207967]] <small>(MeSH: D006030)</small>
+* [[Gonadal Dysgenesis]] — [[d:Q1332427|Q1332427]] <small>(MeSH: D006059)</small>
+* [[Gonadal Dysgenesis, 46,XX]] — [[d:Q8042656|Q8042656]] <small>(MeSH: D023961)</small>
+* [[Gonadal Dysgenesis, 46,XY]] — [[d:Q957751|Q957751]] <small>(MeSH: D006061)</small>
+* [[Gonadal Dysgenesis, Mixed]] — [[d:Q6883972|Q6883972]] <small>(MeSH: D006060)</small>
+* [[Gonadoblastoma]] — [[d:Q5581320|Q5581320]] <small>(MeSH: D018238)</small>
+* [[Granulomatous Mastitis]] — [[d:Q5596838|Q5596838]] <small>(MeSH: D058890)</small>
+* [[Granulosa Cell Tumor]] — [[d:Q612093|Q612093]] <small>(MeSH: D006106)</small>
+* [[Gynatresia]] — [[d:Q1486140|Q1486140]] <small>(MeSH: D006175)</small>
+* [[Hartnup Disease]] — [[d:Q200985|Q200985]] <small>(MeSH: D006250)</small>
+* [[HELLP Syndrome]] — [[d:Q1563513|Q1563513]] <small>(MeSH: D017359)</small>
+* [[Hematocele]] — [[d:Q1620444|Q1620444]] <small>(MeSH: D006398)</small>
+* [[Hematocolpos]] — [[d:Q5711155|Q5711155]] <small>(MeSH: D006399)</small>
+* [[Hematometra]] — [[d:Q7476276|Q7476276]] <small>(MeSH: D006409)</small>
+* [[Hematuria]] — [[d:Q373597|Q373597]] <small>(MeSH: D006417)</small>
+* [[Hemoglobinuria]] — [[d:Q1553850|Q1553850]] <small>(MeSH: D006456)</small>
+* [[Hemolytic-Uremic Syndrome]] — [[d:Q162266|Q162266]] <small>(MeSH: D006463)</small>
+* [[Hemospermia]] — [[d:Q2077117|Q2077117]] <small>(MeSH: D051516)</small>
+* [[Hepatorenal Syndrome]] — [[d:Q247131|Q247131]] <small>(MeSH: D006530)</small>
+* [[Hereditary Breast and Ovarian Cancer Syndrome]] — [[d:Q19000660|Q19000660]] <small>(MeSH: D061325)</small>
+* [[Herpes Genitalis]] — [[d:Q7476596|Q7476596]] <small>(MeSH: D006558)</small>
+* [[Hydrocolpos]] — [[d:Q5954725|Q5954725]] <small>(MeSH: D052202)</small>
+* [[Hydronephrosis]] — [[d:Q730877|Q730877]] <small>(MeSH: D006869)</small>
+* [[Hyperandrogenism]] — [[d:Q10529545|Q10529545]] <small>(MeSH: D017588)</small>
+* [[Hyperemesis Gravidarum]] — [[d:Q391556|Q391556]] <small>(MeSH: D006939)</small>
+* [[Hyperoxaluria]] — [[d:Q1641060|Q1641060]] <small>(MeSH: D006959)</small>
+* [[Hyperoxaluria, Primary]] — [[d:Q7243137|Q7243137]] <small>(MeSH: D006960)</small>
+* [[Hypertension, Pregnancy-Induced]] — [[d:Q19001368|Q19001368]] <small>(MeSH: D046110)</small>
+* [[Hypertension, Renal]] — [[d:Q11788761|Q11788761]] <small>(MeSH: D006977)</small>
+* [[Hypertension, Renovascular]] — [[d:Q3296793|Q3296793]] <small>(MeSH: D006978)</small>
+* [[Hypophosphatemia, Familial]] — [[d:Q18975841|Q18975841]] <small>(MeSH: D007015)</small>
+* [[Hypospadias]] — [[d:Q1132108|Q1132108]] <small>(MeSH: D007021)</small>
+* [[Impotence, Vasculogenic]] — [[d:Q18556468|Q18556468]] <small>(MeSH: D018783)</small>
+* [[Infertility]] — [[d:Q179399|Q179399]] <small>(MeSH: D007246)</small>
+* [[Infertility, Female]] — [[d:Q648065|Q648065]] <small>(MeSH: D007247)</small>
+* [[Infertility, Male]] — [[d:Q280156|Q280156]] <small>(MeSH: D007248)</small>
+* [[Kallmann Syndrome]] — [[d:Q1165179|Q1165179]] <small>(MeSH: D017436)</small>
+* [[Kidney Calculi]] — [[d:Q178623|Q178623]] <small>(MeSH: D007669)</small>
+* [[Kidney Cortex Necrosis]] — [[d:Q2860302|Q2860302]] <small>(MeSH: D007673)</small>
+* [[Kidney Diseases]] — [[d:Q1054718|Q1054718]] <small>(MeSH: D007674)</small>
+* [[Kidney Diseases, Cystic]] — [[d:Q5201211|Q5201211]] <small>(MeSH: D052177)</small>
+* [[Kidney Failure, Chronic]] — [[d:Q65464902|Q65464902]] <small>(MeSH: D007676)</small>
+* [[Kidney Neoplasms]] — [[d:Q13641482|Q13641482]] <small>(MeSH: D007680)</small>
+* [[Kidney Papillary Necrosis]] — [[d:Q7312498|Q7312498]] <small>(MeSH: D007681)</small>
+* [[Kidney Tubular Necrosis, Acute]] — [[d:Q2425407|Q2425407]] <small>(MeSH: D007683)</small>
+* [[Klinefelter Syndrome]] — [[d:Q207133|Q207133]] <small>(MeSH: D007713)</small>
+* [[Lactation Disorders]] — [[d:Q19001407|Q19001407]] <small>(MeSH: D007775)</small>
+* [[Leukorrhea]] — [[d:Q1144334|Q1144334]] <small>(MeSH: D007973)</small>
+* [[Leydig Cell Tumor]] — [[d:Q18555162|Q18555162]] <small>(MeSH: D007984)</small>
+* [[Liddle Syndrome]] — [[d:Q1823656|Q1823656]] <small>(MeSH: D056929)</small>
+* [[Lupus Nephritis]] — [[d:Q1621830|Q1621830]] <small>(MeSH: D008181)</small>
+* [[Luteoma]] — [[d:Q3840916|Q3840916]] <small>(MeSH: D018311)</small>
+* [[Male Urogenital Diseases]] — [[d:Q54932071|Q54932071]] <small>(MeSH: D052801)</small>
+* [[Mastitis]] — [[d:Q835061|Q835061]] <small>(MeSH: D008413)</small>
+* [[Medullary Sponge Kidney]] — [[d:Q119280|Q119280]] <small>(MeSH: D007691)</small>
+* [[Meigs Syndrome]] — [[d:Q1808930|Q1808930]] <small>(MeSH: D008539)</small>
+* [[Menopause, Premature]] — [[d:Q22467774|Q22467774]] <small>(MeSH: D008594)</small>
+* [[Menorrhagia]] — [[d:Q1494682|Q1494682]] <small>(MeSH: D008595)</small>
+* [[Metrorrhagia]] — [[d:Q1268495|Q1268495]] <small>(MeSH: D008796)</small>
+* [[Morning Sickness]] — [[d:Q1068134|Q1068134]] <small>(MeSH: D048968)</small>
+* [[Multicystic Dysplastic Kidney]] — [[d:Q6934642|Q6934642]] <small>(MeSH: D021782)</small>
+* [[Nephritis]] — [[d:Q401402|Q401402]] <small>(MeSH: D009393)</small>
+* [[Nephritis, Hereditary]] — [[d:Q1331116|Q1331116]] <small>(MeSH: D009394)</small>
+* [[Nephritis, Interstitial]] — [[d:Q1424106|Q1424106]] <small>(MeSH: D009395)</small>
+* [[Nephrocalcinosis]] — [[d:Q1527711|Q1527711]] <small>(MeSH: D009397)</small>
+* [[Nephrolithiasis]] — [[d:Q18557037|Q18557037]] <small>(MeSH: D053040)</small>
+* [[Nephroma, Mesoblastic]] — [[d:Q6821415|Q6821415]] <small>(MeSH: D018201)</small>
+* [[Nephrosclerosis]] — [[d:Q1434446|Q1434446]] <small>(MeSH: D009400)</small>
+* [[Nephrosis]] — [[d:Q6995207|Q6995207]] <small>(MeSH: D009401)</small>
+* [[Nephrosis, Lipoid]] — [[d:Q1323002|Q1323002]] <small>(MeSH: D009402)</small>
+* [[Nephrotic Syndrome]] — [[d:Q504790|Q504790]] <small>(MeSH: D009404)</small>
+* [[Nocturnal Enuresis]] — [[d:Q318005|Q318005]] <small>(MeSH: D053206)</small>
+* [[Non-Muscle Invasive Bladder Neoplasms]] — [[d:Q116728508|Q116728508]] <small>(MeSH: D000093284)</small>
+* [[Nuchal Cord]] — [[d:Q1961969|Q1961969]] <small>(MeSH: D053589)</small>
+* [[Obstetric Labor Complications]] — [[d:Q7075540|Q7075540]] <small>(MeSH: D007744)</small>
+* [[Obstetric Labor, Premature]] — [[d:Q18966545|Q18966545]] <small>(MeSH: D007752)</small>
+* [[Oligohydramnios]] — [[d:Q1144406|Q1144406]] <small>(MeSH: D016104)</small>
+* [[Oligospermia]] — [[d:Q1876491|Q1876491]] <small>(MeSH: D009845)</small>
+* [[Oliguria]] — [[d:Q961326|Q961326]] <small>(MeSH: D009846)</small>
+* [[Oophoritis]] — [[d:Q2851545|Q2851545]] <small>(MeSH: D009869)</small>
+* [[Orchitis]] — [[d:Q540850|Q540850]] <small>(MeSH: D009920)</small>
+* [[Ovarian Cysts]] — [[d:Q147362|Q147362]] <small>(MeSH: D010048)</small>
+* [[Ovarian Diseases]] — [[d:Q7113244|Q7113244]] <small>(MeSH: D010049)</small>
+* [[Ovarian Hyperstimulation Syndrome]] — [[d:Q1760461|Q1760461]] <small>(MeSH: D016471)</small>
+* [[Ovarian Neoplasms]] — [[d:Q11793790|Q11793790]] <small>(MeSH: D010051)</small>
+* [[Ovarian Torsion]] — [[d:Q552233|Q552233]] <small>(MeSH: D000082843)</small>
+* [[Ovotesticular Disorders of Sex Development]] — [[d:Q54944059|Q54944059]] <small>(MeSH: D050090)</small>
+* [[Parametritis]] — [[d:Q761496|Q761496]] <small>(MeSH: D010249)</small>
+* [[Paraphimosis]] — [[d:Q1414480|Q1414480]] <small>(MeSH: D010263)</small>
+* [[Pelvic Floor Disorders]] — [[d:Q7161799|Q7161799]] <small>(MeSH: D059952)</small>
+* [[Pelvic Inflammatory Disease]] — [[d:Q558070|Q558070]] <small>(MeSH: D000292)</small>
+* [[Pemphigoid Gestationis]] — [[d:Q8280|Q8280]] <small>(MeSH: D006559)</small>
+* [[Penile Diseases]] — [[d:Q18554834|Q18554834]] <small>(MeSH: D010409)</small>
+* [[Penile Induration]] — [[d:Q874586|Q874586]] <small>(MeSH: D010411)</small>
+* [[Penile Neoplasms]] — [[d:Q18554121|Q18554121]] <small>(MeSH: D010412)</small>
+* [[Perinatal Death]] — [[d:Q2781245|Q2781245]] <small>(MeSH: D066087)</small>
+* [[Perinephritis]] — [[d:Q4344969|Q4344969]] <small>(MeSH: D010501)</small>
+* [[Phimosis]] — [[d:Q382641|Q382641]] <small>(MeSH: D010688)</small>
+* [[Placenta Accreta]] — [[d:Q517856|Q517856]] <small>(MeSH: D010921)</small>
+* [[Placenta Diseases]] — [[d:Q7200296|Q7200296]] <small>(MeSH: D010922)</small>
+* [[Placenta Previa]] — [[d:Q1471410|Q1471410]] <small>(MeSH: D010923)</small>
+* [[Placenta, Retained]] — [[d:Q7316626|Q7316626]] <small>(MeSH: D018457)</small>
+* [[Placental Insufficiency]] — [[d:Q2099138|Q2099138]] <small>(MeSH: D010927)</small>
+* [[Polycystic Kidney Diseases]] — [[d:Q60195313|Q60195313]] <small>(MeSH: D007690)</small>
+* [[Polycystic Kidney, Autosomal Dominant]] — [[d:Q2732398|Q2732398]] <small>(MeSH: D016891)</small>
+* [[Polycystic Kidney, Autosomal Recessive]] — [[d:Q3395618|Q3395618]] <small>(MeSH: D017044)</small>
+* [[Polycystic Ovary Syndrome]] — [[d:Q500816|Q500816]] <small>(MeSH: D011085)</small>
+* [[Polyhydramnios]] — [[d:Q976163|Q976163]] <small>(MeSH: D006831)</small>
+* [[Polyuria]] — [[d:Q1124286|Q1124286]] <small>(MeSH: D011141)</small>
+* [[Postpartum Hemorrhage]] — [[d:Q2916482|Q2916482]] <small>(MeSH: D006473)</small>
+* [[Postpartum Thyroiditis]] — [[d:Q16488|Q16488]] <small>(MeSH: D050032)</small>
+* [[Pre-Eclampsia]] — [[d:Q61335|Q61335]] <small>(MeSH: D011225)</small>
+* [[Pregnancy Complications]] — [[d:Q2916477|Q2916477]] <small>(MeSH: D011248)</small>
+* [[Pregnancy Complications, Cardiovascular]] — [[d:Q18966975|Q18966975]] <small>(MeSH: D011249)</small>
+* [[Pregnancy Complications, Hematologic]] — [[d:Q18967181|Q18967181]] <small>(MeSH: D011250)</small>
+* [[Pregnancy in Diabetics]] — [[d:Q2777805|Q2777805]] <small>(MeSH: D011254)</small>
+* [[Pregnancy in Obesity]] — [[d:Q108582152|Q108582152]] <small>(MeSH: D000079262)</small>
+* [[Pregnancy, Abdominal]] — [[d:Q811134|Q811134]] <small>(MeSH: D011269)</small>
+* [[Pregnancy, Angular]] — [[d:Q54911242|Q54911242]] <small>(MeSH: D065170)</small>
+* [[Pregnancy, Cornual]] — [[d:Q54921337|Q54921337]] <small>(MeSH: D065173)</small>
+* [[Pregnancy, Ectopic]] — [[d:Q207087|Q207087]] <small>(MeSH: D011271)</small>
+* [[Pregnancy, Heterotopic]] — [[d:Q3117073|Q3117073]] <small>(MeSH: D063192)</small>
+* [[Pregnancy, Interstitial]] — [[d:Q17004056|Q17004056]] <small>(MeSH: D065167)</small>
+* [[Pregnancy, Ovarian]] — [[d:Q7113251|Q7113251]] <small>(MeSH: D065172)</small>
+* [[Pregnancy, Prolonged]] — [[d:Q3399863|Q3399863]] <small>(MeSH: D011273)</small>
+* [[Pregnancy, Tubal]] — [[d:Q14523576|Q14523576]] <small>(MeSH: D011274)</small>
+* [[Premature Birth]] — [[d:Q625506|Q625506]] <small>(MeSH: D047928)</small>
+* [[Premature Ejaculation]] — [[d:Q319312|Q319312]] <small>(MeSH: D061686)</small>
+* [[Premature Rupture of Fetal Membranes]] — [[d:Q11703370|Q11703370]] <small>(MeSH: D005322)</small>
+* [[Prenatal Exposure Delayed Effects]] — [[d:Q54911376|Q54911376]] <small>(MeSH: D011297)</small>
+* [[Prenatal Injuries]] — [[d:Q55083326|Q55083326]] <small>(MeSH: D049188)</small>
+* [[Priapism]] — [[d:Q156590|Q156590]] <small>(MeSH: D011317)</small>
+* [[Primary Ovarian Insufficiency]] — [[d:Q647630|Q647630]] <small>(MeSH: D016649)</small>
+* [[Prostatic Diseases]] — [[d:Q18556445|Q18556445]] <small>(MeSH: D011469)</small>
+* [[Prostatic Hyperplasia]] — [[d:Q506659|Q506659]] <small>(MeSH: D011470)</small>
+* [[Prostatic Neoplasms]] — [[d:Q56014511|Q56014511]] <small>(MeSH: D011471)</small>
+* [[Prostatic Neoplasms, Castration-Resistant]] — [[d:Q55092942|Q55092942]] <small>(MeSH: D064129)</small>
+* [[Prostatitis]] — [[d:Q372752|Q372752]] <small>(MeSH: D011472)</small>
+* [[Proteinuria]] — [[d:Q570197|Q570197]] <small>(MeSH: D011507)</small>
+* [[Pruritus Vulvae]] — [[d:Q7253120|Q7253120]] <small>(MeSH: D011539)</small>
+* [[Pseudohypoaldosteronism]] — [[d:Q200745|Q200745]] <small>(MeSH: D011546)</small>
+* [[Puerperal Disorders]] — [[d:Q7258523|Q7258523]] <small>(MeSH: D011644)</small>
+* [[Puerperal Infection]] — [[d:Q1419347|Q1419347]] <small>(MeSH: D011645)</small>
+* [[Pyelitis]] — [[d:Q12830091|Q12830091]] <small>(MeSH: D011702)</small>
+* [[Pyelocystitis]] — [[d:Q47148397|Q47148397]] <small>(MeSH: D053653)</small>
+* [[Pyelonephritis]] — [[d:Q506652|Q506652]] <small>(MeSH: D011704)</small>
+* [[Pyelonephritis, Xanthogranulomatous]] — [[d:Q4243298|Q4243298]] <small>(MeSH: D011705)</small>
+* [[Pyometra]] — [[d:Q1147908|Q1147908]] <small>(MeSH: D055112)</small>
+* [[Pyonephrosis]] — [[d:Q1047294|Q1047294]] <small>(MeSH: D053018)</small>
+* [[Pyuria]] — [[d:Q778731|Q778731]] <small>(MeSH: D011776)</small>
+* [[Renal Aminoacidurias]] — [[d:Q18966461|Q18966461]] <small>(MeSH: D000608)</small>
+* [[Renal Artery Obstruction]] — [[d:Q515376|Q515376]] <small>(MeSH: D012078)</small>
+* [[Renal Insufficiency]] — [[d:Q476921|Q476921]] <small>(MeSH: D051437)</small>
+* [[Renal Insufficiency, Chronic]] — [[d:Q736715|Q736715]] <small>(MeSH: D051436)</small>
+* [[Renal Nutcracker Syndrome]] — [[d:Q1504516|Q1504516]] <small>(MeSH: D059228)</small>
+* [[Renal Tubular Transport, Inborn Errors]] — [[d:Q6013986|Q6013986]] <small>(MeSH: D015499)</small>
+* [[Reproductive Tract Infections]] — [[d:Q54931661|Q54931661]] <small>(MeSH: D060737)</small>
+* [[Retrocaval Ureter]] — [[d:Q16925829|Q16925829]] <small>(MeSH: D064749)</small>
+* [[Retrograde Ejaculation]] — [[d:Q1759920|Q1759920]] <small>(MeSH: D000097908)</small>
+* [[Salpingitis]] — [[d:Q359892|Q359892]] <small>(MeSH: D012488)</small>
+* [[Sarcoma, Endometrial Stromal]] — [[d:Q5376363|Q5376363]] <small>(MeSH: D018203)</small>
+* [[Septate Uterus]] — [[d:Q7902656|Q7902656]] <small>(MeSH: D000093665)</small>
+* [[Sertoli Cell Tumor]] — [[d:Q4000421|Q4000421]] <small>(MeSH: D012707)</small>
+* [[Sertoli Cell-Only Syndrome]] — [[d:Q167050|Q167050]] <small>(MeSH: D054331)</small>
+* [[Sertoli-Leydig Cell Tumor]] — [[d:Q18555257|Q18555257]] <small>(MeSH: D018310)</small>
+* [[Sex Chromosome Disorders of Sex Development]] — [[d:Q54943934|Q54943934]] <small>(MeSH: D058533)</small>
+* [[Sexual Dysfunction, Physiological]] — [[d:Q66296097|Q66296097]] <small>(MeSH: D012735)</small>
+* [[Sexual Infantilism]] — [[d:Q55234677|Q55234677]] <small>(MeSH: D050035)</small>
+* [[Shoulder Dystocia]] — [[d:Q420240|Q420240]] <small>(MeSH: D000080883)</small>
+* [[Solitary Kidney]] — [[d:Q113383445|Q113383445]] <small>(MeSH: D000075529)</small>
+* [[Spermatic Cord Torsion]] — [[d:Q1434575|Q1434575]] <small>(MeSH: D013086)</small>
+* [[Spermatocele]] — [[d:Q385532|Q385532]] <small>(MeSH: D013088)</small>
+* [[Squamous Intraepithelial Lesions of the Cervix]] — [[d:Q7581955|Q7581955]] <small>(MeSH: D065310)</small>
+* [[Staghorn Calculi]] — [[d:Q65178442|Q65178442]] <small>(MeSH: D000069856)</small>
+* [[Stillbirth]] — [[d:Q745832|Q745832]] <small>(MeSH: D050497)</small>
+* [[Teratozoospermia]] — [[d:Q2161625|Q2161625]] <small>(MeSH: D000072660)</small>
+* [[Testicular Diseases]] — [[d:Q7705854|Q7705854]] <small>(MeSH: D013733)</small>
+* [[Testicular Hydrocele]] — [[d:Q584211|Q584211]] <small>(MeSH: D006848)</small>
+* [[Testicular Neoplasms]] — [[d:Q55787784|Q55787784]] <small>(MeSH: D013736)</small>
+* [[Thecoma]] — [[d:Q55790929|Q55790929]] <small>(MeSH: D013798)</small>
+* [[Trichomonas Vaginitis]] — [[d:Q18966969|Q18966969]] <small>(MeSH: D014247)</small>
+* [[Tuberculosis, Female Genital]] — [[d:Q18967471|Q18967471]] <small>(MeSH: D014384)</small>
+* [[Tuberculosis, Male Genital]] — [[d:Q19001042|Q19001042]] <small>(MeSH: D014389)</small>
+* [[Tuberculosis, Renal]] — [[d:Q18558204|Q18558204]] <small>(MeSH: D014398)</small>
+* [[Tuberculosis, Urogenital]] — [[d:Q2500965|Q2500965]] <small>(MeSH: D014401)</small>
+* [[Turner Syndrome]] — [[d:Q202849|Q202849]] <small>(MeSH: D014424)</small>
+* [[Uremia]] — [[d:Q13365776|Q13365776]] <small>(MeSH: D014511)</small>
+* [[Ureteral Calculi]] — [[d:Q67566975|Q67566975]] <small>(MeSH: D014514)</small>
+* [[Ureteral Diseases]] — [[d:Q18554726|Q18554726]] <small>(MeSH: D014515)</small>
+* [[Ureteral Neoplasms]] — [[d:Q7900421|Q7900421]] <small>(MeSH: D014516)</small>
+* [[Ureteral Obstruction]] — [[d:Q18556674|Q18556674]] <small>(MeSH: D014517)</small>
+* [[Ureterocele]] — [[d:Q782515|Q782515]] <small>(MeSH: D014518)</small>
+* [[Ureterolithiasis]] — [[d:Q18554694|Q18554694]] <small>(MeSH: D053039)</small>
+* [[Urethral Diseases]] — [[d:Q18557550|Q18557550]] <small>(MeSH: D014522)</small>
+* [[Urethral Neoplasms]] — [[d:Q58833969|Q58833969]] <small>(MeSH: D014523)</small>
+* [[Urethral Obstruction]] — [[d:Q18554349|Q18554349]] <small>(MeSH: D014524)</small>
+* [[Urethral Stricture]] — [[d:Q1585753|Q1585753]] <small>(MeSH: D014525)</small>
+* [[Urethritis]] — [[d:Q1122485|Q1122485]] <small>(MeSH: D014526)</small>
+* [[Urinary Bladder Calculi]] — [[d:Q3825881|Q3825881]] <small>(MeSH: D001744)</small>
+* [[Urinary Bladder Diseases]] — [[d:Q6066379|Q6066379]] <small>(MeSH: D001745)</small>
+* [[Urinary Bladder Fistula]] — [[d:Q55082286|Q55082286]] <small>(MeSH: D001747)</small>
+* [[Urinary Bladder Neck Obstruction]] — [[d:Q7900619|Q7900619]] <small>(MeSH: D001748)</small>
+* [[Urinary Bladder Neoplasms]] — [[d:Q55949884|Q55949884]] <small>(MeSH: D001749)</small>
+* [[Urinary Bladder, Neurogenic]] — [[d:Q2339038|Q2339038]] <small>(MeSH: D001750)</small>
+* [[Urinary Bladder, Overactive]] — [[d:Q331231|Q331231]] <small>(MeSH: D053201)</small>
+* [[Urinary Bladder, Underactive]] — [[d:Q7883430|Q7883430]] <small>(MeSH: D000077295)</small>
+* [[Urinary Calculi]] — [[d:Q3650513|Q3650513]] <small>(MeSH: D014545)</small>
+* [[Urinary Fistula]] — [[d:Q54947504|Q54947504]] <small>(MeSH: D014548)</small>
+* [[Urinary Incontinence]] — [[d:Q281490|Q281490]] <small>(MeSH: D014549)</small>
+* [[Urinary Incontinence, Stress]] — [[d:Q3797702|Q3797702]] <small>(MeSH: D014550)</small>
+* [[Urinary Incontinence, Urge]] — [[d:Q11712575|Q11712575]] <small>(MeSH: D053202)</small>
+* [[Urinary Retention]] — [[d:Q1366695|Q1366695]] <small>(MeSH: D016055)</small>
+* [[Urinary Tract Infections]] — [[d:Q221668|Q221668]] <small>(MeSH: D014552)</small>
+* [[Urination Disorders]] — [[d:Q19000619|Q19000619]] <small>(MeSH: D014555)</small>
+* [[Urogenital Abnormalities]] — [[d:Q4066792|Q4066792]] <small>(MeSH: D014564)</small>
+* [[Urogenital Diseases]] — [[d:Q29033580|Q29033580]] <small>(MeSH: D000091642)</small>
+* [[Urogenital Neoplasms]] — [[d:Q7900855|Q7900855]] <small>(MeSH: D014565)</small>
+* [[Urolithiasis]] — [[d:Q1585769|Q1585769]] <small>(MeSH: D052878)</small>
+* [[Urologic Diseases]] — [[d:Q7900883|Q7900883]] <small>(MeSH: D014570)</small>
+* [[Urologic Neoplasms]] — [[d:Q56014472|Q56014472]] <small>(MeSH: D014571)</small>
+* [[Uterine Cervical Diseases]] — [[d:Q18555046|Q18555046]] <small>(MeSH: D002577)</small>
+* [[Uterine Cervical Dysplasia]] — [[d:Q19001141|Q19001141]] <small>(MeSH: D002578)</small>
+* [[Uterine Cervical Erosion]] — [[d:Q720523|Q720523]] <small>(MeSH: D002579)</small>
+* [[Uterine Cervical Incompetence]] — [[d:Q2563414|Q2563414]] <small>(MeSH: D002581)</small>
+* [[Uterine Cervical Neoplasms]] — [[d:Q56014502|Q56014502]] <small>(MeSH: D002583)</small>
+* [[Uterine Cervicitis]] — [[d:Q2463884|Q2463884]] <small>(MeSH: D002575)</small>
+* [[Uterine Didelphys]] — [[d:Q3936703|Q3936703]] <small>(MeSH: D000093642)</small>
+* [[Uterine Diseases]] — [[d:Q18555940|Q18555940]] <small>(MeSH: D014591)</small>
+* [[Uterine Duplication Anomalies]] — [[d:Q116752956|Q116752956]] <small>(MeSH: D000093662)</small>
+* [[Uterine Hemorrhage]] — [[d:Q2633143|Q2633143]] <small>(MeSH: D014592)</small>
+* [[Uterine Inertia]] — [[d:Q1418513|Q1418513]] <small>(MeSH: D014593)</small>
+* [[Uterine Inversion]] — [[d:Q7902651|Q7902651]] <small>(MeSH: D019687)</small>
+* [[Uterine Neoplasms]] — [[d:Q56014517|Q56014517]] <small>(MeSH: D014594)</small>
+* [[Uterine Perforation]] — [[d:Q3918693|Q3918693]] <small>(MeSH: D014595)</small>
+* [[Uterine Prolapse]] — [[d:Q180777|Q180777]] <small>(MeSH: D014596)</small>
+* [[Uterine Retroversion]] — [[d:Q1069694|Q1069694]] <small>(MeSH: D060725)</small>
+* [[Uterine Rupture]] — [[d:Q901433|Q901433]] <small>(MeSH: D014597)</small>
+* [[Vaginal Discharge]] — [[d:Q778502|Q778502]] <small>(MeSH: D019522)</small>
+* [[Vaginal Diseases]] — [[d:Q18211693|Q18211693]] <small>(MeSH: D014623)</small>
+* [[Vaginal Fistula]] — [[d:Q99639166|Q99639166]] <small>(MeSH: D014624)</small>
+* [[Vaginal Neoplasms]] — [[d:Q2507281|Q2507281]] <small>(MeSH: D014625)</small>
+* [[Vaginismus]] — [[d:Q1128431|Q1128431]] <small>(MeSH: D052065)</small>
+* [[Vaginitis]] — [[d:Q676191|Q676191]] <small>(MeSH: D014627)</small>
+* [[Vaginosis, Bacterial]] — [[d:Q804521|Q804521]] <small>(MeSH: D016585)</small>
+* [[Varicocele]] — [[d:Q549229|Q549229]] <small>(MeSH: D014646)</small>
+* [[Vasa Previa]] — [[d:Q1899576|Q1899576]] <small>(MeSH: D055949)</small>
+* [[Vesico-Ureteral Reflux]] — [[d:Q1550521|Q1550521]] <small>(MeSH: D014718)</small>
+* [[Vesicovaginal Fistula]] — [[d:Q3702211|Q3702211]] <small>(MeSH: D014719)</small>
+* [[Vulvar Diseases]] — [[d:Q18211751|Q18211751]] <small>(MeSH: D014845)</small>
+* [[Vulvar Lichen Sclerosus]] — [[d:Q1664923|Q1664923]] <small>(MeSH: D007724)</small>
+* [[Vulvar Neoplasms]] — [[d:Q52601023|Q52601023]] <small>(MeSH: D014846)</small>
+* [[Vulvar Vestibulitis]] — [[d:Q7943634|Q7943634]] <small>(MeSH: D054515)</small>
+* [[Vulvitis]] — [[d:Q1542466|Q1542466]] <small>(MeSH: D014847)</small>
+* [[Vulvodynia]] — [[d:Q1571008|Q1571008]] <small>(MeSH: D056650)</small>
+* [[Vulvovaginitis]] — [[d:Q2535470|Q2535470]] <small>(MeSH: D014848)</small>
+* [[WAGR Syndrome]] — [[d:Q1892153|Q1892153]] <small>(MeSH: D017624)</small>
+* [[Wilms Tumor]] — [[d:Q756289|Q756289]] <small>(MeSH: D009396)</small>
+* [[Zellweger Syndrome]] — [[d:Q189167|Q189167]] <small>(MeSH: D015211)</small>
+
+
+[[Category:WikiProject MeSH]]

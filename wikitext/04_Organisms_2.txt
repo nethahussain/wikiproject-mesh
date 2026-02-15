@@ -1,0 +1,969 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Bacteria ===
+
+* '''Coverage:''' 86.0%
+* '''{{color|blue|Bluelinks}}:''' 737
+* '''{{color|red|Redlinks}}:''' 120
+* [[Abiotrophia]] — [[d:Q2821641|Q2821641]] <small>(MeSH: D058835)</small>
+* [[Acetivibrio thermocellus]] — [[d:Q3681172|Q3681172]] <small>(MeSH: D048013)</small>
+* [[Acetoanaerobium sticklandii]] — [[d:Q3681162|Q3681162]] <small>(MeSH: D047991)</small>
+* [[Acetobacter]] — [[d:Q132434|Q132434]] <small>(MeSH: D000091)</small>
+* [[Acetobacteraceae]] — [[d:Q32299|Q32299]] <small>(MeSH: D016947)</small>
+* [[Acetobacterium]] — [[d:Q3604291|Q3604291]] <small>(MeSH: D045855)</small>
+* [[Acholeplasma]] — [[d:Q481881|Q481881]] <small>(MeSH: D000127)</small>
+* [[Acholeplasma laidlawii]] — [[d:Q3604455|Q3604455]] <small>(MeSH: D000128)</small>
+* [[Acholeplasmataceae]] — [[d:Q390198|Q390198]] <small>(MeSH: D000129)</small>
+* [[Achromobacter]] — [[d:Q146380|Q146380]] <small>(MeSH: D042402)</small>
+* [[Achromobacter cycloclastes]] — [[d:Q16824872|Q16824872]] <small>(MeSH: D042422)</small>
+* [[Achromobacter denitrificans]] — [[d:Q16824877|Q16824877]] <small>(MeSH: D042441)</small>
+* [[Acidaminococcus]] — [[d:Q4674086|Q4674086]] <small>(MeSH: D045850)</small>
+* [[Acidiphilium]] — [[d:Q4033269|Q4033269]] <small>(MeSH: D041801)</small>
+* [[Acidithiobacillus]] — [[d:Q142671|Q142671]] <small>(MeSH: D042763)</small>
+* [[Acidithiobacillus thiooxidans]] — [[d:Q16973931|Q16973931]] <small>(MeSH: D013856)</small>
+* [[Acidobacteria]] — [[d:Q41579|Q41579]] <small>(MeSH: D061271)</small>
+* [[Acinetobacter]] — [[d:Q310457|Q310457]] <small>(MeSH: D000150)</small>
+* [[Acinetobacter baumannii]] — [[d:Q3241189|Q3241189]] <small>(MeSH: D040981)</small>
+* [[Acinetobacter calcoaceticus]] — [[d:Q4674168|Q4674168]] <small>(MeSH: D016954)</small>
+* [[Actinobacillus]] — [[d:Q310714|Q310714]] <small>(MeSH: D000188)</small>
+* [[Actinobacillus equuli]] — [[d:Q25833732|Q25833732]] <small>(MeSH: D044131)</small>
+* [[Actinobacillus pleuropneumoniae]] — [[d:Q343332|Q343332]] <small>(MeSH: D016977)</small>
+* [[Actinobacillus seminis]] — [[d:Q16825146|Q16825146]] <small>(MeSH: D044133)</small>
+* [[Actinobacillus suis]] — [[d:Q4676910|Q4676910]] <small>(MeSH: D044132)</small>
+* [[Actinobacteria]] — [[d:Q130914|Q130914]] <small>(MeSH: D039903)</small>
+* [[Actinomadura]] — [[d:Q16825153|Q16825153]] <small>(MeSH: D000082403)</small>
+* [[Actinomyces]] — [[d:Q312213|Q312213]] <small>(MeSH: D000190)</small>
+* [[Actinomyces viscosus]] — [[d:Q2690800|Q2690800]] <small>(MeSH: D016924)</small>
+* [[Actinomycetaceae]] — [[d:Q877696|Q877696]] <small>(MeSH: D000191)</small>
+* [[Actinomycetales]] — [[d:Q343452|Q343452]] <small>(MeSH: D000192)</small>
+* [[Actinoplanes]] — [[d:Q16825162|Q16825162]] <small>(MeSH: D000079584)</small>
+* [[Aerococcaceae]] — [[d:Q2825617|Q2825617]] <small>(MeSH: D056567)</small>
+* [[Aerococcus]] — [[d:Q4688224|Q4688224]] <small>(MeSH: D056570)</small>
+* [[Aeromonadaceae]] — [[d:Q4688333|Q4688333]] <small>(MeSH: D044044)</small>
+* [[Aeromonadales]] — [[d:Q489845|Q489845]] <small>(MeSH: D000074762)</small>
+* [[Aeromonas]] — [[d:Q137647|Q137647]] <small>(MeSH: D000333)</small>
+* [[Aeromonas caviae]] — [[d:Q16825697|Q16825697]] <small>(MeSH: D057585)</small>
+* [[Aeromonas hydrophila]] — [[d:Q2697755|Q2697755]] <small>(MeSH: D016980)</small>
+* [[Aeromonas salmonicida]] — [[d:Q4688338|Q4688338]] <small>(MeSH: D048409)</small>
+* [[Aeromonas veronii]] — [[d:Q4688339|Q4688339]] <small>(MeSH: D000070079)</small>
+* [[Afipia]] — [[d:Q18350372|Q18350372]] <small>(MeSH: D020622)</small>
+* [[Aggregatibacter]] — [[d:Q4692260|Q4692260]] <small>(MeSH: D064206)</small>
+* [[Aggregatibacter actinomycetemcomitans]] — [[d:Q2174895|Q2174895]] <small>(MeSH: D016976)</small>
+* [[Aggregatibacter aphrophilus]] — [[d:Q62903907|Q62903907]] <small>(MeSH: D064207)</small>
+* [[Aggregatibacter segnis]] — [[d:Q25834718|Q25834718]] <small>(MeSH: D064208)</small>
+* [[Agrobacterium]] — [[d:Q2700446|Q2700446]] <small>(MeSH: D060054)</small>
+* [[Agrobacterium tumefaciens]] — [[d:Q131472|Q131472]] <small>(MeSH: D016960)</small>
+* [[Akkermansia]] — [[d:Q3884023|Q3884023]] <small>(MeSH: D000086102)</small>
+* [[Alcaligenaceae]] — [[d:Q138442|Q138442]] <small>(MeSH: D042401)</small>
+* [[Alcaligenes]] — [[d:Q135387|Q135387]] <small>(MeSH: D000421)</small>
+* [[Alcaligenes faecalis]] — [[d:Q137946|Q137946]] <small>(MeSH: D042481)</small>
+* [[Alcanivoraceae]] — [[d:Q4712915|Q4712915]] <small>(MeSH: D053521)</small>
+* [[Alicyclobacillus]] — [[d:Q1417570|Q1417570]] <small>(MeSH: D056450)</small>
+* [[Aliivibrio]] — [[d:Q4726595|Q4726595]] <small>(MeSH: D059706)</small>
+* [[Aliivibrio fischeri]] — [[d:Q148731|Q148731]] <small>(MeSH: D048908)</small>
+* [[Aliivibrio salmonicida]] — [[d:Q25834876|Q25834876]] <small>(MeSH: D044165)</small>
+* [[Alphaproteobacteria]] — [[d:Q306579|Q306579]] <small>(MeSH: D020561)</small>
+* [[Alteromonadaceae]] — [[d:Q4736624|Q4736624]] <small>(MeSH: D034241)</small>
+* [[Alteromonas]] — [[d:Q3762368|Q3762368]] <small>(MeSH: D020591)</small>
+* [[Amycolatopsis]] — [[d:Q481996|Q481996]] <small>(MeSH: D000082502)</small>
+* [[Anabaena]] — [[d:Q133353|Q133353]] <small>(MeSH: D017033)</small>
+* [[Anabaena cylindrica]] — [[d:Q11851264|Q11851264]] <small>(MeSH: D046868)</small>
+* [[Anabaena variabilis]] — [[d:Q4750551|Q4750551]] <small>(MeSH: D046870)</small>
+* [[Anaerobiospirillum]] — [[d:Q4750802|Q4750802]] <small>(MeSH: D044064)</small>
+* [[Anaplasma]] — [[d:Q70288|Q70288]] <small>(MeSH: D000709)</small>
+* [[Anaplasma centrale]] — [[d:Q62889063|Q62889063]] <small>(MeSH: D042321)</small>
+* [[Anaplasma marginale]] — [[d:Q21243626|Q21243626]] <small>(MeSH: D042322)</small>
+* [[Anaplasma ovis]] — [[d:Q62889076|Q62889076]] <small>(MeSH: D042323)</small>
+* [[Anaplasma phagocytophilum]] — [[d:Q292189|Q292189]] <small>(MeSH: D041081)</small>
+* [[Anaplasmataceae]] — [[d:Q149614|Q149614]] <small>(MeSH: D000710)</small>
+* [[Anoxybacillus]] — [[d:Q21078429|Q21078429]] <small>(MeSH: D058677)</small>
+* [[Aphanizomenon]] — [[d:Q309515|Q309515]] <small>(MeSH: D046890)</small>
+* [[Aquifex]] — [[d:Q310736|Q310736]] <small>(MeSH: D000086142)</small>
+* [[Arcanobacterium]] — [[d:Q631663|Q631663]] <small>(MeSH: D055667)</small>
+* [[Arcobacter]] — [[d:Q4787427|Q4787427]] <small>(MeSH: D020640)</small>
+* [[Arthrobacter]] — [[d:Q310202|Q310202]] <small>(MeSH: D001173)</small>
+* [[Atypical Bacterial Forms]] — [[d:Q69299047|Q69299047]] <small>(MeSH: D001295)</small>
+* [[Azoarcus]] — [[d:Q5715092|Q5715092]] <small>(MeSH: D020627)</small>
+* [[Azorhizobium]] — [[d:Q4832851|Q4832851]] <small>(MeSH: D020583)</small>
+* [[Azorhizobium caulinodans]] — [[d:Q4832853|Q4832853]] <small>(MeSH: D020599)</small>
+* [[Azospirillum]] — [[d:Q794056|Q794056]] <small>(MeSH: D016949)</small>
+* [[Azospirillum brasilense]] — [[d:Q16836505|Q16836505]] <small>(MeSH: D015806)</small>
+* [[Azospirillum lipoferum]] — [[d:Q62888330|Q62888330]] <small>(MeSH: D042081)</small>
+* [[Azotobacter]] — [[d:Q132995|Q132995]] <small>(MeSH: D001395)</small>
+* [[Azotobacter vinelandii]] — [[d:Q2157875|Q2157875]] <small>(MeSH: D016948)</small>
+* [[Bacillaceae]] — [[d:Q149098|Q149098]] <small>(MeSH: D001406)</small>
+* [[Bacillales]] — [[d:Q149088|Q149088]] <small>(MeSH: D056449)</small>
+* [[Bacillota]] — [[d:Q149075|Q149075]] <small>(MeSH: D000068536)</small>
+* [[Bacillus]] — [[d:Q212032|Q212032]] <small>(MeSH: D001407)</small>
+* [[Bacillus amyloliquefaciens]] — [[d:Q4354408|Q4354408]] <small>(MeSH: D000069977)</small>
+* [[Bacillus anthracis]] — [[d:Q614156|Q614156]] <small>(MeSH: D001408)</small>
+* [[Bacillus cereus]] — [[d:Q131307|Q131307]] <small>(MeSH: D001409)</small>
+* [[Bacillus clausii]] — [[d:Q722949|Q722949]] <small>(MeSH: D000070019)</small>
+* [[Bacillus coagulans]] — [[d:Q2603895|Q2603895]] <small>(MeSH: D000070000)</small>
+* [[Bacillus firmus]] — [[d:Q18355968|Q18355968]] <small>(MeSH: D000070098)</small>
+* [[Bacillus licheniformis]] — [[d:Q2878356|Q2878356]] <small>(MeSH: D000069976)</small>
+* [[Bacillus megaterium]] — [[d:Q148703|Q148703]] <small>(MeSH: D001410)</small>
+* [[Bacillus pumilus]] — [[d:Q4838979|Q4838979]] <small>(MeSH: D000069979)</small>
+* [[Bacillus subtilis]] — [[d:Q131238|Q131238]] <small>(MeSH: D001412)</small>
+* [[Bacillus thuringiensis]] — [[d:Q310467|Q310467]] <small>(MeSH: D001413)</small>
+* [[Bacteria]] — [[d:Q10876|Q10876]] <small>(MeSH: D001419)</small>
+* [[Bacteria, Aerobic]] — [[d:Q22082729|Q22082729]] <small>(MeSH: D001420)</small>
+* [[Bacteria, Anaerobic]] — [[d:Q41097039|Q41097039]] <small>(MeSH: D001421)</small>
+* [[Bacteria, Thermoduric]] — [[d:Q7783154|Q7783154]] <small>(MeSH: D000072280)</small>
+* [[Bacteroidaceae]] — [[d:Q4840030|Q4840030]] <small>(MeSH: D001438)</small>
+* [[Bacteroides]] — [[d:Q133186|Q133186]] <small>(MeSH: D001439)</small>
+* [[Bacteroides fragilis]] — [[d:Q221817|Q221817]] <small>(MeSH: D001441)</small>
+* [[Bacteroides thetaiotaomicron]] — [[d:Q798597|Q798597]] <small>(MeSH: D000070077)</small>
+* [[Bacteroidetes]] — [[d:Q1061265|Q1061265]] <small>(MeSH: D041963)</small>
+* [[Bartonella]] — [[d:Q135006|Q135006]] <small>(MeSH: D001473)</small>
+* [[Bartonella bacilliformis]] — [[d:Q2007668|Q2007668]] <small>(MeSH: D045503)</small>
+* [[Bartonella henselae]] — [[d:Q140599|Q140599]] <small>(MeSH: D018416)</small>
+* [[Bartonella quintana]] — [[d:Q148561|Q148561]] <small>(MeSH: D018413)</small>
+* [[Bartonellaceae]] — [[d:Q4865719|Q4865719]] <small>(MeSH: D001475)</small>
+* [[Bdellovibrio]] — [[d:Q136602|Q136602]] <small>(MeSH: D001501)</small>
+* [[Bdellovibrio bacteriovorus]] — [[d:Q21248905|Q21248905]] <small>(MeSH: D000070060)</small>
+* [[Beggiatoa]] — [[d:Q3637455|Q3637455]] <small>(MeSH: D053524)</small>
+* [[Beijerinckiaceae]] — [[d:Q814707|Q814707]] <small>(MeSH: D042062)</small>
+* [[Betaproteobacteria]] — [[d:Q136674|Q136674]] <small>(MeSH: D020562)</small>
+* [[Bifidobacterium]] — [[d:Q132656|Q132656]] <small>(MeSH: D001644)</small>
+* [[Bifidobacterium adolescentis]] — [[d:Q2902068|Q2902068]] <small>(MeSH: D000070005)</small>
+* [[Bifidobacterium animalis]] — [[d:Q4904767|Q4904767]] <small>(MeSH: D000069982)</small>
+* [[Bifidobacterium bifidum]] — [[d:Q2902072|Q2902072]] <small>(MeSH: D000069985)</small>
+* [[Bifidobacterium breve]] — [[d:Q2902069|Q2902069]] <small>(MeSH: D000069984)</small>
+* [[Bifidobacterium longum]] — [[d:Q4904768|Q4904768]] <small>(MeSH: D000069978)</small>
+* [[Bifidobacterium longum subspecies infantis]] — [[d:Q21365185|Q21365185]] <small>(MeSH: D000070236)</small>
+* [[Bifidobacterium pseudocatenulatum]] — [[d:Q25840349|Q25840349]] <small>(MeSH: D000070257)</small>
+* [[Bilophila]] — [[d:Q27438382|Q27438382]] <small>(MeSH: D045282)</small>
+* [[Bordetella]] — [[d:Q893440|Q893440]] <small>(MeSH: D001884)</small>
+* [[Bordetella avium]] — [[d:Q15882735|Q15882735]] <small>(MeSH: D042482)</small>
+* [[Bordetella bronchiseptica]] — [[d:Q137446|Q137446]] <small>(MeSH: D016950)</small>
+* [[Bordetella parapertussis]] — [[d:Q893436|Q893436]] <small>(MeSH: D042483)</small>
+* [[Bordetella pertussis]] — [[d:Q137103|Q137103]] <small>(MeSH: D001886)</small>
+* [[Borrelia]] — [[d:Q115528|Q115528]] <small>(MeSH: D001898)</small>
+* [[Borrelia burgdorferi]] — [[d:Q2723634|Q2723634]] <small>(MeSH: D025065)</small>
+* [[Borrelia burgdorferi Group]] — [[d:Q21399646|Q21399646]] <small>(MeSH: D015748)</small>
+* [[Brachyspira]] — [[d:Q896648|Q896648]] <small>(MeSH: D017400)</small>
+* [[Brachyspira hyodysenteriae]] — [[d:Q7455154|Q7455154]] <small>(MeSH: D017401)</small>
+* [[Bradyrhizobiaceae]] — [[d:Q147179|Q147179]] <small>(MeSH: D041841)</small>
+* [[Bradyrhizobium]] — [[d:Q4955276|Q4955276]] <small>(MeSH: D020369)</small>
+* [[Brevibacillus]] — [[d:Q4962546|Q4962546]] <small>(MeSH: D058675)</small>
+* [[Brevibacterium]] — [[d:Q148611|Q148611]] <small>(MeSH: D001951)</small>
+* [[Brevibacterium flavum]] — [[d:Q69389933|Q69389933]] <small>(MeSH: D040142)</small>
+* [[Brochothrix]] — [[d:Q3645203|Q3645203]] <small>(MeSH: D058640)</small>
+* [[Brucella]] — [[d:Q313358|Q313358]] <small>(MeSH: D002002)</small>
+* [[Brucella abortus]] — [[d:Q11353905|Q11353905]] <small>(MeSH: D002003)</small>
+* [[Brucella canis]] — [[d:Q4978547|Q4978547]] <small>(MeSH: D041002)</small>
+* [[Brucella melitensis]] — [[d:Q3512031|Q3512031]] <small>(MeSH: D017347)</small>
+* [[Brucella ovis]] — [[d:Q870849|Q870849]] <small>(MeSH: D042061)</small>
+* [[Brucella suis]] — [[d:Q836301|Q836301]] <small>(MeSH: D041021)</small>
+* [[Brucellaceae]] — [[d:Q3290077|Q3290077]] <small>(MeSH: D042021)</small>
+* [[Buchnera]] — [[d:Q18606581|Q18606581]] <small>(MeSH: D020635)</small>
+* [[Burkholderia]] — [[d:Q135239|Q135239]] <small>(MeSH: D019117)</small>
+* [[Burkholderia cenocepacia]] — [[d:Q4810500|Q4810500]] <small>(MeSH: D057508)</small>
+* [[Burkholderia cepacia]] — [[d:Q139227|Q139227]] <small>(MeSH: D016956)</small>
+* [[Burkholderia cepacia complex]] — [[d:Q21401468|Q21401468]] <small>(MeSH: D042602)</small>
+* [[Burkholderia gladioli]] — [[d:Q3308486|Q3308486]] <small>(MeSH: D042725)</small>
+* [[Burkholderia mallei]] — [[d:Q134434|Q134434]] <small>(MeSH: D042726)</small>
+* [[Burkholderia pseudomallei]] — [[d:Q140475|Q140475]] <small>(MeSH: D016957)</small>
+* [[Burkholderiaceae]] — [[d:Q138449|Q138449]] <small>(MeSH: D042521)</small>
+* [[Burkholderiales]] — [[d:Q134584|Q134584]] <small>(MeSH: D000073556)</small>
+* [[Butyrivibrio]] — [[d:Q3647750|Q3647750]] <small>(MeSH: D045856)</small>
+* [[Butyrivibrio fibrisolvens]] — [[d:Q3647753|Q3647753]] <small>(MeSH: D000070097)</small>
+* [[Caldicellulosiruptor]] — [[d:Q3650566|Q3650566]] <small>(MeSH: D000082623)</small>
+* [[Calymmatobacterium]] — [[d:Q62643569|Q62643569]] <small>(MeSH: D002157)</small>
+* [[Campylobacter]] — [[d:Q131488|Q131488]] <small>(MeSH: D002167)</small>
+* [[Campylobacter coli]] — [[d:Q1031711|Q1031711]] <small>(MeSH: D017000)</small>
+* [[Campylobacter fetus]] — [[d:Q148776|Q148776]] <small>(MeSH: D002168)</small>
+* [[Campylobacter hyointestinalis]] — [[d:Q16955154|Q16955154]] <small>(MeSH: D044862)</small>
+* [[Campylobacter jejuni]] — [[d:Q265488|Q265488]] <small>(MeSH: D016123)</small>
+* [[Campylobacter lari]] — [[d:Q16851296|Q16851296]] <small>(MeSH: D044863)</small>
+* [[Campylobacter rectus]] — [[d:Q5028747|Q5028747]] <small>(MeSH: D044883)</small>
+* [[Campylobacter sputorum]] — [[d:Q25840940|Q25840940]] <small>(MeSH: D044884)</small>
+* [[Campylobacter upsaliensis]] — [[d:Q5028748|Q5028748]] <small>(MeSH: D044885)</small>
+* [[Campylobacteraceae]] — [[d:Q384854|Q384854]] <small>(MeSH: D000073557)</small>
+* [[Campylobacterales]] — [[d:Q138238|Q138238]] <small>(MeSH: D000074707)</small>
+* [[Capnocytophaga]] — [[d:Q5036048|Q5036048]] <small>(MeSH: D002206)</small>
+* [[Carbapenem-Resistant Enterobacteriaceae]] — [[d:Q5037837|Q5037837]] <small>(MeSH: D000073182)</small>
+* [[Cardiobacteriaceae]] — [[d:Q149618|Q149618]] <small>(MeSH: D044065)</small>
+* [[Cardiobacterium]] — [[d:Q24041611|Q24041611]] <small>(MeSH: D044066)</small>
+* [[Carnobacteriaceae]] — [[d:Q2939805|Q2939805]] <small>(MeSH: D056568)</small>
+* [[Carnobacterium]] — [[d:Q5044157|Q5044157]] <small>(MeSH: D056573)</small>
+* [[Caulobacter]] — [[d:Q8342956|Q8342956]] <small>(MeSH: D016934)</small>
+* [[Caulobacter crescentus]] — [[d:Q2943106|Q2943106]] <small>(MeSH: D016935)</small>
+* [[Caulobacteraceae]] — [[d:Q140577|Q140577]] <small>(MeSH: D042063)</small>
+* [[Cellulomonas]] — [[d:Q129759|Q129759]] <small>(MeSH: D040143)</small>
+* [[Cellvibrio]] — [[d:Q5058393|Q5058393]] <small>(MeSH: D020633)</small>
+* [[Chlamydia]] — [[d:Q846309|Q846309]] <small>(MeSH: D002689)</small>
+* [[Chlamydia muridarum]] — [[d:Q2964056|Q2964056]] <small>(MeSH: D023502)</small>
+* [[Chlamydia trachomatis]] — [[d:Q131065|Q131065]] <small>(MeSH: D002692)</small>
+* [[Chlamydiaceae]] — [[d:Q13474598|Q13474598]] <small>(MeSH: D002693)</small>
+* [[Chlamydiales]] — [[d:Q5102716|Q5102716]] <small>(MeSH: D002695)</small>
+* [[Chlamydophila]] — [[d:Q2442594|Q2442594]] <small>(MeSH: D023501)</small>
+* [[Chlamydophila pneumoniae]] — [[d:Q132319|Q132319]] <small>(MeSH: D016993)</small>
+* [[Chlamydophila psittaci]] — [[d:Q134275|Q134275]] <small>(MeSH: D002691)</small>
+* [[Chlorobi]] — [[d:Q12651951|Q12651951]] <small>(MeSH: D019414)</small>
+* [[Chlorobium]] — [[d:Q2725095|Q2725095]] <small>(MeSH: D041883)</small>
+* [[Chloroflexi]] — [[d:Q1289758|Q1289758]] <small>(MeSH: D041862)</small>
+* [[Chloroflexus]] — [[d:Q15241282|Q15241282]] <small>(MeSH: D041861)</small>
+* [[Chromatiaceae]] — [[d:Q590356|Q590356]] <small>(MeSH: D002841)</small>
+* [[Chromatium]] — [[d:Q2309799|Q2309799]] <small>(MeSH: D002844)</small>
+* [[Chromobacterium]] — [[d:Q5113838|Q5113838]] <small>(MeSH: D002861)</small>
+* [[Chromohalobacter]] — [[d:Q5113882|Q5113882]] <small>(MeSH: D055353)</small>
+* [[Chryseobacterium]] — [[d:Q5114574|Q5114574]] <small>(MeSH: D045247)</small>
+* [[Citrobacter]] — [[d:Q134081|Q134081]] <small>(MeSH: D002954)</small>
+* [[Citrobacter freundii]] — [[d:Q5122842|Q5122842]] <small>(MeSH: D016971)</small>
+* [[Citrobacter koseri]] — [[d:Q5122841|Q5122841]] <small>(MeSH: D041041)</small>
+* [[Citrobacter rodentium]] — [[d:Q16975761|Q16975761]] <small>(MeSH: D044082)</small>
+* [[Clavibacter]] — [[d:Q20643331|Q20643331]] <small>(MeSH: D000086162)</small>
+* [[Clostridiaceae]] — [[d:Q592153|Q592153]] <small>(MeSH: D000073561)</small>
+* [[Clostridioides]] — [[d:Q27438828|Q27438828]] <small>(MeSH: D000082682)</small>
+* [[Clostridioides difficile]] — [[d:Q310543|Q310543]] <small>(MeSH: D016360)</small>
+* [[Clostridium]] — [[d:Q327663|Q327663]] <small>(MeSH: D003013)</small>
+* [[Clostridium acetobutylicum]] — [[d:Q148692|Q148692]] <small>(MeSH: D046969)</small>
+* [[Clostridium beijerinckii]] — [[d:Q3681018|Q3681018]] <small>(MeSH: D046970)</small>
+* [[Clostridium botulinum]] — [[d:Q131268|Q131268]] <small>(MeSH: D003014)</small>
+* [[Clostridium botulinum type A]] — [[d:Q69380156|Q69380156]] <small>(MeSH: D047013)</small>
+* [[Clostridium botulinum type B]] — [[d:Q69376400|Q69376400]] <small>(MeSH: D047014)</small>
+* [[Clostridium botulinum type C]] — [[d:Q69384780|Q69384780]] <small>(MeSH: D047968)</small>
+* [[Clostridium botulinum type D]] — [[d:Q69351209|Q69351209]] <small>(MeSH: D047969)</small>
+* [[Clostridium botulinum type E]] — [[d:Q69375058|Q69375058]] <small>(MeSH: D047970)</small>
+* [[Clostridium botulinum type F]] — [[d:Q69374925|Q69374925]] <small>(MeSH: D047971)</small>
+* [[Clostridium botulinum type G]] — [[d:Q69299135|Q69299135]] <small>(MeSH: D048568)</small>
+* [[Clostridium butyricum]] — [[d:Q2622044|Q2622044]] <small>(MeSH: D046972)</small>
+* [[Clostridium cellulovorans]] — [[d:Q3681038|Q3681038]] <small>(MeSH: D046974)</small>
+* [[Clostridium chauvoei]] — [[d:Q3681040|Q3681040]] <small>(MeSH: D046975)</small>
+* [[Clostridium kluyveri]] — [[d:Q1102548|Q1102548]] <small>(MeSH: D047010)</small>
+* [[Clostridium perfringens]] — [[d:Q309465|Q309465]] <small>(MeSH: D003016)</small>
+* [[Clostridium septicum]] — [[d:Q288263|Q288263]] <small>(MeSH: D052557)</small>
+* [[Clostridium symbiosum]] — [[d:Q3681165|Q3681165]] <small>(MeSH: D048009)</small>
+* [[Clostridium tertium]] — [[d:Q3681167|Q3681167]] <small>(MeSH: D048010)</small>
+* [[Clostridium tetani]] — [[d:Q309471|Q309471]] <small>(MeSH: D003017)</small>
+* [[Clostridium tetanomorphum]] — [[d:Q3681169|Q3681169]] <small>(MeSH: D048012)</small>
+* [[Clostridium tyrobutyricum]] — [[d:Q141391|Q141391]] <small>(MeSH: D048014)</small>
+* [[Comamonadaceae]] — [[d:Q1991077|Q1991077]] <small>(MeSH: D042621)</small>
+* [[Comamonas]] — [[d:Q3683908|Q3683908]] <small>(MeSH: D020585)</small>
+* [[Comamonas testosteroni]] — [[d:Q5150499|Q5150499]] <small>(MeSH: D020604)</small>
+* [[Corynebacterium]] — [[d:Q133976|Q133976]] <small>(MeSH: D003352)</small>
+* [[Corynebacterium diphtheriae]] — [[d:Q131649|Q131649]] <small>(MeSH: D003353)</small>
+* [[Corynebacterium glutamicum]] — [[d:Q292314|Q292314]] <small>(MeSH: D048230)</small>
+* [[Corynebacterium pseudotuberculosis]] — [[d:Q3694962|Q3694962]] <small>(MeSH: D016925)</small>
+* [[Corynebacterium pyogenes]] — [[d:Q22111226|Q22111226]] <small>(MeSH: D003355)</small>
+* [[Coxiella]] — [[d:Q2296480|Q2296480]] <small>(MeSH: D003381)</small>
+* [[Coxiella burnetii]] — [[d:Q133971|Q133971]] <small>(MeSH: D016997)</small>
+* [[Coxiellaceae]] — [[d:Q3656478|Q3656478]] <small>(MeSH: D044125)</small>
+* [[Cronobacter]] — [[d:Q311419|Q311419]] <small>(MeSH: D059126)</small>
+* [[Cronobacter sakazakii]] — [[d:Q25841585|Q25841585]] <small>(MeSH: D044083)</small>
+* [[Cupriavidus]] — [[d:Q150722|Q150722]] <small>(MeSH: D049921)</small>
+* [[Cupriavidus necator]] — [[d:Q148753|Q148753]] <small>(MeSH: D020118)</small>
+* [[Cyanobacteria]] — [[d:Q93315|Q93315]] <small>(MeSH: D000458)</small>
+* [[Cyanothece]] — [[d:Q19841809|Q19841809]] <small>(MeSH: D046889)</small>
+* [[Cylindrospermopsis]] — [[d:Q5199328|Q5199328]] <small>(MeSH: D046891)</small>
+* [[Cytophaga]] — [[d:Q3009545|Q3009545]] <small>(MeSH: D003589)</small>
+* [[Cytophagaceae]] — [[d:Q15804152|Q15804152]] <small>(MeSH: D041964)</small>
+* [[Dehalococcoides]] — [[d:Q1182938|Q1182938]] <small>(MeSH: D000082942)</small>
+* [[Deinococcus]] — [[d:Q3021315|Q3021315]] <small>(MeSH: D034301)</small>
+* [[Delftia]] — [[d:Q5253698|Q5253698]] <small>(MeSH: D042742)</small>
+* [[Delftia acidovorans]] — [[d:Q4167431|Q4167431]] <small>(MeSH: D020605)</small>
+* [[Deltaproteobacteria]] — [[d:Q307535|Q307535]] <small>(MeSH: D020564)</small>
+* [[Dermatophilus]] — [[d:Q20677372|Q20677372]] <small>(MeSH: D000086182)</small>
+* [[Desulfitobacterium]] — [[d:Q3706075|Q3706075]] <small>(MeSH: D045858)</small>
+* [[Desulfotomaculum]] — [[d:Q1761532|Q1761532]] <small>(MeSH: D045859)</small>
+* [[Desulfovibrio]] — [[d:Q15846377|Q15846377]] <small>(MeSH: D003901)</small>
+* [[Desulfovibrio africanus]] — [[d:Q25841856|Q25841856]] <small>(MeSH: D045284)</small>
+* [[Desulfovibrio desulfuricans]] — [[d:Q1201021|Q1201021]] <small>(MeSH: D045285)</small>
+* [[Desulfovibrio gigas]] — [[d:Q25841879|Q25841879]] <small>(MeSH: D045286)</small>
+* [[Desulfovibrio vulgaris]] — [[d:Q593811|Q593811]] <small>(MeSH: D016969)</small>
+* [[Desulfovibrionaceae]] — [[d:Q16742057|Q16742057]] <small>(MeSH: D000073564)</small>
+* [[Desulfovibrionales]] — [[d:Q1675433|Q1675433]] <small>(MeSH: D000076642)</small>
+* [[Desulfuromonas]] — [[d:Q1201027|Q1201027]] <small>(MeSH: D045287)</small>
+* [[Dichelobacter nodosus]] — [[d:Q3706891|Q3706891]] <small>(MeSH: D020376)</small>
+* [[Dickeya]] — [[d:Q5273668|Q5273668]] <small>(MeSH: D000083042)</small>
+* [[Dickeya chrysanthemi]] — [[d:Q62896811|Q62896811]] <small>(MeSH: D016974)</small>
+* [[Dolichospermum flos-aquae]] — [[d:Q675502|Q675502]] <small>(MeSH: D046869)</small>
+* [[Ectothiorhodospira]] — [[d:Q21222666|Q21222666]] <small>(MeSH: D020587)</small>
+* [[Ectothiorhodospira shaposhnikovii]] — [[d:Q25842038|Q25842038]] <small>(MeSH: D020608)</small>
+* [[Ectothiorhodospiraceae]] — [[d:Q149177|Q149177]] <small>(MeSH: D042001)</small>
+* [[Edwardsiella]] — [[d:Q149031|Q149031]] <small>(MeSH: D020594)</small>
+* [[Edwardsiella ictaluri]] — [[d:Q5346148|Q5346148]] <small>(MeSH: D020610)</small>
+* [[Edwardsiella tarda]] — [[d:Q3048738|Q3048738]] <small>(MeSH: D020609)</small>
+* [[Ehrlichia]] — [[d:Q138670|Q138670]] <small>(MeSH: D004536)</small>
+* [[Ehrlichia canis]] — [[d:Q5348627|Q5348627]] <small>(MeSH: D041061)</small>
+* [[Ehrlichia chaffeensis]] — [[d:Q5348629|Q5348629]] <small>(MeSH: D018469)</small>
+* [[Ehrlichia ruminantium]] — [[d:Q1118366|Q1118366]] <small>(MeSH: D016995)</small>
+* [[Eikenella]] — [[d:Q24041581|Q24041581]] <small>(MeSH: D016970)</small>
+* [[Eikenella corrodens]] — [[d:Q3039103|Q3039103]] <small>(MeSH: D016124)</small>
+* [[Endospore-Forming Bacteria]] — [[d:Q69351865|Q69351865]] <small>(MeSH: D004725)</small>
+* [[Enterobacter]] — [[d:Q134281|Q134281]] <small>(MeSH: D004754)</small>
+* [[Enterobacter aerogenes]] — [[d:Q644487|Q644487]] <small>(MeSH: D021902)</small>
+* [[Enterobacter cloacae]] — [[d:Q4038096|Q4038096]] <small>(MeSH: D016972)</small>
+* [[Enterobacteriaceae]] — [[d:Q380136|Q380136]] <small>(MeSH: D004755)</small>
+* [[Enterococcaceae]] — [[d:Q138564|Q138564]] <small>(MeSH: D056569)</small>
+* [[Enterococcus]] — [[d:Q517258|Q517258]] <small>(MeSH: D016983)</small>
+* [[Enterococcus faecalis]] — [[d:Q140014|Q140014]] <small>(MeSH: D013293)</small>
+* [[Enterococcus faecium]] — [[d:Q140010|Q140010]] <small>(MeSH: D016984)</small>
+* [[Enterococcus hirae]] — [[d:Q16981651|Q16981651]] <small>(MeSH: D000070076)</small>
+* [[Enterohemorrhagic Escherichia coli]] — [[d:Q13419510|Q13419510]] <small>(MeSH: D054324)</small>
+* [[Enteropathogenic Escherichia coli]] — [[d:Q13419512|Q13419512]] <small>(MeSH: D054308)</small>
+* [[Enterotoxigenic Escherichia coli]] — [[d:Q265214|Q265214]] <small>(MeSH: D054307)</small>
+* [[Entomoplasmataceae]] — [[d:Q3726339|Q3726339]] <small>(MeSH: D045622)</small>
+* [[Entomoplasmatales]] — [[d:Q676427|Q676427]] <small>(MeSH: D060366)</small>
+* [[Epsilonproteobacteria]] — [[d:Q136797|Q136797]] <small>(MeSH: D020565)</small>
+* [[Erwinia]] — [[d:Q134827|Q134827]] <small>(MeSH: D004885)</small>
+* [[Erwinia amylovora]] — [[d:Q866091|Q866091]] <small>(MeSH: D044084)</small>
+* [[Erysipelothrix]] — [[d:Q18751993|Q18751993]] <small>(MeSH: D004888)</small>
+* [[Escherichia]] — [[d:Q311055|Q311055]] <small>(MeSH: D004925)</small>
+* [[Escherichia coli]] — [[d:Q25419|Q25419]] <small>(MeSH: D004926)</small>
+* [[Escherichia coli K12]] — [[d:Q21399437|Q21399437]] <small>(MeSH: D048168)</small>
+* [[Escherichia coli O104]] — [[d:Q69375138|Q69375138]] <small>(MeSH: D000069981)</small>
+* [[Escherichia coli O157]] — [[d:Q878402|Q878402]] <small>(MeSH: D019453)</small>
+* [[Eubacteriales]] — [[d:Q876064|Q876064]] <small>(MeSH: D000068016)</small>
+* [[Eubacterium]] — [[d:Q5405346|Q5405346]] <small>(MeSH: D005051)</small>
+* [[Exiguobacterium]] — [[d:Q16981932|Q16981932]] <small>(MeSH: D000086183)</small>
+* [[Extraintestinal Pathogenic Escherichia coli]] — [[d:Q69355550|Q69355550]] <small>(MeSH: D000072282)</small>
+* [[Faecalibacterium]] — [[d:Q3738294|Q3738294]] <small>(MeSH: D000070036)</small>
+* [[Faecalibacterium prausnitzii]] — [[d:Q3738296|Q3738296]] <small>(MeSH: D000070037)</small>
+* [[Fibrobacter]] — [[d:Q11332459|Q11332459]] <small>(MeSH: D045848)</small>
+* [[Fibrobacteres]] — [[d:Q1200941|Q1200941]] <small>(MeSH: D061306)</small>
+* [[Flavobacteriaceae]] — [[d:Q5458145|Q5458145]] <small>(MeSH: D041965)</small>
+* [[Flavobacterium]] — [[d:Q140572|Q140572]] <small>(MeSH: D005417)</small>
+* [[Flexibacter]] — [[d:Q5458954|Q5458954]] <small>(MeSH: D045248)</small>
+* [[Francisella]] — [[d:Q3246268|Q3246268]] <small>(MeSH: D005603)</small>
+* [[Francisella tularensis]] — [[d:Q1003460|Q1003460]] <small>(MeSH: D005604)</small>
+* [[Frankia]] — [[d:Q134931|Q134931]] <small>(MeSH: D040161)</small>
+* [[Fusobacteria]] — [[d:Q1137677|Q1137677]] <small>(MeSH: D045182)</small>
+* [[Fusobacterium]] — [[d:Q2720082|Q2720082]] <small>(MeSH: D005673)</small>
+* [[Fusobacterium necrophorum]] — [[d:Q676829|Q676829]] <small>(MeSH: D005675)</small>
+* [[Fusobacterium nucleatum]] — [[d:Q5510311|Q5510311]] <small>(MeSH: D016967)</small>
+* [[Gallionellaceae]] — [[d:Q18674617|Q18674617]] <small>(MeSH: D043372)</small>
+* [[Gammaproteobacteria]] — [[d:Q134668|Q134668]] <small>(MeSH: D020563)</small>
+* [[Gardnerella]] — [[d:Q15241017|Q15241017]] <small>(MeSH: D016975)</small>
+* [[Gardnerella vaginalis]] — [[d:Q127375|Q127375]] <small>(MeSH: D006194)</small>
+* [[Gemella]] — [[d:Q3209512|Q3209512]] <small>(MeSH: D058834)</small>
+* [[Geobacillus]] — [[d:Q19750482|Q19750482]] <small>(MeSH: D056506)</small>
+* [[Geobacillus stearothermophilus]] — [[d:Q136876|Q136876]] <small>(MeSH: D001411)</small>
+* [[Geobacter]] — [[d:Q1979991|Q1979991]] <small>(MeSH: D045302)</small>
+* [[Gluconacetobacter]] — [[d:Q16982367|Q16982367]] <small>(MeSH: D041821)</small>
+* [[Gluconacetobacter xylinus]] — [[d:Q62887491|Q62887491]] <small>(MeSH: D041822)</small>
+* [[Gluconobacter]] — [[d:Q17629105|Q17629105]] <small>(MeSH: D020576)</small>
+* [[Gluconobacter oxydans]] — [[d:Q21266989|Q21266989]] <small>(MeSH: D020600)</small>
+* [[Gordonia Bacterium]] — [[d:Q1538121|Q1538121]] <small>(MeSH: D033601)</small>
+* [[Gram-Negative Aerobic Bacteria]] — [[d:Q69385230|Q69385230]] <small>(MeSH: D006088)</small>
+* [[Gram-Negative Aerobic Rods and Cocci]] — [[d:Q69461058|Q69461058]] <small>(MeSH: D016946)</small>
+* [[Gram-Negative Anaerobic Bacteria]] — [[d:Q69381619|Q69381619]] <small>(MeSH: D006089)</small>
+* [[Gram-Negative Anaerobic Cocci]] — [[d:Q69377103|Q69377103]] <small>(MeSH: D016964)</small>
+* [[Gram-Negative Anaerobic Straight, Curved, and Helical Rods]] — [[d:Q69381360|Q69381360]] <small>(MeSH: D016965)</small>
+* [[Gram-Negative Bacteria]] — [[d:Q632006|Q632006]] <small>(MeSH: D006090)</small>
+* [[Gram-Negative Chemolithotrophic Bacteria]] — [[d:Q69459015|Q69459015]] <small>(MeSH: D006091)</small>
+* [[Gram-Negative Facultatively Anaerobic Rods]] — [[d:Q69405417|Q69405417]] <small>(MeSH: D006092)</small>
+* [[Gram-Negative Oxygenic Photosynthetic Bacteria]] — [[d:Q69350912|Q69350912]] <small>(MeSH: D019688)</small>
+* [[Gram-Positive Asporogenous Rods]] — [[d:Q69411057|Q69411057]] <small>(MeSH: D006093)</small>
+* [[Gram-Positive Asporogenous Rods, Irregular]] — [[d:Q69307614|Q69307614]] <small>(MeSH: D016988)</small>
+* [[Gram-Positive Asporogenous Rods, Regular]] — [[d:Q69464809|Q69464809]] <small>(MeSH: D016989)</small>
+* [[Gram-Positive Bacteria]] — [[d:Q857288|Q857288]] <small>(MeSH: D006094)</small>
+* [[Gram-Positive Cocci]] — [[d:Q69482848|Q69482848]] <small>(MeSH: D006095)</small>
+* [[Gram-Positive Endospore-Forming Bacteria]] — [[d:Q69394062|Q69394062]] <small>(MeSH: D016936)</small>
+* [[Gram-Positive Endospore-Forming Rods]] — [[d:Q69351950|Q69351950]] <small>(MeSH: D016937)</small>
+* [[Gram-Positive Rods]] — [[d:Q68800949|Q68800949]] <small>(MeSH: D016987)</small>
+* [[Haemophilus]] — [[d:Q311275|Q311275]] <small>(MeSH: D006190)</small>
+* [[Haemophilus ducreyi]] — [[d:Q1114305|Q1114305]] <small>(MeSH: D006191)</small>
+* [[Haemophilus influenzae]] — [[d:Q1141979|Q1141979]] <small>(MeSH: D006193)</small>
+* [[Haemophilus influenzae type b]] — [[d:Q69395552|Q69395552]] <small>(MeSH: D019741)</small>
+* [[Haemophilus paragallinarum]] — [[d:Q62904008|Q62904008]] <small>(MeSH: D044134)</small>
+* [[Haemophilus parainfluenzae]] — [[d:Q3023545|Q3023545]] <small>(MeSH: D044135)</small>
+* [[Haemophilus paraphrophilus]] — [[d:Q5638262|Q5638262]] <small>(MeSH: D044136)</small>
+* [[Haemophilus parasuis]] — [[d:Q110111511|Q110111511]] <small>(MeSH: D044137)</small>
+* [[Haemophilus somnus]] — [[d:Q1620746|Q1620746]] <small>(MeSH: D044138)</small>
+* [[Hafnia]] — [[d:Q18300730|Q18300730]] <small>(MeSH: D020595)</small>
+* [[Hafnia alvei]] — [[d:Q140736|Q140736]] <small>(MeSH: D020611)</small>
+* [[Halobacillus]] — [[d:Q19939061|Q19939061]] <small>(MeSH: D058678)</small>
+* [[Halomonadaceae]] — [[d:Q1770163|Q1770163]] <small>(MeSH: D044129)</small>
+* [[Halomonas]] — [[d:Q390336|Q390336]] <small>(MeSH: D020632)</small>
+* [[Halorhodospira halophila]] — [[d:Q19671413|Q19671413]] <small>(MeSH: D020607)</small>
+* [[Halothiobacillus]] — [[d:Q141419|Q141419]] <small>(MeSH: D044222)</small>
+* [[Hathewaya histolytica]] — [[d:Q3317228|Q3317228]] <small>(MeSH: D047009)</small>
+* [[Helicobacter]] — [[d:Q134684|Q134684]] <small>(MeSH: D016998)</small>
+* [[Helicobacter felis]] — [[d:Q16982889|Q16982889]] <small>(MeSH: D044922)</small>
+* [[Helicobacter heilmannii]] — [[d:Q7780536|Q7780536]] <small>(MeSH: D018247)</small>
+* [[Helicobacter hepaticus]] — [[d:Q1602479|Q1602479]] <small>(MeSH: D044923)</small>
+* [[Helicobacter mustelae]] — [[d:Q21267161|Q21267161]] <small>(MeSH: D045502)</small>
+* [[Helicobacter pylori]] — [[d:Q180556|Q180556]] <small>(MeSH: D016480)</small>
+* [[Helicobacteraceae]] — [[d:Q1602475|Q1602475]] <small>(MeSH: D000073569)</small>
+* [[Herbaspirillum]] — [[d:Q2949772|Q2949772]] <small>(MeSH: D042803)</small>
+* [[Holosporaceae]] — [[d:Q968641|Q968641]] <small>(MeSH: D042281)</small>
+* [[Hydrogenophilaceae]] — [[d:Q134834|Q134834]] <small>(MeSH: D043363)</small>
+* [[Hyphomicrobiaceae]] — [[d:Q5958939|Q5958939]] <small>(MeSH: D041921)</small>
+* [[Hyphomicrobium]] — [[d:Q16527965|Q16527965]] <small>(MeSH: D020582)</small>
+* [[Kingella]] — [[d:Q10314407|Q10314407]] <small>(MeSH: D017881)</small>
+* [[Kingella kingae]] — [[d:Q1950143|Q1950143]] <small>(MeSH: D017882)</small>
+* [[Klebsiella]] — [[d:Q131854|Q131854]] <small>(MeSH: D007709)</small>
+* [[Klebsiella oxytoca]] — [[d:Q6420044|Q6420044]] <small>(MeSH: D041121)</small>
+* [[Klebsiella pneumoniae]] — [[d:Q132592|Q132592]] <small>(MeSH: D007711)</small>
+* [[Kluyvera]] — [[d:Q19684147|Q19684147]] <small>(MeSH: D044086)</small>
+* [[L Forms]] — [[d:Q908995|Q908995]] <small>(MeSH: D007740)</small>
+* [[Lacticaseibacillus]] — [[d:Q107537312|Q107537312]] <small>(MeSH: D000093622)</small>
+* [[Lacticaseibacillus casei]] — [[d:Q139777|Q139777]] <small>(MeSH: D007780)</small>
+* [[Lacticaseibacillus paracasei]] — [[d:Q1799829|Q1799829]] <small>(MeSH: D000069980)</small>
+* [[Lacticaseibacillus rhamnosus]] — [[d:Q1607640|Q1607640]] <small>(MeSH: D052201)</small>
+* [[Lactiplantibacillus pentosus]] — [[d:Q3825323|Q3825323]] <small>(MeSH: D000070018)</small>
+* [[Lactiplantibacillus plantarum]] — [[d:Q1756682|Q1756682]] <small>(MeSH: D048191)</small>
+* [[Lactobacillaceae]] — [[d:Q578677|Q578677]] <small>(MeSH: D007777)</small>
+* [[Lactobacillales]] — [[d:Q868430|Q868430]] <small>(MeSH: D056546)</small>
+* [[Lactobacillus]] — [[d:Q1061596|Q1061596]] <small>(MeSH: D007778)</small>
+* [[Lactobacillus acidophilus]] — [[d:Q132644|Q132644]] <small>(MeSH: D007779)</small>
+* [[Lactobacillus crispatus]] — [[d:Q2355641|Q2355641]] <small>(MeSH: D000070003)</small>
+* [[Lactobacillus delbrueckii]] — [[d:Q3246083|Q3246083]] <small>(MeSH: D048668)</small>
+* [[Lactobacillus gasseri]] — [[d:Q1975869|Q1975869]] <small>(MeSH: D000069998)</small>
+* [[Lactobacillus helveticus]] — [[d:Q142378|Q142378]] <small>(MeSH: D052198)</small>
+* [[Lactobacillus johnsonii]] — [[d:Q3825299|Q3825299]] <small>(MeSH: D000069999)</small>
+* [[Lactobacillus leichmannii]] — [[d:Q1123342|Q1123342]] <small>(MeSH: D052199)</small>
+* [[Lactococcus]] — [[d:Q134274|Q134274]] <small>(MeSH: D017045)</small>
+* [[Lactococcus lactis]] — [[d:Q133598|Q133598]] <small>(MeSH: D013294)</small>
+* [[Latilactobacillus sakei]] — [[d:Q3825347|Q3825347]] <small>(MeSH: D000070256)</small>
+* [[Lawsonia Bacteria]] — [[d:Q1809339|Q1809339]] <small>(MeSH: D020639)</small>
+* [[Legionella]] — [[d:Q158013|Q158013]] <small>(MeSH: D007875)</small>
+* [[Legionella longbeachae]] — [[d:Q6518170|Q6518170]] <small>(MeSH: D044128)</small>
+* [[Legionella pneumophila]] — [[d:Q147885|Q147885]] <small>(MeSH: D016952)</small>
+* [[Legionellaceae]] — [[d:Q13429914|Q13429914]] <small>(MeSH: D016951)</small>
+* [[Leptospira]] — [[d:Q133841|Q133841]] <small>(MeSH: D007919)</small>
+* [[Leptospira interrogans]] — [[d:Q143779|Q143779]] <small>(MeSH: D007921)</small>
+* [[Leptospira interrogans serovar australis]] — [[d:Q68781263|Q68781263]] <small>(MeSH: D041281)</small>
+* [[Leptospira interrogans serovar autumnalis]] — [[d:Q69484574|Q69484574]] <small>(MeSH: D041301)</small>
+* [[Leptospira interrogans serovar canicola]] — [[d:Q61764236|Q61764236]] <small>(MeSH: D041341)</small>
+* [[Leptospira interrogans serovar hebdomadis]] — [[d:Q61764235|Q61764235]] <small>(MeSH: D041343)</small>
+* [[Leptospira interrogans serovar icterohaemorrhagiae]] — [[d:Q61764234|Q61764234]] <small>(MeSH: D041383)</small>
+* [[Leptospira interrogans serovar pomona]] — [[d:Q61764224|Q61764224]] <small>(MeSH: D041401)</small>
+* [[Leptospiraceae]] — [[d:Q3816251|Q3816251]] <small>(MeSH: D016953)</small>
+* [[Leptothrix]] — [[d:Q1820184|Q1820184]] <small>(MeSH: D042743)</small>
+* [[Leptotrichia]] — [[d:Q20679098|Q20679098]] <small>(MeSH: D045183)</small>
+* [[Leuconostoc]] — [[d:Q138793|Q138793]] <small>(MeSH: D007934)</small>
+* [[Leuconostoc mesenteroides]] — [[d:Q146954|Q146954]] <small>(MeSH: D000070007)</small>
+* [[Leuconostocaceae]] — [[d:Q1263680|Q1263680]] <small>(MeSH: D056584)</small>
+* [[Levilactobacillus brevis]] — [[d:Q559395|Q559395]] <small>(MeSH: D052196)</small>
+* [[Liberibacter]] — [[d:Q4262259|Q4262259]] <small>(MeSH: D000086202)</small>
+* [[Ligilactobacillus salivarius]] — [[d:Q3825336|Q3825336]] <small>(MeSH: D000069996)</small>
+* [[Limosilactobacillus fermentum]] — [[d:Q2134039|Q2134039]] <small>(MeSH: D052197)</small>
+* [[Limosilactobacillus reuteri]] — [[d:Q597078|Q597078]] <small>(MeSH: D052200)</small>
+* [[Listeria]] — [[d:Q746209|Q746209]] <small>(MeSH: D008087)</small>
+* [[Listeria monocytogenes]] — [[d:Q292015|Q292015]] <small>(MeSH: D008089)</small>
+* [[Listonella]] — [[d:Q6646554|Q6646554]] <small>(MeSH: D053526)</small>
+* [[Lyngbya]] — [[d:Q310362|Q310362]] <small>(MeSH: D000083582)</small>
+* [[Lysobacter]] — [[d:Q4518042|Q4518042]] <small>(MeSH: D053528)</small>
+* [[Magnetospirillum]] — [[d:Q141923|Q141923]] <small>(MeSH: D042201)</small>
+* [[Mannheimia]] — [[d:Q19684170|Q19684170]] <small>(MeSH: D031121)</small>
+* [[Mannheimia haemolytica]] — [[d:Q21325785|Q21325785]] <small>(MeSH: D016978)</small>
+* [[Marinobacter]] — [[d:Q6764459|Q6764459]] <small>(MeSH: D053520)</small>
+* [[Marinomonas]] — [[d:Q21224868|Q21224868]] <small>(MeSH: D053544)</small>
+* [[Mediterranea]] — [[d:Q114831989|Q114831989]] <small>(MeSH: D000086222)</small>
+* [[Megasphaera]] — [[d:Q3853942|Q3853942]] <small>(MeSH: D045851)</small>
+* [[Megasphaera elsdenii]] — [[d:Q3853945|Q3853945]] <small>(MeSH: D000070101)</small>
+* [[Mesorhizobium]] — [[d:Q6821615|Q6821615]] <small>(MeSH: D059128)</small>
+* [[Methicillin-Resistant Staphylococcus aureus]] — [[d:Q595158|Q595158]] <small>(MeSH: D055624)</small>
+* [[Methylobacillus]] — [[d:Q6824032|Q6824032]] <small>(MeSH: D020631)</small>
+* [[Methylobacteriaceae]] — [[d:Q6824036|Q6824036]] <small>(MeSH: D042082)</small>
+* [[Methylobacterium]] — [[d:Q10329184|Q10329184]] <small>(MeSH: D020580)</small>
+* [[Methylobacterium extorquens]] — [[d:Q6824039|Q6824039]] <small>(MeSH: D020601)</small>
+* [[Methylococcaceae]] — [[d:Q1351576|Q1351576]] <small>(MeSH: D008772)</small>
+* [[Methylococcus]] — [[d:Q20202450|Q20202450]] <small>(MeSH: D020618)</small>
+* [[Methylococcus capsulatus]] — [[d:Q1948565|Q1948565]] <small>(MeSH: D020619)</small>
+* [[Methylocystaceae]] — [[d:Q6824044|Q6824044]] <small>(MeSH: D042083)</small>
+* [[Methylomonas]] — [[d:Q1526366|Q1526366]] <small>(MeSH: D020620)</small>
+* [[Methylophilaceae]] — [[d:Q488967|Q488967]] <small>(MeSH: D042762)</small>
+* [[Methylophilus]] — [[d:Q24255200|Q24255200]] <small>(MeSH: D020629)</small>
+* [[Methylophilus methylotrophus]] — [[d:Q25863266|Q25863266]] <small>(MeSH: D020630)</small>
+* [[Methylosinus]] — [[d:Q12071664|Q12071664]] <small>(MeSH: D020581)</small>
+* [[Methylosinus trichosporium]] — [[d:Q24890861|Q24890861]] <small>(MeSH: D020602)</small>
+* [[Microbacterium]] — [[d:Q6839228|Q6839228]] <small>(MeSH: D000083822)</small>
+* [[Micrococcaceae]] — [[d:Q1365581|Q1365581]] <small>(MeSH: D008835)</small>
+* [[Micrococcus]] — [[d:Q1954952|Q1954952]] <small>(MeSH: D008837)</small>
+* [[Micrococcus luteus]] — [[d:Q142000|Q142000]] <small>(MeSH: D016982)</small>
+* [[Microcystis]] — [[d:Q309928|Q309928]] <small>(MeSH: D046931)</small>
+* [[Micromonospora]] — [[d:Q3061522|Q3061522]] <small>(MeSH: D008847)</small>
+* [[Micromonosporaceae]] — [[d:Q6839689|Q6839689]] <small>(MeSH: D008848)</small>
+* [[Mobiluncus]] — [[d:Q6887329|Q6887329]] <small>(MeSH: D017904)</small>
+* [[Moorella]] — [[d:Q19647141|Q19647141]] <small>(MeSH: D058845)</small>
+* [[Moraxella]] — [[d:Q138309|Q138309]] <small>(MeSH: D009016)</small>
+* [[Moraxella bovis]] — [[d:Q6909425|Q6909425]] <small>(MeSH: D016955)</small>
+* [[Moraxella catarrhalis]] — [[d:Q2046669|Q2046669]] <small>(MeSH: D001936)</small>
+* [[Moraxellaceae]] — [[d:Q1639076|Q1639076]] <small>(MeSH: D044007)</small>
+* [[Morganella]] — [[d:Q15632467|Q15632467]] <small>(MeSH: D020596)</small>
+* [[Morganella morganii]] — [[d:Q2696880|Q2696880]] <small>(MeSH: D020613)</small>
+* [[Moritella]] — [[d:Q24255201|Q24255201]] <small>(MeSH: D034221)</small>
+* [[Mycobacteriaceae]] — [[d:Q3331319|Q3331319]] <small>(MeSH: D009159)</small>
+* [[Mycobacterium]] — [[d:Q194309|Q194309]] <small>(MeSH: D009161)</small>
+* [[Mycobacterium abscessus]] — [[d:Q6946978|Q6946978]] <small>(MeSH: D000073358)</small>
+* [[Mycobacterium avium]] — [[d:Q310728|Q310728]] <small>(MeSH: D009162)</small>
+* [[Mycobacterium avium Complex]] — [[d:Q3311330|Q3311330]] <small>(MeSH: D015269)</small>
+* [[Mycobacterium avium subsp. paratuberculosis]] — [[d:Q6946990|Q6946990]] <small>(MeSH: D016927)</small>
+* [[Mycobacterium bovis]] — [[d:Q133447|Q133447]] <small>(MeSH: D009163)</small>
+* [[Mycobacterium chelonae]] — [[d:Q6947002|Q6947002]] <small>(MeSH: D016926)</small>
+* [[Mycobacterium fortuitum]] — [[d:Q6947023|Q6947023]] <small>(MeSH: D019907)</small>
+* [[Mycobacterium haemophilum]] — [[d:Q6947030|Q6947030]] <small>(MeSH: D018393)</small>
+* [[Mycobacterium kansasii]] — [[d:Q4044720|Q4044720]] <small>(MeSH: D019909)</small>
+* [[Mycobacterium leprae]] — [[d:Q155891|Q155891]] <small>(MeSH: D009166)</small>
+* [[Mycobacterium lepraemurium]] — [[d:Q6947057|Q6947057]] <small>(MeSH: D009167)</small>
+* [[Mycobacterium marinum]] — [[d:Q508803|Q508803]] <small>(MeSH: D019910)</small>
+* [[Mycobacterium phlei]] — [[d:Q16986094|Q16986094]] <small>(MeSH: D009168)</small>
+* [[Mycobacterium scrofulaceum]] — [[d:Q4044723|Q4044723]] <small>(MeSH: D015359)</small>
+* [[Mycobacterium smegmatis]] — [[d:Q606230|Q606230]] <small>(MeSH: D020102)</small>
+* [[Mycobacterium tuberculosis]] — [[d:Q130971|Q130971]] <small>(MeSH: D009169)</small>
+* [[Mycobacterium ulcerans]] — [[d:Q141154|Q141154]] <small>(MeSH: D019911)</small>
+* [[Mycobacterium xenopi]] — [[d:Q4044724|Q4044724]] <small>(MeSH: D019912)</small>
+* [[Mycoplasma]] — [[d:Q210975|Q210975]] <small>(MeSH: D009174)</small>
+* [[Mycoplasma agalactiae]] — [[d:Q3868950|Q3868950]] <small>(MeSH: D045644)</small>
+* [[Mycoplasma arthritidis]] — [[d:Q3868962|Q3868962]] <small>(MeSH: D045645)</small>
+* [[Mycoplasma bovigenitalium]] — [[d:Q3868964|Q3868964]] <small>(MeSH: D045646)</small>
+* [[Mycoplasma bovis]] — [[d:Q3868968|Q3868968]] <small>(MeSH: D045682)</small>
+* [[Mycoplasma capricolum]] — [[d:Q1768284|Q1768284]] <small>(MeSH: D045623)</small>
+* [[Mycoplasma conjunctivae]] — [[d:Q3868984|Q3868984]] <small>(MeSH: D045684)</small>
+* [[Mycoplasma dispar]] — [[d:Q3868991|Q3868991]] <small>(MeSH: D045685)</small>
+* [[Mycoplasma fermentans]] — [[d:Q3869003|Q3869003]] <small>(MeSH: D016858)</small>
+* [[Mycoplasma gallisepticum]] — [[d:Q150185|Q150185]] <small>(MeSH: D045686)</small>
+* [[Mycoplasma genitalium]] — [[d:Q1930909|Q1930909]] <small>(MeSH: D045704)</small>
+* [[Mycoplasma hominis]] — [[d:Q2616475|Q2616475]] <small>(MeSH: D019535)</small>
+* [[Mycoplasma hyopneumoniae]] — [[d:Q3869024|Q3869024]] <small>(MeSH: D045705)</small>
+* [[Mycoplasma hyorhinis]] — [[d:Q3869017|Q3869017]] <small>(MeSH: D045790)</small>
+* [[Mycoplasma hyosynoviae]] — [[d:Q3869016|Q3869016]] <small>(MeSH: D045791)</small>
+* [[Mycoplasma iowae]] — [[d:Q3869023|Q3869023]] <small>(MeSH: D045793)</small>
+* [[Mycoplasma meleagridis]] — [[d:Q3869031|Q3869031]] <small>(MeSH: D045794)</small>
+* [[Mycoplasma mycoides]] — [[d:Q1768280|Q1768280]] <small>(MeSH: D009176)</small>
+* [[Mycoplasma orale]] — [[d:Q3869045|Q3869045]] <small>(MeSH: D045795)</small>
+* [[Mycoplasma ovipneumoniae]] — [[d:Q3869050|Q3869050]] <small>(MeSH: D045802)</small>
+* [[Mycoplasma penetrans]] — [[d:Q3869048|Q3869048]] <small>(MeSH: D018661)</small>
+* [[Mycoplasma pneumoniae]] — [[d:Q310904|Q310904]] <small>(MeSH: D009177)</small>
+* [[Mycoplasma pulmonis]] — [[d:Q3869059|Q3869059]] <small>(MeSH: D045803)</small>
+* [[Mycoplasma salivarium]] — [[d:Q3869060|Q3869060]] <small>(MeSH: D045804)</small>
+* [[Mycoplasma synoviae]] — [[d:Q3869067|Q3869067]] <small>(MeSH: D045805)</small>
+* [[Mycoplasmataceae]] — [[d:Q136808|Q136808]] <small>(MeSH: D009178)</small>
+* [[Mycoplasmatales]] — [[d:Q3869074|Q3869074]] <small>(MeSH: D009179)</small>
+* [[Myxococcales]] — [[d:Q1068698|Q1068698]] <small>(MeSH: D009231)</small>
+* [[Myxococcus]] — [[d:Q3331909|Q3331909]] <small>(MeSH: D016940)</small>
+* [[Myxococcus xanthus]] — [[d:Q142803|Q142803]] <small>(MeSH: D016941)</small>
+* [[Neglecta]] — [[d:Q114832213|Q114832213]] <small>(MeSH: D000086242)</small>
+* [[Neisseria]] — [[d:Q132209|Q132209]] <small>(MeSH: D009343)</small>
+* [[Neisseria cinerea]] — [[d:Q16986248|Q16986248]] <small>(MeSH: D042804)</small>
+* [[Neisseria elongata]] — [[d:Q6989657|Q6989657]] <small>(MeSH: D042805)</small>
+* [[Neisseria gonorrhoeae]] — [[d:Q131129|Q131129]] <small>(MeSH: D009344)</small>
+* [[Neisseria lactamica]] — [[d:Q16986253|Q16986253]] <small>(MeSH: D042806)</small>
+* [[Neisseria meningitidis]] — [[d:Q154625|Q154625]] <small>(MeSH: D009345)</small>
+* [[Neisseria meningitidis, Serogroup A]] — [[d:Q21399483|Q21399483]] <small>(MeSH: D038381)</small>
+* [[Neisseria meningitidis, Serogroup B]] — [[d:Q21399478|Q21399478]] <small>(MeSH: D038541)</small>
+* [[Neisseria meningitidis, Serogroup C]] — [[d:Q21399474|Q21399474]] <small>(MeSH: D038542)</small>
+* [[Neisseria meningitidis, Serogroup W-135]] — [[d:Q69464089|Q69464089]] <small>(MeSH: D038582)</small>
+* [[Neisseria meningitidis, Serogroup Y]] — [[d:Q69389660|Q69389660]] <small>(MeSH: D038581)</small>
+* [[Neisseria mucosa]] — [[d:Q3337861|Q3337861]] <small>(MeSH: D042807)</small>
+* [[Neisseria sicca]] — [[d:Q6989664|Q6989664]] <small>(MeSH: D042808)</small>
+* [[Neisseriaceae]] — [[d:Q1974989|Q1974989]] <small>(MeSH: D009346)</small>
+* [[Neorickettsia]] — [[d:Q5225591|Q5225591]] <small>(MeSH: D041102)</small>
+* [[Neorickettsia risticii]] — [[d:Q6994107|Q6994107]] <small>(MeSH: D041103)</small>
+* [[Neorickettsia sennetsu]] — [[d:Q16978225|Q16978225]] <small>(MeSH: D041101)</small>
+* [[Nitrobacter]] — [[d:Q146274|Q146274]] <small>(MeSH: D009576)</small>
+* [[Nitrogen-Fixing Bacteria]] — [[d:Q25416809|Q25416809]] <small>(MeSH: D000072738)</small>
+* [[Nitrosomonadaceae]] — [[d:Q1993983|Q1993983]] <small>(MeSH: D043369)</small>
+* [[Nitrosomonas]] — [[d:Q132206|Q132206]] <small>(MeSH: D009606)</small>
+* [[Nitrosomonas europaea]] — [[d:Q1123676|Q1123676]] <small>(MeSH: D043370)</small>
+* [[Nocardia]] — [[d:Q135175|Q135175]] <small>(MeSH: D009615)</small>
+* [[Nocardia asteroides]] — [[d:Q3140162|Q3140162]] <small>(MeSH: D009616)</small>
+* [[Nocardiaceae]] — [[d:Q141145|Q141145]] <small>(MeSH: D009618)</small>
+* [[Nocardioides]] — [[d:Q21078416|Q21078416]] <small>(MeSH: D000083962)</small>
+* [[Nocardiopsis]] — [[d:Q19729591|Q19729591]] <small>(MeSH: D000086262)</small>
+* [[Nodularia]] — [[d:Q148757|Q148757]] <small>(MeSH: D046932)</small>
+* [[Nontuberculous Mycobacteria]] — [[d:Q1881705|Q1881705]] <small>(MeSH: D009170)</small>
+* [[Nostoc]] — [[d:Q311257|Q311257]] <small>(MeSH: D046937)</small>
+* [[Nostoc commune]] — [[d:Q11286530|Q11286530]] <small>(MeSH: D050501)</small>
+* [[Nostoc muscorum]] — [[d:Q68782583|Q68782583]] <small>(MeSH: D050502)</small>
+* [[Oceanospirillaceae]] — [[d:Q7076224|Q7076224]] <small>(MeSH: D044130)</small>
+* [[Ochrobactrum]] — [[d:Q17071804|Q17071804]] <small>(MeSH: D042041)</small>
+* [[Ochrobactrum anthropi]] — [[d:Q16986776|Q16986776]] <small>(MeSH: D020621)</small>
+* [[Oenococcus]] — [[d:Q2278427|Q2278427]] <small>(MeSH: D056585)</small>
+* [[Orientia]] — [[d:Q3767673|Q3767673]] <small>(MeSH: D000084162)</small>
+* [[Orientia tsutsugamushi]] — [[d:Q3018329|Q3018329]] <small>(MeSH: D012285)</small>
+* [[Ornithobacterium]] — [[d:Q18573053|Q18573053]] <small>(MeSH: D045246)</small>
+* [[Oscillatoria]] — [[d:Q141259|Q141259]] <small>(MeSH: D054300)</small>
+* [[Oxalobacter formigenes]] — [[d:Q1659450|Q1659450]] <small>(MeSH: D020624)</small>
+* [[Oxalobacteraceae]] — [[d:Q142528|Q142528]] <small>(MeSH: D042802)</small>
+* [[Paenibacillus]] — [[d:Q1952884|Q1952884]] <small>(MeSH: D056507)</small>
+* [[Paenibacillus larvae]] — [[d:Q18088582|Q18088582]] <small>(MeSH: D000070059)</small>
+* [[Paenibacillus polymyxa]] — [[d:Q1949025|Q1949025]] <small>(MeSH: D000070057)</small>
+* [[Pannus]] — [[d:Q27438756|Q27438756]] <small>(MeSH: D000086282)</small>
+* [[Pantoea]] — [[d:Q7131869|Q7131869]] <small>(MeSH: D020636)</small>
+* [[Paraclostridium bifermentans]] — [[d:Q3681019|Q3681019]] <small>(MeSH: D046971)</small>
+* [[Paraclostridium sordellii]] — [[d:Q3681150|Q3681150]] <small>(MeSH: D047989)</small>
+* [[Paracoccus]] — [[d:Q21444864|Q21444864]] <small>(MeSH: D010230)</small>
+* [[Paracoccus denitrificans]] — [[d:Q150790|Q150790]] <small>(MeSH: D010231)</small>
+* [[Paracoccus pantotrophus]] — [[d:Q26270644|Q26270644]] <small>(MeSH: D042084)</small>
+* [[Pasteurella]] — [[d:Q2477372|Q2477372]] <small>(MeSH: D010325)</small>
+* [[Pasteurella multocida]] — [[d:Q310656|Q310656]] <small>(MeSH: D016979)</small>
+* [[Pasteurella pneumotropica]] — [[d:Q26270817|Q26270817]] <small>(MeSH: D044142)</small>
+* [[Pasteurellaceae]] — [[d:Q142666|Q142666]] <small>(MeSH: D015661)</small>
+* [[Pasteuria]] — [[d:Q16987565|Q16987565]] <small>(MeSH: D058676)</small>
+* [[Pectinatus]] — [[d:Q3898554|Q3898554]] <small>(MeSH: D045852)</small>
+* [[Pectobacterium]] — [[d:Q16965730|Q16965730]] <small>(MeSH: D044043)</small>
+* [[Pectobacterium carotovorum]] — [[d:Q164586|Q164586]] <small>(MeSH: D016973)</small>
+* [[Pediococcus]] — [[d:Q3243659|Q3243659]] <small>(MeSH: D010376)</small>
+* [[Pediococcus acidilactici]] — [[d:Q7159284|Q7159284]] <small>(MeSH: D000070016)</small>
+* [[Pediococcus pentosaceus]] — [[d:Q21314364|Q21314364]] <small>(MeSH: D000070006)</small>
+* [[Pedobacter]] — [[d:Q18387326|Q18387326]] <small>(MeSH: D060485)</small>
+* [[Peptococcaceae]] — [[d:Q3899441|Q3899441]] <small>(MeSH: D010459)</small>
+* [[Peptococcus]] — [[d:Q3899432|Q3899432]] <small>(MeSH: D010460)</small>
+* [[Peptostreptococcus]] — [[d:Q3543267|Q3543267]] <small>(MeSH: D010462)</small>
+* [[Phormidium]] — [[d:Q2793866|Q2793866]] <small>(MeSH: D000084242)</small>
+* [[Photobacterium]] — [[d:Q1632556|Q1632556]] <small>(MeSH: D010776)</small>
+* [[Photorhabdus]] — [[d:Q7187896|Q7187896]] <small>(MeSH: D020637)</small>
+* [[Phyllobacteriaceae]] — [[d:Q2025173|Q2025173]] <small>(MeSH: D059127)</small>
+* [[Phytoplasma]] — [[d:Q132782|Q132782]] <small>(MeSH: D045582)</small>
+* [[Piscirickettsia]] — [[d:Q21078554|Q21078554]] <small>(MeSH: D053522)</small>
+* [[Piscirickettsiaceae]] — [[d:Q7198254|Q7198254]] <small>(MeSH: D044147)</small>
+* [[Planctomycetales]] — [[d:Q18674592|Q18674592]] <small>(MeSH: D061328)</small>
+* [[Planctomycetes]] — [[d:Q18674594|Q18674594]] <small>(MeSH: D000090643)</small>
+* [[Planktothrix]] — [[d:Q2098270|Q2098270]] <small>(MeSH: D000086302)</small>
+* [[Planococcaceae]] — [[d:Q3906279|Q3906279]] <small>(MeSH: D058641)</small>
+* [[Planococcus Bacteria]] — [[d:Q15840619|Q15840619]] <small>(MeSH: D058642)</small>
+* [[Plectonema]] — [[d:Q2099201|Q2099201]] <small>(MeSH: D046938)</small>
+* [[Plesiomonas]] — [[d:Q15632277|Q15632277]] <small>(MeSH: D016981)</small>
+* [[Porphyromonas]] — [[d:Q21226978|Q21226978]] <small>(MeSH: D017861)</small>
+* [[Porphyromonas endodontalis]] — [[d:Q26274153|Q26274153]] <small>(MeSH: D045202)</small>
+* [[Porphyromonas gingivalis]] — [[d:Q3214147|Q3214147]] <small>(MeSH: D016966)</small>
+* [[Prevotella]] — [[d:Q7242440|Q7242440]] <small>(MeSH: D018720)</small>
+* [[Prevotella intermedia]] — [[d:Q2022791|Q2022791]] <small>(MeSH: D018713)</small>
+* [[Prevotella melaninogenica]] — [[d:Q26274602|Q26274602]] <small>(MeSH: D001443)</small>
+* [[Prevotella nigrescens]] — [[d:Q16988483|Q16988483]] <small>(MeSH: D045242)</small>
+* [[Prevotella ruminicola]] — [[d:Q61764147|Q61764147]] <small>(MeSH: D045243)</small>
+* [[Prochlorococcus]] — [[d:Q18645284|Q18645284]] <small>(MeSH: D048929)</small>
+* [[Prochloron]] — [[d:Q7247357|Q7247357]] <small>(MeSH: D019691)</small>
+* [[Prochlorophytes]] — [[d:Q577485|Q577485]] <small>(MeSH: D048928)</small>
+* [[Prochlorothrix]] — [[d:Q12047073|Q12047073]] <small>(MeSH: D019692)</small>
+* [[Propionibacteriaceae]] — [[d:Q7250334|Q7250334]] <small>(MeSH: D011423)</small>
+* [[Propionibacterium]] — [[d:Q1309614|Q1309614]] <small>(MeSH: D011424)</small>
+* [[Propionibacterium acnes]] — [[d:Q2442109|Q2442109]] <small>(MeSH: D011425)</small>
+* [[Propionibacterium freudenreichii]] — [[d:Q3008030|Q3008030]] <small>(MeSH: D000070002)</small>
+* [[Propionigenium]] — [[d:Q19750491|Q19750491]] <small>(MeSH: D045184)</small>
+* [[Proteobacteria]] — [[d:Q130999|Q130999]] <small>(MeSH: D020560)</small>
+* [[Proteus]] — [[d:Q132229|Q132229]] <small>(MeSH: D011511)</small>
+* [[Proteus mirabilis]] — [[d:Q311273|Q311273]] <small>(MeSH: D011513)</small>
+* [[Proteus penneri]] — [[d:Q7251706|Q7251706]] <small>(MeSH: D044095)</small>
+* [[Proteus vulgaris]] — [[d:Q2701588|Q2701588]] <small>(MeSH: D011514)</small>
+* [[Providencia]] — [[d:Q140035|Q140035]] <small>(MeSH: D011532)</small>
+* [[Pseudoalteromonas]] — [[d:Q842207|Q842207]] <small>(MeSH: D031161)</small>
+* [[Pseudomonadaceae]] — [[d:Q138058|Q138058]] <small>(MeSH: D011548)</small>
+* [[Pseudomonas]] — [[d:Q131143|Q131143]] <small>(MeSH: D011549)</small>
+* [[Pseudomonas aeruginosa]] — [[d:Q31856|Q31856]] <small>(MeSH: D011550)</small>
+* [[Pseudomonas alcaligenes]] — [[d:Q7255001|Q7255001]] <small>(MeSH: D044202)</small>
+* [[Pseudomonas chlororaphis]] — [[d:Q7255026|Q7255026]] <small>(MeSH: D000070096)</small>
+* [[Pseudomonas fluorescens]] — [[d:Q135292|Q135292]] <small>(MeSH: D011551)</small>
+* [[Pseudomonas fragi]] — [[d:Q16988684|Q16988684]] <small>(MeSH: D044206)</small>
+* [[Pseudomonas mendocina]] — [[d:Q7255067|Q7255067]] <small>(MeSH: D044203)</small>
+* [[Pseudomonas oleovorans]] — [[d:Q7255075|Q7255075]] <small>(MeSH: D044204)</small>
+* [[Pseudomonas pseudoalcaligenes]] — [[d:Q16988687|Q16988687]] <small>(MeSH: D044205)</small>
+* [[Pseudomonas putida]] — [[d:Q2738168|Q2738168]] <small>(MeSH: D016958)</small>
+* [[Pseudomonas stutzeri]] — [[d:Q2888828|Q2888828]] <small>(MeSH: D044223)</small>
+* [[Pseudomonas syringae]] — [[d:Q311202|Q311202]] <small>(MeSH: D044224)</small>
+* [[Pseudonocardia]] — [[d:Q7255179|Q7255179]] <small>(MeSH: D000084382)</small>
+* [[Psychrobacter]] — [[d:Q2116089|Q2116089]] <small>(MeSH: D044096)</small>
+* [[Rahnella]] — [[d:Q26279959|Q26279959]] <small>(MeSH: D020638)</small>
+* [[Ralstonia]] — [[d:Q948017|Q948017]] <small>(MeSH: D043367)</small>
+* [[Ralstonia pickettii]] — [[d:Q7288384|Q7288384]] <small>(MeSH: D049920)</small>
+* [[Ralstonia solanacearum]] — [[d:Q2710840|Q2710840]] <small>(MeSH: D043368)</small>
+* [[Rappaport]] — [[d:Q114835825|Q114835825]] <small>(MeSH: D000086322)</small>
+* [[Renibacterium]] — [[d:Q21078546|Q21078546]] <small>(MeSH: D000084402)</small>
+* [[Rhizobiaceae]] — [[d:Q2462359|Q2462359]] <small>(MeSH: D012230)</small>
+* [[Rhizobium]] — [[d:Q830142|Q830142]] <small>(MeSH: D012231)</small>
+* [[Rhizobium etli]] — [[d:Q21308510|Q21308510]] <small>(MeSH: D042163)</small>
+* [[Rhizobium leguminosarum]] — [[d:Q3934108|Q3934108]] <small>(MeSH: D016961)</small>
+* [[Rhizobium phaseoli]] — [[d:Q26280538|Q26280538]] <small>(MeSH: D042161)</small>
+* [[Rhizobium tropici]] — [[d:Q26280681|Q26280681]] <small>(MeSH: D042162)</small>
+* [[Rhodobacter]] — [[d:Q3016950|Q3016950]] <small>(MeSH: D016992)</small>
+* [[Rhodobacter capsulatus]] — [[d:Q22285432|Q22285432]] <small>(MeSH: D016354)</small>
+* [[Rhodobacter sphaeroides]] — [[d:Q4186823|Q4186823]] <small>(MeSH: D012242)</small>
+* [[Rhodobacteraceae]] — [[d:Q148243|Q148243]] <small>(MeSH: D041902)</small>
+* [[Rhodococcus]] — [[d:Q288311|Q288311]] <small>(MeSH: D012240)</small>
+* [[Rhodococcus equi]] — [[d:Q293148|Q293148]] <small>(MeSH: D016929)</small>
+* [[Rhodocyclaceae]] — [[d:Q147217|Q147217]] <small>(MeSH: D043362)</small>
+* [[Rhodomicrobium]] — [[d:Q3934129|Q3934129]] <small>(MeSH: D020623)</small>
+* [[Rhodopseudomonas]] — [[d:Q15220631|Q15220631]] <small>(MeSH: D012241)</small>
+* [[Rhodospirillaceae]] — [[d:Q24301|Q24301]] <small>(MeSH: D012244)</small>
+* [[Rhodospirillales]] — [[d:Q476656|Q476656]] <small>(MeSH: D012245)</small>
+* [[Rhodospirillum]] — [[d:Q1954865|Q1954865]] <small>(MeSH: D012246)</small>
+* [[Rhodospirillum centenum]] — [[d:Q62888677|Q62888677]] <small>(MeSH: D042182)</small>
+* [[Rhodospirillum rubrum]] — [[d:Q24303|Q24303]] <small>(MeSH: D012247)</small>
+* [[Rhodothermus]] — [[d:Q19799123|Q19799123]] <small>(MeSH: D045245)</small>
+* [[Rhodovulum]] — [[d:Q16989214|Q16989214]] <small>(MeSH: D041903)</small>
+* [[Rickettsia]] — [[d:Q627992|Q627992]] <small>(MeSH: D012281)</small>
+* [[Rickettsia akari]] — [[d:Q7331927|Q7331927]] <small>(MeSH: D041141)</small>
+* [[Rickettsia conorii]] — [[d:Q2708461|Q2708461]] <small>(MeSH: D020114)</small>
+* [[Rickettsia felis]] — [[d:Q7331931|Q7331931]] <small>(MeSH: D041161)</small>
+* [[Rickettsia prowazekii]] — [[d:Q952862|Q952862]] <small>(MeSH: D012283)</small>
+* [[Rickettsia rickettsii]] — [[d:Q2698925|Q2698925]] <small>(MeSH: D012284)</small>
+* [[Rickettsia typhi]] — [[d:Q3010410|Q3010410]] <small>(MeSH: D012286)</small>
+* [[Rickettsiaceae]] — [[d:Q1975198|Q1975198]] <small>(MeSH: D012287)</small>
+* [[Rickettsiales]] — [[d:Q136644|Q136644]] <small>(MeSH: D000076944)</small>
+* [[Rickettsieae]] — [[d:Q3431622|Q3431622]] <small>(MeSH: D016996)</small>
+* [[Riemerella]] — [[d:Q19839166|Q19839166]] <small>(MeSH: D060494)</small>
+* [[Roseobacter]] — [[d:Q7368622|Q7368622]] <small>(MeSH: D041904)</small>
+* [[Ruminiclostridium cellulolyticum]] — [[d:Q3681034|Q3681034]] <small>(MeSH: D046973)</small>
+* [[Ruminococcus]] — [[d:Q288892|Q288892]] <small>(MeSH: D045857)</small>
+* [[Saccharopolyspora]] — [[d:Q7396611|Q7396611]] <small>(MeSH: D016930)</small>
+* [[Salmonella]] — [[d:Q150839|Q150839]] <small>(MeSH: D012475)</small>
+* [[Salmonella arizonae]] — [[d:Q29564494|Q29564494]] <small>(MeSH: D012476)</small>
+* [[Salmonella enterica]] — [[d:Q2264864|Q2264864]] <small>(MeSH: D019779)</small>
+* [[Salmonella enteritidis]] — [[d:Q62897324|Q62897324]] <small>(MeSH: D012477)</small>
+* [[Salmonella paratyphi A]] — [[d:Q21384409|Q21384409]] <small>(MeSH: D012482)</small>
+* [[Salmonella paratyphi B]] — [[d:Q69484390|Q69484390]] <small>(MeSH: D012484)</small>
+* [[Salmonella paratyphi C]] — [[d:Q68807849|Q68807849]] <small>(MeSH: D012479)</small>
+* [[Salmonella typhi]] — [[d:Q22111431|Q22111431]] <small>(MeSH: D012485)</small>
+* [[Salmonella typhimurium]] — [[d:Q21384413|Q21384413]] <small>(MeSH: D012486)</small>
+* [[Sarcina]] — [[d:Q309504|Q309504]] <small>(MeSH: D012505)</small>
+* [[Selenomonas]] — [[d:Q3954750|Q3954750]] <small>(MeSH: D020357)</small>
+* [[Serratia]] — [[d:Q134980|Q134980]] <small>(MeSH: D012705)</small>
+* [[Serratia liquefaciens]] — [[d:Q26285120|Q26285120]] <small>(MeSH: D044090)</small>
+* [[Serratia marcescens]] — [[d:Q140004|Q140004]] <small>(MeSH: D012706)</small>
+* [[Shewanella]] — [[d:Q3243676|Q3243676]] <small>(MeSH: D020592)</small>
+* [[Shewanella putrefaciens]] — [[d:Q7495722|Q7495722]] <small>(MeSH: D020614)</small>
+* [[Shiga-Toxigenic Escherichia coli]] — [[d:Q69309611|Q69309611]] <small>(MeSH: D054323)</small>
+* [[Shigella]] — [[d:Q131029|Q131029]] <small>(MeSH: D012760)</small>
+* [[Shigella boydii]] — [[d:Q4892937|Q4892937]] <small>(MeSH: D012761)</small>
+* [[Shigella dysenteriae]] — [[d:Q265094|Q265094]] <small>(MeSH: D012762)</small>
+* [[Shigella flexneri]] — [[d:Q1644417|Q1644417]] <small>(MeSH: D012763)</small>
+* [[Shigella sonnei]] — [[d:Q6382438|Q6382438]] <small>(MeSH: D012764)</small>
+* [[Sinorhizobium]] — [[d:Q3605613|Q3605613]] <small>(MeSH: D020579)</small>
+* [[Sinorhizobium fredii]] — [[d:Q16992580|Q16992580]] <small>(MeSH: D042181)</small>
+* [[Sinorhizobium meliloti]] — [[d:Q2696072|Q2696072]] <small>(MeSH: D016962)</small>
+* [[Sorangium]] — [[d:Q20672419|Q20672419]] <small>(MeSH: D000086323)</small>
+* [[Sphaerotilus]] — [[d:Q11312836|Q11312836]] <small>(MeSH: D042744)</small>
+* [[Sphingobacterium]] — [[d:Q15848149|Q15848149]] <small>(MeSH: D045249)</small>
+* [[Sphingomonadaceae]] — [[d:Q577057|Q577057]] <small>(MeSH: D042301)</small>
+* [[Sphingomonas]] — [[d:Q3815551|Q3815551]] <small>(MeSH: D020578)</small>
+* [[Spirillaceae]] — [[d:Q7577827|Q7577827]] <small>(MeSH: D043167)</small>
+* [[Spirillum]] — [[d:Q69598|Q69598]] <small>(MeSH: D013139)</small>
+* [[Spirochaeta]] — [[d:Q7578174|Q7578174]] <small>(MeSH: D013142)</small>
+* [[Spirochaetaceae]] — [[d:Q845770|Q845770]] <small>(MeSH: D013143)</small>
+* [[Spirochaetales]] — [[d:Q221315|Q221315]] <small>(MeSH: D013144)</small>
+* [[Spiroplasma]] — [[d:Q1769476|Q1769476]] <small>(MeSH: D013149)</small>
+* [[Spiroplasma citri]] — [[d:Q3966863|Q3966863]] <small>(MeSH: D045642)</small>
+* [[Spiroplasmataceae]] — [[d:Q3966897|Q3966897]] <small>(MeSH: D016991)</small>
+* [[Spirulina]] — [[d:Q14565729|Q14565729]] <small>(MeSH: D053545)</small>
+* [[Sporosarcina]] — [[d:Q15622254|Q15622254]] <small>(MeSH: D058644)</small>
+* [[Staphylococcaceae]] — [[d:Q149116|Q149116]] <small>(MeSH: D040141)</small>
+* [[Staphylococcus]] — [[d:Q199695|Q199695]] <small>(MeSH: D013210)</small>
+* [[Staphylococcus aureus]] — [[d:Q188121|Q188121]] <small>(MeSH: D013211)</small>
+* [[Staphylococcus capitis]] — [[d:Q7600399|Q7600399]] <small>(MeSH: D000074039)</small>
+* [[Staphylococcus epidermidis]] — [[d:Q131915|Q131915]] <small>(MeSH: D013212)</small>
+* [[Staphylococcus haemolyticus]] — [[d:Q3760144|Q3760144]] <small>(MeSH: D041162)</small>
+* [[Staphylococcus hominis]] — [[d:Q7600410|Q7600410]] <small>(MeSH: D041181)</small>
+* [[Staphylococcus hyicus]] — [[d:Q2332104|Q2332104]] <small>(MeSH: D057788)</small>
+* [[Staphylococcus intermedius]] — [[d:Q2332105|Q2332105]] <small>(MeSH: D057789)</small>
+* [[Staphylococcus lugdunensis]] — [[d:Q3968274|Q3968274]] <small>(MeSH: D057787)</small>
+* [[Staphylococcus saprophyticus]] — [[d:Q1708986|Q1708986]] <small>(MeSH: D057790)</small>
+* [[Stenotrophomonas]] — [[d:Q2707476|Q2707476]] <small>(MeSH: D020588)</small>
+* [[Stenotrophomonas maltophilia]] — [[d:Q142705|Q142705]] <small>(MeSH: D020615)</small>
+* [[Stigmatella]] — [[d:Q7616493|Q7616493]] <small>(MeSH: D020597)</small>
+* [[Stigmatella aurantiaca]] — [[d:Q7616495|Q7616495]] <small>(MeSH: D020606)</small>
+* [[Streptobacillus]] — [[d:Q3798005|Q3798005]] <small>(MeSH: D013288)</small>
+* [[Streptococcaceae]] — [[d:Q140018|Q140018]] <small>(MeSH: D013289)</small>
+* [[Streptococcus]] — [[d:Q190161|Q190161]] <small>(MeSH: D013291)</small>
+* [[Streptococcus agalactiae]] — [[d:Q132949|Q132949]] <small>(MeSH: D013292)</small>
+* [[Streptococcus anginosus]] — [[d:Q309538|Q309538]] <small>(MeSH: D034366)</small>
+* [[Streptococcus bovis]] — [[d:Q1761388|Q1761388]] <small>(MeSH: D016985)</small>
+* [[Streptococcus constellatus]] — [[d:Q7623346|Q7623346]] <small>(MeSH: D034365)</small>
+* [[Streptococcus equi]] — [[d:Q26289219|Q26289219]] <small>(MeSH: D018502)</small>
+* [[Streptococcus gallolyticus]] — [[d:Q26289244|Q26289244]] <small>(MeSH: D000070099)</small>
+* [[Streptococcus gallolyticus subspecies gallolyticus]] — [[d:Q63123296|Q63123296]] <small>(MeSH: D000070197)</small>
+* [[Streptococcus gordonii]] — [[d:Q7623352|Q7623352]] <small>(MeSH: D054773)</small>
+* [[Streptococcus iniae]] — [[d:Q7623354|Q7623354]] <small>(MeSH: D000070058)</small>
+* [[Streptococcus intermedius]] — [[d:Q7623355|Q7623355]] <small>(MeSH: D034367)</small>
+* [[Streptococcus milleri Group]] — [[d:Q737943|Q737943]] <small>(MeSH: D034364)</small>
+* [[Streptococcus mitis]] — [[d:Q684674|Q684674]] <small>(MeSH: D034361)</small>
+* [[Streptococcus mutans]] — [[d:Q131452|Q131452]] <small>(MeSH: D013295)</small>
+* [[Streptococcus oralis]] — [[d:Q1856358|Q1856358]] <small>(MeSH: D019533)</small>
+* [[Streptococcus pneumoniae]] — [[d:Q221179|Q221179]] <small>(MeSH: D013296)</small>
+* [[Streptococcus pyogenes]] — [[d:Q131271|Q131271]] <small>(MeSH: D013297)</small>
+* [[Streptococcus salivarius]] — [[d:Q139986|Q139986]] <small>(MeSH: D000070001)</small>
+* [[Streptococcus sanguis]] — [[d:Q2033849|Q2033849]] <small>(MeSH: D013298)</small>
+* [[Streptococcus sobrinus]] — [[d:Q603315|Q603315]] <small>(MeSH: D016986)</small>
+* [[Streptococcus suis]] — [[d:Q287694|Q287694]] <small>(MeSH: D017011)</small>
+* [[Streptococcus thermophilus]] — [[d:Q1041276|Q1041276]] <small>(MeSH: D048249)</small>
+* [[Streptomyces]] — [[d:Q1144013|Q1144013]] <small>(MeSH: D013302)</small>
+* [[Streptomyces antibioticus]] — [[d:Q22286909|Q22286909]] <small>(MeSH: D013303)</small>
+* [[Streptomyces aureofaciens]] — [[d:Q1572097|Q1572097]] <small>(MeSH: D013304)</small>
+* [[Streptomyces coelicolor]] — [[d:Q2355919|Q2355919]] <small>(MeSH: D048372)</small>
+* [[Streptomyces griseus]] — [[d:Q7623385|Q7623385]] <small>(MeSH: D013305)</small>
+* [[Streptomyces lividans]] — [[d:Q68792845|Q68792845]] <small>(MeSH: D048170)</small>
+* [[Streptomyces rimosus]] — [[d:Q7623395|Q7623395]] <small>(MeSH: D064411)</small>
+* [[Streptomycetaceae]] — [[d:Q1430556|Q1430556]] <small>(MeSH: D013306)</small>
+* [[Succinivibrionaceae]] — [[d:Q7632691|Q7632691]] <small>(MeSH: D044063)</small>
+* [[Sulfur-Reducing Bacteria]] — [[d:Q1639706|Q1639706]] <small>(MeSH: D016999)</small>
+* [[Synechococcus]] — [[d:Q150962|Q150962]] <small>(MeSH: D046940)</small>
+* [[Synechocystis]] — [[d:Q7662346|Q7662346]] <small>(MeSH: D046939)</small>
+* [[Tannerella]] — [[d:Q20750740|Q20750740]] <small>(MeSH: D000084422)</small>
+* [[Tannerella forsythia]] — [[d:Q7683667|Q7683667]] <small>(MeSH: D000070436)</small>
+* [[Taylorella]] — [[d:Q309673|Q309673]] <small>(MeSH: D042502)</small>
+* [[Taylorella equigenitalis]] — [[d:Q289291|Q289291]] <small>(MeSH: D020625)</small>
+* [[Tenacibaculum]] — [[d:Q19930482|Q19930482]] <small>(MeSH: D060493)</small>
+* [[Tenericutes]] — [[d:Q908484|Q908484]] <small>(MeSH: D008973)</small>
+* [[Thauera]] — [[d:Q7711420|Q7711420]] <small>(MeSH: D020628)</small>
+* [[Thermoactinomyces]] — [[d:Q21224923|Q21224923]] <small>(MeSH: D056509)</small>
+* [[Thermoanaerobacter]] — [[d:Q3990297|Q3990297]] <small>(MeSH: D046968)</small>
+* [[Thermoanaerobacterium]] — [[d:Q3990308|Q3990308]] <small>(MeSH: D046950)</small>
+* [[Thermobifida]] — [[d:Q21224937|Q21224937]] <small>(MeSH: D000086324)</small>
+* [[Thermomonospora]] — [[d:Q26296593|Q26296593]] <small>(MeSH: D000084442)</small>
+* [[Thermosynechococcus]] — [[d:Q21224962|Q21224962]] <small>(MeSH: D000086325)</small>
+* [[Thermotoga]] — [[d:Q2716367|Q2716367]] <small>(MeSH: D000084444)</small>
+* [[Thermotoga maritima]] — [[d:Q7783261|Q7783261]] <small>(MeSH: D020124)</small>
+* [[Thermotoga neapolitana]] — [[d:Q16993092|Q16993092]] <small>(MeSH: D046949)</small>
+* [[Thermus]] — [[d:Q7783265|Q7783265]] <small>(MeSH: D013824)</small>
+* [[Thermus thermophilus]] — [[d:Q139470|Q139470]] <small>(MeSH: D016963)</small>
+* [[Thiobacillus]] — [[d:Q2421263|Q2421263]] <small>(MeSH: D013855)</small>
+* [[Thiocapsa]] — [[d:Q12971903|Q12971903]] <small>(MeSH: D020586)</small>
+* [[Thiocapsa roseopersicina]] — [[d:Q26297269|Q26297269]] <small>(MeSH: D020616)</small>
+* [[Thiothrix]] — [[d:Q7784706|Q7784706]] <small>(MeSH: D053525)</small>
+* [[Thiotrichaceae]] — [[d:Q9287947|Q9287947]] <small>(MeSH: D041962)</small>
+* [[Treponema]] — [[d:Q134745|Q134745]] <small>(MeSH: D014208)</small>
+* [[Treponema denticola]] — [[d:Q2534751|Q2534751]] <small>(MeSH: D048373)</small>
+* [[Treponema pallidum]] — [[d:Q156007|Q156007]] <small>(MeSH: D014210)</small>
+* [[Trichodesmium]] — [[d:Q7840756|Q7840756]] <small>(MeSH: D000072359)</small>
+* [[Tropheryma]] — [[d:Q15261270|Q15261270]] <small>(MeSH: D054851)</small>
+* [[Ureaplasma]] — [[d:Q500151|Q500151]] <small>(MeSH: D014509)</small>
+* [[Ureaplasma urealyticum]] — [[d:Q137110|Q137110]] <small>(MeSH: D016990)</small>
+* [[Uropathogenic Escherichia coli]] — [[d:Q69343639|Q69343639]] <small>(MeSH: D056689)</small>
+* [[Vancomycin-Resistant Enterococci]] — [[d:Q2610066|Q2610066]] <small>(MeSH: D065507)</small>
+* [[Vancomycin-Resistant Staphylococcus aureus]] — [[d:Q2332243|Q2332243]] <small>(MeSH: D000083123)</small>
+* [[Veillonella]] — [[d:Q7918682|Q7918682]] <small>(MeSH: D014678)</small>
+* [[Veillonellaceae]] — [[d:Q15220654|Q15220654]] <small>(MeSH: D045854)</small>
+* [[Verrucomicrobia]] — [[d:Q18667425|Q18667425]] <small>(MeSH: D061327)</small>
+* [[Vibrio]] — [[d:Q753490|Q753490]] <small>(MeSH: D014733)</small>
+* [[Vibrio alginolyticus]] — [[d:Q3556827|Q3556827]] <small>(MeSH: D044149)</small>
+* [[Vibrio cholerae]] — [[d:Q160821|Q160821]] <small>(MeSH: D014734)</small>
+* [[Vibrio cholerae non-O1]] — [[d:Q68767638|Q68767638]] <small>(MeSH: D044163)</small>
+* [[Vibrio cholerae O1]] — [[d:Q21399642|Q21399642]] <small>(MeSH: D041241)</small>
+* [[Vibrio cholerae O139]] — [[d:Q18928412|Q18928412]] <small>(MeSH: D041242)</small>
+* [[Vibrio mimicus]] — [[d:Q7924680|Q7924680]] <small>(MeSH: D044164)</small>
+* [[Vibrio parahaemolyticus]] — [[d:Q134280|Q134280]] <small>(MeSH: D014736)</small>
+* [[Vibrio vulnificus]] — [[d:Q135183|Q135183]] <small>(MeSH: D041261)</small>
+* [[Vibrionaceae]] — [[d:Q910922|Q910922]] <small>(MeSH: D014737)</small>
+* [[Virgibacillus]] — [[d:Q16993429|Q16993429]] <small>(MeSH: D058679)</small>
+* [[Viridans Streptococci]] — [[d:Q751405|Q751405]] <small>(MeSH: D034363)</small>
+* [[Vitreoscilla]] — [[d:Q16993450|Q16993450]] <small>(MeSH: D020589)</small>
+* [[Weissella]] — [[d:Q963546|Q963546]] <small>(MeSH: D058836)</small>
+* [[Wigglesworthia]] — [[d:Q18601381|Q18601381]] <small>(MeSH: D044106)</small>
+* [[Wolbachia]] — [[d:Q283526|Q283526]] <small>(MeSH: D020577)</small>
+* [[Wolinella]] — [[d:Q18718832|Q18718832]] <small>(MeSH: D016968)</small>
+* [[Xanthobacter]] — [[d:Q21230516|Q21230516]] <small>(MeSH: D020584)</small>
+* [[Xanthomonadaceae]] — [[d:Q489464|Q489464]] <small>(MeSH: D044166)</small>
+* [[Xanthomonas]] — [[d:Q140652|Q140652]] <small>(MeSH: D014974)</small>
+* [[Xanthomonas axonopodis]] — [[d:Q2955986|Q2955986]] <small>(MeSH: D053532)</small>
+* [[Xanthomonas campestris]] — [[d:Q3753551|Q3753551]] <small>(MeSH: D016959)</small>
+* [[Xanthomonas vesicatoria]] — [[d:Q15637483|Q15637483]] <small>(MeSH: D044184)</small>
+* [[Xenorhabdus]] — [[d:Q1465894|Q1465894]] <small>(MeSH: D020593)</small>
+* [[Xylella]] — [[d:Q19858489|Q19858489]] <small>(MeSH: D044167)</small>
+* [[Xylophilus]] — [[d:Q8045499|Q8045499]] <small>(MeSH: D000086326)</small>
+* [[Yersinia]] — [[d:Q132231|Q132231]] <small>(MeSH: D015007)</small>
+* [[Yersinia enterocolitica]] — [[d:Q135177|Q135177]] <small>(MeSH: D015008)</small>
+* [[Yersinia pestis]] — [[d:Q153875|Q153875]] <small>(MeSH: D015010)</small>
+* [[Yersinia pseudotuberculosis]] — [[d:Q139928|Q139928]] <small>(MeSH: D015011)</small>
+* [[Yersinia ruckeri]] — [[d:Q16993573|Q16993573]] <small>(MeSH: D044124)</small>
+* [[Zoogloea]] — [[d:Q220150|Q220150]] <small>(MeSH: D015045)</small>
+* [[Zymomonas]] — [[d:Q3008835|Q3008835]] <small>(MeSH: D017355)</small>
+
+=== Organism Forms ===
+
+* '''Coverage:''' 60.0%
+* '''{{color|blue|Bluelinks}}:''' 18
+* '''{{color|red|Redlinks}}:''' 12
+* [[Aquatic Organisms]] — [[d:Q11710365|Q11710365]] <small>(MeSH: D059001)</small>
+* [[Blood-Borne Pathogens]] — [[d:Q69500049|Q69500049]] <small>(MeSH: D017848)</small>
+* [[Cercaria]] — [[d:Q191665|Q191665]] <small>(MeSH: D058487)</small>
+* [[Chimera]] — [[d:Q281721|Q281721]] <small>(MeSH: D002678)</small>
+* [[Edible Seaweeds]] — [[d:Q796185|Q796185]] <small>(MeSH: D000097342)</small>
+* [[Endophytes]] — [[d:Q260335|Q260335]] <small>(MeSH: D060026)</small>
+* [[Extremophiles]] — [[d:Q206912|Q206912]] <small>(MeSH: D000071825)</small>
+* [[Hermaphroditic Organisms]] — [[d:Q303479|Q303479]] <small>(MeSH: D057850)</small>
+* [[Larva]] — [[d:Q129270|Q129270]] <small>(MeSH: D007814)</small>
+* [[Life Cycle Stages]] — [[d:Q69400286|Q69400286]] <small>(MeSH: D008018)</small>
+* [[Merozoites]] — [[d:Q2296434|Q2296434]] <small>(MeSH: D052940)</small>
+* [[Metacercariae]] — [[d:Q3267017|Q3267017]] <small>(MeSH: D058488)</small>
+* [[Microalgae]] — [[d:Q589518|Q589518]] <small>(MeSH: D058086)</small>
+* [[Microorganisms, Genetically-Modified]] — [[d:Q113171162|Q113171162]] <small>(MeSH: D000074041)</small>
+* [[Nymph]] — [[d:Q258362|Q258362]] <small>(MeSH: D009758)</small>
+* [[Oocysts]] — [[d:Q143715|Q143715]] <small>(MeSH: D033661)</small>
+* [[Organism Forms]] — [[d:Q55597235|Q55597235]] <small>(MeSH: D056891)</small>
+* [[Organisms, Genetically Modified]] — [[d:Q182726|Q182726]] <small>(MeSH: D030781)</small>
+* [[Periphyton]] — [[d:Q1858004|Q1858004]] <small>(MeSH: D000074284)</small>
+* [[Phytoplankton]] — [[d:Q184755|Q184755]] <small>(MeSH: D010839)</small>
+* [[Plankton]] — [[d:Q25367|Q25367]] <small>(MeSH: D010933)</small>
+* [[Pupa]] — [[d:Q170595|Q170595]] <small>(MeSH: D011679)</small>
+* [[Radiation Chimera]] — [[d:Q69389784|Q69389784]] <small>(MeSH: D011828)</small>
+* [[Schizonts]] — [[d:Q3952119|Q3952119]] <small>(MeSH: D052939)</small>
+* [[Seaweed]] — [[d:Q237169|Q237169]] <small>(MeSH: D012624)</small>
+* [[Sentinel Species]] — [[d:Q4764975|Q4764975]] <small>(MeSH: D000072739)</small>
+* [[Sporozoites]] — [[d:Q140401|Q140401]] <small>(MeSH: D034101)</small>
+* [[Transplantation Chimera]] — [[d:Q69380319|Q69380319]] <small>(MeSH: D018183)</small>
+* [[Trophozoites]] — [[d:Q2455499|Q2455499]] <small>(MeSH: D053058)</small>
+* [[Zooplankton]] — [[d:Q842627|Q842627]] <small>(MeSH: D015048)</small>
+
+=== Algae ===
+
+* '''Coverage:''' 98.3%
+* '''{{color|blue|Bluelinks}}:''' 59
+* '''{{color|red|Redlinks}}:''' 1
+* [[Acidianus]] — [[d:Q2823329|Q2823329]] <small>(MeSH: D041541)</small>
+* [[Aeropyrum]] — [[d:Q4688414|Q4688414]] <small>(MeSH: D041522)</small>
+* [[Archaea]] — [[d:Q10872|Q10872]] <small>(MeSH: D001105)</small>
+* [[Archaeoglobales]] — [[d:Q4785362|Q4785362]] <small>(MeSH: D019608)</small>
+* [[Archaeoglobus]] — [[d:Q1134389|Q1134389]] <small>(MeSH: D019609)</small>
+* [[Archaeoglobus fulgidus]] — [[d:Q15265209|Q15265209]] <small>(MeSH: D019611)</small>
+* [[Crenarchaeota]] — [[d:Q499078|Q499078]] <small>(MeSH: D019615)</small>
+* [[Desulfurococcaceae]] — [[d:Q5265456|Q5265456]] <small>(MeSH: D019620)</small>
+* [[Desulfurococcales]] — [[d:Q1046935|Q1046935]] <small>(MeSH: D041521)</small>
+* [[Euryarchaeota]] — [[d:Q204219|Q204219]] <small>(MeSH: D019605)</small>
+* [[Haloarcula]] — [[d:Q5643348|Q5643348]] <small>(MeSH: D019613)</small>
+* [[Haloarcula marismortui]] — [[d:Q25860043|Q25860043]] <small>(MeSH: D019614)</small>
+* [[Halobacteriaceae]] — [[d:Q764133|Q764133]] <small>(MeSH: D006216)</small>
+* [[Halobacteriales]] — [[d:Q5643349|Q5643349]] <small>(MeSH: D016931)</small>
+* [[Halobacterium]] — [[d:Q139014|Q139014]] <small>(MeSH: D006217)</small>
+* [[Halobacterium salinarum]] — [[d:Q3782756|Q3782756]] <small>(MeSH: D019617)</small>
+* [[Halococcus]] — [[d:Q5643365|Q5643365]] <small>(MeSH: D019625)</small>
+* [[Haloferax]] — [[d:Q3126194|Q3126194]] <small>(MeSH: D019621)</small>
+* [[Haloferax mediterranei]] — [[d:Q25860197|Q25860197]] <small>(MeSH: D019623)</small>
+* [[Haloferax volcanii]] — [[d:Q16982678|Q16982678]] <small>(MeSH: D019622)</small>
+* [[Halorubrum]] — [[d:Q5643444|Q5643444]] <small>(MeSH: D055352)</small>
+* [[Methanobacteriaceae]] — [[d:Q6823582|Q6823582]] <small>(MeSH: D017013)</small>
+* [[Methanobacteriales]] — [[d:Q3316454|Q3316454]] <small>(MeSH: D017012)</small>
+* [[Methanobacterium]] — [[d:Q6823576|Q6823576]] <small>(MeSH: D017014)</small>
+* [[Methanobrevibacter]] — [[d:Q6823583|Q6823583]] <small>(MeSH: D041581)</small>
+* [[Methanocaldococcaceae]] — [[d:Q4044099|Q4044099]] <small>(MeSH: D063746)</small>
+* [[Methanocaldococcus]] — [[d:Q13601816|Q13601816]] <small>(MeSH: D063747)</small>
+* [[Methanococcaceae]] — [[d:Q4044106|Q4044106]] <small>(MeSH: D017016)</small>
+* [[Methanococcales]] — [[d:Q4044107|Q4044107]] <small>(MeSH: D017015)</small>
+* [[Methanococcus]] — [[d:Q2711364|Q2711364]] <small>(MeSH: D017017)</small>
+* [[Methanomicrobiaceae]] — [[d:Q4044127|Q4044127]] <small>(MeSH: D019638)</small>
+* [[Methanomicrobiales]] — [[d:Q4044130|Q4044130]] <small>(MeSH: D017018)</small>
+* [[Methanosarcina]] — [[d:Q1942715|Q1942715]] <small>(MeSH: D017020)</small>
+* [[Methanosarcina barkeri]] — [[d:Q4044137|Q4044137]] <small>(MeSH: D017021)</small>
+* [[Methanosarcinaceae]] — [[d:Q1949357|Q1949357]] <small>(MeSH: D017019)</small>
+* [[Methanosarcinales]] — [[d:Q4044143|Q4044143]] <small>(MeSH: D019640)</small>
+* [[Methanospirillum]] — [[d:Q4044149|Q4044149]] <small>(MeSH: D019639)</small>
+* [[Nanoarchaeota]] — [[d:Q548074|Q548074]] <small>(MeSH: D046588)</small>
+* [[Natronobacterium]] — [[d:Q6980254|Q6980254]] <small>(MeSH: D019633)</small>
+* [[Natronococcus]] — [[d:Q6980255|Q6980255]] <small>(MeSH: D019634)</small>
+* [[Pyrobaculum]] — [[d:Q5363186|Q5363186]] <small>(MeSH: D041543)</small>
+* [[Pyrococcus]] — [[d:Q2709870|Q2709870]] <small>(MeSH: D019711)</small>
+* [[Pyrococcus abyssi]] — [[d:Q16988919|Q16988919]] <small>(MeSH: D043903)</small>
+* [[Pyrococcus furiosus]] — [[d:Q146310|Q146310]] <small>(MeSH: D020027)</small>
+* [[Pyrococcus horikoshii]] — [[d:Q16988922|Q16988922]] <small>(MeSH: D043902)</small>
+* [[Pyrodictiaceae]] — [[d:Q7263646|Q7263646]] <small>(MeSH: D041523)</small>
+* [[Sulfolobaceae]] — [[d:Q7636207|Q7636207]] <small>(MeSH: D016943)</small>
+* [[Sulfolobales]] — [[d:Q1046960|Q1046960]] <small>(MeSH: D016942)</small>
+* [[Sulfolobus]] — [[d:Q1209791|Q1209791]] <small>(MeSH: D016944)</small>
+* [[Sulfolobus acidocaldarius]] — [[d:Q2364491|Q2364491]] <small>(MeSH: D016945)</small>
+* [[Sulfolobus solfataricus]] — [[d:Q3503466|Q3503466]] <small>(MeSH: D048229)</small>
+* [[Thermococcaceae]] — [[d:Q7783140|Q7783140]] <small>(MeSH: D019710)</small>
+* [[Thermococcales]] — [[d:Q7783142|Q7783142]] <small>(MeSH: D019709)</small>
+* [[Thermococcus]] — [[d:Q2710532|Q2710532]] <small>(MeSH: D019712)</small>
+* [[Thermofilaceae]] — [[d:Q5149634|Q5149634]] <small>(MeSH: D041561)</small>
+* [[Thermoplasma]] — [[d:Q3013170|Q3013170]] <small>(MeSH: D013822)</small>
+* [[Thermoplasmales]] — [[d:Q69499684|Q69499684]] <small>(MeSH: D019603)</small>
+* [[Thermoproteaceae]] — [[d:Q5366473|Q5366473]] <small>(MeSH: D019624)</small>
+* [[Thermoproteales]] — [[d:Q933834|Q933834]] <small>(MeSH: D019619)</small>
+* [[Thermoproteus]] — [[d:Q863318|Q863318]] <small>(MeSH: D041542)</small>
+
+
+[[Category:WikiProject MeSH]]

@@ -1,0 +1,1155 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Heterocyclic Compounds ===
+
+* '''Coverage:''' 81.6%
+* '''{{color|blue|Bluelinks}}:''' 773
+* '''{{color|red|Redlinks}}:''' 174
+* [[1-Deoxynojirimycin]] — [[d:Q15274561|Q15274561]] <small>(MeSH: D017485)</small>
+* [[2,2'-Dipyridyl]] — [[d:Q209143|Q209143]] <small>(MeSH: D015082)</small>
+* [[2-Aminopurine]] — [[d:Q209313|Q209313]] <small>(MeSH: D015075)</small>
+* [[2-Pyridinylmethylsulfinylbenzimidazoles]] — [[d:Q73614626|Q73614626]] <small>(MeSH: D053799)</small>
+* [[4-Hydroxycoumarins]] — [[d:Q3599051|Q3599051]] <small>(MeSH: D015110)</small>
+* [[4-Quinolones]] — [[d:Q13669486|Q13669486]] <small>(MeSH: D042462)</small>
+* [[5,6-Dihydroxytryptamine]] — [[d:Q27292226|Q27292226]] <small>(MeSH: D015115)</small>
+* [[5,7-Dihydroxytryptamine]] — [[d:Q977151|Q977151]] <small>(MeSH: D015116)</small>
+* [[5-Methoxypsoralen]] — [[d:Q414779|Q414779]] <small>(MeSH: D000078223)</small>
+* [[5-Methylcytosine]] — [[d:Q238563|Q238563]] <small>(MeSH: D044503)</small>
+* [[6-Aminonicotinamide]] — [[d:Q26841298|Q26841298]] <small>(MeSH: D015120)</small>
+* [[Acenocoumarol]] — [[d:Q304088|Q304088]] <small>(MeSH: D000074)</small>
+* [[Acids, Heterocyclic]] — [[d:Q73594096|Q73594096]] <small>(MeSH: D000147)</small>
+* [[Acridine Orange]] — [[d:Q342717|Q342717]] <small>(MeSH: D000165)</small>
+* [[Acridines]] — [[d:Q342713|Q342713]] <small>(MeSH: D000166)</small>
+* [[Acridones]] — [[d:Q76608011|Q76608011]] <small>(MeSH: D054831)</small>
+* [[Acriflavine]] — [[d:Q225854|Q225854]] <small>(MeSH: D000167)</small>
+* [[Acronine]] — [[d:Q15633955|Q15633955]] <small>(MeSH: D000175)</small>
+* [[Acyclovir]] — [[d:Q147101|Q147101]] <small>(MeSH: D000212)</small>
+* [[Adenine]] — [[d:Q15277|Q15277]] <small>(MeSH: D000225)</small>
+* [[Adrenochrome]] — [[d:Q366835|Q366835]] <small>(MeSH: D000323)</small>
+* [[Aflatoxin B1]] — [[d:Q4689278|Q4689278]] <small>(MeSH: D016604)</small>
+* [[Aflatoxin M1]] — [[d:Q26998369|Q26998369]] <small>(MeSH: D016607)</small>
+* [[Aflatoxins]] — [[d:Q212936|Q212936]] <small>(MeSH: D000348)</small>
+* [[Ajmaline]] — [[d:Q385858|Q385858]] <small>(MeSH: D000404)</small>
+* [[Alcian Blue]] — [[d:Q520633|Q520633]] <small>(MeSH: D000423)</small>
+* [[Alcuronium]] — [[d:Q27074375|Q27074375]] <small>(MeSH: D000443)</small>
+* [[Alfentanil]] — [[d:Q176533|Q176533]] <small>(MeSH: D015760)</small>
+* [[Alkaloids]] — [[d:Q70702|Q70702]] <small>(MeSH: D000470)</small>
+* [[Allopurinol]] — [[d:Q412486|Q412486]] <small>(MeSH: D000493)</small>
+* [[Alloxan]] — [[d:Q417701|Q417701]] <small>(MeSH: D000496)</small>
+* [[Almitrine]] — [[d:Q4733858|Q4733858]] <small>(MeSH: D015765)</small>
+* [[alpha-Tocopherol]] — [[d:Q158348|Q158348]] <small>(MeSH: D024502)</small>
+* [[Alphaprodine]] — [[d:Q5666520|Q5666520]] <small>(MeSH: D000522)</small>
+* [[Alprazolam]] — [[d:Q319877|Q319877]] <small>(MeSH: D000525)</small>
+* [[Altretamine]] — [[d:Q415242|Q415242]] <small>(MeSH: D006585)</small>
+* [[Amiloride]] — [[d:Q419995|Q419995]] <small>(MeSH: D000584)</small>
+* [[Aminacrine]] — [[d:Q513937|Q513937]] <small>(MeSH: D000585)</small>
+* [[Aminoacridines]] — [[d:Q4746437|Q4746437]] <small>(MeSH: D000609)</small>
+* [[Aminocoumarins]] — [[d:Q471668|Q471668]] <small>(MeSH: D049933)</small>
+* [[Aminoglutethimide]] — [[d:Q241150|Q241150]] <small>(MeSH: D000616)</small>
+* [[Aminoimidazole Carboxamide]] — [[d:Q27067435|Q27067435]] <small>(MeSH: D000620)</small>
+* [[Aminopterin]] — [[d:Q415734|Q415734]] <small>(MeSH: D000630)</small>
+* [[Aminopyrine]] — [[d:Q416503|Q416503]] <small>(MeSH: D000632)</small>
+* [[Aminoquinolines]] — [[d:Q119526035|Q119526035]] <small>(MeSH: D000634)</small>
+* [[Aminorex]] — [[d:Q4064330|Q4064330]] <small>(MeSH: D000635)</small>
+* [[Amiodarone]] — [[d:Q410061|Q410061]] <small>(MeSH: D000638)</small>
+* [[Amitrole]] — [[d:Q423314|Q423314]] <small>(MeSH: D000640)</small>
+* [[Amlodipine]] — [[d:Q411347|Q411347]] <small>(MeSH: D017311)</small>
+* [[Amlodipine Besylate, Olmesartan Medoxomil Drug Combination]] — [[d:Q4832831|Q4832831]] <small>(MeSH: D000068558)</small>
+* [[Amlodipine, Valsartan Drug Combination]] — [[d:Q4747075|Q4747075]] <small>(MeSH: D000068838)</small>
+* [[Amobarbital]] — [[d:Q415850|Q415850]] <small>(MeSH: D000654)</small>
+* [[Amodiaquine]] — [[d:Q239569|Q239569]] <small>(MeSH: D000655)</small>
+* [[Amoxapine]] — [[d:Q58356|Q58356]] <small>(MeSH: D000657)</small>
+* [[Amprolium]] — [[d:Q27158445|Q27158445]] <small>(MeSH: D000670)</small>
+* [[Ampyrone]] — [[d:Q3599043|Q3599043]] <small>(MeSH: D000675)</small>
+* [[Amsacrine]] — [[d:Q2784004|Q2784004]] <small>(MeSH: D000677)</small>
+* [[Anabasine]] — [[d:Q419308|Q419308]] <small>(MeSH: D000691)</small>
+* [[Anisomycin]] — [[d:Q378498|Q378498]] <small>(MeSH: D000841)</small>
+* [[Antazoline]] — [[d:Q771975|Q771975]] <small>(MeSH: D000865)</small>
+* [[Anthocyanins]] — [[d:Q262547|Q262547]] <small>(MeSH: D000872)</small>
+* [[Anthramycin]] — [[d:Q4773852|Q4773852]] <small>(MeSH: D000876)</small>
+* [[Antipyrine]] — [[d:Q415578|Q415578]] <small>(MeSH: D000983)</small>
+* [[Apazone]] — [[d:Q368222|Q368222]] <small>(MeSH: D001032)</small>
+* [[Apigenin]] — [[d:Q424567|Q424567]] <small>(MeSH: D047310)</small>
+* [[Apomorphine]] — [[d:Q269111|Q269111]] <small>(MeSH: D001058)</small>
+* [[Aporphines]] — [[d:Q76508235|Q76508235]] <small>(MeSH: D001060)</small>
+* [[Aprepitant]] — [[d:Q621834|Q621834]] <small>(MeSH: D000077608)</small>
+* [[Arecoline]] — [[d:Q423515|Q423515]] <small>(MeSH: D001115)</small>
+* [[Aripiprazole]] — [[d:Q411188|Q411188]] <small>(MeSH: D000068180)</small>
+* [[Astemizole]] — [[d:Q423437|Q423437]] <small>(MeSH: D016589)</small>
+* [[Atazanavir Sulfate]] — [[d:Q27114238|Q27114238]] <small>(MeSH: D000069446)</small>
+* [[Atorvastatin]] — [[d:Q668093|Q668093]] <small>(MeSH: D000069059)</small>
+* [[Atracurium]] — [[d:Q27098039|Q27098039]] <small>(MeSH: D001279)</small>
+* [[Atrasentan]] — [[d:Q125083|Q125083]] <small>(MeSH: D000077868)</small>
+* [[Atrazine]] — [[d:Q408652|Q408652]] <small>(MeSH: D001280)</small>
+* [[Atropine]] — [[d:Q26272|Q26272]] <small>(MeSH: D001285)</small>
+* [[Atropine Derivatives]] — [[d:Q76799385|Q76799385]] <small>(MeSH: D001286)</small>
+* [[Aurovertins]] — [[d:Q73596839|Q73596839]] <small>(MeSH: D001313)</small>
+* [[Avapritinib]] <small>(MeSH: D000099289)</small>
+* [[Azepines]] — [[d:Q56794602|Q56794602]] <small>(MeSH: D001381)</small>
+* [[Azetidines]] — [[d:Q67912651|Q67912651]] <small>(MeSH: D001384)</small>
+* [[Azetines]] — [[d:Q67910523|Q67910523]] <small>(MeSH: D001385)</small>
+* [[Aziridines]] — [[d:Q56670455|Q56670455]] <small>(MeSH: D001388)</small>
+* [[Azirines]] — [[d:Q67913382|Q67913382]] <small>(MeSH: D001389)</small>
+* [[Azocines]] — [[d:Q56099970|Q56099970]] <small>(MeSH: D001392)</small>
+* [[Azoles]] — [[d:Q419639|Q419639]] <small>(MeSH: D001393)</small>
+* [[Bacteriochlorophylls]] — [[d:Q1992180|Q1992180]] <small>(MeSH: D001429)</small>
+* [[Barbital]] — [[d:Q412409|Q412409]] <small>(MeSH: D001462)</small>
+* [[Barbiturates]] — [[d:Q206348|Q206348]] <small>(MeSH: D001463)</small>
+* [[Belladonna Alkaloids]] — [[d:Q67390182|Q67390182]] <small>(MeSH: D001533)</small>
+* [[Bemegride]] — [[d:Q792614|Q792614]] <small>(MeSH: D001534)</small>
+* [[Benzazepines]] — [[d:Q18009516|Q18009516]] <small>(MeSH: D001552)</small>
+* [[Benzbromarone]] — [[d:Q410435|Q410435]] <small>(MeSH: D001553)</small>
+* [[Benzimidazoles]] — [[d:Q55499703|Q55499703]] <small>(MeSH: D001562)</small>
+* [[Benzodiazepines]] — [[d:Q83871|Q83871]] <small>(MeSH: D001569)</small>
+* [[Benzodiazepinones]] — [[d:Q58556571|Q58556571]] <small>(MeSH: D001570)</small>
+* [[Benzodioxoles]] — [[d:Q57841385|Q57841385]] <small>(MeSH: D052117)</small>
+* [[Benzoflavones]] — [[d:Q73597745|Q73597745]] <small>(MeSH: D001571)</small>
+* [[Benzofurans]] — [[d:Q25323982|Q25323982]] <small>(MeSH: D001572)</small>
+* [[Benzomorphans]] — [[d:Q56100854|Q56100854]] <small>(MeSH: D001575)</small>
+* [[Benzophenanthridines]] — [[d:Q58622417|Q58622417]] <small>(MeSH: D053119)</small>
+* [[Benzopyrans]] — [[d:Q73354048|Q73354048]] <small>(MeSH: D001578)</small>
+* [[Benzothiazoles]] — [[d:Q49850432|Q49850432]] <small>(MeSH: D052160)</small>
+* [[Benzoxazines]] — [[d:Q85746641|Q85746641]] <small>(MeSH: D048588)</small>
+* [[Benzoxazoles]] — [[d:Q50377137|Q50377137]] <small>(MeSH: D001583)</small>
+* [[Benzoxepins]] — [[d:Q2896804|Q2896804]] <small>(MeSH: D001584)</small>
+* [[Benztropine]] — [[d:Q415026|Q415026]] <small>(MeSH: D001590)</small>
+* [[Benzydamine]] — [[d:Q793143|Q793143]] <small>(MeSH: D001591)</small>
+* [[Benzyl Viologen]] — [[d:Q27105932|Q27105932]] <small>(MeSH: D001594)</small>
+* [[Benzylisoquinolines]] — [[d:Q76542978|Q76542978]] <small>(MeSH: D044182)</small>
+* [[Bepridil]] — [[d:Q4890934|Q4890934]] <small>(MeSH: D015764)</small>
+* [[Berberine]] — [[d:Q176525|Q176525]] <small>(MeSH: D001599)</small>
+* [[Berberine Alkaloids]] — [[d:Q75011963|Q75011963]] <small>(MeSH: D001600)</small>
+* [[beta-Naphthoflavone]] — [[d:Q4897188|Q4897188]] <small>(MeSH: D019324)</small>
+* [[beta-Tocopherol]] — [[d:Q155667|Q155667]] <small>(MeSH: D024503)</small>
+* [[Betahistine]] — [[d:Q368995|Q368995]] <small>(MeSH: D001621)</small>
+* [[Betazole]] — [[d:Q4897378|Q4897378]] <small>(MeSH: D001625)</small>
+* [[Bicuculline]] — [[d:Q3639734|Q3639734]] <small>(MeSH: D001640)</small>
+* [[Biflavonoids]] — [[d:Q4904772|Q4904772]] <small>(MeSH: D044946)</small>
+* [[Bile Pigments]] — [[d:Q426938|Q426938]] <small>(MeSH: D001654)</small>
+* [[Bilirubin]] — [[d:Q104219|Q104219]] <small>(MeSH: D001663)</small>
+* [[Biliverdine]] — [[d:Q422964|Q422964]] <small>(MeSH: D001664)</small>
+* [[Biopterins]] — [[d:Q408256|Q408256]] <small>(MeSH: D001708)</small>
+* [[Biotin]] — [[d:Q181354|Q181354]] <small>(MeSH: D001710)</small>
+* [[Biperiden]] — [[d:Q414914|Q414914]] <small>(MeSH: D001712)</small>
+* [[Bisbenzimidazole]] — [[d:Q27123162|Q27123162]] <small>(MeSH: D006690)</small>
+* [[Bridged Bicyclo Compounds, Heterocyclic]] — [[d:Q75007726|Q75007726]] <small>(MeSH: D019086)</small>
+* [[Brimonidine Tartrate]] — [[d:Q27122452|Q27122452]] <small>(MeSH: D000068438)</small>
+* [[Bromazepam]] — [[d:Q422435|Q422435]] <small>(MeSH: D001960)</small>
+* [[Bromocriptine]] — [[d:Q413581|Q413581]] <small>(MeSH: D001971)</small>
+* [[Bromouracil]] — [[d:Q238477|Q238477]] <small>(MeSH: D001976)</small>
+* [[Brompheniramine]] — [[d:Q2606497|Q2606497]] <small>(MeSH: D001977)</small>
+* [[Bufotenin]] — [[d:Q408915|Q408915]] <small>(MeSH: D002027)</small>
+* [[Buprenorphine]] — [[d:Q407721|Q407721]] <small>(MeSH: D002047)</small>
+* [[Buprenorphine, Naloxone Drug Combination]] — [[d:Q25048068|Q25048068]] <small>(MeSH: D000069479)</small>
+* [[Buspirone]] — [[d:Q412194|Q412194]] <small>(MeSH: D002065)</small>
+* [[Butorphanol]] — [[d:Q1185089|Q1185089]] <small>(MeSH: D002077)</small>
+* [[Butylscopolammonium Bromide]] — [[d:Q419361|Q419361]] <small>(MeSH: D002086)</small>
+* [[Cabergoline]] — [[d:Q423308|Q423308]] <small>(MeSH: D000077465)</small>
+* [[Caffeine]] — [[d:Q60235|Q60235]] <small>(MeSH: D002110)</small>
+* [[Cambendazole]] — [[d:Q15726127|Q15726127]] <small>(MeSH: D002159)</small>
+* [[Camptothecin]] — [[d:Q419964|Q419964]] <small>(MeSH: D002166)</small>
+* [[Cantharidin]] — [[d:Q410884|Q410884]] <small>(MeSH: D002193)</small>
+* [[Capecitabine]] — [[d:Q420207|Q420207]] <small>(MeSH: D000069287)</small>
+* [[Caprolactam]] — [[d:Q409397|Q409397]] <small>(MeSH: D002209)</small>
+* [[Captan]] — [[d:Q2194382|Q2194382]] <small>(MeSH: D002215)</small>
+* [[Carbamazepine]] — [[d:Q410412|Q410412]] <small>(MeSH: D002220)</small>
+* [[Carbazoles]] — [[d:Q67206106|Q67206106]] <small>(MeSH: D002227)</small>
+* [[Carbimazole]] — [[d:Q414013|Q414013]] <small>(MeSH: D002231)</small>
+* [[Carbolines]] — [[d:Q73635872|Q73635872]] <small>(MeSH: D002243)</small>
+* [[Catechin]] — [[d:Q51617472|Q51617472]] <small>(MeSH: D002392)</small>
+* [[Centchroman]] — [[d:Q7103387|Q7103387]] <small>(MeSH: D002486)</small>
+* [[Cetirizine]] — [[d:Q423075|Q423075]] <small>(MeSH: D017332)</small>
+* [[Cetylpyridinium]] — [[d:Q27115152|Q27115152]] <small>(MeSH: D002594)</small>
+* [[Cevanes]] — [[d:Q76877619|Q76877619]] <small>(MeSH: D002595)</small>
+* [[Chalcones]] — [[d:Q40208401|Q40208401]] <small>(MeSH: D047188)</small>
+* [[Chlordiazepoxide]] — [[d:Q178566|Q178566]] <small>(MeSH: D002707)</small>
+* [[Chlorophyll]] — [[d:Q43177|Q43177]] <small>(MeSH: D002734)</small>
+* [[Chlorophyll A]] — [[d:Q133878|Q133878]] <small>(MeSH: D000077194)</small>
+* [[Chlorophyllides]] — [[d:Q93609|Q93609]] <small>(MeSH: D002735)</small>
+* [[Chloroquine]] — [[d:Q422438|Q422438]] <small>(MeSH: D002738)</small>
+* [[Chloroquinolinols]] — [[d:Q76855556|Q76855556]] <small>(MeSH: D002739)</small>
+* [[Chlorpheniramine]] — [[d:Q420133|Q420133]] <small>(MeSH: D002744)</small>
+* [[Chlorquinaldol]] — [[d:Q1645622|Q1645622]] <small>(MeSH: D002750)</small>
+* [[Chlorzoxazone]] — [[d:Q3294630|Q3294630]] <small>(MeSH: D002753)</small>
+* [[Chromans]] — [[d:Q73597223|Q73597223]] <small>(MeSH: D002839)</small>
+* [[Chromonar]] — [[d:Q5037872|Q5037872]] <small>(MeSH: D002866)</small>
+* [[Chromones]] — [[d:Q2966731|Q2966731]] <small>(MeSH: D002867)</small>
+* [[Cilazapril]] — [[d:Q867350|Q867350]] <small>(MeSH: D017315)</small>
+* [[Cilostazol]] — [[d:Q258591|Q258591]] <small>(MeSH: D000077407)</small>
+* [[Cinchona Alkaloids]] — [[d:Q21662767|Q21662767]] <small>(MeSH: D002930)</small>
+* [[Cinnarizine]] — [[d:Q775073|Q775073]] <small>(MeSH: D002936)</small>
+* [[Cinoxacin]] — [[d:Q1639588|Q1639588]] <small>(MeSH: D002937)</small>
+* [[Ciprofloxacin]] — [[d:Q256602|Q256602]] <small>(MeSH: D002939)</small>
+* [[Citrinin]] — [[d:Q420354|Q420354]] <small>(MeSH: D002953)</small>
+* [[Clemastine]] — [[d:Q418145|Q418145]] <small>(MeSH: D002974)</small>
+* [[Clindamycin]] — [[d:Q422273|Q422273]] <small>(MeSH: D002981)</small>
+* [[Clioquinol]] — [[d:Q5134338|Q5134338]] <small>(MeSH: D007464)</small>
+* [[Clobazam]] — [[d:Q412164|Q412164]] <small>(MeSH: D000078306)</small>
+* [[Clofazimine]] — [[d:Q418611|Q418611]] <small>(MeSH: D002991)</small>
+* [[Clomipramine]] — [[d:Q58713|Q58713]] <small>(MeSH: D002997)</small>
+* [[Clonazepam]] — [[d:Q407988|Q407988]] <small>(MeSH: D002998)</small>
+* [[Clonidine]] — [[d:Q412221|Q412221]] <small>(MeSH: D003000)</small>
+* [[Clonixin]] — [[d:Q5135028|Q5135028]] <small>(MeSH: D003002)</small>
+* [[Clopidogrel]] — [[d:Q410237|Q410237]] <small>(MeSH: D000077144)</small>
+* [[Clopidol]] — [[d:Q5135111|Q5135111]] <small>(MeSH: D003007)</small>
+* [[Clorazepate Dipotassium]] — [[d:Q27106189|Q27106189]] <small>(MeSH: D003009)</small>
+* [[Clotrimazole]] — [[d:Q413546|Q413546]] <small>(MeSH: D003022)</small>
+* [[Clozapine]] — [[d:Q221361|Q221361]] <small>(MeSH: D003024)</small>
+* [[Cobamides]] — [[d:Q55607831|Q55607831]] <small>(MeSH: D003038)</small>
+* [[Cocaine]] — [[d:Q41576|Q41576]] <small>(MeSH: D003042)</small>
+* [[Codeine]] — [[d:Q174723|Q174723]] <small>(MeSH: D003061)</small>
+* [[Colchicine]] — [[d:Q326224|Q326224]] <small>(MeSH: D003078)</small>
+* [[Coproporphyrinogens]] — [[d:Q2996873|Q2996873]] <small>(MeSH: D003305)</small>
+* [[Coproporphyrins]] — [[d:Q68060183|Q68060183]] <small>(MeSH: D003306)</small>
+* [[Corrinoids]] — [[d:Q2618336|Q2618336]] <small>(MeSH: D045728)</small>
+* [[Cotinine]] — [[d:Q421177|Q421177]] <small>(MeSH: D003367)</small>
+* [[Coumarins]] — [[d:Q11751050|Q11751050]] <small>(MeSH: D003374)</small>
+* [[Coumestrol]] — [[d:Q908865|Q908865]] <small>(MeSH: D003375)</small>
+* [[Crack Cocaine]] — [[d:Q330694|Q330694]] <small>(MeSH: D016578)</small>
+* [[Creatinine]] — [[d:Q426660|Q426660]] <small>(MeSH: D003404)</small>
+* [[Crizotinib]] — [[d:Q5186964|Q5186964]] <small>(MeSH: D000077547)</small>
+* [[Cromakalim]] — [[d:Q3698301|Q3698301]] <small>(MeSH: D019806)</small>
+* [[Cromolyn Sodium]] — [[d:Q10261779|Q10261779]] <small>(MeSH: D004205)</small>
+* [[Cucurbit(n)urils]] — [[d:Q59849010|Q59849010]] <small>(MeSH: D000099246)</small>
+* [[Cyclazocine]] — [[d:Q5198126|Q5198126]] <small>(MeSH: D003496)</small>
+* [[Cyclic N-Oxides]] — [[d:Q76788256|Q76788256]] <small>(MeSH: D003497)</small>
+* [[Cyclic P-Oxides]] — [[d:Q76518244|Q76518244]] <small>(MeSH: D003498)</small>
+* [[Cyclizine]] — [[d:Q867308|Q867308]] <small>(MeSH: D003501)</small>
+* [[Cycloheximide]] — [[d:Q412895|Q412895]] <small>(MeSH: D003513)</small>
+* [[Cycloserine]] — [[d:Q418508|Q418508]] <small>(MeSH: D003523)</small>
+* [[Cytochalasin B]] — [[d:Q26998028|Q26998028]] <small>(MeSH: D003571)</small>
+* [[Cytochalasin D]] — [[d:Q5201339|Q5201339]] <small>(MeSH: D015638)</small>
+* [[Cytochalasins]] — [[d:Q5201335|Q5201335]] <small>(MeSH: D003572)</small>
+* [[Cytokinins]] — [[d:Q422032|Q422032]] <small>(MeSH: D003583)</small>
+* [[Cytosine]] — [[d:Q178425|Q178425]] <small>(MeSH: D003596)</small>
+* [[Dabigatran]] — [[d:Q419345|Q419345]] <small>(MeSH: D000069604)</small>
+* [[Dactinomycin]] — [[d:Q186127|Q186127]] <small>(MeSH: D003609)</small>
+* [[Dantrolene]] — [[d:Q421274|Q421274]] <small>(MeSH: D003620)</small>
+* [[Dasatinib]] — [[d:Q27139135|Q27139135]] <small>(MeSH: D000069439)</small>
+* [[Debrisoquin]] — [[d:Q3704421|Q3704421]] <small>(MeSH: D003647)</small>
+* [[Decoquinate]] — [[d:Q5249594|Q5249594]] <small>(MeSH: D003667)</small>
+* [[Deferiprone]] — [[d:Q749664|Q749664]] <small>(MeSH: D000077543)</small>
+* [[Delavirdine]] — [[d:Q370244|Q370244]] <small>(MeSH: D020008)</small>
+* [[Demecolcine]] — [[d:Q16959658|Q16959658]] <small>(MeSH: D003703)</small>
+* [[Dequalinium]] — [[d:Q5261117|Q5261117]] <small>(MeSH: D003868)</small>
+* [[Desipramine]] — [[d:Q423288|Q423288]] <small>(MeSH: D003891)</small>
+* [[Desmosine]] — [[d:Q61184|Q61184]] <small>(MeSH: D003895)</small>
+* [[Deuteroporphyrins]] — [[d:Q68060525|Q68060525]] <small>(MeSH: D003905)</small>
+* [[Devazepide]] — [[d:Q5266620|Q5266620]] <small>(MeSH: D020109)</small>
+* [[Dexetimide]] — [[d:Q904647|Q904647]] <small>(MeSH: D003909)</small>
+* [[Dexlansoprazole]] — [[d:Q5268339|Q5268339]] <small>(MeSH: D064748)</small>
+* [[Dexmedetomidine]] — [[d:Q412133|Q412133]] <small>(MeSH: D020927)</small>
+* [[Dexpramipexole]] — [[d:Q5268345|Q5268345]] <small>(MeSH: D000097662)</small>
+* [[Dexrazoxane]] — [[d:Q524995|Q524995]] <small>(MeSH: D064730)</small>
+* [[Dextromethorphan]] — [[d:Q407781|Q407781]] <small>(MeSH: D003915)</small>
+* [[Dextromoramide]] — [[d:Q408446|Q408446]] <small>(MeSH: D003916)</small>
+* [[Dextrorphan]] — [[d:Q659468|Q659468]] <small>(MeSH: D003917)</small>
+* [[Diarylquinolines]] — [[d:Q16899782|Q16899782]] <small>(MeSH: D064687)</small>
+* [[Diazepam]] — [[d:Q210402|Q210402]] <small>(MeSH: D003975)</small>
+* [[Dibenzazepines]] — [[d:Q33416403|Q33416403]] <small>(MeSH: D003984)</small>
+* [[Dibenzofurans]] — [[d:Q76825007|Q76825007]] <small>(MeSH: D000072318)</small>
+* [[Dibenzoxazepines]] — [[d:Q76509996|Q76509996]] <small>(MeSH: D003989)</small>
+* [[Dibenzoxepins]] — [[d:Q39048457|Q39048457]] <small>(MeSH: D003990)</small>
+* [[Dicarbethoxydihydrocollidine]] — [[d:Q27157006|Q27157006]] <small>(MeSH: D003997)</small>
+* [[Dicumarol]] — [[d:Q420886|Q420886]] <small>(MeSH: D001728)</small>
+* [[Dihematoporphyrin Ether]] — [[d:Q27263441|Q27263441]] <small>(MeSH: D017323)</small>
+* [[Dihydralazine]] — [[d:Q408370|Q408370]] <small>(MeSH: D004078)</small>
+* [[Dihydro-beta-Erythroidine]] — [[d:Q27077042|Q27077042]] <small>(MeSH: D004079)</small>
+* [[Dihydroergocornine]] — [[d:Q5276426|Q5276426]] <small>(MeSH: D025441)</small>
+* [[Dihydroergocristine]] — [[d:Q5276428|Q5276428]] <small>(MeSH: D025442)</small>
+* [[Dihydroergocryptine]] — [[d:Q905717|Q905717]] <small>(MeSH: D025443)</small>
+* [[Dihydroergotamine]] — [[d:Q421336|Q421336]] <small>(MeSH: D004087)</small>
+* [[Dihydroergotoxine]] — [[d:Q16633838|Q16633838]] <small>(MeSH: D004088)</small>
+* [[Dihydromorphine]] — [[d:Q4161314|Q4161314]] <small>(MeSH: D004090)</small>
+* [[Dihydropyridines]] — [[d:Q49858617|Q49858617]] <small>(MeSH: D004095)</small>
+* [[Dihydroxytryptamines]] — [[d:Q77035794|Q77035794]] <small>(MeSH: D004102)</small>
+* [[Diketopiperazines]] — [[d:Q17118718|Q17118718]] <small>(MeSH: D054659)</small>
+* [[Dilazep]] — [[d:Q5276700|Q5276700]] <small>(MeSH: D004109)</small>
+* [[Diltiazem]] — [[d:Q422229|Q422229]] <small>(MeSH: D004110)</small>
+* [[Dimethadione]] — [[d:Q27166437|Q27166437]] <small>(MeSH: D004114)</small>
+* [[Dimethylphenylpiperazinium Iodide]] — [[d:Q27106326|Q27106326]] <small>(MeSH: D004246)</small>
+* [[Diosmin]] — [[d:Q2607865|Q2607865]] <small>(MeSH: D004145)</small>
+* [[Dioxanes]] — [[d:Q73586076|Q73586076]] <small>(MeSH: D004146)</small>
+* [[Dioxolanes]] — [[d:Q73587357|Q73587357]] <small>(MeSH: D004148)</small>
+* [[Dioxoles]] — [[d:Q57893334|Q57893334]] <small>(MeSH: D004149)</small>
+* [[Diphenoxylate]] — [[d:Q416431|Q416431]] <small>(MeSH: D004157)</small>
+* [[Diprenorphine]] — [[d:Q424009|Q424009]] <small>(MeSH: D004174)</small>
+* [[Dipyridamole]] — [[d:Q419374|Q419374]] <small>(MeSH: D004176)</small>
+* [[Dipyrone]] — [[d:Q27114806|Q27114806]] <small>(MeSH: D004177)</small>
+* [[Diquat]] — [[d:Q2285491|Q2285491]] <small>(MeSH: D004178)</small>
+* [[Disopyramide]] — [[d:Q425120|Q425120]] <small>(MeSH: D004206)</small>
+* [[Dithiazanine]] — [[d:Q27123599|Q27123599]] <small>(MeSH: D004225)</small>
+* [[Dolutegravir]] — [[d:Q937224|Q937224]] <small>(MeSH: D000099226)</small>
+* [[Domperidone]] — [[d:Q424238|Q424238]] <small>(MeSH: D004294)</small>
+* [[Doxapram]] — [[d:Q737743|Q737743]] <small>(MeSH: D004315)</small>
+* [[Doxazosin]] — [[d:Q419939|Q419939]] <small>(MeSH: D017292)</small>
+* [[Doxylamine]] — [[d:Q423390|Q423390]] <small>(MeSH: D004319)</small>
+* [[Dronedarone]] — [[d:Q408637|Q408637]] <small>(MeSH: D000077764)</small>
+* [[Duocarmycins]] — [[d:Q5315852|Q5315852]] <small>(MeSH: D000080890)</small>
+* [[Dyphylline]] — [[d:Q1073333|Q1073333]] <small>(MeSH: D004400)</small>
+* [[Echinomycin]] — [[d:Q5332566|Q5332566]] <small>(MeSH: D004448)</small>
+* [[Econazole]] — [[d:Q417141|Q417141]] <small>(MeSH: D004464)</small>
+* [[Edaravone]] — [[d:Q335099|Q335099]] <small>(MeSH: D000077553)</small>
+* [[Ellagic Acid]] — [[d:Q422044|Q422044]] <small>(MeSH: D004610)</small>
+* [[Ellipticines]] — [[d:Q124260838|Q124260838]] <small>(MeSH: D004611)</small>
+* [[Emetine]] — [[d:Q3050386|Q3050386]] <small>(MeSH: D004640)</small>
+* [[Emtricitabine, Rilpivirine, Tenofovir Drug Combination]] — [[d:Q18476657|Q18476657]] <small>(MeSH: D000068678)</small>
+* [[Enoxacin]] — [[d:Q1639616|Q1639616]] <small>(MeSH: D015365)</small>
+* [[Enoximone]] — [[d:Q5379471|Q5379471]] <small>(MeSH: D017335)</small>
+* [[Enrofloxacin]] — [[d:Q414413|Q414413]] <small>(MeSH: D000077422)</small>
+* [[Epirizole]] — [[d:Q5383219|Q5383219]] <small>(MeSH: D004840)</small>
+* [[Equol]] — [[d:Q5384747|Q5384747]] <small>(MeSH: D060754)</small>
+* [[Ergolines]] — [[d:Q49873234|Q49873234]] <small>(MeSH: D004873)</small>
+* [[Ergoloid Mesylates]] — [[d:Q4161323|Q4161323]] <small>(MeSH: D004877)</small>
+* [[Ergonovine]] — [[d:Q424508|Q424508]] <small>(MeSH: D004874)</small>
+* [[Ergot Alkaloids]] — [[d:Q12748271|Q12748271]] <small>(MeSH: D004876)</small>
+* [[Ergotamine]] — [[d:Q419186|Q419186]] <small>(MeSH: D004878)</small>
+* [[Ergotamines]] — [[d:Q49873787|Q49873787]] <small>(MeSH: D004879)</small>
+* [[Erlotinib Hydrochloride]] — [[d:Q27124083|Q27124083]] <small>(MeSH: D000069347)</small>
+* [[Esculin]] — [[d:Q376432|Q376432]] <small>(MeSH: D004929)</small>
+* [[Esomeprazole]] — [[d:Q553223|Q553223]] <small>(MeSH: D064098)</small>
+* [[Estazolam]] — [[d:Q3045264|Q3045264]] <small>(MeSH: D004949)</small>
+* [[Eszopiclone]] — [[d:Q413184|Q413184]] <small>(MeSH: D000069582)</small>
+* [[Etazolate]] — [[d:Q5402458|Q5402458]] <small>(MeSH: D004974)</small>
+* [[Ethacridine]] — [[d:Q27292662|Q27292662]] <small>(MeSH: D004975)</small>
+* [[Ethidium]] — [[d:Q408634|Q408634]] <small>(MeSH: D004996)</small>
+* [[Ethionamide]] — [[d:Q414767|Q414767]] <small>(MeSH: D005000)</small>
+* [[Ethoxyquin]] — [[d:Q1657816|Q1657816]] <small>(MeSH: D005015)</small>
+* [[Ethyl Biscoumacetate]] — [[d:Q426269|Q426269]] <small>(MeSH: D005017)</small>
+* [[Ethylketocyclazocine]] — [[d:Q27077242|Q27077242]] <small>(MeSH: D016314)</small>
+* [[Ethylmorphine]] — [[d:Q554881|Q554881]] <small>(MeSH: D005036)</small>
+* [[Etimizol]] — [[d:Q4532989|Q4532989]] <small>(MeSH: D005042)</small>
+* [[Etioporphyrins]] — [[d:Q68060837|Q68060837]] <small>(MeSH: D005044)</small>
+* [[Etodolac]] — [[d:Q2465218|Q2465218]] <small>(MeSH: D017308)</small>
+* [[Etomidate]] — [[d:Q418445|Q418445]] <small>(MeSH: D005045)</small>
+* [[Etorphine]] — [[d:Q110771397|Q110771397]] <small>(MeSH: D005048)</small>
+* [[Ezetimibe]] — [[d:Q417997|Q417997]] <small>(MeSH: D000069438)</small>
+* [[Famciclovir]] — [[d:Q420186|Q420186]] <small>(MeSH: D000077595)</small>
+* [[Felodipine]] — [[d:Q420644|Q420644]] <small>(MeSH: D015736)</small>
+* [[Fenoldopam]] — [[d:Q2357007|Q2357007]] <small>(MeSH: D018818)</small>
+* [[Fentanyl]] — [[d:Q407541|Q407541]] <small>(MeSH: D005283)</small>
+* [[Feprazone]] — [[d:Q999936|Q999936]] <small>(MeSH: D011298)</small>
+* [[Ficusin]] — [[d:Q417788|Q417788]] <small>(MeSH: D005363)</small>
+* [[Flavanones]] — [[d:Q3073451|Q3073451]] <small>(MeSH: D044950)</small>
+* [[Flavin Mononucleotide]] — [[d:Q376061|Q376061]] <small>(MeSH: D005486)</small>
+* [[Flavin-Adenine Dinucleotide]] — [[d:Q28746|Q28746]] <small>(MeSH: D005182)</small>
+* [[Flavins]] — [[d:Q71655527|Q71655527]] <small>(MeSH: D005415)</small>
+* [[Flavones]] — [[d:Q424525|Q424525]] <small>(MeSH: D047309)</small>
+* [[Flavonoids]] — [[d:Q3561192|Q3561192]] <small>(MeSH: D005419)</small>
+* [[Flavonolignans]] — [[d:Q3073502|Q3073502]] <small>(MeSH: D044947)</small>
+* [[Flavonols]] — [[d:Q2629666|Q2629666]] <small>(MeSH: D044948)</small>
+* [[Flavoxate]] — [[d:Q848264|Q848264]] <small>(MeSH: D005422)</small>
+* [[Flecainide]] — [[d:Q421381|Q421381]] <small>(MeSH: D005424)</small>
+* [[Fleroxacin]] — [[d:Q3746573|Q3746573]] <small>(MeSH: D016576)</small>
+* [[Fluconazole]] — [[d:Q411478|Q411478]] <small>(MeSH: D015725)</small>
+* [[Flucytosine]] — [[d:Q238490|Q238490]] <small>(MeSH: D005437)</small>
+* [[Flumazenil]] — [[d:Q421920|Q421920]] <small>(MeSH: D005442)</small>
+* [[Flunarizine]] — [[d:Q416237|Q416237]] <small>(MeSH: D005444)</small>
+* [[Flunitrazepam]] — [[d:Q62947|Q62947]] <small>(MeSH: D005445)</small>
+* [[Fluoroquinolones]] — [[d:Q28801726|Q28801726]] <small>(MeSH: D024841)</small>
+* [[Fluorouracil]] — [[d:Q238512|Q238512]] <small>(MeSH: D005472)</small>
+* [[Flupenthixol]] — [[d:Q420350|Q420350]] <small>(MeSH: D005475)</small>
+* [[Flurazepam]] — [[d:Q418998|Q418998]] <small>(MeSH: D005479)</small>
+* [[Fluspirilene]] — [[d:Q408300|Q408300]] <small>(MeSH: D005484)</small>
+* [[Fluvastatin]] — [[d:Q417942|Q417942]] <small>(MeSH: D000077340)</small>
+* [[Folic Acid]] — [[d:Q127060|Q127060]] <small>(MeSH: D005492)</small>
+* [[Fomepizole]] — [[d:Q416410|Q416410]] <small>(MeSH: D000077604)</small>
+* [[Formyltetrahydrofolates]] — [[d:Q75085887|Q75085887]] <small>(MeSH: D005575)</small>
+* [[Fura-2]] — [[d:Q908761|Q908761]] <small>(MeSH: D016257)</small>
+* [[Furans]] — [[d:Q47009129|Q47009129]] <small>(MeSH: D005663)</small>
+* [[Furazolidone]] — [[d:Q2467555|Q2467555]] <small>(MeSH: D005664)</small>
+* [[Furocoumarins]] — [[d:Q414774|Q414774]] <small>(MeSH: D011564)</small>
+* [[Fursultiamin]] — [[d:Q5509734|Q5509734]] <small>(MeSH: D005666)</small>
+* [[Fusaric Acid]] — [[d:Q905703|Q905703]] <small>(MeSH: D005669)</small>
+* [[Galantamine]] — [[d:Q412690|Q412690]] <small>(MeSH: D005702)</small>
+* [[gamma-Tocopherol]] — [[d:Q155753|Q155753]] <small>(MeSH: D024504)</small>
+* [[Ganciclovir]] — [[d:Q417640|Q417640]] <small>(MeSH: D015774)</small>
+* [[Gatifloxacin]] — [[d:Q2365016|Q2365016]] <small>(MeSH: D000077734)</small>
+* [[Gefitinib]] — [[d:Q417824|Q417824]] <small>(MeSH: D000077156)</small>
+* [[Gemcitabine]] — [[d:Q414143|Q414143]] <small>(MeSH: D000093542)</small>
+* [[Gemifloxacin]] — [[d:Q1639595|Q1639595]] <small>(MeSH: D000077735)</small>
+* [[Genistein]] — [[d:Q415957|Q415957]] <small>(MeSH: D019833)</small>
+* [[Germine Acetates]] — [[d:Q76708890|Q76708890]] <small>(MeSH: D005861)</small>
+* [[Gliotoxin]] — [[d:Q413364|Q413364]] <small>(MeSH: D005912)</small>
+* [[Glutethimide]] — [[d:Q414236|Q414236]] <small>(MeSH: D005984)</small>
+* [[Granisetron]] — [[d:Q596708|Q596708]] <small>(MeSH: D017829)</small>
+* [[Griseofulvin]] — [[d:Q416096|Q416096]] <small>(MeSH: D006118)</small>
+* [[Guanazole]] — [[d:Q27145298|Q27145298]] <small>(MeSH: D006144)</small>
+* [[Guanine]] — [[d:Q169313|Q169313]] <small>(MeSH: D006147)</small>
+* [[Harmala Alkaloids]] — [[d:Q135149|Q135149]] <small>(MeSH: D000077290)</small>
+* [[Harmaline]] — [[d:Q135270|Q135270]] <small>(MeSH: D006246)</small>
+* [[Harmine]] — [[d:Q128381|Q128381]] <small>(MeSH: D006247)</small>
+* [[Harringtonines]] — [[d:Q76543220|Q76543220]] <small>(MeSH: D006248)</small>
+* [[Hematoporphyrin Derivative]] — [[d:Q68061297|Q68061297]] <small>(MeSH: D017324)</small>
+* [[Hematoporphyrins]] — [[d:Q68061095|Q68061095]] <small>(MeSH: D006415)</small>
+* [[Hematoxylin]] — [[d:Q1146112|Q1146112]] <small>(MeSH: D006416)</small>
+* [[Heme]] — [[d:Q189621|Q189621]] <small>(MeSH: D006418)</small>
+* [[Hemin]] — [[d:Q425165|Q425165]] <small>(MeSH: D006427)</small>
+* [[Heroin]] — [[d:Q60168|Q60168]] <small>(MeSH: D003932)</small>
+* [[Hesperidin]] — [[d:Q385937|Q385937]] <small>(MeSH: D006569)</small>
+* [[Heterocyclic Compounds]] — [[d:Q193430|Q193430]] <small>(MeSH: D006571)</small>
+* [[Heterocyclic Compounds, 1-Ring]] — [[d:Q67910755|Q67910755]] <small>(MeSH: D006573)</small>
+* [[Heterocyclic Compounds, 2-Ring]] — [[d:Q75003017|Q75003017]] <small>(MeSH: D006574)</small>
+* [[Heterocyclic Compounds, 3-Ring]] — [[d:Q65684240|Q65684240]] <small>(MeSH: D006575)</small>
+* [[Heterocyclic Compounds, 4 or More Rings]] — [[d:Q75007745|Q75007745]] <small>(MeSH: D006576)</small>
+* [[Heterocyclic Compounds, Bridged-Ring]] — [[d:Q67390836|Q67390836]] <small>(MeSH: D006572)</small>
+* [[Heterocyclic Compounds, Fused-Ring]] — [[d:Q75006748|Q75006748]] <small>(MeSH: D000072471)</small>
+* [[Heterocyclic Oxides]] — [[d:Q76719588|Q76719588]] <small>(MeSH: D006577)</small>
+* [[Hexetidine]] — [[d:Q419749|Q419749]] <small>(MeSH: D006590)</small>
+* [[Hexobarbital]] — [[d:Q421183|Q421183]] <small>(MeSH: D006591)</small>
+* [[Homoharringtonine]] — [[d:Q105035284|Q105035284]] <small>(MeSH: D000077863)</small>
+* [[Hydantoins]] — [[d:Q56809516|Q56809516]] <small>(MeSH: D006827)</small>
+* [[Hydralazine]] — [[d:Q419987|Q419987]] <small>(MeSH: D006830)</small>
+* [[Hydrocodone]] — [[d:Q411441|Q411441]] <small>(MeSH: D006853)</small>
+* [[Hydromorphone]] — [[d:Q303646|Q303646]] <small>(MeSH: D004091)</small>
+* [[Hydroxocobalamin]] — [[d:Q73972|Q73972]] <small>(MeSH: D006879)</small>
+* [[Hydroxychloroquine]] — [[d:Q421094|Q421094]] <small>(MeSH: D006886)</small>
+* [[Hydroxyethylrutoside]] — [[d:Q5955570|Q5955570]] <small>(MeSH: D006896)</small>
+* [[Hydroxyindoleacetic Acid]] — [[d:Q238532|Q238532]] <small>(MeSH: D006897)</small>
+* [[Hydroxyphenylazouracil]] — [[d:Q73863629|Q73863629]] <small>(MeSH: D006906)</small>
+* [[Hydroxyquinolines]] — [[d:Q77819382|Q77819382]] <small>(MeSH: D006912)</small>
+* [[Hydroxytryptophol]] — [[d:Q27162013|Q27162013]] <small>(MeSH: D006917)</small>
+* [[Hydroxyzine]] — [[d:Q421937|Q421937]] <small>(MeSH: D006919)</small>
+* [[Hymecromone]] — [[d:Q904431|Q904431]] <small>(MeSH: D006923)</small>
+* [[Hyoscyamine]] — [[d:Q413762|Q413762]] <small>(MeSH: D064692)</small>
+* [[Hypoxanthine]] — [[d:Q410305|Q410305]] <small>(MeSH: D019271)</small>
+* [[Hypoxanthines]] — [[d:Q67737598|Q67737598]] <small>(MeSH: D007042)</small>
+* [[Ibogaine]] — [[d:Q409455|Q409455]] <small>(MeSH: D007050)</small>
+* [[Ibotenic Acid]] — [[d:Q411094|Q411094]] <small>(MeSH: D007051)</small>
+* [[Idazoxan]] — [[d:Q5987770|Q5987770]] <small>(MeSH: D019329)</small>
+* [[Imidazoles]] — [[d:Q1659847|Q1659847]] <small>(MeSH: D007093)</small>
+* [[Imidazolidines]] — [[d:Q56809526|Q56809526]] <small>(MeSH: D048289)</small>
+* [[Imidazolines]] — [[d:Q16938071|Q16938071]] <small>(MeSH: D048288)</small>
+* [[Imipramine]] — [[d:Q58396|Q58396]] <small>(MeSH: D007099)</small>
+* [[Imiquimod]] — [[d:Q423417|Q423417]] <small>(MeSH: D000077271)</small>
+* [[Indazoles]] — [[d:Q57302163|Q57302163]] <small>(MeSH: D007191)</small>
+* [[Indican]] — [[d:Q418392|Q418392]] <small>(MeSH: D007200)</small>
+* [[Indigo Carmine]] — [[d:Q410120|Q410120]] <small>(MeSH: D007203)</small>
+* [[Indinavir]] — [[d:Q425490|Q425490]] <small>(MeSH: D019469)</small>
+* [[Indocyanine Green]] — [[d:Q905662|Q905662]] <small>(MeSH: D007208)</small>
+* [[Indole Alkaloids]] — [[d:Q408452|Q408452]] <small>(MeSH: D026121)</small>
+* [[Indoleacetic Acids]] — [[d:Q75011022|Q75011022]] <small>(MeSH: D007210)</small>
+* [[Indoles]] — [[d:Q55698578|Q55698578]] <small>(MeSH: D007211)</small>
+* [[Indolizidines]] — [[d:Q76852173|Q76852173]] <small>(MeSH: D054836)</small>
+* [[Indolizines]] — [[d:Q76713994|Q76713994]] <small>(MeSH: D007212)</small>
+* [[Indomethacin]] — [[d:Q409231|Q409231]] <small>(MeSH: D007213)</small>
+* [[Iodopyracet]] — [[d:Q27295882|Q27295882]] <small>(MeSH: D007468)</small>
+* [[Iodopyridones]] — [[d:Q73658337|Q73658337]] <small>(MeSH: D007469)</small>
+* [[Iodoquinol]] — [[d:Q5276473|Q5276473]] <small>(MeSH: D004103)</small>
+* [[Ipratropium]] — [[d:Q23050139|Q23050139]] <small>(MeSH: D009241)</small>
+* [[Iproniazid]] — [[d:Q421368|Q421368]] <small>(MeSH: D007490)</small>
+* [[Irinotecan]] — [[d:Q412197|Q412197]] <small>(MeSH: D000077146)</small>
+* [[Isatin]] — [[d:Q421348|Q421348]] <small>(MeSH: D007510)</small>
+* [[Isocarboxazid]] — [[d:Q409595|Q409595]] <small>(MeSH: D007520)</small>
+* [[Isocoumarins]] — [[d:Q73605636|Q73605636]] <small>(MeSH: D049934)</small>
+* [[Isodesmosine]] — [[d:Q4198750|Q4198750]] <small>(MeSH: D007524)</small>
+* [[Isoflavones]] — [[d:Q412519|Q412519]] <small>(MeSH: D007529)</small>
+* [[Isoindoles]] — [[d:Q55665770|Q55665770]] <small>(MeSH: D054833)</small>
+* [[Isoniazid]] — [[d:Q423169|Q423169]] <small>(MeSH: D007538)</small>
+* [[Isonicotinic Acids]] — [[d:Q73640684|Q73640684]] <small>(MeSH: D007539)</small>
+* [[Isonipecotic Acids]] — [[d:Q73592649|Q73592649]] <small>(MeSH: D007540)</small>
+* [[Isopentenyladenosine]] — [[d:Q973089|Q973089]] <small>(MeSH: D007541)</small>
+* [[Isoquinolines]] — [[d:Q61728796|Q61728796]] <small>(MeSH: D007546)</small>
+* [[Isoxazoles]] — [[d:Q57246302|Q57246302]] <small>(MeSH: D007555)</small>
+* [[Isradipine]] — [[d:Q414873|Q414873]] <small>(MeSH: D017275)</small>
+* [[Itraconazole]] — [[d:Q411229|Q411229]] <small>(MeSH: D017964)</small>
+* [[Ivabradine]] — [[d:Q425729|Q425729]] <small>(MeSH: D000077550)</small>
+* [[Kaempferols]] — [[d:Q73598928|Q73598928]] <small>(MeSH: D044949)</small>
+* [[Kainic Acid]] — [[d:Q390239|Q390239]] <small>(MeSH: D007608)</small>
+* [[Ketanserin]] — [[d:Q415997|Q415997]] <small>(MeSH: D007650)</small>
+* [[Ketoconazole]] — [[d:Q407883|Q407883]] <small>(MeSH: D007654)</small>
+* [[Ketorolac]] — [[d:Q2014797|Q2014797]] <small>(MeSH: D020910)</small>
+* [[Ketorolac Tromethamine]] — [[d:Q27107089|Q27107089]] <small>(MeSH: D020911)</small>
+* [[Ketotifen]] — [[d:Q2458673|Q2458673]] <small>(MeSH: D007665)</small>
+* [[Khellin]] — [[d:Q2079998|Q2079998]] <small>(MeSH: D007666)</small>
+* [[Kinetin]] — [[d:Q2251215|Q2251215]] <small>(MeSH: D007701)</small>
+* [[Kynurenic Acid]] — [[d:Q642217|Q642217]] <small>(MeSH: D007736)</small>
+* [[Lamotrigine]] — [[d:Q410346|Q410346]] <small>(MeSH: D000077213)</small>
+* [[Lansoprazole]] — [[d:Q254296|Q254296]] <small>(MeSH: D064747)</small>
+* [[Lapatinib]] — [[d:Q420323|Q420323]] <small>(MeSH: D000077341)</small>
+* [[Leflunomide]] — [[d:Q248550|Q248550]] <small>(MeSH: D000077339)</small>
+* [[Lenalidomide]] — [[d:Q425681|Q425681]] <small>(MeSH: D000077269)</small>
+* [[Leucovorin]] — [[d:Q45435667|Q45435667]] <small>(MeSH: D002955)</small>
+* [[Levallorphan]] — [[d:Q6534827|Q6534827]] <small>(MeSH: D007977)</small>
+* [[Levamisole]] — [[d:Q417097|Q417097]] <small>(MeSH: D007978)</small>
+* [[Levofloxacin]] — [[d:Q424193|Q424193]] <small>(MeSH: D064704)</small>
+* [[Levoleucovorin]] — [[d:Q192464|Q192464]] <small>(MeSH: D058766)</small>
+* [[Levorphanol]] — [[d:Q2579108|Q2579108]] <small>(MeSH: D007981)</small>
+* [[Lidoflazine]] — [[d:Q6543740|Q6543740]] <small>(MeSH: D008013)</small>
+* [[Linagliptin]] — [[d:Q909745|Q909745]] <small>(MeSH: D000069476)</small>
+* [[Lincomycin]] — [[d:Q423428|Q423428]] <small>(MeSH: D008034)</small>
+* [[Lincosamides]] — [[d:Q422235|Q422235]] <small>(MeSH: D055231)</small>
+* [[Lisuride]] — [[d:Q424446|Q424446]] <small>(MeSH: D008090)</small>
+* [[Lobeline]] — [[d:Q421905|Q421905]] <small>(MeSH: D008120)</small>
+* [[Lofepramine]] — [[d:Q368941|Q368941]] <small>(MeSH: D008127)</small>
+* [[Loperamide]] — [[d:Q423751|Q423751]] <small>(MeSH: D008139)</small>
+* [[Lopinavir]] — [[d:Q422585|Q422585]] <small>(MeSH: D061466)</small>
+* [[Lorajmine]] — [[d:Q6678756|Q6678756]] <small>(MeSH: D064794)</small>
+* [[Lorazepam]] — [[d:Q408265|Q408265]] <small>(MeSH: D008140)</small>
+* [[Losartan]] — [[d:Q410074|Q410074]] <small>(MeSH: D019808)</small>
+* [[Loxapine]] — [[d:Q58614|Q58614]] <small>(MeSH: D008152)</small>
+* [[Lucanthone]] — [[d:Q6696022|Q6696022]] <small>(MeSH: D008154)</small>
+* [[Lumicolchicines]] — [[d:Q76508164|Q76508164]] <small>(MeSH: D008162)</small>
+* [[Luminol]] — [[d:Q408061|Q408061]] <small>(MeSH: D008165)</small>
+* [[Lurasidone Hydrochloride]] — [[d:Q27882070|Q27882070]] <small>(MeSH: D000069056)</small>
+* [[Luteolin]] — [[d:Q415011|Q415011]] <small>(MeSH: D047311)</small>
+* [[Lyngbya Toxins]] — [[d:Q75034487|Q75034487]] <small>(MeSH: D008235)</small>
+* [[Lysergic Acid]] — [[d:Q415837|Q415837]] <small>(MeSH: D008237)</small>
+* [[Lysergic Acid Diethylamide]] — [[d:Q23118|Q23118]] <small>(MeSH: D008238)</small>
+* [[Maleic Hydrazide]] — [[d:Q677933|Q677933]] <small>(MeSH: D008300)</small>
+* [[Matrines]] — [[d:Q116755803|Q116755803]] <small>(MeSH: D000093842)</small>
+* [[Mazindol]] — [[d:Q255680|Q255680]] <small>(MeSH: D008454)</small>
+* [[Medazepam]] — [[d:Q572796|Q572796]] <small>(MeSH: D008472)</small>
+* [[Medetomidine]] — [[d:Q427179|Q427179]] <small>(MeSH: D020926)</small>
+* [[Mefloquine]] — [[d:Q736270|Q736270]] <small>(MeSH: D015767)</small>
+* [[Melatonin]] — [[d:Q180912|Q180912]] <small>(MeSH: D008550)</small>
+* [[Meperidine]] — [[d:Q55434|Q55434]] <small>(MeSH: D008614)</small>
+* [[Mephenytoin]] — [[d:Q1175385|Q1175385]] <small>(MeSH: D008617)</small>
+* [[Mephobarbital]] — [[d:Q411697|Q411697]] <small>(MeSH: D008618)</small>
+* [[Mepivacaine]] — [[d:Q416760|Q416760]] <small>(MeSH: D008619)</small>
+* [[Meptazinol]] — [[d:Q410618|Q410618]] <small>(MeSH: D008621)</small>
+* [[Mesoporphyrins]] — [[d:Q68061619|Q68061619]] <small>(MeSH: D008652)</small>
+* [[Metalloporphyrins]] — [[d:Q5999892|Q5999892]] <small>(MeSH: D008665)</small>
+* [[Metergoline]] — [[d:Q6823517|Q6823517]] <small>(MeSH: D008711)</small>
+* [[Methaqualone]] — [[d:Q423912|Q423912]] <small>(MeSH: D008702)</small>
+* [[Methohexital]] — [[d:Q851813|Q851813]] <small>(MeSH: D008723)</small>
+* [[Methotrexate]] — [[d:Q422232|Q422232]] <small>(MeSH: D008727)</small>
+* [[Methoxsalen]] — [[d:Q408570|Q408570]] <small>(MeSH: D008730)</small>
+* [[Methoxydimethyltryptamines]] — [[d:Q76850646|Q76850646]] <small>(MeSH: D008732)</small>
+* [[Methylergonovine]] — [[d:Q424477|Q424477]] <small>(MeSH: D008755)</small>
+* [[Methylphenazonium Methosulfate]] — [[d:Q27107674|Q27107674]] <small>(MeSH: D008773)</small>
+* [[Methylthiouracil]] — [[d:Q6824062|Q6824062]] <small>(MeSH: D008779)</small>
+* [[Methysergide]] — [[d:Q424442|Q424442]] <small>(MeSH: D008784)</small>
+* [[Metyrapone]] — [[d:Q821641|Q821641]] <small>(MeSH: D008797)</small>
+* [[Mianserin]] — [[d:Q416701|Q416701]] <small>(MeSH: D008803)</small>
+* [[Miconazole]] — [[d:Q75163056|Q75163056]] <small>(MeSH: D008825)</small>
+* [[Midazolam]] — [[d:Q423071|Q423071]] <small>(MeSH: D008874)</small>
+* [[Mimosine]] — [[d:Q3180669|Q3180669]] <small>(MeSH: D008898)</small>
+* [[Minoxidil]] — [[d:Q424165|Q424165]] <small>(MeSH: D008914)</small>
+* [[Mirtazapine]] — [[d:Q421930|Q421930]] <small>(MeSH: D000078785)</small>
+* [[Mitomycin]] — [[d:Q19856779|Q19856779]] <small>(MeSH: D016685)</small>
+* [[Mitomycins]] — [[d:Q417625|Q417625]] <small>(MeSH: D008937)</small>
+* [[Mivacurium]] — [[d:Q413877|Q413877]] <small>(MeSH: D000077590)</small>
+* [[Molindone]] — [[d:Q593166|Q593166]] <small>(MeSH: D008972)</small>
+* [[Molsidomine]] — [[d:Q408132|Q408132]] <small>(MeSH: D008981)</small>
+* [[Monocrotaline]] — [[d:Q27107379|Q27107379]] <small>(MeSH: D016686)</small>
+* [[Mopidamol]] — [[d:Q27260347|Q27260347]] <small>(MeSH: D009012)</small>
+* [[Morantel]] — [[d:Q27268618|Q27268618]] <small>(MeSH: D009015)</small>
+* [[Moricizine]] — [[d:Q904071|Q904071]] <small>(MeSH: D016293)</small>
+* [[Morphinans]] — [[d:Q75011544|Q75011544]] <small>(MeSH: D009019)</small>
+* [[Morphine]] — [[d:Q81225|Q81225]] <small>(MeSH: D009020)</small>
+* [[Morphine Derivatives]] — [[d:Q77814262|Q77814262]] <small>(MeSH: D009022)</small>
+* [[Morpholines]] — [[d:Q73589551|Q73589551]] <small>(MeSH: D009025)</small>
+* [[Morpholinos]] — [[d:Q424607|Q424607]] <small>(MeSH: D060172)</small>
+* [[Moxifloxacin]] — [[d:Q424940|Q424940]] <small>(MeSH: D000077266)</small>
+* [[Murexide]] — [[d:Q414825|Q414825]] <small>(MeSH: D009114)</small>
+* [[Muscimol]] — [[d:Q412504|Q412504]] <small>(MeSH: D009118)</small>
+* [[Muzolimine]] — [[d:Q3868794|Q3868794]] <small>(MeSH: D009156)</small>
+* [[N-Methylscopolamine]] — [[d:Q27087955|Q27087955]] <small>(MeSH: D019832)</small>
+* [[Nafoxidine]] — [[d:Q6958201|Q6958201]] <small>(MeSH: D009256)</small>
+* [[Nafronyl]] — [[d:Q425867|Q425867]] <small>(MeSH: D009257)</small>
+* [[Nalbuphine]] — [[d:Q277979|Q277979]] <small>(MeSH: D009266)</small>
+* [[Nalidixic Acid]] — [[d:Q281082|Q281082]] <small>(MeSH: D009268)</small>
+* [[Nalorphine]] — [[d:Q2622916|Q2622916]] <small>(MeSH: D009269)</small>
+* [[Naloxone]] — [[d:Q282902|Q282902]] <small>(MeSH: D009270)</small>
+* [[Naltrexone]] — [[d:Q409587|Q409587]] <small>(MeSH: D009271)</small>
+* [[Naphazoline]] — [[d:Q415433|Q415433]] <small>(MeSH: D009278)</small>
+* [[Naphthalimides]] — [[d:Q73594689|Q73594689]] <small>(MeSH: D053644)</small>
+* [[Naphthyridines]] — [[d:Q25403320|Q25403320]] <small>(MeSH: D009287)</small>
+* [[Nedocromil]] — [[d:Q416706|Q416706]] <small>(MeSH: D017835)</small>
+* [[Nefopam]] — [[d:Q599052|Q599052]] <small>(MeSH: D009340)</small>
+* [[Nelfinavir]] — [[d:Q423366|Q423366]] <small>(MeSH: D019888)</small>
+* [[Neonicotinoids]] — [[d:Q902225|Q902225]] <small>(MeSH: D000073943)</small>
+* [[Neopterin]] — [[d:Q908292|Q908292]] <small>(MeSH: D019798)</small>
+* [[Neutral Red]] — [[d:Q417515|Q417515]] <small>(MeSH: D009499)</small>
+* [[Nevirapine]] — [[d:Q263713|Q263713]] <small>(MeSH: D019829)</small>
+* [[Niacin]] — [[d:Q134658|Q134658]] <small>(MeSH: D009525)</small>
+* [[Niacinamide]] — [[d:Q192423|Q192423]] <small>(MeSH: D009536)</small>
+* [[Nialamide]] — [[d:Q2359711|Q2359711]] <small>(MeSH: D009526)</small>
+* [[Nicardipine]] — [[d:Q729213|Q729213]] <small>(MeSH: D009529)</small>
+* [[Nicergoline]] — [[d:Q2623398|Q2623398]] <small>(MeSH: D009530)</small>
+* [[Niceritrol]] — [[d:Q824174|Q824174]] <small>(MeSH: D009531)</small>
+* [[Nicorandil]] — [[d:Q862989|Q862989]] <small>(MeSH: D020108)</small>
+* [[Nicotine]] — [[d:Q28086552|Q28086552]] <small>(MeSH: D009538)</small>
+* [[Nicotinic Acids]] — [[d:Q7030579|Q7030579]] <small>(MeSH: D009539)</small>
+* [[Nicotinyl Alcohol]] — [[d:Q411732|Q411732]] <small>(MeSH: D009540)</small>
+* [[Nifedipine]] — [[d:Q39111|Q39111]] <small>(MeSH: D009543)</small>
+* [[Nifuratel]] — [[d:Q3876717|Q3876717]] <small>(MeSH: D009545)</small>
+* [[Nikethamide]] — [[d:Q902548|Q902548]] <small>(MeSH: D009552)</small>
+* [[Nimodipine]] — [[d:Q421429|Q421429]] <small>(MeSH: D009553)</small>
+* [[Nipecotic Acids]] — [[d:Q73593256|Q73593256]] <small>(MeSH: D009557)</small>
+* [[Niridazole]] — [[d:Q7039974|Q7039974]] <small>(MeSH: D009560)</small>
+* [[Nisoldipine]] — [[d:Q3342150|Q3342150]] <small>(MeSH: D015737)</small>
+* [[Nitracrine]] — [[d:Q27265916|Q27265916]] <small>(MeSH: D009564)</small>
+* [[Nitrazepam]] — [[d:Q410078|Q410078]] <small>(MeSH: D009567)</small>
+* [[Nitrendipine]] — [[d:Q416584|Q416584]] <small>(MeSH: D009568)</small>
+* [[Nitroblue Tetrazolium]] — [[d:Q27107534|Q27107534]] <small>(MeSH: D009580)</small>
+* [[Nitromifene]] — [[d:Q27262013|Q27262013]] <small>(MeSH: D009594)</small>
+* [[Nocodazole]] — [[d:Q2506092|Q2506092]] <small>(MeSH: D015739)</small>
+* [[Nomifensine]] — [[d:Q409948|Q409948]] <small>(MeSH: D009627)</small>
+* [[Nordazepam]] — [[d:Q3180288|Q3180288]] <small>(MeSH: D003708)</small>
+* [[Norfloxacin]] — [[d:Q417897|Q417897]] <small>(MeSH: D009643)</small>
+* [[Nortropanes]] — [[d:Q38083637|Q38083637]] <small>(MeSH: D009662)</small>
+* [[Noscapine]] — [[d:Q415619|Q415619]] <small>(MeSH: D009665)</small>
+* [[Novobiocin]] — [[d:Q1639291|Q1639291]] <small>(MeSH: D009675)</small>
+* [[Ochratoxins]] — [[d:Q411901|Q411901]] <small>(MeSH: D009793)</small>
+* [[Ofloxacin]] — [[d:Q411447|Q411447]] <small>(MeSH: D015242)</small>
+* [[Olanzapine]] — [[d:Q201872|Q201872]] <small>(MeSH: D000077152)</small>
+* [[Olmesartan Medoxomil]] — [[d:Q27888058|Q27888058]] <small>(MeSH: D000068557)</small>
+* [[Olopatadine Hydrochloride]] — [[d:Q27255766|Q27255766]] <small>(MeSH: D000069605)</small>
+* [[Omeprazole]] — [[d:Q422210|Q422210]] <small>(MeSH: D009853)</small>
+* [[Ondansetron]] — [[d:Q410011|Q410011]] <small>(MeSH: D017294)</small>
+* [[Opiate Alkaloids]] — [[d:Q75011930|Q75011930]] <small>(MeSH: D053610)</small>
+* [[Opipramol]] — [[d:Q416562|Q416562]] <small>(MeSH: D009888)</small>
+* [[Orotic Acid]] — [[d:Q425536|Q425536]] <small>(MeSH: D009963)</small>
+* [[Oxadiazoles]] — [[d:Q1227206|Q1227206]] <small>(MeSH: D010069)</small>
+* [[Oxamniquine]] — [[d:Q682497|Q682497]] <small>(MeSH: D010073)</small>
+* [[Oxathiins]] — [[d:Q73588931|Q73588931]] <small>(MeSH: D010075)</small>
+* [[Oxazepam]] — [[d:Q412299|Q412299]] <small>(MeSH: D010076)</small>
+* [[Oxazepines]] — [[d:Q25098639|Q25098639]] <small>(MeSH: D010077)</small>
+* [[Oxazines]] — [[d:Q56703794|Q56703794]] <small>(MeSH: D010078)</small>
+* [[Oxazocines]] — [[d:Q67914366|Q67914366]] <small>(MeSH: D010079)</small>
+* [[Oxazoles]] — [[d:Q57246122|Q57246122]] <small>(MeSH: D010080)</small>
+* [[Oxazolidinones]] — [[d:Q33127260|Q33127260]] <small>(MeSH: D023303)</small>
+* [[Oxazolone]] — [[d:Q109353049|Q109353049]] <small>(MeSH: D010081)</small>
+* [[Oxcarbazepine]] — [[d:Q176301|Q176301]] <small>(MeSH: D000078330)</small>
+* [[Oxindoles]] — [[d:Q64746792|Q64746792]] <small>(MeSH: D000078183)</small>
+* [[Oxolinic Acid]] — [[d:Q287840|Q287840]] <small>(MeSH: D010093)</small>
+* [[Oxonic Acid]] — [[d:Q22075725|Q22075725]] <small>(MeSH: D010094)</small>
+* [[Oxotremorine]] — [[d:Q676896|Q676896]] <small>(MeSH: D010095)</small>
+* [[Oxycodone]] — [[d:Q407535|Q407535]] <small>(MeSH: D010098)</small>
+* [[Oxymetazoline]] — [[d:Q417813|Q417813]] <small>(MeSH: D010109)</small>
+* [[Oxymorphone]] — [[d:Q423380|Q423380]] <small>(MeSH: D010111)</small>
+* [[Oxyphenbutazone]] — [[d:Q27145838|Q27145838]] <small>(MeSH: D010113)</small>
+* [[Oxyphenisatin Acetate]] — [[d:Q27290537|Q27290537]] <small>(MeSH: D010114)</small>
+* [[Oxypurinol]] — [[d:Q410588|Q410588]] <small>(MeSH: D010117)</small>
+* [[Oxyquinoline]] — [[d:Q270162|Q270162]] <small>(MeSH: D015125)</small>
+* [[Paliperidone Palmitate]] — [[d:Q27157250|Q27157250]] <small>(MeSH: D000068882)</small>
+* [[Palonosetron]] — [[d:Q419841|Q419841]] <small>(MeSH: D000077924)</small>
+* [[Pantoprazole]] — [[d:Q286846|Q286846]] <small>(MeSH: D000077402)</small>
+* [[Papaverine]] — [[d:Q410374|Q410374]] <small>(MeSH: D010208)</small>
+* [[Paraquat]] — [[d:Q409669|Q409669]] <small>(MeSH: D010269)</small>
+* [[Paroxetine]] — [[d:Q408471|Q408471]] <small>(MeSH: D017374)</small>
+* [[Patulin]] — [[d:Q414526|Q414526]] <small>(MeSH: D010365)</small>
+* [[Pefloxacin]] — [[d:Q2601859|Q2601859]] <small>(MeSH: D015366)</small>
+* [[Pemoline]] — [[d:Q419008|Q419008]] <small>(MeSH: D010389)</small>
+* [[Pempidine]] — [[d:Q1438667|Q1438667]] <small>(MeSH: D010393)</small>
+* [[Penfluridol]] — [[d:Q2149707|Q2149707]] <small>(MeSH: D010395)</small>
+* [[Pentazocine]] — [[d:Q415793|Q415793]] <small>(MeSH: D010423)</small>
+* [[Pentobarbital]] — [[d:Q409632|Q409632]] <small>(MeSH: D010424)</small>
+* [[Pentolinium Tartrate]] — [[d:Q27124229|Q27124229]] <small>(MeSH: D010425)</small>
+* [[Pentoxifylline]] — [[d:Q416331|Q416331]] <small>(MeSH: D010431)</small>
+* [[Pentoxyl]] — [[d:Q27268517|Q27268517]] <small>(MeSH: D010432)</small>
+* [[Pentylenetetrazole]] — [[d:Q412391|Q412391]] <small>(MeSH: D010433)</small>
+* [[Pergolide]] — [[d:Q415752|Q415752]] <small>(MeSH: D010479)</small>
+* [[Perhexiline]] — [[d:Q1232737|Q1232737]] <small>(MeSH: D010480)</small>
+* [[Perindopril]] — [[d:Q277785|Q277785]] <small>(MeSH: D020913)</small>
+* [[Phenanthridines]] — [[d:Q56810367|Q56810367]] <small>(MeSH: D010617)</small>
+* [[Phenanthrolines]] — [[d:Q76716336|Q76716336]] <small>(MeSH: D010618)</small>
+* [[Phenazines]] — [[d:Q75086093|Q75086093]] <small>(MeSH: D010619)</small>
+* [[Phenazocine]] — [[d:Q7181332|Q7181332]] <small>(MeSH: D010620)</small>
+* [[Phenazopyridine]] — [[d:Q3114549|Q3114549]] <small>(MeSH: D010621)</small>
+* [[Phencyclidine]] — [[d:Q407324|Q407324]] <small>(MeSH: D010622)</small>
+* [[Pheniramine]] — [[d:Q656259|Q656259]] <small>(MeSH: D010632)</small>
+* [[Phenmetrazine]] — [[d:Q3329406|Q3329406]] <small>(MeSH: D010633)</small>
+* [[Phenobarbital]] — [[d:Q407241|Q407241]] <small>(MeSH: D010634)</small>
+* [[Phenoperidine]] — [[d:Q7181394|Q7181394]] <small>(MeSH: D010638)</small>
+* [[Phenprocoumon]] — [[d:Q267896|Q267896]] <small>(MeSH: D010644)</small>
+* [[Phentolamine]] — [[d:Q420360|Q420360]] <small>(MeSH: D010646)</small>
+* [[Phenylbutazone]] — [[d:Q421342|Q421342]] <small>(MeSH: D010653)</small>
+* [[Phenylthiohydantoin]] — [[d:Q67918576|Q67918576]] <small>(MeSH: D010669)</small>
+* [[Phenytoin]] — [[d:Q410400|Q410400]] <small>(MeSH: D010672)</small>
+* [[Pheophytins]] — [[d:Q115237|Q115237]] <small>(MeSH: D010674)</small>
+* [[Phthalazines]] — [[d:Q57263922|Q57263922]] <small>(MeSH: D010793)</small>
+* [[Phycobilins]] — [[d:Q412631|Q412631]] <small>(MeSH: D052980)</small>
+* [[Physostigmine]] — [[d:Q410595|Q410595]] <small>(MeSH: D010830)</small>
+* [[Picloram]] — [[d:Q424662|Q424662]] <small>(MeSH: D010846)</small>
+* [[Picolines]] — [[d:Q2092388|Q2092388]] <small>(MeSH: D010847)</small>
+* [[Picolinic Acids]] — [[d:Q73644345|Q73644345]] <small>(MeSH: D010848)</small>
+* [[Pilocarpine]] — [[d:Q411461|Q411461]] <small>(MeSH: D010862)</small>
+* [[Pimozide]] — [[d:Q144085|Q144085]] <small>(MeSH: D010868)</small>
+* [[Pipecolic Acids]] — [[d:Q73593843|Q73593843]] <small>(MeSH: D010875)</small>
+* [[Pipecuronium]] — [[d:Q20817188|Q20817188]] <small>(MeSH: D017300)</small>
+* [[Pipemidic Acid]] — [[d:Q754986|Q754986]] <small>(MeSH: D010876)</small>
+* [[Piperazine]] — [[d:Q409292|Q409292]] <small>(MeSH: D000077489)</small>
+* [[Piperazines]] — [[d:Q48836115|Q48836115]] <small>(MeSH: D010879)</small>
+* [[Piperidines]] — [[d:Q59348943|Q59348943]] <small>(MeSH: D010880)</small>
+* [[Piperidones]] — [[d:Q73594291|Q73594291]] <small>(MeSH: D010881)</small>
+* [[Piperonyl Butoxide]] — [[d:Q420891|Q420891]] <small>(MeSH: D010882)</small>
+* [[Piperoxan]] — [[d:Q3389064|Q3389064]] <small>(MeSH: D010883)</small>
+* [[Pipobroman]] — [[d:Q15366704|Q15366704]] <small>(MeSH: D010885)</small>
+* [[Pirenzepine]] — [[d:Q419550|Q419550]] <small>(MeSH: D010890)</small>
+* [[Piribedil]] — [[d:Q413976|Q413976]] <small>(MeSH: D010891)</small>
+* [[Pirinitramide]] — [[d:Q416439|Q416439]] <small>(MeSH: D010892)</small>
+* [[Piromidic Acid]] — [[d:Q745206|Q745206]] <small>(MeSH: D010893)</small>
+* [[Porfiromycin]] — [[d:Q27279527|Q27279527]] <small>(MeSH: D011160)</small>
+* [[Porphobilinogen]] — [[d:Q421178|Q421178]] <small>(MeSH: D011162)</small>
+* [[Porphyrinogens]] — [[d:Q49917009|Q49917009]] <small>(MeSH: D011165)</small>
+* [[Porphyrins]] — [[d:Q422926|Q422926]] <small>(MeSH: D011166)</small>
+* [[PQQ Cofactor]] — [[d:Q414583|Q414583]] <small>(MeSH: D045542)</small>
+* [[Prajmaline]] — [[d:Q7238143|Q7238143]] <small>(MeSH: D011219)</small>
+* [[Pramipexole]] — [[d:Q421304|Q421304]] <small>(MeSH: D000077487)</small>
+* [[Prasugrel Hydrochloride]] — [[d:Q27278929|Q27278929]] <small>(MeSH: D000068799)</small>
+* [[Prazepam]] — [[d:Q2149443|Q2149443]] <small>(MeSH: D011222)</small>
+* [[Praziquantel]] — [[d:Q424145|Q424145]] <small>(MeSH: D011223)</small>
+* [[Prazosin]] — [[d:Q425296|Q425296]] <small>(MeSH: D011224)</small>
+* [[Primaquine]] — [[d:Q419834|Q419834]] <small>(MeSH: D011319)</small>
+* [[Primidone]] — [[d:Q420383|Q420383]] <small>(MeSH: D011324)</small>
+* [[Proanthocyanidins]] — [[d:Q415265|Q415265]] <small>(MeSH: D044945)</small>
+* [[Procyclidine]] — [[d:Q268997|Q268997]] <small>(MeSH: D011352)</small>
+* [[Prodigiosin]] — [[d:Q415663|Q415663]] <small>(MeSH: D011353)</small>
+* [[Proflavine]] — [[d:Q420454|Q420454]] <small>(MeSH: D011370)</small>
+* [[Promedol]] — [[d:Q4463083|Q4463083]] <small>(MeSH: D011396)</small>
+* [[Prometryne]] — [[d:Q1257341|Q1257341]] <small>(MeSH: D011400)</small>
+* [[Propidium]] — [[d:Q27093226|Q27093226]] <small>(MeSH: D011419)</small>
+* [[Propyliodone]] — [[d:Q7250472|Q7250472]] <small>(MeSH: D011440)</small>
+* [[Propylthiouracil]] — [[d:Q377342|Q377342]] <small>(MeSH: D011441)</small>
+* [[Prospidium]] — [[d:Q27269000|Q27269000]] <small>(MeSH: D011447)</small>
+* [[Prothionamide]] — [[d:Q866657|Q866657]] <small>(MeSH: D011515)</small>
+* [[Protochlorophyllide]] — [[d:Q211118|Q211118]] <small>(MeSH: D011521)</small>
+* [[Protoporphyrins]] — [[d:Q2424853|Q2424853]] <small>(MeSH: D011524)</small>
+* [[Protoveratrines]] — [[d:Q76709905|Q76709905]] <small>(MeSH: D011526)</small>
+* [[Psilocybin]] — [[d:Q208118|Q208118]] <small>(MeSH: D011562)</small>
+* [[Pteridines]] — [[d:Q109391037|Q109391037]] <small>(MeSH: D011621)</small>
+* [[Pterins]] — [[d:Q73850061|Q73850061]] <small>(MeSH: D011622)</small>
+* [[Pterocarpans]] — [[d:Q7256727|Q7256727]] <small>(MeSH: D036343)</small>
+* [[Pteroylpolyglutamic Acids]] — [[d:Q76544407|Q76544407]] <small>(MeSH: D011624)</small>
+* [[Purine Nucleosides]] — [[d:Q67710711|Q67710711]] <small>(MeSH: D011684)</small>
+* [[Purine Nucleotides]] — [[d:Q67717431|Q67717431]] <small>(MeSH: D011685)</small>
+* [[Purines]] — [[d:Q3360898|Q3360898]] <small>(MeSH: D011687)</small>
+* [[Purinones]] — [[d:Q7261260|Q7261260]] <small>(MeSH: D011688)</small>
+* [[Pyocyanine]] — [[d:Q410503|Q410503]] <small>(MeSH: D011710)</small>
+* [[Pyran Copolymer]] — [[d:Q69865224|Q69865224]] <small>(MeSH: D011713)</small>
+* [[Pyranocoumarins]] — [[d:Q73606158|Q73606158]] <small>(MeSH: D039681)</small>
+* [[Pyrans]] — [[d:Q64745910|Q64745910]] <small>(MeSH: D011714)</small>
+* [[Pyrantel]] — [[d:Q426897|Q426897]] <small>(MeSH: D011715)</small>
+* [[Pyrantel Pamoate]] — [[d:Q3489331|Q3489331]] <small>(MeSH: D011716)</small>
+* [[Pyrantel Tartrate]] — [[d:Q27289138|Q27289138]] <small>(MeSH: D011717)</small>
+* [[Pyrazinamide]] — [[d:Q417571|Q417571]] <small>(MeSH: D011718)</small>
+* [[Pyrazines]] — [[d:Q47463389|Q47463389]] <small>(MeSH: D011719)</small>
+* [[Pyrazoles]] — [[d:Q1756183|Q1756183]] <small>(MeSH: D011720)</small>
+* [[Pyrazolones]] — [[d:Q2833002|Q2833002]] <small>(MeSH: D047069)</small>
+* [[Pyridazines]] — [[d:Q56810456|Q56810456]] <small>(MeSH: D011724)</small>
+* [[Pyridines]] — [[d:Q47317020|Q47317020]] <small>(MeSH: D011725)</small>
+* [[Pyridinium Compounds]] — [[d:Q33248312|Q33248312]] <small>(MeSH: D011726)</small>
+* [[Pyridones]] — [[d:Q52086929|Q52086929]] <small>(MeSH: D011728)</small>
+* [[Pyridostigmine Bromide]] — [[d:Q26840825|Q26840825]] <small>(MeSH: D011729)</small>
+* [[Pyridoxal]] — [[d:Q3065731|Q3065731]] <small>(MeSH: D011730)</small>
+* [[Pyridoxal Phosphate]] — [[d:Q27888204|Q27888204]] <small>(MeSH: D011732)</small>
+* [[Pyridoxamine]] — [[d:Q2541149|Q2541149]] <small>(MeSH: D011733)</small>
+* [[Pyridoxic Acid]] — [[d:Q27102382|Q27102382]] <small>(MeSH: D011735)</small>
+* [[Pyridoxine]] — [[d:Q423746|Q423746]] <small>(MeSH: D011736)</small>
+* [[Pyrilamine]] — [[d:Q3800087|Q3800087]] <small>(MeSH: D011738)</small>
+* [[Pyrimethamine]] — [[d:Q421072|Q421072]] <small>(MeSH: D011739)</small>
+* [[Pyrimidine Nucleosides]] — [[d:Q73853834|Q73853834]] <small>(MeSH: D011741)</small>
+* [[Pyrimidine Nucleotides]] — [[d:Q73856432|Q73856432]] <small>(MeSH: D011742)</small>
+* [[Pyrimidines]] — [[d:Q109367514|Q109367514]] <small>(MeSH: D011743)</small>
+* [[Pyrimidinones]] — [[d:Q73859576|Q73859576]] <small>(MeSH: D011744)</small>
+* [[Pyrithiamine]] — [[d:Q27098236|Q27098236]] <small>(MeSH: D011745)</small>
+* [[Pyrithioxin]] — [[d:Q416361|Q416361]] <small>(MeSH: D011746)</small>
+* [[Pyrones]] — [[d:Q416730|Q416730]] <small>(MeSH: D011753)</small>
+* [[Pyronine]] — [[d:Q2120020|Q2120020]] <small>(MeSH: D011754)</small>
+* [[Pyrroles]] — [[d:Q67954132|Q67954132]] <small>(MeSH: D011758)</small>
+* [[Pyrrolidines]] — [[d:Q2875193|Q2875193]] <small>(MeSH: D011759)</small>
+* [[Pyrrolidinones]] — [[d:Q71540033|Q71540033]] <small>(MeSH: D011760)</small>
+* [[Pyrrolizidine Alkaloids]] — [[d:Q75005794|Q75005794]] <small>(MeSH: D011763)</small>
+* [[Pyrrolnitrin]] — [[d:Q371817|Q371817]] <small>(MeSH: D011764)</small>
+* [[Pyrroloiminoquinones]] — [[d:Q76508271|Q76508271]] <small>(MeSH: D047608)</small>
+* [[Pyrvinium Compounds]] — [[d:Q124409072|Q124409072]] <small>(MeSH: D011774)</small>
+* [[Quercetin]] — [[d:Q409478|Q409478]] <small>(MeSH: D011794)</small>
+* [[Quinacrine]] — [[d:Q417208|Q417208]] <small>(MeSH: D011796)</small>
+* [[Quinaldines]] — [[d:Q73850027|Q73850027]] <small>(MeSH: D011798)</small>
+* [[Quinapril]] — [[d:Q596022|Q596022]] <small>(MeSH: D000077583)</small>
+* [[Quinazolines]] — [[d:Q57263546|Q57263546]] <small>(MeSH: D011799)</small>
+* [[Quinazolinones]] — [[d:Q2013529|Q2013529]] <small>(MeSH: D052999)</small>
+* [[Quinidine]] — [[d:Q412496|Q412496]] <small>(MeSH: D011802)</small>
+* [[Quinine]] — [[d:Q189522|Q189522]] <small>(MeSH: D011803)</small>
+* [[Quinolines]] — [[d:Q49856656|Q49856656]] <small>(MeSH: D011804)</small>
+* [[Quinolinic Acid]] — [[d:Q411945|Q411945]] <small>(MeSH: D017378)</small>
+* [[Quinolinic Acids]] — [[d:Q73659063|Q73659063]] <small>(MeSH: D011805)</small>
+* [[Quinolinium Compounds]] — [[d:Q75002499|Q75002499]] <small>(MeSH: D011806)</small>
+* [[Quinolizidine Alkaloids]] — [[d:Q76515995|Q76515995]] <small>(MeSH: D000093843)</small>
+* [[Quinolizidines]] — [[d:Q76516005|Q76516005]] <small>(MeSH: D054837)</small>
+* [[Quinolizines]] — [[d:Q76506057|Q76506057]] <small>(MeSH: D011807)</small>
+* [[Quinolones]] — [[d:Q426549|Q426549]] <small>(MeSH: D015363)</small>
+* [[Quinoxalines]] — [[d:Q57263710|Q57263710]] <small>(MeSH: D011810)</small>
+* [[Quinpirole]] — [[d:Q253187|Q253187]] <small>(MeSH: D019257)</small>
+* [[Quinuclidines]] — [[d:Q76643285|Q76643285]] <small>(MeSH: D011812)</small>
+* [[Quipazine]] — [[d:Q7272557|Q7272557]] <small>(MeSH: D011814)</small>
+* [[Quisqualic Acid]] — [[d:Q756551|Q756551]] <small>(MeSH: D016318)</small>
+* [[Rabeprazole]] — [[d:Q3515|Q3515]] <small>(MeSH: D064750)</small>
+* [[Raltegravir Potassium]] — [[d:Q27258678|Q27258678]] <small>(MeSH: D000068898)</small>
+* [[Ramipril]] — [[d:Q412666|Q412666]] <small>(MeSH: D017257)</small>
+* [[Ranitidine]] — [[d:Q423037|Q423037]] <small>(MeSH: D011899)</small>
+* [[Razoxane]] — [[d:Q3930720|Q3930720]] <small>(MeSH: D011929)</small>
+* [[Reboxetine]] — [[d:Q418970|Q418970]] <small>(MeSH: D000077593)</small>
+* [[Reserpine]] — [[d:Q407841|Q407841]] <small>(MeSH: D012110)</small>
+* [[Rhodamine 123]] — [[d:Q3429577|Q3429577]] <small>(MeSH: D020112)</small>
+* [[Rhodamines]] — [[d:Q420410|Q420410]] <small>(MeSH: D012235)</small>
+* [[Riboflavin]] — [[d:Q130365|Q130365]] <small>(MeSH: D012256)</small>
+* [[Rifabutin]] — [[d:Q1135705|Q1135705]] <small>(MeSH: D017828)</small>
+* [[Rifampin]] — [[d:Q422652|Q422652]] <small>(MeSH: D012293)</small>
+* [[Rifamycins]] — [[d:Q388565|Q388565]] <small>(MeSH: D012294)</small>
+* [[Rifaximin]] — [[d:Q416073|Q416073]] <small>(MeSH: D000078262)</small>
+* [[Rilmenidine]] — [[d:Q967973|Q967973]] <small>(MeSH: D000077769)</small>
+* [[Riluzole]] — [[d:Q415744|Q415744]] <small>(MeSH: D019782)</small>
+* [[Rimonabant]] — [[d:Q412529|Q412529]] <small>(MeSH: D000077285)</small>
+* [[Risperidone]] — [[d:Q412443|Q412443]] <small>(MeSH: D018967)</small>
+* [[Ritanserin]] — [[d:Q3937260|Q3937260]] <small>(MeSH: D016713)</small>
+* [[Rivaroxaban]] — [[d:Q420262|Q420262]] <small>(MeSH: D000069552)</small>
+* [[Rolipram]] — [[d:Q410285|Q410285]] <small>(MeSH: D020889)</small>
+* [[Roscovitine]] — [[d:Q3494619|Q3494619]] <small>(MeSH: D000077546)</small>
+* [[Rotenone]] — [[d:Q412388|Q412388]] <small>(MeSH: D012402)</small>
+* [[Rutin]] — [[d:Q407857|Q407857]] <small>(MeSH: D012431)</small>
+* [[Ryanodine]] — [[d:Q59851226|Q59851226]] <small>(MeSH: D012433)</small>
+* [[Saccharin]] — [[d:Q191381|Q191381]] <small>(MeSH: D012439)</small>
+* [[Safrole]] — [[d:Q412424|Q412424]] <small>(MeSH: D012451)</small>
+* [[Salsoline Alkaloids]] — [[d:Q75011795|Q75011795]] <small>(MeSH: D012490)</small>
+* [[Saquinavir]] — [[d:Q422654|Q422654]] <small>(MeSH: D019258)</small>
+* [[Scopolamine]] — [[d:Q337188|Q337188]] <small>(MeSH: D012601)</small>
+* [[Scopolamine Derivatives]] — [[d:Q74865232|Q74865232]] <small>(MeSH: D012602)</small>
+* [[Scopoletin]] — [[d:Q2472366|Q2472366]] <small>(MeSH: D012603)</small>
+* [[Secobarbital]] — [[d:Q414788|Q414788]] <small>(MeSH: D012631)</small>
+* [[Secologanin Tryptamine Alkaloids]] — [[d:Q67206073|Q67206073]] <small>(MeSH: D046948)</small>
+* [[Silybin]] — [[d:Q425702|Q425702]] <small>(MeSH: D000077385)</small>
+* [[Silymarin]] — [[d:Q60970556|Q60970556]] <small>(MeSH: D012838)</small>
+* [[Simazine]] — [[d:Q416160|Q416160]] <small>(MeSH: D012839)</small>
+* [[Sitagliptin Phosphate]] — [[d:Q419832|Q419832]] <small>(MeSH: D000068900)</small>
+* [[Skatole]] — [[d:Q412281|Q412281]] <small>(MeSH: D012862)</small>
+* [[Solanaceous Alkaloids]] — [[d:Q75011846|Q75011846]] <small>(MeSH: D012991)</small>
+* [[Solifenacin Succinate]] — [[d:Q374826|Q374826]] <small>(MeSH: D000069464)</small>
+* [[Sparsomycin]] — [[d:Q7573806|Q7573806]] <small>(MeSH: D013033)</small>
+* [[Sparteine]] — [[d:Q419552|Q419552]] <small>(MeSH: D013034)</small>
+* [[Spectinomycin]] — [[d:Q416154|Q416154]] <small>(MeSH: D000198)</small>
+* [[Spirooxindoles]] — [[d:Q124260671|Q124260671]] <small>(MeSH: D000096563)</small>
+* [[Sporidesmins]] — [[d:Q76823432|Q76823432]] <small>(MeSH: D013173)</small>
+* [[Staurosporine]] — [[d:Q5957181|Q5957181]] <small>(MeSH: D019311)</small>
+* [[Stemona Alkaloids]] — [[d:Q124309661|Q124309661]] <small>(MeSH: D000097843)</small>
+* [[Sterigmatocystin]] — [[d:Q2777979|Q2777979]] <small>(MeSH: D013241)</small>
+* [[Streptonigrin]] — [[d:Q15427845|Q15427845]] <small>(MeSH: D013308)</small>
+* [[Streptovaricin]] — [[d:Q7623416|Q7623416]] <small>(MeSH: D013310)</small>
+* [[Strychnine]] — [[d:Q194406|Q194406]] <small>(MeSH: D013331)</small>
+* [[Sufentanil]] — [[d:Q417915|Q417915]] <small>(MeSH: D017409)</small>
+* [[Sulfinpyrazone]] — [[d:Q3790542|Q3790542]] <small>(MeSH: D013442)</small>
+* [[Sunitinib]] — [[d:Q417542|Q417542]] <small>(MeSH: D000077210)</small>
+* [[Swainsonine]] — [[d:Q415324|Q415324]] <small>(MeSH: D017026)</small>
+* [[Sydnones]] — [[d:Q1298067|Q1298067]] <small>(MeSH: D013558)</small>
+* [[Tacrine]] — [[d:Q421076|Q421076]] <small>(MeSH: D013619)</small>
+* [[Tadalafil]] — [[d:Q424156|Q424156]] <small>(MeSH: D000068581)</small>
+* [[Tegafur]] — [[d:Q413370|Q413370]] <small>(MeSH: D005641)</small>
+* [[Temazepam]] — [[d:Q414796|Q414796]] <small>(MeSH: D013693)</small>
+* [[Tenuazonic Acid]] — [[d:Q27108395|Q27108395]] <small>(MeSH: D013720)</small>
+* [[Tetrabenazine]] — [[d:Q413050|Q413050]] <small>(MeSH: D013747)</small>
+* [[Tetrahydrofolates]] — [[d:Q74704920|Q74704920]] <small>(MeSH: D013763)</small>
+* [[Tetrahydroisoquinolines]] — [[d:Q72135056|Q72135056]] <small>(MeSH: D044005)</small>
+* [[Tetrahydropapaveroline]] — [[d:Q27103884|Q27103884]] <small>(MeSH: D013765)</small>
+* [[Tetramisole]] — [[d:Q27146858|Q27146858]] <small>(MeSH: D013773)</small>
+* [[Tetrapyrroles]] — [[d:Q422399|Q422399]] <small>(MeSH: D045725)</small>
+* [[Tetrazoles]] — [[d:Q671779|Q671779]] <small>(MeSH: D013777)</small>
+* [[Tetrazolium Salts]] — [[d:Q68070987|Q68070987]] <small>(MeSH: D013778)</small>
+* [[Tetrodotoxin]] — [[d:Q379842|Q379842]] <small>(MeSH: D013779)</small>
+* [[Thalidomide]] — [[d:Q203174|Q203174]] <small>(MeSH: D013792)</small>
+* [[Thebaine]] — [[d:Q410169|Q410169]] <small>(MeSH: D013797)</small>
+* [[Theobromine]] — [[d:Q206844|Q206844]] <small>(MeSH: D013805)</small>
+* [[Theophylline]] — [[d:Q407308|Q407308]] <small>(MeSH: D013806)</small>
+* [[Thiabendazole]] — [[d:Q424986|Q424986]] <small>(MeSH: D013827)</small>
+* [[Thiamethoxam]] — [[d:Q1040678|Q1040678]] <small>(MeSH: D000077922)</small>
+* [[Thiamine]] — [[d:Q83187|Q83187]] <small>(MeSH: D013831)</small>
+* [[Thiamine Monophosphate]] — [[d:Q7783877|Q7783877]] <small>(MeSH: D013833)</small>
+* [[Thiamine Pyrophosphate]] — [[d:Q415003|Q415003]] <small>(MeSH: D013835)</small>
+* [[Thiamine Triphosphate]] — [[d:Q3523978|Q3523978]] <small>(MeSH: D013838)</small>
+* [[Thiamylal]] — [[d:Q906102|Q906102]] <small>(MeSH: D013840)</small>
+* [[Thiazepines]] — [[d:Q3523992|Q3523992]] <small>(MeSH: D013841)</small>
+* [[Thienopyridines]] — [[d:Q3074941|Q3074941]] <small>(MeSH: D058924)</small>
+* [[Thiethylperazine]] — [[d:Q372725|Q372725]] <small>(MeSH: D013847)</small>
+* [[Thiobarbiturates]] — [[d:Q73860647|Q73860647]] <small>(MeSH: D013858)</small>
+* [[Thioguanine]] — [[d:Q385347|Q385347]] <small>(MeSH: D013866)</small>
+* [[Thiohydantoins]] — [[d:Q2421285|Q2421285]] <small>(MeSH: D013867)</small>
+* [[Thiopental]] — [[d:Q410179|Q410179]] <small>(MeSH: D013874)</small>
+* [[Thiouracil]] — [[d:Q409332|Q409332]] <small>(MeSH: D013889)</small>
+* [[Thymine]] — [[d:Q171973|Q171973]] <small>(MeSH: D013941)</small>
+* [[Tiagabine]] — [[d:Q907219|Q907219]] <small>(MeSH: D000078308)</small>
+* [[Ticlopidine]] — [[d:Q420571|Q420571]] <small>(MeSH: D013988)</small>
+* [[Tiotropium Bromide]] — [[d:Q27162952|Q27162952]] <small>(MeSH: D000069447)</small>
+* [[Tirapazamine]] — [[d:Q3529346|Q3529346]] <small>(MeSH: D000077704)</small>
+* [[Tocopherols]] — [[d:Q910277|Q910277]] <small>(MeSH: D024505)</small>
+* [[Tocotrienols]] — [[d:Q427419|Q427419]] <small>(MeSH: D024508)</small>
+* [[Tolazoline]] — [[d:Q413772|Q413772]] <small>(MeSH: D014043)</small>
+* [[Tolmetin]] — [[d:Q3992411|Q3992411]] <small>(MeSH: D014046)</small>
+* [[Tolvaptan]] — [[d:Q426132|Q426132]] <small>(MeSH: D000077602)</small>
+* [[Tomatine]] — [[d:Q288051|Q288051]] <small>(MeSH: D014053)</small>
+* [[Topotecan]] — [[d:Q419953|Q419953]] <small>(MeSH: D019772)</small>
+* [[Toxiferine]] — [[d:Q392418|Q392418]] <small>(MeSH: D014117)</small>
+* [[Trabectedin]] — [[d:Q2637746|Q2637746]] <small>(MeSH: D000077606)</small>
+* [[Trapidil]] — [[d:Q2449982|Q2449982]] <small>(MeSH: D014192)</small>
+* [[Trazodone]] — [[d:Q411457|Q411457]] <small>(MeSH: D014196)</small>
+* [[Tremorine]] — [[d:Q7838182|Q7838182]] <small>(MeSH: D014203)</small>
+* [[Tretoquinol]] — [[d:Q7838878|Q7838878]] <small>(MeSH: D014213)</small>
+* [[Triacetoneamine-N-Oxyl]] — [[d:Q73594801|Q73594801]] <small>(MeSH: D014216)</small>
+* [[Triamterene]] — [[d:Q221520|Q221520]] <small>(MeSH: D014223)</small>
+* [[Triazines]] — [[d:Q419563|Q419563]] <small>(MeSH: D014227)</small>
+* [[Triaziquone]] — [[d:Q1323947|Q1323947]] <small>(MeSH: D014228)</small>
+* [[Triazolam]] — [[d:Q412143|Q412143]] <small>(MeSH: D014229)</small>
+* [[Triazoles]] — [[d:Q903341|Q903341]] <small>(MeSH: D014230)</small>
+* [[Triclabendazole]] — [[d:Q419739|Q419739]] <small>(MeSH: D000077682)</small>
+* [[Triethylenemelamine]] — [[d:Q7841462|Q7841462]] <small>(MeSH: D014265)</small>
+* [[Triethylenephosphoramide]] — [[d:Q66686174|Q66686174]] <small>(MeSH: D013721)</small>
+* [[Trihexyphenidyl]] — [[d:Q2991856|Q2991856]] <small>(MeSH: D014282)</small>
+* [[Trimetazidine]] — [[d:Q674703|Q674703]] <small>(MeSH: D014292)</small>
+* [[Trimethadione]] — [[d:Q827916|Q827916]] <small>(MeSH: D014293)</small>
+* [[Trimethaphan]] — [[d:Q9361596|Q9361596]] <small>(MeSH: D014294)</small>
+* [[Trimethoprim]] — [[d:Q422665|Q422665]] <small>(MeSH: D014295)</small>
+* [[Trimetrexate]] — [[d:Q126677485|Q126677485]] <small>(MeSH: D016597)</small>
+* [[Trimipramine]] — [[d:Q423498|Q423498]] <small>(MeSH: D014299)</small>
+* [[Trioxsalen]] — [[d:Q854263|Q854263]] <small>(MeSH: D014307)</small>
+* [[Triprolidine]] — [[d:Q417654|Q417654]] <small>(MeSH: D014311)</small>
+* [[Troglitazone]] — [[d:Q7844989|Q7844989]] <small>(MeSH: D000077288)</small>
+* [[Tropanes]] — [[d:Q67390548|Q67390548]] <small>(MeSH: D014326)</small>
+* [[Tropicamide]] — [[d:Q29310|Q29310]] <small>(MeSH: D014331)</small>
+* [[Tropisetron]] — [[d:Q29428|Q29428]] <small>(MeSH: D000077526)</small>
+* [[Tubocurarine]] — [[d:Q421268|Q421268]] <small>(MeSH: D014403)</small>
+* [[Tunicamycin]] — [[d:Q3542091|Q3542091]] <small>(MeSH: D014415)</small>
+* [[Umbelliferones]] — [[d:Q73606653|Q73606653]] <small>(MeSH: D014468)</small>
+* [[Uracil]] — [[d:Q182990|Q182990]] <small>(MeSH: D014498)</small>
+* [[Uric Acid]] — [[d:Q105522|Q105522]] <small>(MeSH: D014527)</small>
+* [[Urobilin]] — [[d:Q41353|Q41353]] <small>(MeSH: D014557)</small>
+* [[Urobilinogen]] — [[d:Q57054|Q57054]] <small>(MeSH: D014558)</small>
+* [[Uroporphyrinogens]] — [[d:Q3552432|Q3552432]] <small>(MeSH: D014577)</small>
+* [[Uroporphyrins]] — [[d:Q68063190|Q68063190]] <small>(MeSH: D014578)</small>
+* [[Valacyclovir]] — [[d:Q418594|Q418594]] <small>(MeSH: D000077483)</small>
+* [[Valganciclovir]] — [[d:Q423384|Q423384]] <small>(MeSH: D000077562)</small>
+* [[Vardenafil Dihydrochloride]] — [[d:Q27262637|Q27262637]] <small>(MeSH: D000069058)</small>
+* [[Varenicline]] — [[d:Q411330|Q411330]] <small>(MeSH: D000068580)</small>
+* [[Veratridine]] — [[d:Q721202|Q721202]] <small>(MeSH: D014701)</small>
+* [[Veratrine]] — [[d:Q2513481|Q2513481]] <small>(MeSH: D014702)</small>
+* [[Veratrum Alkaloids]] — [[d:Q75011817|Q75011817]] <small>(MeSH: D014704)</small>
+* [[Verteporfin]] — [[d:Q782318|Q782318]] <small>(MeSH: D000077362)</small>
+* [[Vilazodone Hydrochloride]] — [[d:Q27139037|Q27139037]] <small>(MeSH: D000069503)</small>
+* [[Viloxazine]] — [[d:Q907148|Q907148]] <small>(MeSH: D014745)</small>
+* [[Vinblastine]] — [[d:Q282629|Q282629]] <small>(MeSH: D014747)</small>
+* [[Vinca Alkaloids]] — [[d:Q3559405|Q3559405]] <small>(MeSH: D014748)</small>
+* [[Vincamine]] — [[d:Q416225|Q416225]] <small>(MeSH: D014749)</small>
+* [[Vincristine]] — [[d:Q408977|Q408977]] <small>(MeSH: D014750)</small>
+* [[Vindesine]] — [[d:Q416660|Q416660]] <small>(MeSH: D014751)</small>
+* [[Vinorelbine]] — [[d:Q420532|Q420532]] <small>(MeSH: D000077235)</small>
+* [[Viologens]] — [[d:Q845218|Q845218]] <small>(MeSH: D014755)</small>
+* [[Vitamin B 12]] — [[d:Q252251|Q252251]] <small>(MeSH: D014805)</small>
+* [[Vitamin B 6]] — [[d:Q205130|Q205130]] <small>(MeSH: D025101)</small>
+* [[Vitamin E]] — [[d:Q141180|Q141180]] <small>(MeSH: D014810)</small>
+* [[Voriconazole]] — [[d:Q412236|Q412236]] <small>(MeSH: D065819)</small>
+* [[Vortioxetine]] — [[d:Q3563148|Q3563148]] <small>(MeSH: D000078784)</small>
+* [[Warfarin]] — [[d:Q113368879|Q113368879]] <small>(MeSH: D014859)</small>
+* [[Xanthenes]] — [[d:Q65684228|Q65684228]] <small>(MeSH: D014966)</small>
+* [[Xanthine]] — [[d:Q50980|Q50980]] <small>(MeSH: D019820)</small>
+* [[Xanthines]] — [[d:Q49922434|Q49922434]] <small>(MeSH: D014970)</small>
+* [[Xanthinol Niacinate]] — [[d:Q5814478|Q5814478]] <small>(MeSH: D014971)</small>
+* [[Xanthones]] — [[d:Q16007012|Q16007012]] <small>(MeSH: D044004)</small>
+* [[Xanthopterin]] — [[d:Q415862|Q415862]] <small>(MeSH: D014976)</small>
+* [[Xanthurenates]] — [[d:Q76715451|Q76715451]] <small>(MeSH: D014977)</small>
+* [[Yohimbine]] — [[d:Q412226|Q412226]] <small>(MeSH: D015016)</small>
+* [[Zeatin]] — [[d:Q2276562|Q2276562]] <small>(MeSH: D015026)</small>
+* [[Zimeldine]] — [[d:Q203483|Q203483]] <small>(MeSH: D015031)</small>
+* [[Zolazepam]] — [[d:Q4024647|Q4024647]] <small>(MeSH: D015041)</small>
+* [[Zolpidem]] — [[d:Q218842|Q218842]] <small>(MeSH: D000077334)</small>
+* [[Zoxazolamine]] — [[d:Q27089301|Q27089301]] <small>(MeSH: D015049)</small>
+
+=== Complex Mixtures ===
+
+* '''Coverage:''' 29.2%
+* '''{{color|blue|Bluelinks}}:''' 56
+* '''{{color|red|Redlinks}}:''' 136
+* [[2019-nCoV Vaccine mRNA-1273]] — [[d:Q87775025|Q87775025]] <small>(MeSH: D000090983)</small>
+* [[Actihaemyl]] — [[d:Q76818029|Q76818029]] <small>(MeSH: D000183)</small>
+* [[Adenovirus Vaccines]] — [[d:Q4682307|Q4682307]] <small>(MeSH: D062705)</small>
+* [[Aerogels]] — [[d:Q381490|Q381490]] <small>(MeSH: D000099097)</small>
+* [[Aerosolized Particles and Droplets]] — [[d:Q112062495|Q112062495]] <small>(MeSH: D000088342)</small>
+* [[Aerosols]] — [[d:Q104541|Q104541]] <small>(MeSH: D000336)</small>
+* [[AIDS Vaccines]] — [[d:Q1479804|Q1479804]] <small>(MeSH: D016915)</small>
+* [[Air Pollutants, Radioactive]] — [[d:Q50429809|Q50429809]] <small>(MeSH: D000396)</small>
+* [[Alzheimer Vaccines]] — [[d:Q58632724|Q58632724]] <small>(MeSH: D023582)</small>
+* [[Ambergris]] — [[d:Q188774|Q188774]] <small>(MeSH: D018648)</small>
+* [[Amphibian Venoms]] — [[d:Q75034109|Q75034109]] <small>(MeSH: D000664)</small>
+* [[Ant Venoms]] — [[d:Q75034051|Q75034051]] <small>(MeSH: D000862)</small>
+* [[Anthrax Vaccines]] — [[d:Q4007170|Q4007170]] <small>(MeSH: D022122)</small>
+* [[Apamin]] — [[d:Q417260|Q417260]] <small>(MeSH: D001030)</small>
+* [[Arthropod Venoms]] — [[d:Q74561337|Q74561337]] <small>(MeSH: D001180)</small>
+* [[Autovaccines]] — [[d:Q97358953|Q97358953]] <small>(MeSH: D054991)</small>
+* [[Bacterial Lysates]] — [[d:Q124257643|Q124257643]] <small>(MeSH: D000095983)</small>
+* [[Bacterial Vaccines]] — [[d:Q58631461|Q58631461]] <small>(MeSH: D001428)</small>
+* [[Batrachotoxins]] — [[d:Q411087|Q411087]] <small>(MeSH: D001496)</small>
+* [[BCG Vaccine]] — [[d:Q798309|Q798309]] <small>(MeSH: D001500)</small>
+* [[Bee Venoms]] — [[d:Q423888|Q423888]] <small>(MeSH: D001514)</small>
+* [[Biofuels]] — [[d:Q128991|Q128991]] <small>(MeSH: D056804)</small>
+* [[Biological Control Agents]] — [[d:Q19721499|Q19721499]] <small>(MeSH: D061046)</small>
+* [[Biological Products]] — [[d:Q67008917|Q67008917]] <small>(MeSH: D001688)</small>
+* [[Biological Warfare Agents]] — [[d:Q170907|Q170907]] <small>(MeSH: D054045)</small>
+* [[Biosimilar Pharmaceuticals]] — [[d:Q864715|Q864715]] <small>(MeSH: D059451)</small>
+* [[Biosolids]] — [[d:Q1776685|Q1776685]] <small>(MeSH: D000080803)</small>
+* [[BNT162 Vaccine]] — [[d:Q97154240|Q97154240]] <small>(MeSH: D000090982)</small>
+* [[Bothrops jararaca Venom]] — [[d:Q124339021|Q124339021]] <small>(MeSH: D000097146)</small>
+* [[Brucella Vaccine]] — [[d:Q58623509|Q58623509]] <small>(MeSH: D002004)</small>
+* [[Bungarotoxins]] — [[d:Q4997624|Q4997624]] <small>(MeSH: D002038)</small>
+* [[Cancer Vaccines]] — [[d:Q2378309|Q2378309]] <small>(MeSH: D019496)</small>
+* [[Cell Extracts]] — [[d:Q76499897|Q76499897]] <small>(MeSH: D002457)</small>
+* [[ChAdOx1 nCoV-19]] — [[d:Q95042269|Q95042269]] <small>(MeSH: D000090985)</small>
+* [[Chickenpox Vaccine]] — [[d:Q2721987|Q2721987]] <small>(MeSH: D019433)</small>
+* [[Cholera Vaccines]] — [[d:Q1812946|Q1812946]] <small>(MeSH: D022121)</small>
+* [[Clay]] — [[d:Q42302|Q42302]] <small>(MeSH: D000077215)</small>
+* [[Clove Oil]] — [[d:Q2195458|Q2195458]] <small>(MeSH: D045783)</small>
+* [[Coal]] — [[d:Q24489|Q24489]] <small>(MeSH: D003031)</small>
+* [[Coal Ash]] — [[d:Q236139|Q236139]] <small>(MeSH: D060729)</small>
+* [[Coal Tar]] — [[d:Q948232|Q948232]] <small>(MeSH: D003033)</small>
+* [[Coffee]] — [[d:Q8486|Q8486]] <small>(MeSH: D003069)</small>
+* [[Coke]] — [[d:Q192795|Q192795]] <small>(MeSH: D003077)</small>
+* [[Colloids]] — [[d:Q181780|Q181780]] <small>(MeSH: D003102)</small>
+* [[Complex Mixtures]] — [[d:Q66902062|Q66902062]] <small>(MeSH: D045424)</small>
+* [[Cosmic Dust]] — [[d:Q193384|Q193384]] <small>(MeSH: D019443)</small>
+* [[COVID-19 Vaccines]] — [[d:Q87719492|Q87719492]] <small>(MeSH: D000086663)</small>
+* [[Crotalid Venoms]] — [[d:Q72100385|Q72100385]] <small>(MeSH: D003435)</small>
+* [[Crotoxin]] — [[d:Q5792231|Q5792231]] <small>(MeSH: D003439)</small>
+* [[Cryogels]] — [[d:Q76850564|Q76850564]] <small>(MeSH: D059985)</small>
+* [[Curare]] — [[d:Q138919|Q138919]] <small>(MeSH: D003472)</small>
+* [[Cytomegalovirus Vaccines]] — [[d:Q5201363|Q5201363]] <small>(MeSH: D022482)</small>
+* [[Dengue Vaccines]] — [[d:Q18388297|Q18388297]] <small>(MeSH: D053059)</small>
+* [[Dental Waste]] — [[d:Q70439886|Q70439886]] <small>(MeSH: D018057)</small>
+* [[Diphtheria Toxoid]] — [[d:Q4007175|Q4007175]] <small>(MeSH: D004168)</small>
+* [[Diphtheria-Tetanus Vaccine]] — [[d:Q58623465|Q58623465]] <small>(MeSH: D022422)</small>
+* [[Diphtheria-Tetanus-acellular Pertussis Vaccines]] — [[d:Q58623891|Q58623891]] <small>(MeSH: D022681)</small>
+* [[Diphtheria-Tetanus-Pertussis Vaccine]] — [[d:Q908600|Q908600]] <small>(MeSH: D015721)</small>
+* [[Drugs, Chinese Herbal]] — [[d:Q67175105|Q67175105]] <small>(MeSH: D004365)</small>
+* [[Dust]] — [[d:Q165632|Q165632]] <small>(MeSH: D004391)</small>
+* [[Ebola Vaccines]] — [[d:Q3553092|Q3553092]] <small>(MeSH: D046129)</small>
+* [[Elapid Venoms]] — [[d:Q75034135|Q75034135]] <small>(MeSH: D004546)</small>
+* [[Emulsions]] — [[d:Q187634|Q187634]] <small>(MeSH: D004655)</small>
+* [[Escherichia coli Vaccines]] — [[d:Q58624003|Q58624003]] <small>(MeSH: D022361)</small>
+* [[Flower Essences]] — [[d:Q76504864|Q76504864]] <small>(MeSH: D065829)</small>
+* [[Food Loss and Waste]] — [[d:Q18919|Q18919]] <small>(MeSH: D000097798)</small>
+* [[Fossil Fuels]] — [[d:Q12748|Q12748]] <small>(MeSH: D005579)</small>
+* [[Freund's Adjuvant]] — [[d:Q627524|Q627524]] <small>(MeSH: D005620)</small>
+* [[Fuel Oils]] — [[d:Q214199|Q214199]] <small>(MeSH: D005648)</small>
+* [[Fungal Vaccines]] — [[d:Q58623858|Q58623858]] <small>(MeSH: D005657)</small>
+* [[Gasoline]] — [[d:Q39558|Q39558]] <small>(MeSH: D005742)</small>
+* [[Gels]] — [[d:Q185744|Q185744]] <small>(MeSH: D005782)</small>
+* [[Gene Therapy Agents]] — [[d:Q131582215|Q131582215]] <small>(MeSH: D000098623)</small>
+* [[Ginkgo Extract]] — [[d:Q104444041|Q104444041]] <small>(MeSH: D000096983)</small>
+* [[Grape Seed Extract]] — [[d:Q5597007|Q5597007]] <small>(MeSH: D056604)</small>
+* [[Guaiac]] — [[d:Q5618003|Q5618003]] <small>(MeSH: D006138)</small>
+* [[Haemophilus Vaccines]] — [[d:Q58630730|Q58630730]] <small>(MeSH: D018073)</small>
+* [[Hazardous Waste]] — [[d:Q1069369|Q1069369]] <small>(MeSH: D006256)</small>
+* [[Hepatitis A Vaccines]] — [[d:Q3553093|Q3553093]] <small>(MeSH: D022362)</small>
+* [[Hepatitis B Vaccines]] — [[d:Q117749|Q117749]] <small>(MeSH: D017325)</small>
+* [[Heptavalent Pneumococcal Conjugate Vaccine]] — [[d:Q58523372|Q58523372]] <small>(MeSH: D000069443)</small>
+* [[Herpes Simplex Virus Vaccines]] — [[d:Q58632568|Q58632568]] <small>(MeSH: D022301)</small>
+* [[Herpes Zoster Vaccine]] — [[d:Q8074572|Q8074572]] <small>(MeSH: D053061)</small>
+* [[Herpesvirus Vaccines]] — [[d:Q58623796|Q58623796]] <small>(MeSH: D022283)</small>
+* [[Hydrogels]] — [[d:Q898925|Q898925]] <small>(MeSH: D020100)</small>
+* [[Industrial Waste]] — [[d:Q2732957|Q2732957]] <small>(MeSH: D007220)</small>
+* [[Influenza Vaccines]] — [[d:Q383260|Q383260]] <small>(MeSH: D007252)</small>
+* [[Ipecac]] — [[d:Q2755412|Q2755412]] <small>(MeSH: D007486)</small>
+* [[ISCOMs]] — [[d:Q5973803|Q5973803]] <small>(MeSH: D016882)</small>
+* [[Japanese Encephalitis Vaccines]] — [[d:Q4007171|Q4007171]] <small>(MeSH: D022321)</small>
+* [[Kerosene]] — [[d:Q76904|Q76904]] <small>(MeSH: D007648)</small>
+* [[Leishmaniasis Vaccines]] — [[d:Q58623826|Q58623826]] <small>(MeSH: D054332)</small>
+* [[Liver Extracts]] — [[d:Q76643566|Q76643566]] <small>(MeSH: D008110)</small>
+* [[Lyme Disease Vaccines]] — [[d:Q58630885|Q58630885]] <small>(MeSH: D022123)</small>
+* [[Malaria Vaccines]] — [[d:Q6741353|Q6741353]] <small>(MeSH: D017780)</small>
+* [[Manure]] — [[d:Q185716|Q185716]] <small>(MeSH: D008372)</small>
+* [[Marek Disease Vaccines]] — [[d:Q58623700|Q58623700]] <small>(MeSH: D022501)</small>
+* [[Mastic Resin]] — [[d:Q318367|Q318367]] <small>(MeSH: D000069997)</small>
+* [[Measles Vaccine]] — [[d:Q6804161|Q6804161]] <small>(MeSH: D008458)</small>
+* [[Measles-Mumps-Rubella Vaccine]] — [[d:Q908104|Q908104]] <small>(MeSH: D022542)</small>
+* [[Medical Waste]] — [[d:Q4915134|Q4915134]] <small>(MeSH: D008506)</small>
+* [[Meningococcal Vaccines]] — [[d:Q6817090|Q6817090]] <small>(MeSH: D022401)</small>
+* [[mRNA Vaccines]] — [[d:Q85795487|Q85795487]] <small>(MeSH: D000087503)</small>
+* [[Mumps Vaccine]] — [[d:Q6935478|Q6935478]] <small>(MeSH: D009108)</small>
+* [[Nanovaccines]] — [[d:Q124338917|Q124338917]] <small>(MeSH: D000097007)</small>
+* [[Nasal Sprays]] — [[d:Q1755275|Q1755275]] <small>(MeSH: D059085)</small>
+* [[Natural Gas]] — [[d:Q40858|Q40858]] <small>(MeSH: D059206)</small>
+* [[Opium]] — [[d:Q46452|Q46452]] <small>(MeSH: D009892)</small>
+* [[Oral Sprays]] — [[d:Q76851256|Q76851256]] <small>(MeSH: D058993)</small>
+* [[Pancreatic Extracts]] — [[d:Q76719737|Q76719737]] <small>(MeSH: D010184)</small>
+* [[Papillomavirus Vaccines]] — [[d:Q900189|Q900189]] <small>(MeSH: D053918)</small>
+* [[Parainfluenza Vaccines]] — [[d:Q58623805|Q58623805]] <small>(MeSH: D022241)</small>
+* [[Particulate Matter]] — [[d:Q498957|Q498957]] <small>(MeSH: D052638)</small>
+* [[Pertussis Vaccine]] — [[d:Q7170955|Q7170955]] <small>(MeSH: D010567)</small>
+* [[Petroleum]] — [[d:Q22656|Q22656]] <small>(MeSH: D010578)</small>
+* [[Picibanil]] — [[d:Q1618010|Q1618010]] <small>(MeSH: D010844)</small>
+* [[Placental Extracts]] — [[d:Q76527949|Q76527949]] <small>(MeSH: D010924)</small>
+* [[Plague Vaccine]] — [[d:Q4007173|Q4007173]] <small>(MeSH: D010931)</small>
+* [[Plant Extracts]] — [[d:Q65618538|Q65618538]] <small>(MeSH: D010936)</small>
+* [[Plant Exudates]] — [[d:Q1384893|Q1384893]] <small>(MeSH: D053147)</small>
+* [[Plant Nectar]] — [[d:Q171934|Q171934]] <small>(MeSH: D057048)</small>
+* [[Plant Preparations]] — [[d:Q67008716|Q67008716]] <small>(MeSH: D028321)</small>
+* [[Pneumococcal Vaccines]] — [[d:Q14538008|Q14538008]] <small>(MeSH: D022242)</small>
+* [[Podophyllin]] — [[d:Q22075831|Q22075831]] <small>(MeSH: D011033)</small>
+* [[Poliovirus Vaccine, Inactivated]] — [[d:Q58623436|Q58623436]] <small>(MeSH: D011054)</small>
+* [[Poliovirus Vaccine, Oral]] — [[d:Q3023374|Q3023374]] <small>(MeSH: D011055)</small>
+* [[Poliovirus Vaccines]] — [[d:Q1519099|Q1519099]] <small>(MeSH: D023321)</small>
+* [[Protein Subunit Vaccines]] — [[d:Q97153933|Q97153933]] <small>(MeSH: D000096202)</small>
+* [[Protozoan Vaccines]] — [[d:Q58623713|Q58623713]] <small>(MeSH: D016052)</small>
+* [[Pseudomonas Vaccines]] — [[d:Q58632212|Q58632212]] <small>(MeSH: D054406)</small>
+* [[Pseudorabies Vaccines]] — [[d:Q58631074|Q58631074]] <small>(MeSH: D022421)</small>
+* [[Psyllium]] — [[d:Q430675|Q430675]] <small>(MeSH: D011620)</small>
+* [[Rabies Vaccines]] — [[d:Q4007169|Q4007169]] <small>(MeSH: D011819)</small>
+* [[Radioactive Fallout]] — [[d:Q474044|Q474044]] <small>(MeSH: D011847)</small>
+* [[Radioactive Pollutants]] — [[d:Q76706720|Q76706720]] <small>(MeSH: D011848)</small>
+* [[Radioactive Waste]] — [[d:Q185252|Q185252]] <small>(MeSH: D011850)</small>
+* [[Respiratory Syncytial Virus Vaccines]] — [[d:Q58625997|Q58625997]] <small>(MeSH: D022261)</small>
+* [[Rickettsial Vaccines]] — [[d:Q58631728|Q58631728]] <small>(MeSH: D012290)</small>
+* [[Rotavirus Vaccines]] — [[d:Q4411598|Q4411598]] <small>(MeSH: D022243)</small>
+* [[Royal Jelly]] — [[d:Q202501|Q202501]] <small>(MeSH: D000099219)</small>
+* [[Rubella Vaccine]] — [[d:Q7375928|Q7375928]] <small>(MeSH: D012411)</small>
+* [[SAIDS Vaccines]] — [[d:Q58631299|Q58631299]] <small>(MeSH: D018449)</small>
+* [[Salmonella Vaccines]] — [[d:Q58623312|Q58623312]] <small>(MeSH: D022562)</small>
+* [[Scorpion Venoms]] — [[d:Q75034359|Q75034359]] <small>(MeSH: D012604)</small>
+* [[Sewage]] — [[d:Q10966166|Q10966166]] <small>(MeSH: D012722)</small>
+* [[Shigella Vaccines]] — [[d:Q58624075|Q58624075]] <small>(MeSH: D022281)</small>
+* [[Smallpox Vaccine]] — [[d:Q1037810|Q1037810]] <small>(MeSH: D012900)</small>
+* [[Smog]] — [[d:Q169994|Q169994]] <small>(MeSH: D012905)</small>
+* [[Smoke]] — [[d:Q130768|Q130768]] <small>(MeSH: D012906)</small>
+* [[Snake Venoms]] — [[d:Q424200|Q424200]] <small>(MeSH: D012910)</small>
+* [[Soil]] — [[d:Q36133|Q36133]] <small>(MeSH: D012987)</small>
+* [[Soil Pollutants, Radioactive]] — [[d:Q50573416|Q50573416]] <small>(MeSH: D012990)</small>
+* [[Solid Waste]] — [[d:Q23925154|Q23925154]] <small>(MeSH: D062611)</small>
+* [[Soot]] — [[d:Q13174856|Q13174856]] <small>(MeSH: D053260)</small>
+* [[Spider Venoms]] — [[d:Q72101264|Q72101264]] <small>(MeSH: D013111)</small>
+* [[Staphylococcal Toxoid]] — [[d:Q76796924|Q76796924]] <small>(MeSH: D013208)</small>
+* [[Staphylococcal Vaccines]] — [[d:Q58623633|Q58623633]] <small>(MeSH: D013209)</small>
+* [[Streptococcal Vaccines]] — [[d:Q58555605|Q58555605]] <small>(MeSH: D022541)</small>
+* [[Sunflower Oil]] — [[d:Q94787|Q94787]] <small>(MeSH: D000074242)</small>
+* [[Suspensions]] — [[d:Q26100|Q26100]] <small>(MeSH: D013535)</small>
+* [[Tar-Water]] — [[d:Q7685008|Q7685008]] <small>(MeSH: D018725)</small>
+* [[Tars]] — [[d:Q186209|Q186209]] <small>(MeSH: D013638)</small>
+* [[Tea]] — [[d:Q6097|Q6097]] <small>(MeSH: D013662)</small>
+* [[Teas, Herbal]] — [[d:Q379932|Q379932]] <small>(MeSH: D000069459)</small>
+* [[Tetanus Toxoid]] — [[d:Q5861101|Q5861101]] <small>(MeSH: D013745)</small>
+* [[Thymus Extracts]] — [[d:Q76500953|Q76500953]] <small>(MeSH: D013949)</small>
+* [[Tissue Extracts]] — [[d:Q76877472|Q76877472]] <small>(MeSH: D014020)</small>
+* [[Tobacco Smoke Pollution]] — [[d:Q66901592|Q66901592]] <small>(MeSH: D014028)</small>
+* [[Toxoids]] — [[d:Q908822|Q908822]] <small>(MeSH: D014121)</small>
+* [[Tuberculosis Vaccines]] — [[d:Q7850848|Q7850848]] <small>(MeSH: D032581)</small>
+* [[Typhoid-Paratyphoid Vaccines]] — [[d:Q58625869|Q58625869]] <small>(MeSH: D014436)</small>
+* [[Vaccines]] — [[d:Q134808|Q134808]] <small>(MeSH: D014612)</small>
+* [[Vaccines, Acellular]] — [[d:Q58623975|Q58623975]] <small>(MeSH: D022282)</small>
+* [[Vaccines, Attenuated]] — [[d:Q1810913|Q1810913]] <small>(MeSH: D014613)</small>
+* [[Vaccines, Combined]] — [[d:Q58631911|Q58631911]] <small>(MeSH: D017778)</small>
+* [[Vaccines, Conjugate]] — [[d:Q5161160|Q5161160]] <small>(MeSH: D018074)</small>
+* [[Vaccines, Contraceptive]] — [[d:Q58631591|Q58631591]] <small>(MeSH: D022642)</small>
+* [[Vaccines, Edible]] — [[d:Q7201521|Q7201521]] <small>(MeSH: D022462)</small>
+* [[Vaccines, Inactivated]] — [[d:Q3560939|Q3560939]] <small>(MeSH: D015164)</small>
+* [[Vaccines, Live, Unattenuated]] — [[d:Q58631195|Q58631195]] <small>(MeSH: D062690)</small>
+* [[Vaccines, Marker]] — [[d:Q1332912|Q1332912]] <small>(MeSH: D022581)</small>
+* [[Vaccines, Subunit]] — [[d:Q11954166|Q11954166]] <small>(MeSH: D022223)</small>
+* [[Vehicle Emissions]] — [[d:Q2373967|Q2373967]] <small>(MeSH: D001335)</small>
+* [[Viper Venoms]] — [[d:Q25505908|Q25505908]] <small>(MeSH: D014757)</small>
+* [[Viral Hepatitis Vaccines]] — [[d:Q58624032|Q58624032]] <small>(MeSH: D014761)</small>
+* [[Viral Vaccines]] — [[d:Q58624061|Q58624061]] <small>(MeSH: D014765)</small>
+* [[Wasp Venoms]] — [[d:Q72100330|Q72100330]] <small>(MeSH: D014862)</small>
+* [[Waste Products]] — [[d:Q319936|Q319936]] <small>(MeSH: D014866)</small>
+* [[Wastewater]] — [[d:Q336191|Q336191]] <small>(MeSH: D062065)</small>
+* [[Water Pollutants, Radioactive]] — [[d:Q50573419|Q50573419]] <small>(MeSH: D014875)</small>
+* [[West Nile Virus Vaccines]] — [[d:Q58623949|Q58623949]] <small>(MeSH: D053060)</small>
+* [[Yellow Fever Vaccine]] — [[d:Q8051876|Q8051876]] <small>(MeSH: D022341)</small>
+
+
+[[Category:WikiProject MeSH]]

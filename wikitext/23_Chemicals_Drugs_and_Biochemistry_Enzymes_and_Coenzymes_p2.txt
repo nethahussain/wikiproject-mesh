@@ -1,0 +1,486 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Enzymes and Coenzymes (N–Z) ===
+
+* [[Nicotinamide N-Methyltransferase]] — [[d:Q3266762|Q3266762]] <small>(MeSH: D050903)</small>
+* [[Nicotinamide Phosphoribosyltransferase]] — [[d:Q24776198|Q24776198]] <small>(MeSH: D054409)</small>
+* [[Nicotinate-Nucleotide Diphosphorylase (Carboxylating)]] — [[d:Q1074410|Q1074410]] <small>(MeSH: D000098553)</small>
+* [[NIMA-Interacting Peptidylprolyl Isomerase]] — [[d:Q21116190|Q21116190]] <small>(MeSH: D000072340)</small>
+* [[Nitrate Reductase]] — [[d:Q76386357|Q76386357]] <small>(MeSH: D050901)</small>
+* [[Nitrate Reductase (NADH)]] — [[d:Q1993945|Q1993945]] <small>(MeSH: D050895)</small>
+* [[Nitrate Reductases]] — [[d:Q420896|Q420896]] <small>(MeSH: D009565)</small>
+* [[Nitric Oxide Synthase]] — [[d:Q417619|Q417619]] <small>(MeSH: D019001)</small>
+* [[Nitric Oxide Synthase Type I]] — [[d:Q21121716|Q21121716]] <small>(MeSH: D052248)</small>
+* [[Nitric Oxide Synthase Type III]] — [[d:Q408853|Q408853]] <small>(MeSH: D052250)</small>
+* [[Nitrite Reductase (NAD(P)H)]] — [[d:Q3574938|Q3574938]] <small>(MeSH: D050898)</small>
+* [[Nitrite Reductases]] — [[d:Q409788|Q409788]] <small>(MeSH: D009572)</small>
+* [[Nitroanisole O-Demethylase]] — [[d:Q76713641|Q76713641]] <small>(MeSH: D009575)</small>
+* [[Nitrogenase]] — [[d:Q410381|Q410381]] <small>(MeSH: D009591)</small>
+* [[Nitrogenous Group Transferases]] — [[d:Q78440774|Q78440774]] <small>(MeSH: D019884)</small>
+* [[Nitroreductases]] — [[d:Q7041501|Q7041501]] <small>(MeSH: D009601)</small>
+* [[NM23 Nucleoside Diphosphate Kinases]] — [[d:Q78122751|Q78122751]] <small>(MeSH: D054778)</small>
+* [[Nucleoside Deaminases]] — [[d:Q76624740|Q76624740]] <small>(MeSH: D009700)</small>
+* [[Nucleoside Diphosphate Kinase D]] — [[d:Q21133124|Q21133124]] <small>(MeSH: D061107)</small>
+* [[Nucleoside-Diphosphate Kinase]] — [[d:Q3346048|Q3346048]] <small>(MeSH: D009701)</small>
+* [[Nucleoside-Phosphate Kinase]] — [[d:Q7068246|Q7068246]] <small>(MeSH: D009703)</small>
+* [[Nucleoside-Triphosphatase]] — [[d:Q7068248|Q7068248]] <small>(MeSH: D043583)</small>
+* [[Nucleotidases]] — [[d:Q421431|Q421431]] <small>(MeSH: D009708)</small>
+* [[Nucleotide Deaminases]] — [[d:Q76832326|Q76832326]] <small>(MeSH: D009709)</small>
+* [[Nucleotidyltransferases]] — [[d:Q408939|Q408939]] <small>(MeSH: D009713)</small>
+* [[Nudix Hydrolases]] — [[d:Q24781279|Q24781279]] <small>(MeSH: D000096964)</small>
+* [[O(6)-Methylguanine-DNA Methyltransferase]] — [[d:Q21118735|Q21118735]] <small>(MeSH: D019853)</small>
+* [[Oligo-1,6-Glucosidase]] — [[d:Q110818467|Q110818467]] <small>(MeSH: D009834)</small>
+* [[omega-Crystallins]] — [[d:Q76539287|Q76539287]] <small>(MeSH: D038224)</small>
+* [[One-Carbon Group Transferases]] — [[d:Q74797060|Q74797060]] <small>(MeSH: D019875)</small>
+* [[Ornithine Carbamoyltransferase]] — [[d:Q24723588|Q24723588]] <small>(MeSH: D009954)</small>
+* [[Ornithine Decarboxylase]] — [[d:Q931579|Q931579]] <small>(MeSH: D009955)</small>
+* [[Ornithine-Oxo-Acid Transaminase]] — [[d:Q7103622|Q7103622]] <small>(MeSH: D009953)</small>
+* [[Orotate Phosphoribosyltransferase]] — [[d:Q7103869|Q7103869]] <small>(MeSH: D009962)</small>
+* [[Orotidine-5'-Phosphate Decarboxylase]] — [[d:Q7103879|Q7103879]] <small>(MeSH: D009964)</small>
+* [[Oxidoreductases]] — [[d:Q407479|Q407479]] <small>(MeSH: D010088)</small>
+* [[Oxidoreductases Acting on Aldehyde or Oxo Group Donors]] — [[d:Q78139973|Q78139973]] <small>(MeSH: D050837)</small>
+* [[Oxidoreductases Acting on CH-CH Group Donors]] — [[d:Q78143259|Q78143259]] <small>(MeSH: D044925)</small>
+* [[Oxidoreductases Acting on CH-NH Group Donors]] — [[d:Q78037135|Q78037135]] <small>(MeSH: D000587)</small>
+* [[Oxidoreductases Acting on CH-NH2 Group Donors]] — [[d:Q78191986|Q78191986]] <small>(MeSH: D050891)</small>
+* [[Oxidoreductases Acting on Sulfur Group Donors]] — [[d:Q74804236|Q74804236]] <small>(MeSH: D050862)</small>
+* [[Oxidoreductases, N-Demethylating]] — [[d:Q76850239|Q76850239]] <small>(MeSH: D010089)</small>
+* [[Oxidoreductases, O-Demethylating]] — [[d:Q76717654|Q76717654]] <small>(MeSH: D010090)</small>
+* [[Oxo-Acid-Lyases]] — [[d:Q69051376|Q69051376]] <small>(MeSH: D007652)</small>
+* [[Oxygenases]] — [[d:Q419615|Q419615]] <small>(MeSH: D010105)</small>
+* [[p21-Activated Kinases]] — [[d:Q7117843|Q7117843]] <small>(MeSH: D054462)</small>
+* [[p300-CBP Transcription Factors]] — [[d:Q78195832|Q78195832]] <small>(MeSH: D050880)</small>
+* [[p300-CBP-Associated Factor]] — [[d:Q7118491|Q7118491]] <small>(MeSH: D000099224)</small>
+* [[p38 Mitogen-Activated Protein Kinases]] — [[d:Q2043632|Q2043632]] <small>(MeSH: D048051)</small>
+* [[Palmitoyl-CoA Hydrolase]] — [[d:Q7128405|Q7128405]] <small>(MeSH: D010170)</small>
+* [[Pancreatic alpha-Amylases]] — [[d:Q76852346|Q76852346]] <small>(MeSH: D055292)</small>
+* [[Pancreatic Elastase]] — [[d:Q976747|Q976747]] <small>(MeSH: D010196)</small>
+* [[Pancreatin]] — [[d:Q426846|Q426846]] <small>(MeSH: D010194)</small>
+* [[Pancrelipase]] — [[d:Q7130425|Q7130425]] <small>(MeSH: D020799)</small>
+* [[Papain]] — [[d:Q410420|Q410420]] <small>(MeSH: D010206)</small>
+* [[Penicillin Amidase]] — [[d:Q7162852|Q7162852]] <small>(MeSH: D010399)</small>
+* [[Penicillin-Binding Proteins]] — [[d:Q7162855|Q7162855]] <small>(MeSH: D046915)</small>
+* [[Penicillinase]] — [[d:Q1759433|Q1759433]] <small>(MeSH: D010405)</small>
+* [[Pentosyltransferases]] — [[d:Q7165279|Q7165279]] <small>(MeSH: D010430)</small>
+* [[Pepsin A]] — [[d:Q12856816|Q12856816]] <small>(MeSH: D010434)</small>
+* [[Pepsinogen A]] — [[d:Q21123732|Q21123732]] <small>(MeSH: D020116)</small>
+* [[Pepsinogen C]] — [[d:Q21173987|Q21173987]] <small>(MeSH: D020115)</small>
+* [[Pepsinogens]] — [[d:Q381857|Q381857]] <small>(MeSH: D010435)</small>
+* [[Peptide Hydrolases]] — [[d:Q212410|Q212410]] <small>(MeSH: D010447)</small>
+* [[Peptide Synthases]] — [[d:Q75080538|Q75080538]] <small>(MeSH: D010453)</small>
+* [[Peptidoglycan Glycosyltransferase]] — [[d:Q7075685|Q7075685]] <small>(MeSH: D046928)</small>
+* [[Peptidyl Transferases]] — [[d:Q424702|Q424702]] <small>(MeSH: D010458)</small>
+* [[Peptidyl-Dipeptidase A]] — [[d:Q128861|Q128861]] <small>(MeSH: D007703)</small>
+* [[Peptidyl-Prolyl Cis-Trans Isomerase NIMA-Interacting 4]] — [[d:Q21132604|Q21132604]] <small>(MeSH: D000072621)</small>
+* [[Peptidylprolyl Isomerase]] — [[d:Q426411|Q426411]] <small>(MeSH: D019696)</small>
+* [[Peroxidase]] — [[d:Q24724134|Q24724134]] <small>(MeSH: D009195)</small>
+* [[Peroxidases]] — [[d:Q419305|Q419305]] <small>(MeSH: D010544)</small>
+* [[Peroxidasin]] — [[d:Q29956471|Q29956471]] <small>(MeSH: D000097423)</small>
+* [[Peroxiredoxin III]] — [[d:Q21114645|Q21114645]] <small>(MeSH: D061105)</small>
+* [[Peroxiredoxin VI]] — [[d:Q21119022|Q21119022]] <small>(MeSH: D054465)</small>
+* [[Peroxiredoxins]] — [[d:Q419462|Q419462]] <small>(MeSH: D054464)</small>
+* [[Peroxisomal Bifunctional Enzyme]] — [[d:Q73617792|Q73617792]] <small>(MeSH: D063994)</small>
+* [[Peroxisomal Multifunctional Protein-2]] — [[d:Q21117486|Q21117486]] <small>(MeSH: D064029)</small>
+* [[Phenylalanine Ammonia-Lyase]] — [[d:Q413910|Q413910]] <small>(MeSH: D010650)</small>
+* [[Phenylalanine Hydroxylase]] — [[d:Q420604|Q420604]] <small>(MeSH: D010651)</small>
+* [[Phenylalanine-tRNA Ligase]] — [[d:Q7181422|Q7181422]] <small>(MeSH: D010652)</small>
+* [[Phenylethanolamine N-Methyltransferase]] — [[d:Q411541|Q411541]] <small>(MeSH: D010625)</small>
+* [[PHEX Phosphate Regulating Neutral Endopeptidase]] — [[d:Q7119220|Q7119220]] <small>(MeSH: D053402)</small>
+* [[Phosphate Acetyltransferase]] — [[d:Q3748959|Q3748959]] <small>(MeSH: D010709)</small>
+* [[Phosphatidate Phosphatase]] — [[d:Q2088734|Q2088734]] <small>(MeSH: D010711)</small>
+* [[Phosphatidylcholine-Sterol O-Acyltransferase]] — [[d:Q17130623|Q17130623]] <small>(MeSH: D007862)</small>
+* [[Phosphatidylethanolamine N-Methyltransferase]] — [[d:Q76625022|Q76625022]] <small>(MeSH: D050918)</small>
+* [[Phosphatidylinositol 3-Kinase]] — [[d:Q97752471|Q97752471]] <small>(MeSH: D058539)</small>
+* [[Phosphatidylinositol 3-Kinases]] — [[d:Q423725|Q423725]] <small>(MeSH: D019869)</small>
+* [[Phosphatidylinositol Diacylglycerol-Lyase]] — [[d:Q7187463|Q7187463]] <small>(MeSH: D043265)</small>
+* [[Phosphodiesterase I]] — [[d:Q5864323|Q5864323]] <small>(MeSH: D043264)</small>
+* [[Phosphoenolpyruvate Carboxykinase (ATP)]] — [[d:Q13362743|Q13362743]] <small>(MeSH: D019764)</small>
+* [[Phosphoenolpyruvate Carboxykinase (GTP)]] — [[d:Q303568|Q303568]] <small>(MeSH: D010729)</small>
+* [[Phosphoenolpyruvate Carboxylase]] — [[d:Q908180|Q908180]] <small>(MeSH: D010730)</small>
+* [[Phosphoenolpyruvate Sugar Phosphotransferase System]] — [[d:Q21199241|Q21199241]] <small>(MeSH: D010731)</small>
+* [[Phosphofructokinase-1]] — [[d:Q427147|Q427147]] <small>(MeSH: D010732)</small>
+* [[Phosphofructokinase-1, Liver Type]] — [[d:Q21106274|Q21106274]] <small>(MeSH: D025501)</small>
+* [[Phosphofructokinase-1, Muscle Type]] — [[d:Q21120434|Q21120434]] <small>(MeSH: D025203)</small>
+* [[Phosphofructokinase-1, Type C]] — [[d:Q21120435|Q21120435]] <small>(MeSH: D025502)</small>
+* [[Phosphofructokinase-2]] — [[d:Q420663|Q420663]] <small>(MeSH: D025481)</small>
+* [[Phosphofructokinases]] — [[d:Q14771739|Q14771739]] <small>(MeSH: D025221)</small>
+* [[Phosphoglucomutase]] — [[d:Q425427|Q425427]] <small>(MeSH: D010733)</small>
+* [[Phosphogluconate Dehydrogenase]] — [[d:Q1143663|Q1143663]] <small>(MeSH: D010734)</small>
+* [[Phosphoglycerate Dehydrogenase]] — [[d:Q21134227|Q21134227]] <small>(MeSH: D050543)</small>
+* [[Phosphoglycerate Kinase]] — [[d:Q24772193|Q24772193]] <small>(MeSH: D010735)</small>
+* [[Phosphoglycerate Mutase]] — [[d:Q415490|Q415490]] <small>(MeSH: D010736)</small>
+* [[Phosphoinositide 5-Phosphatases]] — [[d:Q7187513|Q7187513]] <small>(MeSH: D000099182)</small>
+* [[Phosphoinositide Phosphatases]] — [[d:Q76852127|Q76852127]] <small>(MeSH: D000072180)</small>
+* [[Phosphoinositide Phospholipase C]] — [[d:Q10760862|Q10760862]] <small>(MeSH: D054801)</small>
+* [[Phospholipase C beta]] — [[d:Q77930971|Q77930971]] <small>(MeSH: D054799)</small>
+* [[Phospholipase C delta]] — [[d:Q77450026|Q77450026]] <small>(MeSH: D054803)</small>
+* [[Phospholipase C gamma]] — [[d:Q78191246|Q78191246]] <small>(MeSH: D051966)</small>
+* [[Phospholipase D]] — [[d:Q700007|Q700007]] <small>(MeSH: D010739)</small>
+* [[Phospholipases]] — [[d:Q210430|Q210430]] <small>(MeSH: D010740)</small>
+* [[Phospholipases A]] — [[d:Q101004908|Q101004908]] <small>(MeSH: D010741)</small>
+* [[Phospholipases A1]] — [[d:Q76830427|Q76830427]] <small>(MeSH: D054466)</small>
+* [[Phospholipases A2]] — [[d:Q24768001|Q24768001]] <small>(MeSH: D054467)</small>
+* [[Phospholipases A2, Calcium-Independent]] — [[d:Q74808024|Q74808024]] <small>(MeSH: D054512)</small>
+* [[Phospholipases A2, Cytosolic]] — [[d:Q78112974|Q78112974]] <small>(MeSH: D054510)</small>
+* [[Phospholipases A2, Secretory]] — [[d:Q78113079|Q78113079]] <small>(MeSH: D054497)</small>
+* [[Phospholipid Hydroperoxide Glutathione Peroxidase]] — [[d:Q3724651|Q3724651]] <small>(MeSH: D000080662)</small>
+* [[Phosphoprotein Phosphatases]] — [[d:Q2746739|Q2746739]] <small>(MeSH: D010749)</small>
+* [[Phosphopyruvate Hydratase]] — [[d:Q14914000|Q14914000]] <small>(MeSH: D010751)</small>
+* [[Phosphoribosylaminoimidazolecarboxamide Formyltransferase]] — [[d:Q3748973|Q3748973]] <small>(MeSH: D051027)</small>
+* [[Phosphoribosylglycinamide Formyltransferase]] — [[d:Q5162796|Q5162796]] <small>(MeSH: D051026)</small>
+* [[Phosphoric Diester Hydrolases]] — [[d:Q67202883|Q67202883]] <small>(MeSH: D010727)</small>
+* [[Phosphoric Monoester Hydrolases]] — [[d:Q422476|Q422476]] <small>(MeSH: D010744)</small>
+* [[Phosphoric Triester Hydrolases]] — [[d:Q67321685|Q67321685]] <small>(MeSH: D044345)</small>
+* [[Phosphorus-Oxygen Lyases]] — [[d:Q74798820|Q74798820]] <small>(MeSH: D019761)</small>
+* [[Phosphorylase a]] — [[d:Q76507211|Q76507211]] <small>(MeSH: D010762)</small>
+* [[Phosphorylase b]] — [[d:Q78035611|Q78035611]] <small>(MeSH: D010763)</small>
+* [[Phosphorylase Kinase]] — [[d:Q906540|Q906540]] <small>(MeSH: D010764)</small>
+* [[Phosphorylase Phosphatase]] — [[d:Q4544962|Q4544962]] <small>(MeSH: D010765)</small>
+* [[Phosphorylases]] — [[d:Q425067|Q425067]] <small>(MeSH: D006005)</small>
+* [[Phosphotransferases]] — [[d:Q3381520|Q3381520]] <small>(MeSH: D010770)</small>
+* [[Phosphotransferases (Alcohol Group Acceptor)]] — [[d:Q78154498|Q78154498]] <small>(MeSH: D017853)</small>
+* [[Phosphotransferases (Carboxyl Group Acceptor)]] — [[d:Q78118345|Q78118345]] <small>(MeSH: D017851)</small>
+* [[Phosphotransferases (Nitrogenous Group Acceptor)]] — [[d:Q78345236|Q78345236]] <small>(MeSH: D017852)</small>
+* [[Phosphotransferases (Paired Acceptors)]] — [[d:Q78326383|Q78326383]] <small>(MeSH: D017866)</small>
+* [[Phosphotransferases (Phosphate Group Acceptor)]] — [[d:Q75009726|Q75009726]] <small>(MeSH: D017856)</small>
+* [[Phosphotransferases (Phosphomutases)]] — [[d:Q78033757|Q78033757]] <small>(MeSH: D017875)</small>
+* [[Plasma Kallikrein]] — [[d:Q12646429|Q12646429]] <small>(MeSH: D020842)</small>
+* [[Plasminogen Activators]] — [[d:Q13581432|Q13581432]] <small>(MeSH: D010960)</small>
+* [[Polo-Like Kinase 1]] — [[d:Q83163533|Q83163533]] <small>(MeSH: D000097869)</small>
+* [[Poly (ADP-Ribose) Polymerase-1]] — [[d:Q75077515|Q75077515]] <small>(MeSH: D000071137)</small>
+* [[Poly(ADP-ribose) Polymerases]] — [[d:Q3907241|Q3907241]] <small>(MeSH: D011065)</small>
+* [[Polyamine Oxidase]] — [[d:Q3450498|Q3450498]] <small>(MeSH: D000097667)</small>
+* [[Polygalacturonase]] — [[d:Q598874|Q598874]] <small>(MeSH: D011096)</small>
+* [[Polyketide Synthases]] — [[d:Q75080406|Q75080406]] <small>(MeSH: D048630)</small>
+* [[Polynucleotide 5'-Hydroxyl-Kinase]] — [[d:Q7226659|Q7226659]] <small>(MeSH: D011116)</small>
+* [[Polynucleotide Adenylyltransferase]] — [[d:Q425277|Q425277]] <small>(MeSH: D011062)</small>
+* [[Polynucleotide Ligases]] — [[d:Q76613045|Q76613045]] <small>(MeSH: D011118)</small>
+* [[Polypeptide N-acetylgalactosaminyltransferase]] — [[d:Q3907363|Q3907363]] <small>(MeSH: D000097763)</small>
+* [[Polyribonucleotide Nucleotidyltransferase]] — [[d:Q24780839|Q24780839]] <small>(MeSH: D011117)</small>
+* [[Polysaccharide-Lyases]] — [[d:Q74562288|Q74562288]] <small>(MeSH: D011133)</small>
+* [[Porphobilinogen Synthase]] — [[d:Q24746022|Q24746022]] <small>(MeSH: D000623)</small>
+* [[Pregnancy-Associated Plasma Protein-A]] — [[d:Q1476411|Q1476411]] <small>(MeSH: D011266)</small>
+* [[Prekallikrein]] — [[d:Q7240014|Q7240014]] <small>(MeSH: D011288)</small>
+* [[Prephenate Dehydratase]] — [[d:Q7240653|Q7240653]] <small>(MeSH: D011302)</small>
+* [[Prephenate Dehydrogenase]] — [[d:Q3008312|Q3008312]] <small>(MeSH: D011303)</small>
+* [[Procollagen N-Endopeptidase]] — [[d:Q7247456|Q7247456]] <small>(MeSH: D011348)</small>
+* [[Procollagen-Lysine, 2-Oxoglutarate 5-Dioxygenase]] — [[d:Q368589|Q368589]] <small>(MeSH: D008240)</small>
+* [[Procollagen-Proline Dioxygenase]] — [[d:Q21118234|Q21118234]] <small>(MeSH: D011393)</small>
+* [[Progesterone Reductase]] — [[d:Q76386108|Q76386108]] <small>(MeSH: D011375)</small>
+* [[Proline Oxidase]] — [[d:Q24724302|Q24724302]] <small>(MeSH: D011394)</small>
+* [[Proline-Directed Protein Kinases]] — [[d:Q74653672|Q74653672]] <small>(MeSH: D038461)</small>
+* [[Prolyl Hydroxylases]] — [[d:Q101002921|Q101002921]] <small>(MeSH: D064828)</small>
+* [[Prolyl Oligopeptidases]] — [[d:Q24780021|Q24780021]] <small>(MeSH: D000085822)</small>
+* [[Pronase]] — [[d:Q4380751|Q4380751]] <small>(MeSH: D011402)</small>
+* [[Propanediol Dehydratase]] — [[d:Q7250084|Q7250084]] <small>(MeSH: D011408)</small>
+* [[Propionyl-Coenzyme A Carboxylase]] — [[d:Q415235|Q415235]] <small>(MeSH: D000095562)</small>
+* [[Proprotein Convertase 1]] — [[d:Q1668565|Q1668565]] <small>(MeSH: D045664)</small>
+* [[Proprotein Convertase 2]] — [[d:Q7250440|Q7250440]] <small>(MeSH: D045706)</small>
+* [[Proprotein Convertase 5]] — [[d:Q21154237|Q21154237]] <small>(MeSH: D045702)</small>
+* [[Proprotein Convertase 9]] — [[d:Q21130010|Q21130010]] <small>(MeSH: D000071449)</small>
+* [[Proprotein Convertases]] — [[d:Q7250439|Q7250439]] <small>(MeSH: D043484)</small>
+* [[Prostaglandin-E Synthases]] — [[d:Q7250942|Q7250942]] <small>(MeSH: D000071876)</small>
+* [[Prostaglandin-Endoperoxide Synthases]] — [[d:Q410251|Q410251]] <small>(MeSH: D011451)</small>
+* [[Prostasin]] — [[d:Q21133527|Q21133527]] <small>(MeSH: D000099271)</small>
+* [[Prostate-Specific Antigen]] — [[d:Q409450|Q409450]] <small>(MeSH: D017430)</small>
+* [[Protamine Kinase]] — [[d:Q76876868|Q76876868]] <small>(MeSH: D006656)</small>
+* [[Protease La]] — [[d:Q76850883|Q76850883]] <small>(MeSH: D049070)</small>
+* [[Proteasome Endopeptidase Complex]] — [[d:Q13107625|Q13107625]] <small>(MeSH: D046988)</small>
+* [[Protein Deglycase DJ-1]] — [[d:Q21097342|Q21097342]] <small>(MeSH: D000071617)</small>
+* [[Protein Disulfide Reductase (Glutathione)]] — [[d:Q3597048|Q3597048]] <small>(MeSH: D011490)</small>
+* [[Protein Disulfide-Isomerases]] — [[d:Q1641611|Q1641611]] <small>(MeSH: D019704)</small>
+* [[Protein Glutamine gamma Glutamyltransferase 2]] — [[d:Q647813|Q647813]] <small>(MeSH: D000091345)</small>
+* [[Protein Kinase C]] — [[d:Q420877|Q420877]] <small>(MeSH: D011493)</small>
+* [[Protein Kinase C beta]] — [[d:Q21114850|Q21114850]] <small>(MeSH: D064546)</small>
+* [[Protein Kinase C zeta]] — [[d:Q906403|Q906403]] <small>(MeSH: D000099221)</small>
+* [[Protein Kinase C-alpha]] — [[d:Q7119501|Q7119501]] <small>(MeSH: D051571)</small>
+* [[Protein Kinase C-delta]] — [[d:Q24739051|Q24739051]] <small>(MeSH: D051745)</small>
+* [[Protein Kinase C-epsilon]] — [[d:Q24769981|Q24769981]] <small>(MeSH: D051744)</small>
+* [[Protein Kinase C-lambda]] <small>(MeSH: D000099293)</small>
+* [[Protein Kinase C-theta]] — [[d:Q24772206|Q24772206]] <small>(MeSH: D000074121)</small>
+* [[Protein Kinase D2]] — [[d:Q21113377|Q21113377]] <small>(MeSH: D000091283)</small>
+* [[Protein Kinases]] — [[d:Q58321|Q58321]] <small>(MeSH: D011494)</small>
+* [[Protein Methyltransferases]] — [[d:Q58557455|Q58557455]] <small>(MeSH: D011496)</small>
+* [[Protein O-Methyltransferase]] — [[d:Q110823474|Q110823474]] <small>(MeSH: D011497)</small>
+* [[Protein Phosphatase 1]] — [[d:Q7251492|Q7251492]] <small>(MeSH: D054645)</small>
+* [[Protein Phosphatase 2]] — [[d:Q6593007|Q6593007]] <small>(MeSH: D054648)</small>
+* [[Protein Phosphatase 2C]] — [[d:Q24776163|Q24776163]] <small>(MeSH: D000071636)</small>
+* [[Protein Serine-Threonine Kinases]] — [[d:Q4857068|Q4857068]] <small>(MeSH: D017346)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 1]] — [[d:Q21171691|Q21171691]] <small>(MeSH: D054562)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 11]] — [[d:Q7120997|Q7120997]] <small>(MeSH: D054592)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 12]] — [[d:Q24784628|Q24784628]] <small>(MeSH: D054594)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 13]] — [[d:Q24725523|Q24725523]] <small>(MeSH: D054595)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 2]] — [[d:Q21171735|Q21171735]] <small>(MeSH: D054578)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 22]] — [[d:Q24781435|Q24781435]] <small>(MeSH: D054596)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 3]] — [[d:Q21105040|Q21105040]] <small>(MeSH: D054589)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 4]] — [[d:Q21102512|Q21102512]] <small>(MeSH: D054590)</small>
+* [[Protein Tyrosine Phosphatase, Non-Receptor Type 6]] — [[d:Q21100543|Q21100543]] <small>(MeSH: D053824)</small>
+* [[Protein Tyrosine Phosphatases]] — [[d:Q643602|Q643602]] <small>(MeSH: D017027)</small>
+* [[Protein Tyrosine Phosphatases, Non-Receptor]] — [[d:Q74665576|Q74665576]] <small>(MeSH: D054558)</small>
+* [[Protein-Arginine Deiminase Type 1]] — [[d:Q21123684|Q21123684]] <small>(MeSH: D000080062)</small>
+* [[Protein-Arginine Deiminase Type 2]] — [[d:Q21123692|Q21123692]] <small>(MeSH: D000080064)</small>
+* [[Protein-Arginine Deiminase Type 3]] — [[d:Q21123685|Q21123685]] <small>(MeSH: D000080063)</small>
+* [[Protein-Arginine Deiminase Type 4]] — [[d:Q21123689|Q21123689]] <small>(MeSH: D000080002)</small>
+* [[Protein-Arginine Deiminase Type 6]] — [[d:Q21123679|Q21123679]] <small>(MeSH: D000080065)</small>
+* [[Protein-Arginine Deiminases]] — [[d:Q7251412|Q7251412]] <small>(MeSH: D000076342)</small>
+* [[Protein-Arginine N-Methyltransferases]] — [[d:Q74654558|Q74654558]] <small>(MeSH: D011484)</small>
+* [[Protein-Lysine 6-Oxidase]] — [[d:Q419389|Q419389]] <small>(MeSH: D008249)</small>
+* [[Protein-Tyrosine Kinases]] — [[d:Q11336082|Q11336082]] <small>(MeSH: D011505)</small>
+* [[Proto-Oncogene Proteins c-cbl]] — [[d:Q21171522|Q21171522]] <small>(MeSH: D050721)</small>
+* [[Protocatechuate-3,4-Dioxygenase]] — [[d:Q511953|Q511953]] <small>(MeSH: D011520)</small>
+* [[Proton-Translocating ATPases]] — [[d:Q101004242|Q101004242]] <small>(MeSH: D006180)</small>
+* [[Protoporphyrinogen Oxidase]] — [[d:Q24774393|Q24774393]] <small>(MeSH: D050768)</small>
+* [[PTEN-Induced Putative Kinase]] — [[d:Q18045837|Q18045837]] <small>(MeSH: D000099202)</small>
+* [[Purine-Nucleoside Phosphorylase]] — [[d:Q24720082|Q24720082]] <small>(MeSH: D011683)</small>
+* [[Pyridoxal Kinase]] — [[d:Q24768006|Q24768006]] <small>(MeSH: D011731)</small>
+* [[Pyridoxaminephosphate Oxidase]] — [[d:Q3313821|Q3313821]] <small>(MeSH: D011734)</small>
+* [[Pyrimidine Phosphorylases]] — [[d:Q7541187|Q7541187]] <small>(MeSH: D057845)</small>
+* [[Pyroglutamate Hydrolase]] — [[d:Q4639672|Q4639672]] <small>(MeSH: D011752)</small>
+* [[Pyroglutamyl-Peptidase I]] — [[d:Q21174966|Q21174966]] <small>(MeSH: D011751)</small>
+* [[Pyrophosphatases]] — [[d:Q67198600|Q67198600]] <small>(MeSH: D011755)</small>
+* [[Pyrroline Carboxylate Reductases]] — [[d:Q78193928|Q78193928]] <small>(MeSH: D011762)</small>
+* [[Pyruvate Carboxylase]] — [[d:Q21114968|Q21114968]] <small>(MeSH: D011766)</small>
+* [[Pyruvate Decarboxylase]] — [[d:Q268414|Q268414]] <small>(MeSH: D011767)</small>
+* [[Pyruvate Dehydrogenase (Lipoamide)]] — [[d:Q4043300|Q4043300]] <small>(MeSH: D030481)</small>
+* [[Pyruvate Dehydrogenase (Lipoamide)-Phosphatase]] — [[d:Q4544966|Q4544966]] <small>(MeSH: D011769)</small>
+* [[Pyruvate Dehydrogenase Acetyl-Transferring Kinase]] — [[d:Q6321025|Q6321025]] <small>(MeSH: D000081382)</small>
+* [[Pyruvate Kinase]] — [[d:Q900970|Q900970]] <small>(MeSH: D011770)</small>
+* [[Pyruvate Oxidase]] — [[d:Q3008285|Q3008285]] <small>(MeSH: D011771)</small>
+* [[Pyruvate Synthase]] — [[d:Q3008233|Q3008233]] <small>(MeSH: D050743)</small>
+* [[Pyruvate, Orthophosphate Dikinase]] — [[d:Q78144945|Q78144945]] <small>(MeSH: D011772)</small>
+* [[Q beta Replicase]] — [[d:Q77033613|Q77033613]] <small>(MeSH: D011777)</small>
+* [[Quinone Reductases]] — [[d:Q3450201|Q3450201]] <small>(MeSH: D011808)</small>
+* [[Racemases and Epimerases]] — [[d:Q117964|Q117964]] <small>(MeSH: D019998)</small>
+* [[Rec A Recombinases]] — [[d:Q24768106|Q24768106]] <small>(MeSH: D011938)</small>
+* [[Receptor-Like Protein Tyrosine Phosphatases, Class 2]] — [[d:Q74664644|Q74664644]] <small>(MeSH: D054623)</small>
+* [[Receptor-Like Protein Tyrosine Phosphatases, Class 3]] — [[d:Q74664677|Q74664677]] <small>(MeSH: D054631)</small>
+* [[Receptor-Like Protein Tyrosine Phosphatases, Class 4]] — [[d:Q74664623|Q74664623]] <small>(MeSH: D054630)</small>
+* [[Receptor-Like Protein Tyrosine Phosphatases, Class 5]] — [[d:Q74663327|Q74663327]] <small>(MeSH: D054633)</small>
+* [[Receptor-Like Protein Tyrosine Phosphatases, Class 7]] — [[d:Q74663377|Q74663377]] <small>(MeSH: D054634)</small>
+* [[Receptor-Like Protein Tyrosine Phosphatases, Class 8]] — [[d:Q74663338|Q74663338]] <small>(MeSH: D054635)</small>
+* [[Receptors, Autocrine Motility Factor]] — [[d:Q21112658|Q21112658]] <small>(MeSH: D060285)</small>
+* [[Receptors, Guanylate Cyclase-Coupled]] — [[d:Q5613843|Q5613843]] <small>(MeSH: D050705)</small>
+* [[Recombinases]] — [[d:Q1172461|Q1172461]] <small>(MeSH: D045522)</small>
+* [[RecQ Helicases]] — [[d:Q7302254|Q7302254]] <small>(MeSH: D053484)</small>
+* [[Reelin Protein]] — [[d:Q29956610|Q29956610]] <small>(MeSH: D000091042)</small>
+* [[Renin]] — [[d:Q258915|Q258915]] <small>(MeSH: D012083)</small>
+* [[Replication Protein C]] — [[d:Q24741739|Q24741739]] <small>(MeSH: D051818)</small>
+* [[Retinoic Acid 4-Hydroxylase]] — [[d:Q21110732|Q21110732]] <small>(MeSH: D000072516)</small>
+* [[Retinoid Isomerohydrolase]] — [[d:Q4728462|Q4728462]] <small>(MeSH: D000099178)</small>
+* [[Retinol O-Fatty-Acyltransferase]] — [[d:Q670689|Q670689]] <small>(MeSH: D051142)</small>
+* [[rho-Associated Kinases]] — [[d:Q24721770|Q24721770]] <small>(MeSH: D054460)</small>
+* [[Riboflavin Synthase]] — [[d:Q7322387|Q7322387]] <small>(MeSH: D012258)</small>
+* [[Ribonuclease H]] — [[d:Q3430179|Q3430179]] <small>(MeSH: D016914)</small>
+* [[Ribonuclease III]] — [[d:Q24783707|Q24783707]] <small>(MeSH: D043244)</small>
+* [[Ribonuclease P]] — [[d:Q76826611|Q76826611]] <small>(MeSH: D043262)</small>
+* [[Ribonuclease T1]] — [[d:Q4394321|Q4394321]] <small>(MeSH: D006163)</small>
+* [[Ribonuclease, Pancreatic]] — [[d:Q87195451|Q87195451]] <small>(MeSH: D012259)</small>
+* [[Ribonucleases]] — [[d:Q422523|Q422523]] <small>(MeSH: D012260)</small>
+* [[Ribonucleoside Diphosphate Reductase]] — [[d:Q101003140|Q101003140]] <small>(MeSH: D012262)</small>
+* [[Ribonucleotide Reductases]] — [[d:Q420089|Q420089]] <small>(MeSH: D012264)</small>
+* [[Ribose-Phosphate Pyrophosphokinase]] — [[d:Q414497|Q414497]] <small>(MeSH: D012268)</small>
+* [[Ribosomal Protein S6 Kinases]] — [[d:Q24778284|Q24778284]] <small>(MeSH: D019893)</small>
+* [[Ribosomal Protein S6 Kinases, 70-kDa]] — [[d:Q77196986|Q77196986]] <small>(MeSH: D038762)</small>
+* [[Ribosomal Protein S6 Kinases, 90-kDa]] — [[d:Q77197509|Q77197509]] <small>(MeSH: D038744)</small>
+* [[Ribosome Inactivating Proteins]] — [[d:Q24788543|Q24788543]] <small>(MeSH: D054788)</small>
+* [[Ribosome Inactivating Proteins, Type 1]] — [[d:Q78188179|Q78188179]] <small>(MeSH: D054789)</small>
+* [[Ribulose-Bisphosphate Carboxylase]] — [[d:Q422516|Q422516]] <small>(MeSH: D012273)</small>
+* [[RNA Helicases]] — [[d:Q13359598|Q13359598]] <small>(MeSH: D020365)</small>
+* [[RNA Ligase (ATP)]] — [[d:Q7277177|Q7277177]] <small>(MeSH: D011130)</small>
+* [[RNA Nucleotidyltransferases]] — [[d:Q66022065|Q66022065]] <small>(MeSH: D012316)</small>
+* [[RNA Polymerase I]] — [[d:Q3502188|Q3502188]] <small>(MeSH: D012318)</small>
+* [[RNA Polymerase II]] — [[d:Q15334993|Q15334993]] <small>(MeSH: D012319)</small>
+* [[RNA Polymerase III]] — [[d:Q3501658|Q3501658]] <small>(MeSH: D012320)</small>
+* [[RNA Polymerase Sigma 54]] — [[d:Q24770484|Q24770484]] <small>(MeSH: D051877)</small>
+* [[RNA, Catalytic]] — [[d:Q76699642|Q76699642]] <small>(MeSH: D016337)</small>
+* [[RNA, Ribosomal, Self-Splicing]] — [[d:Q77197512|Q77197512]] <small>(MeSH: D044563)</small>
+* [[RNA-Dependent RNA Polymerase]] — [[d:Q2919111|Q2919111]] <small>(MeSH: D012324)</small>
+* [[RNA-Induced Silencing Complex]] — [[d:Q21106117|Q21106117]] <small>(MeSH: D034743)</small>
+* [[Saccharopine Dehydrogenases]] — [[d:Q76695430|Q76695430]] <small>(MeSH: D012443)</small>
+* [[SAM Domain and HD Domain-Containing Protein 1]] — [[d:Q21105865|Q21105865]] <small>(MeSH: D000076106)</small>
+* [[Saporins]] — [[d:Q2224066|Q2224066]] <small>(MeSH: D000076985)</small>
+* [[Saposins]] — [[d:Q76803334|Q76803334]] <small>(MeSH: D049231)</small>
+* [[Sarcosine Dehydrogenase]] — [[d:Q3451849|Q3451849]] <small>(MeSH: D050892)</small>
+* [[Sarcosine Oxidase]] — [[d:Q3450243|Q3450243]] <small>(MeSH: D050879)</small>
+* [[SecA Proteins]] — [[d:Q17146704|Q17146704]] <small>(MeSH: D000081416)</small>
+* [[Secreted Aspartic Proteases]] — [[d:Q124341957|Q124341957]] <small>(MeSH: D000097790)</small>
+* [[Separase]] — [[d:Q22676914|Q22676914]] <small>(MeSH: D064247)</small>
+* [[Serine C-Palmitoyltransferase]] — [[d:Q3511352|Q3511352]] <small>(MeSH: D051102)</small>
+* [[Serine Endopeptidases]] — [[d:Q420032|Q420032]] <small>(MeSH: D012697)</small>
+* [[Serine O-Acetyltransferase]] — [[d:Q3957897|Q3957897]] <small>(MeSH: D051050)</small>
+* [[Serine Proteases]] — [[d:Q87324999|Q87324999]] <small>(MeSH: D057057)</small>
+* [[Serine Racemase]] — [[d:Q4417629|Q4417629]] <small>(MeSH: D000099300)</small>
+* [[Serine-Threonine Kinase 3]] — [[d:Q21173215|Q21173215]] <small>(MeSH: D000090742)</small>
+* [[Serine-tRNA Ligase]] — [[d:Q7454856|Q7454856]] <small>(MeSH: D012714)</small>
+* [[Serine-Type D-Ala-D-Ala Carboxypeptidase]] — [[d:Q420272|Q420272]] <small>(MeSH: D046929)</small>
+* [[Sestrins]] — [[d:Q24777250|Q24777250]] <small>(MeSH: D000084622)</small>
+* [[Seven in Absentia Proteins]] — [[d:Q131580302|Q131580302]] <small>(MeSH: D000098563)</small>
+* [[SH2 Domain-Containing Protein Tyrosine Phosphatases]] — [[d:Q74665081|Q74665081]] <small>(MeSH: D054593)</small>
+* [[Short Chain Dehydrogenase-Reductases]] — [[d:Q24726117|Q24726117]] <small>(MeSH: D000074583)</small>
+* [[Sialyltransferases]] — [[d:Q86423648|Q86423648]] <small>(MeSH: D012799)</small>
+* [[Sin3 Histone Deacetylase and Corepressor Complex]] — [[d:Q78184507|Q78184507]] <small>(MeSH: D056264)</small>
+* [[Single-Strand Specific DNA and RNA Endonucleases]] — [[d:Q78458932|Q78458932]] <small>(MeSH: D015719)</small>
+* [[Sirtuin 1]] — [[d:Q21113719|Q21113719]] <small>(MeSH: D056564)</small>
+* [[Sirtuin 2]] — [[d:Q21108304|Q21108304]] <small>(MeSH: D056565)</small>
+* [[Sirtuin 3]] — [[d:Q21116855|Q21116855]] <small>(MeSH: D056566)</small>
+* [[Sirtuins]] — [[d:Q24782017|Q24782017]] <small>(MeSH: D037761)</small>
+* [[Site-Specific DNA-Methyltransferase (Adenine-Specific)]] — [[d:Q4463683|Q4463683]] <small>(MeSH: D015265)</small>
+* [[Site-Specific DNA-Methyltransferase (Cytosine-N4-Specific)]] — [[d:Q87067917|Q87067917]] <small>(MeSH: D057265)</small>
+* [[SKP Cullin F-Box Protein Ligases]] — [[d:Q15323461|Q15323461]] <small>(MeSH: D044843)</small>
+* [[Soluble Guanylyl Cyclase]] — [[d:Q7558945|Q7558945]] <small>(MeSH: D000071756)</small>
+* [[Spermidine Synthase]] — [[d:Q3966525|Q3966525]] <small>(MeSH: D011436)</small>
+* [[Spermine Synthase]] — [[d:Q3966527|Q3966527]] <small>(MeSH: D013097)</small>
+* [[Sphingolipid Activator Proteins]] — [[d:Q78128492|Q78128492]] <small>(MeSH: D049128)</small>
+* [[Sphingomyelin Phosphodiesterase]] — [[d:Q413230|Q413230]] <small>(MeSH: D013108)</small>
+* [[Sphingosine Kinase]] — [[d:Q7576797|Q7576797]] <small>(MeSH: D000099157)</small>
+* [[Sphingosine N-Acyltransferase]] — [[d:Q3958691|Q3958691]] <small>(MeSH: D051049)</small>
+* [[Squalene Monooxygenase]] — [[d:Q414248|Q414248]] <small>(MeSH: D050603)</small>
+* [[src-Family Kinases]] — [[d:Q7582406|Q7582406]] <small>(MeSH: D019061)</small>
+* [[Starch Phosphorylase]] — [[d:Q7601516|Q7601516]] <small>(MeSH: D024941)</small>
+* [[Starch Synthase]] — [[d:Q3614286|Q3614286]] <small>(MeSH: D013214)</small>
+* [[Stearoyl-CoA Desaturase]] — [[d:Q3972208|Q3972208]] <small>(MeSH: D013230)</small>
+* [[Steroid 11-beta-Hydroxylase]] — [[d:Q904925|Q904925]] <small>(MeSH: D013252)</small>
+* [[Steroid 12-alpha-Hydroxylase]] — [[d:Q78124749|Q78124749]] <small>(MeSH: D013253)</small>
+* [[Steroid 16-alpha-Hydroxylase]] — [[d:Q77917660|Q77917660]] <small>(MeSH: D039181)</small>
+* [[Steroid 17-alpha-Hydroxylase]] — [[d:Q3973289|Q3973289]] <small>(MeSH: D013254)</small>
+* [[Steroid 21-Hydroxylase]] — [[d:Q21110736|Q21110736]] <small>(MeSH: D013255)</small>
+* [[Steroid Hydroxylases]] — [[d:Q16919122|Q16919122]] <small>(MeSH: D013250)</small>
+* [[Steroid Isomerases]] — [[d:Q75082085|Q75082085]] <small>(MeSH: D013251)</small>
+* [[Sterol 14-Demethylase]] — [[d:Q1805541|Q1805541]] <small>(MeSH: D058886)</small>
+* [[Sterol Esterase]] — [[d:Q7611617|Q7611617]] <small>(MeSH: D002787)</small>
+* [[Sterol O-Acyltransferase]] — [[d:Q418755|Q418755]] <small>(MeSH: D002785)</small>
+* [[Sterol O-Acyltransferase 2]] — [[d:Q21136114|Q21136114]] <small>(MeSH: D000097587)</small>
+* [[Steryl-Sulfatase]] — [[d:Q10762407|Q10762407]] <small>(MeSH: D043266)</small>
+* [[Streptodornase and Streptokinase]] — [[d:Q77927738|Q77927738]] <small>(MeSH: D013299)</small>
+* [[Streptokinase]] — [[d:Q24770617|Q24770617]] <small>(MeSH: D013300)</small>
+* [[Subtilisin]] — [[d:Q423655|Q423655]] <small>(MeSH: D020860)</small>
+* [[Subtilisins]] — [[d:Q83167403|Q83167403]] <small>(MeSH: D013381)</small>
+* [[Succinate Cytochrome c Oxidoreductase]] — [[d:Q76945318|Q76945318]] <small>(MeSH: D013384)</small>
+* [[Succinate-CoA Ligases]] — [[d:Q76384549|Q76384549]] <small>(MeSH: D013389)</small>
+* [[Succinate-Semialdehyde Dehydrogenase]] — [[d:Q3976579|Q3976579]] <small>(MeSH: D050644)</small>
+* [[Succinate-Semialdehyde Dehydrogenase (NADP+)]] — [[d:Q2992286|Q2992286]] <small>(MeSH: D050604)</small>
+* [[Succinyldiaminopimelate Transaminase]] — [[d:Q7632703|Q7632703]] <small>(MeSH: D051277)</small>
+* [[Sucrase]] — [[d:Q2138267|Q2138267]] <small>(MeSH: D013393)</small>
+* [[Sucrase-Isomaltase Complex]] — [[d:Q22326393|Q22326393]] <small>(MeSH: D013394)</small>
+* [[Sugar Alcohol Dehydrogenases]] — [[d:Q78039524|Q78039524]] <small>(MeSH: D013401)</small>
+* [[Sulfatases]] — [[d:Q7636184|Q7636184]] <small>(MeSH: D013429)</small>
+* [[Sulfate Adenylyltransferase]] — [[d:Q7636186|Q7636186]] <small>(MeSH: D013430)</small>
+* [[Sulfite Dehydrogenase]] — [[d:Q3597062|Q3597062]] <small>(MeSH: D050902)</small>
+* [[Sulfite Oxidase]] — [[d:Q408551|Q408551]] <small>(MeSH: D050876)</small>
+* [[Sulfite Reductase (Ferredoxin)]] — [[d:Q70563793|Q70563793]] <small>(MeSH: D050889)</small>
+* [[Sulfite Reductase (NADPH)]] — [[d:Q73974024|Q73974024]] <small>(MeSH: D050864)</small>
+* [[Sulfotransferases]] — [[d:Q106916699|Q106916699]] <small>(MeSH: D015238)</small>
+* [[Sulfur Group Transferases]] — [[d:Q74804330|Q74804330]] <small>(MeSH: D019885)</small>
+* [[Sulfur-Sulfur Bond Isomerases]] — [[d:Q74804114|Q74804114]] <small>(MeSH: D019749)</small>
+* [[Sulfurtransferases]] — [[d:Q2364525|Q2364525]] <small>(MeSH: D013466)</small>
+* [[Superoxide Dismutase]] — [[d:Q410776|Q410776]] <small>(MeSH: D013482)</small>
+* [[Superoxide Dismutase 2]] — [[d:Q7392025|Q7392025]] <small>(MeSH: D000099156)</small>
+* [[Superoxide Dismutase-1]] — [[d:Q2041084|Q2041084]] <small>(MeSH: D000072105)</small>
+* [[Syk Kinase]] — [[d:Q7660502|Q7660502]] <small>(MeSH: D000072377)</small>
+* [[Tankyrases]] — [[d:Q108272601|Q108272601]] <small>(MeSH: D038501)</small>
+* [[Taq Polymerase]] — [[d:Q412581|Q412581]] <small>(MeSH: D019914)</small>
+* [[Tartrate-Resistant Acid Phosphatase]] — [[d:Q7686858|Q7686858]] <small>(MeSH: D000071681)</small>
+* [[tau-Crystallins]] — [[d:Q110876534|Q110876534]] <small>(MeSH: D038225)</small>
+* [[Tenecteplase]] — [[d:Q1644947|Q1644947]] <small>(MeSH: D000077785)</small>
+* [[Tetrahydrofolate Dehydrogenase]] — [[d:Q76123647|Q76123647]] <small>(MeSH: D013762)</small>
+* [[Thermolysin]] — [[d:Q409163|Q409163]] <small>(MeSH: D013820)</small>
+* [[Thiamin Pyrophosphokinase]] — [[d:Q2420518|Q2420518]] <small>(MeSH: D013836)</small>
+* [[Thiamin-Triphosphatase]] — [[d:Q3523977|Q3523977]] <small>(MeSH: D013837)</small>
+* [[Thiamine Pyrophosphatase]] — [[d:Q76927881|Q76927881]] <small>(MeSH: D013834)</small>
+* [[Thiolester Hydrolases]] — [[d:Q76818446|Q76818446]] <small>(MeSH: D013869)</small>
+* [[Thioredoxin Reductase 1]] — [[d:Q21106751|Q21106751]] <small>(MeSH: D054481)</small>
+* [[Thioredoxin Reductase 2]] — [[d:Q21125517|Q21125517]] <small>(MeSH: D054482)</small>
+* [[Thioredoxin-Disulfide Reductase]] — [[d:Q2540636|Q2540636]] <small>(MeSH: D013880)</small>
+* [[Thiosulfate Sulfurtransferase]] — [[d:Q7784700|Q7784700]] <small>(MeSH: D013884)</small>
+* [[Threonine Dehydratase]] — [[d:Q3525998|Q3525998]] <small>(MeSH: D013913)</small>
+* [[Threonine-tRNA Ligase]] — [[d:Q7778162|Q7778162]] <small>(MeSH: D013914)</small>
+* [[Thrombin]] — [[d:Q409166|Q409166]] <small>(MeSH: D013917)</small>
+* [[Thromboxane-A Synthase]] — [[d:Q408575|Q408575]] <small>(MeSH: D013930)</small>
+* [[Thymidine Kinase]] — [[d:Q24783855|Q24783855]] <small>(MeSH: D013937)</small>
+* [[Thymidylate Synthase]] — [[d:Q24786423|Q24786423]] <small>(MeSH: D013940)</small>
+* [[Thymine DNA Glycosylase]] — [[d:Q21108145|Q21108145]] <small>(MeSH: D044502)</small>
+* [[Tissue Kallikreins]] — [[d:Q77837338|Q77837338]] <small>(MeSH: D020840)</small>
+* [[Tissue Plasminogen Activator]] — [[d:Q24738954|Q24738954]] <small>(MeSH: D010959)</small>
+* [[Tolloid-Like Metalloproteinases]] — [[d:Q76606742|Q76606742]] <small>(MeSH: D055394)</small>
+* [[TOR Serine-Threonine Kinases]] — [[d:Q24723029|Q24723029]] <small>(MeSH: D058570)</small>
+* [[Trans-Cinnamate 4-Monooxygenase]] — [[d:Q1436339|Q1436339]] <small>(MeSH: D050564)</small>
+* [[Transaldolase]] — [[d:Q358883|Q358883]] <small>(MeSH: D014153)</small>
+* [[Transaminases]] — [[d:Q424288|Q424288]] <small>(MeSH: D000637)</small>
+* [[Transcription Activator-Like Effector Nucleases]] — [[d:Q7833921|Q7833921]] <small>(MeSH: D000069896)</small>
+* [[Transferases]] — [[d:Q407355|Q407355]] <small>(MeSH: D014166)</small>
+* [[Transferases (Other Substituted Phosphate Groups)]] — [[d:Q58519518|Q58519518]] <small>(MeSH: D017855)</small>
+* [[Transglutaminases]] — [[d:Q423646|Q423646]] <small>(MeSH: D011503)</small>
+* [[Transketolase]] — [[d:Q412719|Q412719]] <small>(MeSH: D014174)</small>
+* [[Transposases]] — [[d:Q410629|Q410629]] <small>(MeSH: D019895)</small>
+* [[Transposon Resolvases]] — [[d:Q76817618|Q76817618]] <small>(MeSH: D045564)</small>
+* [[Trehalase]] — [[d:Q410630|Q410630]] <small>(MeSH: D014198)</small>
+* [[TRIM21 Protein]] — [[d:Q21103284|Q21103284]] <small>(MeSH: D000099208)</small>
+* [[Triose-Phosphate Isomerase]] — [[d:Q41797136|Q41797136]] <small>(MeSH: D014305)</small>
+* [[Tripeptidyl-Peptidase 1]] — [[d:Q21136439|Q21136439]] <small>(MeSH: D000091346)</small>
+* [[tRNA Methyltransferases]] — [[d:Q673574|Q673574]] <small>(MeSH: D012359)</small>
+* [[Trypsin]] — [[d:Q127450|Q127450]] <small>(MeSH: D014357)</small>
+* [[Trypsinogen]] — [[d:Q421373|Q421373]] <small>(MeSH: D014362)</small>
+* [[Tryptases]] — [[d:Q904140|Q904140]] <small>(MeSH: D053802)</small>
+* [[Tryptophan Hydroxylase]] — [[d:Q418293|Q418293]] <small>(MeSH: D014365)</small>
+* [[Tryptophan Oxygenase]] — [[d:Q409970|Q409970]] <small>(MeSH: D014366)</small>
+* [[Tryptophan Synthase]] — [[d:Q2307998|Q2307998]] <small>(MeSH: D014367)</small>
+* [[Tryptophan Transaminase]] — [[d:Q7848808|Q7848808]] <small>(MeSH: D051279)</small>
+* [[Tryptophan-tRNA Ligase]] — [[d:Q7609197|Q7609197]] <small>(MeSH: D014369)</small>
+* [[Tryptophanase]] — [[d:Q7848809|Q7848809]] <small>(MeSH: D014368)</small>
+* [[Tumor Necrosis Factor alpha-Induced Protein 3]] — [[d:Q24786915|Q24786915]] <small>(MeSH: D000072598)</small>
+* [[TYK2 Kinase]] — [[d:Q7861688|Q7861688]] <small>(MeSH: D053634)</small>
+* [[Type C Phospholipases]] — [[d:Q420248|Q420248]] <small>(MeSH: D010738)</small>
+* [[Tyrosine 3-Monooxygenase]] — [[d:Q420766|Q420766]] <small>(MeSH: D014446)</small>
+* [[Tyrosine Decarboxylase]] — [[d:Q7861686|Q7861686]] <small>(MeSH: D014445)</small>
+* [[Tyrosine Phenol-Lyase]] — [[d:Q7861689|Q7861689]] <small>(MeSH: D014447)</small>
+* [[Tyrosine Transaminase]] — [[d:Q24721999|Q24721999]] <small>(MeSH: D014444)</small>
+* [[Tyrosine-tRNA Ligase]] — [[d:Q24788428|Q24788428]] <small>(MeSH: D014448)</small>
+* [[Ubiquitin Thiolesterase]] — [[d:Q7876540|Q7876540]] <small>(MeSH: D043222)</small>
+* [[Ubiquitin-Activating Enzymes]] — [[d:Q41797132|Q41797132]] <small>(MeSH: D044764)</small>
+* [[Ubiquitin-Conjugating Enzyme UBC9]] — [[d:Q24724023|Q24724023]] <small>(MeSH: D000098843)</small>
+* [[Ubiquitin-Conjugating Enzymes]] — [[d:Q70565343|Q70565343]] <small>(MeSH: D044763)</small>
+* [[Ubiquitin-Protein Ligase Complexes]] — [[d:Q66878287|Q66878287]] <small>(MeSH: D043743)</small>
+* [[Ubiquitin-Protein Ligases]] — [[d:Q66876434|Q66876434]] <small>(MeSH: D044767)</small>
+* [[Ubiquitin-Specific Peptidase 7]] — [[d:Q21109614|Q21109614]] <small>(MeSH: D000076084)</small>
+* [[Ubiquitin-Specific Proteases]] — [[d:Q76789344|Q76789344]] <small>(MeSH: D064570)</small>
+* [[UDP Xylose-Protein Xylosyltransferase]] — [[d:Q7251513|Q7251513]] <small>(MeSH: D000097608)</small>
+* [[UDP-Glucuronosyltransferase 1A9]] — [[d:Q21134245|Q21134245]] <small>(MeSH: D000090264)</small>
+* [[UDPglucose 4-Epimerase]] — [[d:Q76852737|Q76852737]] <small>(MeSH: D014534)</small>
+* [[Uracil-DNA Glycosidase]] — [[d:Q73863196|Q73863196]] <small>(MeSH: D051981)</small>
+* [[Urate Oxidase]] — [[d:Q24770933|Q24770933]] <small>(MeSH: D014503)</small>
+* [[Urease]] — [[d:Q22327086|Q22327086]] <small>(MeSH: D014510)</small>
+* [[Ureohydrolases]] — [[d:Q24773524|Q24773524]] <small>(MeSH: D014512)</small>
+* [[Uridine Diphosphate Glucose Dehydrogenase]] — [[d:Q1143072|Q1143072]] <small>(MeSH: D014533)</small>
+* [[Uridine Kinase]] — [[d:Q7900583|Q7900583]] <small>(MeSH: D014541)</small>
+* [[Uridine Phosphorylase]] — [[d:Q24787236|Q24787236]] <small>(MeSH: D014543)</small>
+* [[Uridylate-Specific Endoribonucleases]] — [[d:Q111744610|Q111744610]] <small>(MeSH: D000086842)</small>
+* [[Urocanate Hydratase]] — [[d:Q21172880|Q21172880]] <small>(MeSH: D014559)</small>
+* [[Urokinase-Type Plasminogen Activator]] — [[d:Q29956459|Q29956459]] <small>(MeSH: D014568)</small>
+* [[Uroporphyrinogen Decarboxylase]] — [[d:Q24769641|Q24769641]] <small>(MeSH: D014575)</small>
+* [[Uroporphyrinogen III Synthetase]] — [[d:Q426504|Q426504]] <small>(MeSH: D014576)</small>
+* [[Vacuolar Proton-Translocating ATPases]] — [[d:Q7905656|Q7905656]] <small>(MeSH: D025262)</small>
+* [[Valine Dehydrogenase (NADP+)]] — [[d:Q1152584|Q1152584]] <small>(MeSH: D050802)</small>
+* [[Valine-tRNA Ligase]] — [[d:Q7911715|Q7911715]] <small>(MeSH: D014637)</small>
+* [[Valosin Containing Protein]] — [[d:Q24781881|Q24781881]] <small>(MeSH: D000074405)</small>
+* [[VDJ Recombinases]] — [[d:Q76351973|Q76351973]] <small>(MeSH: D045567)</small>
+* [[Venombin A]] — [[d:Q12646456|Q12646456]] <small>(MeSH: D020791)</small>
+* [[Viral Papain-like Proteases]] — [[d:Q113041624|Q113041624]] <small>(MeSH: D000086062)</small>
+* [[Viral Proteases]] — [[d:Q113041705|Q113041705]] <small>(MeSH: D000085242)</small>
+* [[Viral Replicase Complex Proteins]] — [[d:Q107735720|Q107735720]] <small>(MeSH: D000086902)</small>
+* [[Vitamin D3 24-Hydroxylase]] — [[d:Q3987459|Q3987459]] <small>(MeSH: D065668)</small>
+* [[Vitamin K Epoxide Reductases]] — [[d:Q82305736|Q82305736]] <small>(MeSH: D064417)</small>
+* [[Von Hippel-Lindau Tumor Suppressor Protein]] — [[d:Q7941454|Q7941454]] <small>(MeSH: D051794)</small>
+* [[Werner Syndrome Helicase]] — [[d:Q6591532|Q6591532]] <small>(MeSH: D000071657)</small>
+* [[WW Domain-Containing Oxidoreductase]] — [[d:Q21132016|Q21132016]] <small>(MeSH: D000074584)</small>
+* [[X-linked Nuclear Protein]] — [[d:Q21105313|Q21105313]] <small>(MeSH: D000075924)</small>
+* [[Xanthine Dehydrogenase]] — [[d:Q1436420|Q1436420]] <small>(MeSH: D014968)</small>
+* [[Xanthine Oxidase]] — [[d:Q412509|Q412509]] <small>(MeSH: D014969)</small>
+* [[Xeroderma Pigmentosum Group D Protein]] — [[d:Q426168|Q426168]] <small>(MeSH: D051759)</small>
+* [[Xylan Endo-1,3-beta-Xylosidase]] — [[d:Q10859076|Q10859076]] <small>(MeSH: D043325)</small>
+* [[Xylosidases]] — [[d:Q76743199|Q76743199]] <small>(MeSH: D014995)</small>
+* [[Y-Family DNA Polymerases]] — [[d:Q137701161|Q137701161]] <small>(MeSH: D000099270)</small>
+* [[ZAP-70 Protein-Tyrosine Kinase]] — [[d:Q1998562|Q1998562]] <small>(MeSH: D051746)</small>
+* [[zeta-Crystallins]] — [[d:Q21174566|Q21174566]] <small>(MeSH: D038226)</small>
+* [[Zinc Finger Nucleases]] — [[d:Q204773|Q204773]] <small>(MeSH: D000075804)</small>
+
+
+[[Category:WikiProject MeSH]]

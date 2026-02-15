@@ -1,0 +1,227 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Biological Phenomena ===
+
+* '''Coverage:''' 63.7%
+* '''{{color|blue|Bluelinks}}:''' 58
+* '''{{color|red|Redlinks}}:''' 33
+* [[Acid Rain]] — [[d:Q40178|Q40178]] <small>(MeSH: D015258)</small>
+* [[Adaptation, Biological]] — [[d:Q67504163|Q67504163]] <small>(MeSH: D000220)</small>
+* [[Air]] — [[d:Q7391292|Q7391292]] <small>(MeSH: D000388)</small>
+* [[Air Movements]] — [[d:Q4698318|Q4698318]] <small>(MeSH: D000392)</small>
+* [[Air Pressure]] — [[d:Q67389075|Q67389075]] <small>(MeSH: D000399)</small>
+* [[Allelopathy]] — [[d:Q190334|Q190334]] <small>(MeSH: D064089)</small>
+* [[Allostasis]] — [[d:Q3612637|Q3612637]] <small>(MeSH: D052636)</small>
+* [[Altitude]] — [[d:Q190200|Q190200]] <small>(MeSH: D000531)</small>
+* [[Anthropogenic Effects]] — [[d:Q574376|Q574376]] <small>(MeSH: D000087602)</small>
+* [[Atmosphere]] — [[d:Q8104|Q8104]] <small>(MeSH: D001272)</small>
+* [[Atmospheric Pressure]] — [[d:Q81809|Q81809]] <small>(MeSH: D001274)</small>
+* [[Biodiversity]] — [[d:Q47041|Q47041]] <small>(MeSH: D044822)</small>
+* [[Biological Mimicry]] — [[d:Q192627|Q192627]] <small>(MeSH: D000067558)</small>
+* [[Biological Phenomena]] — [[d:Q64732777|Q64732777]] <small>(MeSH: D001686)</small>
+* [[Biological Variation, Individual]] — [[d:Q108280172|Q108280172]] <small>(MeSH: D000076103)</small>
+* [[Biological Variation, Population]] — [[d:Q76272252|Q76272252]] <small>(MeSH: D000073537)</small>
+* [[Biomass]] — [[d:Q2945560|Q2945560]] <small>(MeSH: D018533)</small>
+* [[Biota]] — [[d:Q845214|Q845214]] <small>(MeSH: D058448)</small>
+* [[Brain Regeneration]] — [[d:Q114457442|Q114457442]] <small>(MeSH: D000080843)</small>
+* [[Carbon Footprint]] — [[d:Q310667|Q310667]] <small>(MeSH: D058572)</small>
+* [[Cities]] — [[d:Q515|Q515]] <small>(MeSH: D002947)</small>
+* [[Climate]] — [[d:Q7937|Q7937]] <small>(MeSH: D002980)</small>
+* [[Climate Change]] — [[d:Q125928|Q125928]] <small>(MeSH: D057231)</small>
+* [[Climatic Processes]] — [[d:Q70689407|Q70689407]] <small>(MeSH: D055907)</small>
+* [[Cold Climate]] — [[d:Q14212031|Q14212031]] <small>(MeSH: D003081)</small>
+* [[Cold Temperature]] — [[d:Q270952|Q270952]] <small>(MeSH: D003080)</small>
+* [[Colony Collapse]] — [[d:Q70711082|Q70711082]] <small>(MeSH: D056631)</small>
+* [[Confined Spaces]] — [[d:Q2498879|Q2498879]] <small>(MeSH: D020378)</small>
+* [[Coral Bleaching]] — [[d:Q568916|Q568916]] <small>(MeSH: D000088982)</small>
+* [[Coral Reefs]] — [[d:Q11292|Q11292]] <small>(MeSH: D057894)</small>
+* [[Cyclonic Storms]] — [[d:Q8092|Q8092]] <small>(MeSH: D055867)</small>
+* [[Desert Climate]] — [[d:Q190946|Q190946]] <small>(MeSH: D003889)</small>
+* [[Droughts]] — [[d:Q43059|Q43059]] <small>(MeSH: D055864)</small>
+* [[Ecological and Environmental Phenomena]] — [[d:Q70682173|Q70682173]] <small>(MeSH: D055669)</small>
+* [[Ecosystem]] — [[d:Q37813|Q37813]] <small>(MeSH: D017753)</small>
+* [[El Nino-Southern Oscillation]] — [[d:Q14524818|Q14524818]] <small>(MeSH: D059000)</small>
+* [[Environment]] — [[d:Q2249676|Q2249676]] <small>(MeSH: D004777)</small>
+* [[Eutrophication]] — [[d:Q156698|Q156698]] <small>(MeSH: D005068)</small>
+* [[Extinction, Biological]] — [[d:Q123509|Q123509]] <small>(MeSH: D053476)</small>
+* [[Extreme Cold]] — [[d:Q70442137|Q70442137]] <small>(MeSH: D055873)</small>
+* [[Extreme Environments]] — [[d:Q5422399|Q5422399]] <small>(MeSH: D000071251)</small>
+* [[Extreme Heat]] — [[d:Q3774617|Q3774617]] <small>(MeSH: D055874)</small>
+* [[Extreme Weather]] — [[d:Q1277161|Q1277161]] <small>(MeSH: D000080165)</small>
+* [[Floods]] — [[d:Q8068|Q8068]] <small>(MeSH: D055868)</small>
+* [[Food Chain]] — [[d:Q159462|Q159462]] <small>(MeSH: D020387)</small>
+* [[Forests]] — [[d:Q4421|Q4421]] <small>(MeSH: D065928)</small>
+* [[Fracture Healing]] — [[d:Q1777289|Q1777289]] <small>(MeSH: D017102)</small>
+* [[Fresh Water]] — [[d:Q102192|Q102192]] <small>(MeSH: D005618)</small>
+* [[Global Warming]] — [[d:Q7942|Q7942]] <small>(MeSH: D057232)</small>
+* [[Grassland]] — [[d:Q1006733|Q1006733]] <small>(MeSH: D065948)</small>
+* [[Greenhouse Effect]] — [[d:Q41560|Q41560]] <small>(MeSH: D017752)</small>
+* [[Harmful Algal Bloom]] — [[d:Q26869728|Q26869728]] <small>(MeSH: D057097)</small>
+* [[Host Adaptation]] — [[d:Q19597524|Q19597524]] <small>(MeSH: D000086967)</small>
+* [[Host-Parasite Interactions]] — [[d:Q65517745|Q65517745]] <small>(MeSH: D006790)</small>
+* [[Hot Temperature]] — [[d:Q28128222|Q28128222]] <small>(MeSH: D006358)</small>
+* [[Humidity]] — [[d:Q180600|Q180600]] <small>(MeSH: D006813)</small>
+* [[Islands]] — [[d:Q23442|Q23442]] <small>(MeSH: D062312)</small>
+* [[Life History Traits]] — [[d:Q71150575|Q71150575]] <small>(MeSH: D000071421)</small>
+* [[Lightning]] — [[d:Q33741|Q33741]] <small>(MeSH: D008030)</small>
+* [[Meteorological Concepts]] — [[d:Q58928516|Q58928516]] <small>(MeSH: D008685)</small>
+* [[Microclimate]] — [[d:Q215108|Q215108]] <small>(MeSH: D008834)</small>
+* [[Natural Resources]] — [[d:Q188460|Q188460]] <small>(MeSH: D000067936)</small>
+* [[Ocean Acidification]] — [[d:Q855711|Q855711]] <small>(MeSH: D000094404)</small>
+* [[Odorants]] — [[d:Q2151963|Q2151963]] <small>(MeSH: D009812)</small>
+* [[Origin of Life]] — [[d:Q9050360|Q9050360]] <small>(MeSH: D000069497)</small>
+* [[Ozone Depletion]] — [[d:Q183140|Q183140]] <small>(MeSH: D062966)</small>
+* [[Permafrost]] — [[d:Q179918|Q179918]] <small>(MeSH: D065946)</small>
+* [[Rain]] — [[d:Q7925|Q7925]] <small>(MeSH: D011891)</small>
+* [[Rainforest]] — [[d:Q9444|Q9444]] <small>(MeSH: D065947)</small>
+* [[Recovery of Function]] — [[d:Q60345466|Q60345466]] <small>(MeSH: D020127)</small>
+* [[Refugium]] — [[d:Q1435290|Q1435290]] <small>(MeSH: D000068236)</small>
+* [[Regeneration]] — [[d:Q193119|Q193119]] <small>(MeSH: D012038)</small>
+* [[Rhizosphere]] — [[d:Q1124578|Q1124578]] <small>(MeSH: D058441)</small>
+* [[Saline Waters]] — [[d:Q496805|Q496805]] <small>(MeSH: D000068357)</small>
+* [[Sea Level Rise]] — [[d:Q841083|Q841083]] <small>(MeSH: D000080763)</small>
+* [[Seashore]] — [[d:Q105081726|Q105081726]] <small>(MeSH: D000098904)</small>
+* [[Seawater]] — [[d:Q184395|Q184395]] <small>(MeSH: D012623)</small>
+* [[Snow]] — [[d:Q7561|Q7561]] <small>(MeSH: D012914)</small>
+* [[Species Specificity]] — [[d:Q1782625|Q1782625]] <small>(MeSH: D013045)</small>
+* [[Taiga]] — [[d:Q69564|Q69564]] <small>(MeSH: D066188)</small>
+* [[Temperature]] — [[d:Q11466|Q11466]] <small>(MeSH: D013696)</small>
+* [[Tissue Survival]] — [[d:Q71152112|Q71152112]] <small>(MeSH: D014022)</small>
+* [[Tornadoes]] — [[d:Q8081|Q8081]] <small>(MeSH: D055869)</small>
+* [[Tropical Climate]] — [[d:Q135712|Q135712]] <small>(MeSH: D014329)</small>
+* [[Tundra]] — [[d:Q43262|Q43262]] <small>(MeSH: D065929)</small>
+* [[Water Resources]] — [[d:Q1049799|Q1049799]] <small>(MeSH: D062066)</small>
+* [[Weather]] — [[d:Q11663|Q11663]] <small>(MeSH: D014887)</small>
+* [[Wetlands]] — [[d:Q170321|Q170321]] <small>(MeSH: D053833)</small>
+* [[Wilderness]] — [[d:Q911871|Q911871]] <small>(MeSH: D055814)</small>
+* [[Wind]] — [[d:Q8094|Q8094]] <small>(MeSH: D014919)</small>
+* [[Wound Healing]] — [[d:Q1509074|Q1509074]] <small>(MeSH: D014945)</small>
+
+=== Mathematical Concepts ===
+
+* '''Coverage:''' 41.3%
+* '''{{color|blue|Bluelinks}}:''' 19
+* '''{{color|red|Redlinks}}:''' 27
+* [[Algorithms]] — [[d:Q8366|Q8366]] <small>(MeSH: D000465)</small>
+* [[Artificial Intelligence]] — [[d:Q11660|Q11660]] <small>(MeSH: D001185)</small>
+* [[Autoencoder]] — [[d:Q786435|Q786435]] <small>(MeSH: D000098446)</small>
+* [[Backtracking Algorithms]] — [[d:Q798554|Q798554]] <small>(MeSH: D000098428)</small>
+* [[Boosting Machine Learning Algorithms]] — [[d:Q466303|Q466303]] <small>(MeSH: D000098404)</small>
+* [[Cellular Neural Networks, Computer]] — [[d:Q5058375|Q5058375]] <small>(MeSH: D000098418)</small>
+* [[Classification Algorithms]] — [[d:Q1744627|Q1744627]] <small>(MeSH: D000098429)</small>
+* [[Clustering Algorithms]] — [[d:Q24953001|Q24953001]] <small>(MeSH: D000098430)</small>
+* [[Compression Algorithms]] — [[d:Q2755432|Q2755432]] <small>(MeSH: D000098431)</small>
+* [[Convolutional Neural Networks]] — [[d:Q17084460|Q17084460]] <small>(MeSH: D000098415)</small>
+* [[Decision Theory]] — [[d:Q177571|Q177571]] <small>(MeSH: D003662)</small>
+* [[Decision Trees]] — [[d:Q831366|Q831366]] <small>(MeSH: D003663)</small>
+* [[Deep Learning]] — [[d:Q197536|Q197536]] <small>(MeSH: D000077321)</small>
+* [[Detection Algorithms]] — [[d:Q131444714|Q131444714]] <small>(MeSH: D000098432)</small>
+* [[Dimensionality Reduction]] — [[d:Q16000077|Q16000077]] <small>(MeSH: D000098405)</small>
+* [[Dynamic Programming]] — [[d:Q380679|Q380679]] <small>(MeSH: D000098433)</small>
+* [[Ensemble Learning]] — [[d:Q245652|Q245652]] <small>(MeSH: D000098406)</small>
+* [[Extreme Learning Machines]] — [[d:Q21948731|Q21948731]] <small>(MeSH: D000098420)</small>
+* [[Federated Learning]] — [[d:Q50818671|Q50818671]] <small>(MeSH: D000098407)</small>
+* [[Feedforward Neural Networks]] — [[d:Q5441227|Q5441227]] <small>(MeSH: D000098419)</small>
+* [[Game Theory]] — [[d:Q44455|Q44455]] <small>(MeSH: D005716)</small>
+* [[Generative Adversarial Networks]] — [[d:Q25104379|Q25104379]] <small>(MeSH: D000098427)</small>
+* [[Genetic Algorithms]] — [[d:Q187787|Q187787]] <small>(MeSH: D000098434)</small>
+* [[Graph Neural Networks]] — [[d:Q107750691|Q107750691]] <small>(MeSH: D000098422)</small>
+* [[Hopfield Neural Networks]] — [[d:Q1407668|Q1407668]] <small>(MeSH: D000098425)</small>
+* [[Intelligent Systems]] — [[d:Q115135904|Q115135904]] <small>(MeSH: D000098403)</small>
+* [[Long Short Term Memory]] — [[d:Q6673524|Q6673524]] <small>(MeSH: D000098417)</small>
+* [[Machine Learning]] — [[d:Q2539|Q2539]] <small>(MeSH: D000069550)</small>
+* [[Machine Learning Algorithms]] — [[d:Q110688486|Q110688486]] <small>(MeSH: D000098435)</small>
+* [[Mathematical Concepts]] — [[d:Q24034552|Q24034552]] <small>(MeSH: D055641)</small>
+* [[Multilayer Perceptrons]] — [[d:Q2991667|Q2991667]] <small>(MeSH: D000098421)</small>
+* [[Multiple-Instance Learning Algorithms]] — [[d:Q6934870|Q6934870]] <small>(MeSH: D000098451)</small>
+* [[Neural Networks, Computer]] — [[d:Q192776|Q192776]] <small>(MeSH: D016571)</small>
+* [[Parallel Algorithms]] — [[d:Q1087987|Q1087987]] <small>(MeSH: D000098436)</small>
+* [[Particle Swarm Optimization]] — [[d:Q2072794|Q2072794]] <small>(MeSH: D000098413)</small>
+* [[Prediction Algorithms]] — [[d:Q131464966|Q131464966]] <small>(MeSH: D000098437)</small>
+* [[Prediction Methods, Machine]] — [[d:Q131442679|Q131442679]] <small>(MeSH: D000098411)</small>
+* [[Radial Basis Function Networks]] — [[d:Q2679684|Q2679684]] <small>(MeSH: D000098423)</small>
+* [[Random Forest]] — [[d:Q245748|Q245748]] <small>(MeSH: D000093743)</small>
+* [[Recurrent Neural Networks]] — [[d:Q1457734|Q1457734]] <small>(MeSH: D000098424)</small>
+* [[Reinforcement Machine Learning]] — [[d:Q830687|Q830687]] <small>(MeSH: D000098408)</small>
+* [[Representation Machine Learning]] — [[d:Q17013334|Q17013334]] <small>(MeSH: D000098409)</small>
+* [[Supervised Machine Learning]] — [[d:Q334384|Q334384]] <small>(MeSH: D000069553)</small>
+* [[Support Vector Machine]] — [[d:Q282453|Q282453]] <small>(MeSH: D060388)</small>
+* [[Transfer Machine Learning]] — [[d:Q6027324|Q6027324]] <small>(MeSH: D000098410)</small>
+* [[Unsupervised Machine Learning]] — [[d:Q1152135|Q1152135]] <small>(MeSH: D000069558)</small>
+
+=== Digestive Physiology ===
+
+* '''Coverage:''' 20.0%
+* '''{{color|blue|Bluelinks}}:''' 4
+* '''{{color|red|Redlinks}}:''' 16
+* [[Defecation]] — [[d:Q204015|Q204015]] <small>(MeSH: D003672)</small>
+* [[Deglutition]] — [[d:Q211669|Q211669]] <small>(MeSH: D003679)</small>
+* [[Dental Caries Susceptibility]] — [[d:Q71160892|Q71160892]] <small>(MeSH: D003733)</small>
+* [[Dental Enamel Permeability]] — [[d:Q71239085|Q71239085]] <small>(MeSH: D003745)</small>
+* [[Dental Enamel Solubility]] — [[d:Q71160938|Q71160938]] <small>(MeSH: D003747)</small>
+* [[Dental Physiological Phenomena]] — [[d:Q70693034|Q70693034]] <small>(MeSH: D009063)</small>
+* [[Dentin Permeability]] — [[d:Q71151515|Q71151515]] <small>(MeSH: D003806)</small>
+* [[Dentin Solubility]] — [[d:Q71151488|Q71151488]] <small>(MeSH: D003808)</small>
+* [[Digestive System and Oral Physiological Phenomena]] — [[d:Q70693843|Q70693843]] <small>(MeSH: D055688)</small>
+* [[Digestive System Physiological Phenomena]] — [[d:Q70576850|Q70576850]] <small>(MeSH: D004068)</small>
+* [[Gallbladder Emptying]] — [[d:Q71149408|Q71149408]] <small>(MeSH: D016473)</small>
+* [[Gastric Emptying]] — [[d:Q14916441|Q14916441]] <small>(MeSH: D005746)</small>
+* [[Gastrointestinal Motility]] — [[d:Q65920606|Q65920606]] <small>(MeSH: D005769)</small>
+* [[Liver Regeneration]] — [[d:Q19597761|Q19597761]] <small>(MeSH: D008115)</small>
+* [[Peristalsis]] — [[d:Q308695|Q308695]] <small>(MeSH: D010528)</small>
+* [[Postprandial Period]] — [[d:Q2992990|Q2992990]] <small>(MeSH: D019518)</small>
+* [[Rumination, Digestive]] — [[d:Q12048101|Q12048101]] <small>(MeSH: D000074221)</small>
+* [[Tooth Eruption]] — [[d:Q15178060|Q15178060]] <small>(MeSH: D014078)</small>
+* [[Tooth Exfoliation]] — [[d:Q70710662|Q70710662]] <small>(MeSH: D014080)</small>
+* [[Tooth Permeability]] — [[d:Q71129245|Q71129245]] <small>(MeSH: D014088)</small>
+
+=== Plant Physiology ===
+
+* '''Coverage:''' 15.4%
+* '''{{color|blue|Bluelinks}}:''' 2
+* '''{{color|red|Redlinks}}:''' 11
+* [[Drought Resistance]] — [[d:Q12142810|Q12142810]] <small>(MeSH: D000091902)</small>
+* [[Phytoplasma Disease]] — [[d:Q114773304|Q114773304]] <small>(MeSH: D000084482)</small>
+* [[Plant Defense Against Herbivory]] — [[d:Q2004252|Q2004252]] <small>(MeSH: D000082462)</small>
+* [[Plant Diseases]] — [[d:Q2662845|Q2662845]] <small>(MeSH: D010935)</small>
+* [[Plant Dispersal]] — [[d:Q389981|Q389981]] <small>(MeSH: D063148)</small>
+* [[Plant Infertility]] — [[d:Q71149339|Q71149339]] <small>(MeSH: D051479)</small>
+* [[Plant Necrosis and Chlorosis]] — [[d:Q114773316|Q114773316]] <small>(MeSH: D000084483)</small>
+* [[Plant Physiological Phenomena]] — [[d:Q70684884|Q70684884]] <small>(MeSH: D018521)</small>
+* [[Plant Root Nodulation]] — [[d:Q22298769|Q22298769]] <small>(MeSH: D055170)</small>
+* [[Plant Transpiration]] — [[d:Q167980|Q167980]] <small>(MeSH: D018526)</small>
+* [[Plant Tumors]] — [[d:Q70491260|Q70491260]] <small>(MeSH: D010941)</small>
+* [[Seed Dispersal]] — [[d:Q943313|Q943313]] <small>(MeSH: D058614)</small>
+* [[Self-Incompatibility in Flowering Plants]] — [[d:Q2120121|Q2120121]] <small>(MeSH: D060436)</small>
+
+=== Endocrine Physiology ===
+
+* '''Coverage:''' 16.7%
+* '''{{color|blue|Bluelinks}}:''' 2
+* '''{{color|red|Redlinks}}:''' 10
+* [[Accommodation, Ocular]] — [[d:Q419793|Q419793]] <small>(MeSH: D000065)</small>
+* [[Adaptation, Ocular]] — [[d:Q352374|Q352374]] <small>(MeSH: D000221)</small>
+* [[Convergence, Ocular]] — [[d:Q70575914|Q70575914]] <small>(MeSH: D003290)</small>
+* [[Dark Adaptation]] — [[d:Q22273766|Q22273766]] <small>(MeSH: D003623)</small>
+* [[Eye Color]] — [[d:Q23786|Q23786]] <small>(MeSH: D005127)</small>
+* [[Fixation, Ocular]] — [[d:Q201936|Q201936]] <small>(MeSH: D005403)</small>
+* [[Intraocular Pressure]] — [[d:Q650050|Q650050]] <small>(MeSH: D007429)</small>
+* [[Nystagmus, Optokinetic]] — [[d:Q912716|Q912716]] <small>(MeSH: D017120)</small>
+* [[Nystagmus, Physiologic]] — [[d:Q220989|Q220989]] <small>(MeSH: D009760)</small>
+* [[Ocular Physiological Phenomena]] — [[d:Q66661662|Q66661662]] <small>(MeSH: D009799)</small>
+* [[Pursuit, Smooth]] — [[d:Q3400677|Q3400677]] <small>(MeSH: D011698)</small>
+* [[Saccades]] — [[d:Q369503|Q369503]] <small>(MeSH: D012438)</small>
+
+=== Integumentary Physiology ===
+
+* '''Coverage:''' 40.0%
+* '''{{color|blue|Bluelinks}}:''' 2
+* '''{{color|red|Redlinks}}:''' 3
+* [[Hair Color]] — [[d:Q1048314|Q1048314]] <small>(MeSH: D006200)</small>
+* [[Integumentary System Physiological Phenomena]] — [[d:Q71226623|Q71226623]] <small>(MeSH: D055827)</small>
+* [[Skin Aging]] — [[d:Q71242543|Q71242543]] <small>(MeSH: D015595)</small>
+* [[Skin Physiological Phenomena]] — [[d:Q71227905|Q71227905]] <small>(MeSH: D012879)</small>
+* [[Suntan]] — [[d:Q321458|Q321458]] <small>(MeSH: D055107)</small>
+
+
+[[Category:WikiProject MeSH]]

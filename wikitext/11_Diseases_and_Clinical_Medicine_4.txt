@@ -1,0 +1,913 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Cardiology ===
+
+* '''Coverage:''' 23.6%
+* '''{{color|blue|Bluelinks}}:''' 74
+* '''{{color|red|Redlinks}}:''' 239
+* [[Accelerated Idioventricular Rhythm]] — [[d:Q3454015|Q3454015]] <small>(MeSH: D016170)</small>
+* [[Acute Aortic Syndrome]] — [[d:Q4677913|Q4677913]] <small>(MeSH: D000094683)</small>
+* [[Acute Coronary Syndrome]] — [[d:Q266018|Q266018]] <small>(MeSH: D054058)</small>
+* [[Adams-Stokes Syndrome]] — [[d:Q277254|Q277254]] <small>(MeSH: D000219)</small>
+* [[Andersen Syndrome]] — [[d:Q773118|Q773118]] <small>(MeSH: D050030)</small>
+* [[Aneurysm]] — [[d:Q189389|Q189389]] <small>(MeSH: D000783)</small>
+* [[Aneurysm, Aortic Arch]] — [[d:Q116803305|Q116803305]] <small>(MeSH: D000094626)</small>
+* [[Aneurysm, Ascending Aorta]] — [[d:Q2857923|Q2857923]] <small>(MeSH: D000094625)</small>
+* [[Aneurysm, False]] — [[d:Q3137609|Q3137609]] <small>(MeSH: D017541)</small>
+* [[Aneurysm, Ruptured]] — [[d:Q55043796|Q55043796]] <small>(MeSH: D017542)</small>
+* [[Angina Pectoris]] — [[d:Q180762|Q180762]] <small>(MeSH: D000787)</small>
+* [[Angina Pectoris, Variant]] — [[d:Q1469637|Q1469637]] <small>(MeSH: D000788)</small>
+* [[Angina, Stable]] — [[d:Q3617336|Q3617336]] <small>(MeSH: D060050)</small>
+* [[Angina, Unstable]] — [[d:Q2032041|Q2032041]] <small>(MeSH: D000789)</small>
+* [[Angiodysplasia]] — [[d:Q539491|Q539491]] <small>(MeSH: D016888)</small>
+* [[Angioedema]] — [[d:Q1129007|Q1129007]] <small>(MeSH: D000799)</small>
+* [[Angiomatosis]] — [[d:Q367756|Q367756]] <small>(MeSH: D000798)</small>
+* [[Anomalous Left Coronary Artery]] — [[d:Q881480|Q881480]] <small>(MeSH: D000080038)</small>
+* [[Anterior Wall Myocardial Infarction]] — [[d:Q67216606|Q67216606]] <small>(MeSH: D056988)</small>
+* [[Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis]] — [[d:Q17239200|Q17239200]] <small>(MeSH: D056648)</small>
+* [[Aortic Aneurysm]] — [[d:Q616003|Q616003]] <small>(MeSH: D001014)</small>
+* [[Aortic Aneurysm, Abdominal]] — [[d:Q2256736|Q2256736]] <small>(MeSH: D017544)</small>
+* [[Aortic Aneurysm, Thoracic]] — [[d:Q3616648|Q3616648]] <small>(MeSH: D017545)</small>
+* [[Aortic Aneurysm, Thoracoabdominal]] — [[d:Q116802981|Q116802981]] <small>(MeSH: D000094624)</small>
+* [[Aortic Arch Syndromes]] — [[d:Q66771818|Q66771818]] <small>(MeSH: D001015)</small>
+* [[Aortic Coarctation]] — [[d:Q616066|Q616066]] <small>(MeSH: D001017)</small>
+* [[Aortic Diseases]] — [[d:Q18556675|Q18556675]] <small>(MeSH: D001018)</small>
+* [[Aortic Dissection]] — [[d:Q594660|Q594660]] <small>(MeSH: D000784)</small>
+* [[Aortic Intramural Hematoma]] — [[d:Q116847564|Q116847564]] <small>(MeSH: D000094666)</small>
+* [[Aortic Root Aneurysm]] — [[d:Q116828000|Q116828000]] <small>(MeSH: D000094628)</small>
+* [[Aortic Rupture]] — [[d:Q16918965|Q16918965]] <small>(MeSH: D001019)</small>
+* [[Aortic Stenosis, Subvalvular]] — [[d:Q7632441|Q7632441]] <small>(MeSH: D001020)</small>
+* [[Aortic Stenosis, Supravalvular]] — [[d:Q16874615|Q16874615]] <small>(MeSH: D021921)</small>
+* [[Aortic Valve Disease]] — [[d:Q18557169|Q18557169]] <small>(MeSH: D000082862)</small>
+* [[Aortic Valve Insufficiency]] — [[d:Q616087|Q616087]] <small>(MeSH: D001022)</small>
+* [[Aortic Valve Prolapse]] — [[d:Q18556686|Q18556686]] <small>(MeSH: D001023)</small>
+* [[Aortic Valve Stenosis]] — [[d:Q531019|Q531019]] <small>(MeSH: D001024)</small>
+* [[Aortico-Ventricular Tunnel]] — [[d:Q114733437|Q114733437]] <small>(MeSH: D000082903)</small>
+* [[Aortitis]] — [[d:Q616088|Q616088]] <small>(MeSH: D001025)</small>
+* [[Aortopulmonary Septal Defect]] — [[d:Q4778774|Q4778774]] <small>(MeSH: D001028)</small>
+* [[Apical Hypertrophic Cardiomyopathy]] — [[d:Q116589409|Q116589409]] <small>(MeSH: D000092183)</small>
+* [[Arrhythmia, Sinus]] — [[d:Q2583597|Q2583597]] <small>(MeSH: D001146)</small>
+* [[Arrhythmias, Cardiac]] — [[d:Q189331|Q189331]] <small>(MeSH: D001145)</small>
+* [[Arrhythmogenic Right Ventricular Dysplasia]] — [[d:Q2555727|Q2555727]] <small>(MeSH: D019571)</small>
+* [[Arterial Occlusive Diseases]] — [[d:Q105224834|Q105224834]] <small>(MeSH: D001157)</small>
+* [[Arterio-Arterial Fistula]] — [[d:Q55278661|Q55278661]] <small>(MeSH: D001159)</small>
+* [[Arteriolosclerosis]] — [[d:Q4797547|Q4797547]] <small>(MeSH: D050379)</small>
+* [[Arteriosclerosis]] — [[d:Q184559|Q184559]] <small>(MeSH: D001161)</small>
+* [[Arteriosclerosis Obliterans]] — [[d:Q4797546|Q4797546]] <small>(MeSH: D001162)</small>
+* [[Arteriovenous Fistula]] — [[d:Q707837|Q707837]] <small>(MeSH: D001164)</small>
+* [[Arteriovenous Malformations]] — [[d:Q1584110|Q1584110]] <small>(MeSH: D001165)</small>
+* [[Arteritis]] — [[d:Q1751810|Q1751810]] <small>(MeSH: D001167)</small>
+* [[Atherosclerosis]] — [[d:Q12252367|Q12252367]] <small>(MeSH: D050197)</small>
+* [[Atrial Fibrillation]] — [[d:Q815819|Q815819]] <small>(MeSH: D001281)</small>
+* [[Atrial Flutter]] — [[d:Q1506572|Q1506572]] <small>(MeSH: D001282)</small>
+* [[Atrial Premature Complexes]] — [[d:Q7240236|Q7240236]] <small>(MeSH: D018880)</small>
+* [[Atrioventricular Block]] — [[d:Q300121|Q300121]] <small>(MeSH: D054537)</small>
+* [[Bicuspid Aortic Valve Disease]] — [[d:Q860167|Q860167]] <small>(MeSH: D000082882)</small>
+* [[Bland White Garland Syndrome]] — [[d:Q881480|Q881480]] <small>(MeSH: D063748)</small>
+* [[Blue Toe Syndrome]] — [[d:Q4930176|Q4930176]] <small>(MeSH: D018438)</small>
+* [[Bradycardia]] — [[d:Q217111|Q217111]] <small>(MeSH: D001919)</small>
+* [[Brugada Syndrome]] — [[d:Q599683|Q599683]] <small>(MeSH: D053840)</small>
+* [[Bundle-Branch Block]] — [[d:Q13365162|Q13365162]] <small>(MeSH: D002037)</small>
+* [[Capillary Leak Syndrome]] — [[d:Q161964|Q161964]] <small>(MeSH: D019559)</small>
+* [[Cardiac Complexes, Premature]] — [[d:Q840646|Q840646]] <small>(MeSH: D005117)</small>
+* [[Cardiac Conduction System Disease]] — [[d:Q55784855|Q55784855]] <small>(MeSH: D000075224)</small>
+* [[Cardiac Output, High]] — [[d:Q5757641|Q5757641]] <small>(MeSH: D016534)</small>
+* [[Cardiac Output, Low]] — [[d:Q47248915|Q47248915]] <small>(MeSH: D002303)</small>
+* [[Cardiac Tamponade]] — [[d:Q929313|Q929313]] <small>(MeSH: D002305)</small>
+* [[Cardiomegaly]] — [[d:Q1729124|Q1729124]] <small>(MeSH: D006332)</small>
+* [[Cardiomyopathies]] — [[d:Q847583|Q847583]] <small>(MeSH: D009202)</small>
+* [[Cardiomyopathy, Alcoholic]] — [[d:Q2305174|Q2305174]] <small>(MeSH: D002310)</small>
+* [[Cardiomyopathy, Dilated]] — [[d:Q283656|Q283656]] <small>(MeSH: D002311)</small>
+* [[Cardiomyopathy, Hypertrophic]] — [[d:Q1364270|Q1364270]] <small>(MeSH: D002312)</small>
+* [[Cardiomyopathy, Hypertrophic, Familial]] — [[d:Q56014654|Q56014654]] <small>(MeSH: D024741)</small>
+* [[Cardiomyopathy, Restrictive]] — [[d:Q2151267|Q2151267]] <small>(MeSH: D002313)</small>
+* [[Cardiotoxicity]] — [[d:Q2118956|Q2118956]] <small>(MeSH: D066126)</small>
+* [[Cardiovascular Abnormalities]] — [[d:Q54911848|Q54911848]] <small>(MeSH: D018376)</small>
+* [[Cardiovascular Diseases]] — [[d:Q389735|Q389735]] <small>(MeSH: D002318)</small>
+* [[Carotid Artery Thrombosis]] — [[d:Q18555924|Q18555924]] <small>(MeSH: D002341)</small>
+* [[Carotid Stenosis]] — [[d:Q1576205|Q1576205]] <small>(MeSH: D016893)</small>
+* [[Carotid Webs]] — [[d:Q137660762|Q137660762]] <small>(MeSH: D000099136)</small>
+* [[Carotid-Cavernous Sinus Fistula]] — [[d:Q5045537|Q5045537]] <small>(MeSH: D020216)</small>
+* [[Chronic Limb-Threatening Ischemia]] — [[d:Q7316059|Q7316059]] <small>(MeSH: D000089802)</small>
+* [[Churg-Strauss Syndrome]] — [[d:Q32811|Q32811]] <small>(MeSH: D015267)</small>
+* [[Congenital Portosystemic Shunt]] — [[d:Q55788360|Q55788360]] <small>(MeSH: D000098526)</small>
+* [[Congenitally Corrected Transposition of the Great Arteries]] — [[d:Q1784755|Q1784755]] <small>(MeSH: D000080041)</small>
+* [[Cor Triatriatum]] — [[d:Q5169382|Q5169382]] <small>(MeSH: D003310)</small>
+* [[Coronary Aneurysm]] — [[d:Q5172183|Q5172183]] <small>(MeSH: D003323)</small>
+* [[Coronary Artery Disease]] — [[d:Q844935|Q844935]] <small>(MeSH: D003324)</small>
+* [[Coronary Disease]] — [[d:Q10260689|Q10260689]] <small>(MeSH: D003327)</small>
+* [[Coronary Occlusion]] — [[d:Q5172192|Q5172192]] <small>(MeSH: D054059)</small>
+* [[Coronary Restenosis]] — [[d:Q18556246|Q18556246]] <small>(MeSH: D023903)</small>
+* [[Coronary Stenosis]] — [[d:Q18556247|Q18556247]] <small>(MeSH: D023921)</small>
+* [[Coronary Thrombosis]] — [[d:Q707774|Q707774]] <small>(MeSH: D003328)</small>
+* [[Coronary Vasospasm]] — [[d:Q5172199|Q5172199]] <small>(MeSH: D003329)</small>
+* [[Coronary Vessel Anomalies]] — [[d:Q5172184|Q5172184]] <small>(MeSH: D003330)</small>
+* [[Coronary-Subclavian Steal Syndrome]] — [[d:Q69061764|Q69061764]] <small>(MeSH: D058686)</small>
+* [[CREST Syndrome]] — [[d:Q763356|Q763356]] <small>(MeSH: D017675)</small>
+* [[Crisscross Heart]] — [[d:Q5186089|Q5186089]] <small>(MeSH: D003420)</small>
+* [[Death, Sudden, Cardiac]] — [[d:Q1329925|Q1329925]] <small>(MeSH: D016757)</small>
+* [[Descending Thoracic Aortic Aneurysm]] — [[d:Q116827843|Q116827843]] <small>(MeSH: D000094627)</small>
+* [[Dextrocardia]] — [[d:Q579665|Q579665]] <small>(MeSH: D003914)</small>
+* [[Diabetic Angiopathies]] — [[d:Q489997|Q489997]] <small>(MeSH: D003925)</small>
+* [[Diabetic Cardiomyopathies]] — [[d:Q5270132|Q5270132]] <small>(MeSH: D058065)</small>
+* [[Discrete Subaortic Stenosis]] — [[d:Q18557014|Q18557014]] <small>(MeSH: D021922)</small>
+* [[Dissection, Abdominal Aorta]] — [[d:Q116847111|Q116847111]] <small>(MeSH: D000094631)</small>
+* [[Dissection, Ascending Aorta]] — [[d:Q116847077|Q116847077]] <small>(MeSH: D000094630)</small>
+* [[Dissection, Blood Vessel]] — [[d:Q2660911|Q2660911]] <small>(MeSH: D000094665)</small>
+* [[Dissection, Thoracic Aorta]] — [[d:Q116828311|Q116828311]] <small>(MeSH: D000094629)</small>
+* [[Double Outlet Right Ventricle]] — [[d:Q361648|Q361648]] <small>(MeSH: D004310)</small>
+* [[Ductus Arteriosus, Patent]] — [[d:Q2072063|Q2072063]] <small>(MeSH: D004374)</small>
+* [[Ebstein Anomaly]] — [[d:Q277452|Q277452]] <small>(MeSH: D004437)</small>
+* [[Ectopia Cordis]] — [[d:Q1356194|Q1356194]] <small>(MeSH: D054083)</small>
+* [[Edema, Cardiac]] — [[d:Q30015589|Q30015589]] <small>(MeSH: D004489)</small>
+* [[Eisenmenger Complex]] — [[d:Q1313103|Q1313103]] <small>(MeSH: D004541)</small>
+* [[Embolism]] — [[d:Q275466|Q275466]] <small>(MeSH: D004617)</small>
+* [[Embolism and Thrombosis]] — [[d:Q54944012|Q54944012]] <small>(MeSH: D016769)</small>
+* [[Embolism, Air]] — [[d:Q1367304|Q1367304]] <small>(MeSH: D004618)</small>
+* [[Embolism, Amniotic Fluid]] — [[d:Q1470833|Q1470833]] <small>(MeSH: D004619)</small>
+* [[Embolism, Cholesterol]] — [[d:Q840004|Q840004]] <small>(MeSH: D017700)</small>
+* [[Embolism, Fat]] — [[d:Q950760|Q950760]] <small>(MeSH: D004620)</small>
+* [[Embolism, Paradoxical]] — [[d:Q7134468|Q7134468]] <small>(MeSH: D019320)</small>
+* [[Endarteritis]] — [[d:Q54971166|Q54971166]] <small>(MeSH: D004692)</small>
+* [[Endocardial Cushion Defects]] — [[d:Q390211|Q390211]] <small>(MeSH: D004694)</small>
+* [[Endocardial Fibroelastosis]] — [[d:Q5376225|Q5376225]] <small>(MeSH: D004695)</small>
+* [[Endocarditis]] — [[d:Q82504|Q82504]] <small>(MeSH: D004696)</small>
+* [[Endocarditis, Non-Infective]] — [[d:Q73518|Q73518]] <small>(MeSH: D059905)</small>
+* [[Endomyocardial Fibrosis]] — [[d:Q8961561|Q8961561]] <small>(MeSH: D004719)</small>
+* [[Erythromelalgia]] — [[d:Q524353|Q524353]] <small>(MeSH: D004916)</small>
+* [[Essential Hypertension]] — [[d:Q988405|Q988405]] <small>(MeSH: D000075222)</small>
+* [[Fibromuscular Dysplasia]] — [[d:Q688949|Q688949]] <small>(MeSH: D005352)</small>
+* [[Foramen Ovale, Patent]] — [[d:Q3076802|Q3076802]] <small>(MeSH: D054092)</small>
+* [[Giant Cell Arteritis]] — [[d:Q707816|Q707816]] <small>(MeSH: D013700)</small>
+* [[Heart Aneurysm]] — [[d:Q9363854|Q9363854]] <small>(MeSH: D006322)</small>
+* [[Heart Arrest]] — [[d:Q202837|Q202837]] <small>(MeSH: D006323)</small>
+* [[Heart Block]] — [[d:Q1361515|Q1361515]] <small>(MeSH: D006327)</small>
+* [[Heart Defects, Congenital]] — [[d:Q939364|Q939364]] <small>(MeSH: D006330)</small>
+* [[Heart Diseases]] — [[d:Q190805|Q190805]] <small>(MeSH: D006331)</small>
+* [[Heart Failure]] — [[d:Q181754|Q181754]] <small>(MeSH: D006333)</small>
+* [[Heart Failure, Diastolic]] — [[d:Q3799239|Q3799239]] <small>(MeSH: D054144)</small>
+* [[Heart Failure, Systolic]] — [[d:Q17326470|Q17326470]] <small>(MeSH: D054143)</small>
+* [[Heart Rupture]] — [[d:Q4388752|Q4388752]] <small>(MeSH: D006341)</small>
+* [[Heart Rupture, Post-Infarction]] — [[d:Q55227147|Q55227147]] <small>(MeSH: D006342)</small>
+* [[Heart Septal Defects]] — [[d:Q16934669|Q16934669]] <small>(MeSH: D006343)</small>
+* [[Heart Septal Defects, Atrial]] — [[d:Q757749|Q757749]] <small>(MeSH: D006344)</small>
+* [[Heart Septal Defects, Ventricular]] — [[d:Q838139|Q838139]] <small>(MeSH: D006345)</small>
+* [[Heart Valve Diseases]] — [[d:Q1130519|Q1130519]] <small>(MeSH: D006349)</small>
+* [[Heart Valve Prolapse]] — [[d:Q26695943|Q26695943]] <small>(MeSH: D016127)</small>
+* [[Hemostatic Disorders]] — [[d:Q18556496|Q18556496]] <small>(MeSH: D020141)</small>
+* [[Hereditary Angioedema Type III]] — [[d:Q54945172|Q54945172]] <small>(MeSH: D056828)</small>
+* [[Hereditary Angioedema Types I and II]] — [[d:Q55082403|Q55082403]] <small>(MeSH: D056829)</small>
+* [[Heterotaxy Syndrome]] — [[d:Q203115|Q203115]] <small>(MeSH: D059446)</small>
+* [[Hyperemia]] — [[d:Q948806|Q948806]] <small>(MeSH: D006940)</small>
+* [[Hypertension]] — [[d:Q41861|Q41861]] <small>(MeSH: D006973)</small>
+* [[Hypertension, Malignant]] — [[d:Q1641132|Q1641132]] <small>(MeSH: D006974)</small>
+* [[Hypertensive Crisis]] — [[d:Q25303605|Q25303605]] <small>(MeSH: D000096003)</small>
+* [[Hypertrophy, Left Ventricular]] — [[d:Q1628627|Q1628627]] <small>(MeSH: D017379)</small>
+* [[Hypertrophy, Right Ventricular]] — [[d:Q2014808|Q2014808]] <small>(MeSH: D017380)</small>
+* [[Hypoplastic Left Heart Syndrome]] — [[d:Q1641399|Q1641399]] <small>(MeSH: D018636)</small>
+* [[Hypotension]] — [[d:Q275419|Q275419]] <small>(MeSH: D007022)</small>
+* [[Iliac Aneurysm]] — [[d:Q54911678|Q54911678]] <small>(MeSH: D017543)</small>
+* [[Inferior Wall Myocardial Infarction]] — [[d:Q18557038|Q18557038]] <small>(MeSH: D056989)</small>
+* [[Interatrial Block]] — [[d:Q113167688|Q113167688]] <small>(MeSH: D000074021)</small>
+* [[Intermittent Claudication]] — [[d:Q1097957|Q1097957]] <small>(MeSH: D007383)</small>
+* [[Intracranial Aneurysm]] — [[d:Q1198391|Q1198391]] <small>(MeSH: D002532)</small>
+* [[Intracranial Arteriosclerosis]] — [[d:Q27680586|Q27680586]] <small>(MeSH: D002537)</small>
+* [[Intracranial Arteriovenous Malformations]] — [[d:Q191570|Q191570]] <small>(MeSH: D002538)</small>
+* [[Intracranial Embolism]] — [[d:Q5830653|Q5830653]] <small>(MeSH: D020766)</small>
+* [[Intracranial Embolism and Thrombosis]] — [[d:Q54927442|Q54927442]] <small>(MeSH: D002542)</small>
+* [[Intracranial Thrombosis]] — [[d:Q18556223|Q18556223]] <small>(MeSH: D020767)</small>
+* [[Isolated Noncompaction of the Ventricular Myocardium]] — [[d:Q1725245|Q1725245]] <small>(MeSH: D056830)</small>
+* [[Isolated Systolic Hypertension]] — [[d:Q7663896|Q7663896]] <small>(MeSH: D000092244)</small>
+* [[Jervell-Lange Nielsen Syndrome]] — [[d:Q3304152|Q3304152]] <small>(MeSH: D029593)</small>
+* [[Karoshi Death]] — [[d:Q1051107|Q1051107]] <small>(MeSH: D065907)</small>
+* [[Klippel-Trenaunay-Weber Syndrome]] — [[d:Q1774750|Q1774750]] <small>(MeSH: D007715)</small>
+* [[Kounis Syndrome]] — [[d:Q6434647|Q6434647]] <small>(MeSH: D000074962)</small>
+* [[Lateral Sinus Thrombosis]] — [[d:Q18555981|Q18555981]] <small>(MeSH: D020227)</small>
+* [[Lemierre Syndrome]] — [[d:Q72000|Q72000]] <small>(MeSH: D057831)</small>
+* [[LEOPARD Syndrome]] — [[d:Q1798016|Q1798016]] <small>(MeSH: D044542)</small>
+* [[Leriche Syndrome]] — [[d:Q1431933|Q1431933]] <small>(MeSH: D007925)</small>
+* [[Levocardia]] — [[d:Q6535763|Q6535763]] <small>(MeSH: D007979)</small>
+* [[Livedo Reticularis]] — [[d:Q2003151|Q2003151]] <small>(MeSH: D054068)</small>
+* [[Livedoid Vasculopathy]] — [[d:Q3257123|Q3257123]] <small>(MeSH: D000090122)</small>
+* [[Loeys-Dietz Syndrome]] — [[d:Q3508669|Q3508669]] <small>(MeSH: D055947)</small>
+* [[Long QT Syndrome]] — [[d:Q653924|Q653924]] <small>(MeSH: D008133)</small>
+* [[Lown-Ganong-Levine Syndrome]] — [[d:Q1758283|Q1758283]] <small>(MeSH: D008151)</small>
+* [[Lutembacher Syndrome]] — [[d:Q6705425|Q6705425]] <small>(MeSH: D008185)</small>
+* [[Malignant Atrophic Papulosis]] — [[d:Q911136|Q911136]] <small>(MeSH: D054853)</small>
+* [[Masked Hypertension]] — [[d:Q54928431|Q54928431]] <small>(MeSH: D059468)</small>
+* [[May-Thurner Syndrome]] — [[d:Q605576|Q605576]] <small>(MeSH: D062108)</small>
+* [[Median Arcuate Ligament Syndrome]] — [[d:Q2456424|Q2456424]] <small>(MeSH: D000074742)</small>
+* [[Microaneurysm]] — [[d:Q66133392|Q66133392]] <small>(MeSH: D000071071)</small>
+* [[Microscopic Polyangiitis]] — [[d:Q1934069|Q1934069]] <small>(MeSH: D055953)</small>
+* [[Microvascular Angina]] — [[d:Q30900016|Q30900016]] <small>(MeSH: D017566)</small>
+* [[MINOCA]] — [[d:Q112062551|Q112062551]] <small>(MeSH: D000088442)</small>
+* [[Mitral Valve Insufficiency]] — [[d:Q268292|Q268292]] <small>(MeSH: D008944)</small>
+* [[Mitral Valve Prolapse]] — [[d:Q735652|Q735652]] <small>(MeSH: D008945)</small>
+* [[Mitral Valve Stenosis]] — [[d:Q1140794|Q1140794]] <small>(MeSH: D008946)</small>
+* [[Moyamoya Disease]] — [[d:Q1951267|Q1951267]] <small>(MeSH: D009072)</small>
+* [[Mucocutaneous Lymph Node Syndrome]] — [[d:Q265936|Q265936]] <small>(MeSH: D009080)</small>
+* [[Myocardial Bridging]] — [[d:Q6947900|Q6947900]] <small>(MeSH: D054084)</small>
+* [[Myocardial Infarction]] — [[d:Q12152|Q12152]] <small>(MeSH: D009203)</small>
+* [[Myocardial Ischemia]] — [[d:Q6947906|Q6947906]] <small>(MeSH: D017202)</small>
+* [[Myocardial Reperfusion Injury]] — [[d:Q54971821|Q54971821]] <small>(MeSH: D015428)</small>
+* [[Myocardial Stunning]] — [[d:Q2075261|Q2075261]] <small>(MeSH: D017682)</small>
+* [[Myocarditis]] — [[d:Q186235|Q186235]] <small>(MeSH: D009205)</small>
+* [[Non-ST Elevated Myocardial Infarction]] — [[d:Q55082277|Q55082277]] <small>(MeSH: D000072658)</small>
+* [[Noonan Syndrome]] — [[d:Q1543446|Q1543446]] <small>(MeSH: D009634)</small>
+* [[Out-of-Hospital Cardiac Arrest]] — [[d:Q54974207|Q54974207]] <small>(MeSH: D058687)</small>
+* [[Parasystole]] — [[d:Q3494080|Q3494080]] <small>(MeSH: D017574)</small>
+* [[Penetrating Atherosclerotic Ulcer]] — [[d:Q7162620|Q7162620]] <small>(MeSH: D000094667)</small>
+* [[Pericardial Effusion]] — [[d:Q1306218|Q1306218]] <small>(MeSH: D010490)</small>
+* [[Pericarditis]] — [[d:Q501561|Q501561]] <small>(MeSH: D010493)</small>
+* [[Pericarditis, Constrictive]] — [[d:Q3049292|Q3049292]] <small>(MeSH: D010494)</small>
+* [[Peripartum Cardiomyopathy]] — [[d:Q2938089|Q2938089]] <small>(MeSH: D000099088)</small>
+* [[Peripheral Arterial Disease]] — [[d:Q378681|Q378681]] <small>(MeSH: D058729)</small>
+* [[Peripheral Vascular Diseases]] — [[d:Q26695607|Q26695607]] <small>(MeSH: D016491)</small>
+* [[Persistent Left Superior Vena Cava]] — [[d:Q4009452|Q4009452]] <small>(MeSH: D000083402)</small>
+* [[Phlebitis]] — [[d:Q1423167|Q1423167]] <small>(MeSH: D010689)</small>
+* [[Pneumopericardium]] — [[d:Q7206009|Q7206009]] <small>(MeSH: D011026)</small>
+* [[Polyarteritis Nodosa]] — [[d:Q745162|Q745162]] <small>(MeSH: D010488)</small>
+* [[Polymorphic Catecholaminergic Ventricular Tachycardia]] — [[d:Q1649897|Q1649897]] <small>(MeSH: D000098850)</small>
+* [[Popliteal Artery Aneurysm]] — [[d:Q18343639|Q18343639]] <small>(MeSH: D000094622)</small>
+* [[Popliteal Artery Entrapment Syndrome]] — [[d:Q488972|Q488972]] <small>(MeSH: D000083082)</small>
+* [[Post-Cardiac Arrest Syndrome]] — [[d:Q60195177|Q60195177]] <small>(MeSH: D000080942)</small>
+* [[Postpericardiotomy Syndrome]] — [[d:Q7234096|Q7234096]] <small>(MeSH: D011185)</small>
+* [[Postphlebitic Syndrome]] — [[d:Q68412761|Q68412761]] <small>(MeSH: D011186)</small>
+* [[Postthrombotic Syndrome]] — [[d:Q382091|Q382091]] <small>(MeSH: D054070)</small>
+* [[Pre-Excitation Syndromes]] — [[d:Q2064167|Q2064167]] <small>(MeSH: D011226)</small>
+* [[Pre-Excitation, Mahaim-Type]] — [[d:Q47246697|Q47246697]] <small>(MeSH: D011227)</small>
+* [[Prehypertension]] — [[d:Q7239981|Q7239981]] <small>(MeSH: D058246)</small>
+* [[Primary Graft Dysfunction]] — [[d:Q55040429|Q55040429]] <small>(MeSH: D055031)</small>
+* [[Pulmonary Atresia]] — [[d:Q2090736|Q2090736]] <small>(MeSH: D018633)</small>
+* [[Pulmonary Heart Disease]] — [[d:Q1131786|Q1131786]] <small>(MeSH: D011660)</small>
+* [[Pulmonary Subvalvular Stenosis]] — [[d:Q18558028|Q18558028]] <small>(MeSH: D011662)</small>
+* [[Pulmonary Valve Insufficiency]] — [[d:Q3799243|Q3799243]] <small>(MeSH: D011665)</small>
+* [[Pulmonary Valve Stenosis]] — [[d:Q579527|Q579527]] <small>(MeSH: D011666)</small>
+* [[Quadricuspid Aortic Valve]] — [[d:Q17145679|Q17145679]] <small>(MeSH: D000082902)</small>
+* [[Raynaud Disease]] — [[d:Q1053824|Q1053824]] <small>(MeSH: D011928)</small>
+* [[Reperfusion Injury]] — [[d:Q1413991|Q1413991]] <small>(MeSH: D015427)</small>
+* [[Retinal Arterial Macroaneurysm]] — [[d:Q55784267|Q55784267]] <small>(MeSH: D000080346)</small>
+* [[Retinal Vein Occlusion]] — [[d:Q18554884|Q18554884]] <small>(MeSH: D012170)</small>
+* [[Romano-Ward Syndrome]] — [[d:Q724714|Q724714]] <small>(MeSH: D029597)</small>
+* [[Sagittal Sinus Thrombosis]] — [[d:Q18555982|Q18555982]] <small>(MeSH: D020225)</small>
+* [[Scurvy]] — [[d:Q163865|Q163865]] <small>(MeSH: D012614)</small>
+* [[Shwartzman Phenomenon]] — [[d:Q3454355|Q3454355]] <small>(MeSH: D012790)</small>
+* [[Sick Sinus Syndrome]] — [[d:Q1757915|Q1757915]] <small>(MeSH: D012804)</small>
+* [[Single Umbilical Artery]] — [[d:Q392185|Q392185]] <small>(MeSH: D058529)</small>
+* [[Sinoatrial Block]] — [[d:Q1426241|Q1426241]] <small>(MeSH: D012848)</small>
+* [[Sinus Arrest, Cardiac]] — [[d:Q7524810|Q7524810]] <small>(MeSH: D054138)</small>
+* [[Sinus Thrombosis, Intracranial]] — [[d:Q1428132|Q1428132]] <small>(MeSH: D012851)</small>
+* [[ST Elevation Myocardial Infarction]] — [[d:Q5915679|Q5915679]] <small>(MeSH: D000072657)</small>
+* [[Stenosis, Pulmonary Artery]] — [[d:Q7607892|Q7607892]] <small>(MeSH: D000071079)</small>
+* [[Stenosis, Pulmonary Vein]] — [[d:Q25324124|Q25324124]] <small>(MeSH: D000071078)</small>
+* [[Superior Vena Cava Syndrome]] — [[d:Q610737|Q610737]] <small>(MeSH: D013479)</small>
+* [[Systemic Vasculitis]] — [[d:Q7663822|Q7663822]] <small>(MeSH: D056647)</small>
+* [[Tachycardia]] — [[d:Q209583|Q209583]] <small>(MeSH: D013610)</small>
+* [[Tachycardia, Atrioventricular Nodal Reentry]] — [[d:Q10859019|Q10859019]] <small>(MeSH: D013611)</small>
+* [[Tachycardia, Ectopic Atrial]] — [[d:Q54946755|Q54946755]] <small>(MeSH: D013612)</small>
+* [[Tachycardia, Ectopic Junctional]] — [[d:Q3513620|Q3513620]] <small>(MeSH: D013613)</small>
+* [[Tachycardia, Paroxysmal]] — [[d:Q3980025|Q3980025]] <small>(MeSH: D013614)</small>
+* [[Tachycardia, Reciprocating]] — [[d:Q34399186|Q34399186]] <small>(MeSH: D054139)</small>
+* [[Tachycardia, Sinoatrial Nodal Reentry]] — [[d:Q18649409|Q18649409]] <small>(MeSH: D013615)</small>
+* [[Tachycardia, Sinus]] — [[d:Q522229|Q522229]] <small>(MeSH: D013616)</small>
+* [[Tachycardia, Supraventricular]] — [[d:Q1598909|Q1598909]] <small>(MeSH: D013617)</small>
+* [[Tachycardia, Ventricular]] — [[d:Q56002|Q56002]] <small>(MeSH: D017180)</small>
+* [[Takayasu Arteritis]] — [[d:Q432462|Q432462]] <small>(MeSH: D013625)</small>
+* [[Takotsubo Cardiomyopathy]] — [[d:Q595907|Q595907]] <small>(MeSH: D054549)</small>
+* [[Telangiectasia, Hereditary Hemorrhagic]] — [[d:Q776881|Q776881]] <small>(MeSH: D013683)</small>
+* [[Telangiectasis]] — [[d:Q1634800|Q1634800]] <small>(MeSH: D013684)</small>
+* [[Tetralogy of Fallot]] — [[d:Q1126831|Q1126831]] <small>(MeSH: D013771)</small>
+* [[Thromboangiitis Obliterans]] — [[d:Q746001|Q746001]] <small>(MeSH: D013919)</small>
+* [[Thromboembolism]] — [[d:Q891391|Q891391]] <small>(MeSH: D013923)</small>
+* [[Thromboinflammation]] — [[d:Q112159554|Q112159554]] <small>(MeSH: D000090882)</small>
+* [[Thrombophlebitis]] — [[d:Q377978|Q377978]] <small>(MeSH: D013924)</small>
+* [[Thrombosis]] — [[d:Q261327|Q261327]] <small>(MeSH: D013927)</small>
+* [[Torsades de Pointes]] — [[d:Q1625433|Q1625433]] <small>(MeSH: D016171)</small>
+* [[Transposition of Great Vessels]] — [[d:Q1758730|Q1758730]] <small>(MeSH: D014188)</small>
+* [[Tricuspid Atresia]] — [[d:Q1283303|Q1283303]] <small>(MeSH: D018785)</small>
+* [[Tricuspid Valve Insufficiency]] — [[d:Q1780241|Q1780241]] <small>(MeSH: D014262)</small>
+* [[Tricuspid Valve Prolapse]] — [[d:Q18556923|Q18556923]] <small>(MeSH: D014263)</small>
+* [[Tricuspid Valve Stenosis]] — [[d:Q2544879|Q2544879]] <small>(MeSH: D014264)</small>
+* [[Trilogy of Fallot]] — [[d:Q1394671|Q1394671]] <small>(MeSH: D014286)</small>
+* [[Truncus Arteriosus, Persistent]] — [[d:Q3055156|Q3055156]] <small>(MeSH: D014339)</small>
+* [[Univentricular Heart]] — [[d:Q3010837|Q3010837]] <small>(MeSH: D000080039)</small>
+* [[Upper Extremity Deep Vein Thrombosis]] — [[d:Q54911741|Q54911741]] <small>(MeSH: D056824)</small>
+* [[Varicose Ulcer]] — [[d:Q2474600|Q2474600]] <small>(MeSH: D014647)</small>
+* [[Varicose Veins]] — [[d:Q201180|Q201180]] <small>(MeSH: D014648)</small>
+* [[Vascular Diseases]] — [[d:Q1266890|Q1266890]] <small>(MeSH: D014652)</small>
+* [[Vascular Fistula]] — [[d:Q67084389|Q67084389]] <small>(MeSH: D016157)</small>
+* [[Vascular Malformations]] — [[d:Q121576|Q121576]] <small>(MeSH: D054079)</small>
+* [[Vascular Ring]] — [[d:Q3616597|Q3616597]] <small>(MeSH: D000073872)</small>
+* [[Vascular System Injuries]] — [[d:Q54943865|Q54943865]] <small>(MeSH: D057772)</small>
+* [[Vasculitis]] — [[d:Q644318|Q644318]] <small>(MeSH: D014657)</small>
+* [[Vasculitis, Leukocytoclastic, Cutaneous]] — [[d:Q4008885|Q4008885]] <small>(MeSH: D018366)</small>
+* [[Vasoplegia]] — [[d:Q3554941|Q3554941]] <small>(MeSH: D056987)</small>
+* [[Vein of Galen Malformations]] — [[d:Q55194865|Q55194865]] <small>(MeSH: D054080)</small>
+* [[Venous Insufficiency]] — [[d:Q9008818|Q9008818]] <small>(MeSH: D014689)</small>
+* [[Venous Thromboembolism]] — [[d:Q9397786|Q9397786]] <small>(MeSH: D054556)</small>
+* [[Venous Thrombosis]] — [[d:Q2751330|Q2751330]] <small>(MeSH: D020246)</small>
+* [[Ventricular Dysfunction]] — [[d:Q54911334|Q54911334]] <small>(MeSH: D018754)</small>
+* [[Ventricular Dysfunction, Left]] — [[d:Q11755424|Q11755424]] <small>(MeSH: D018487)</small>
+* [[Ventricular Dysfunction, Right]] — [[d:Q55040292|Q55040292]] <small>(MeSH: D018497)</small>
+* [[Ventricular Fibrillation]] — [[d:Q848662|Q848662]] <small>(MeSH: D014693)</small>
+* [[Ventricular Flutter]] — [[d:Q460864|Q460864]] <small>(MeSH: D054141)</small>
+* [[Ventricular Outflow Obstruction]] — [[d:Q7920319|Q7920319]] <small>(MeSH: D014694)</small>
+* [[Ventricular Outflow Obstruction, Left]] — [[d:Q116655876|Q116655876]] <small>(MeSH: D000092242)</small>
+* [[Ventricular Outflow Obstruction, Right]] — [[d:Q116656118|Q116656118]] <small>(MeSH: D000092243)</small>
+* [[Ventricular Premature Complexes]] — [[d:Q26781137|Q26781137]] <small>(MeSH: D018879)</small>
+* [[Ventricular Septal Rupture]] — [[d:Q55227180|Q55227180]] <small>(MeSH: D018658)</small>
+* [[White Coat Hypertension]] — [[d:Q1777563|Q1777563]] <small>(MeSH: D059466)</small>
+* [[Wolff-Parkinson-White Syndrome]] — [[d:Q925092|Q925092]] <small>(MeSH: D014927)</small>
+
+=== Gastroenterology ===
+
+* '''Coverage:''' 24.4%
+* '''{{color|blue|Bluelinks}}:''' 61
+* '''{{color|red|Redlinks}}:''' 189
+* [[Acalculous Cholecystitis]] — [[d:Q18555210|Q18555210]] <small>(MeSH: D042101)</small>
+* [[Achlorhydria]] — [[d:Q340548|Q340548]] <small>(MeSH: D000126)</small>
+* [[Acute-On-Chronic Liver Failure]] — [[d:Q65549985|Q65549985]] <small>(MeSH: D065290)</small>
+* [[Adenomatous Polyposis Coli]] — [[d:Q1369011|Q1369011]] <small>(MeSH: D011125)</small>
+* [[Afferent Loop Syndrome]] — [[d:Q17521095|Q17521095]] <small>(MeSH: D000343)</small>
+* [[alpha 1-Antitrypsin Deficiency]] — [[d:Q622437|Q622437]] <small>(MeSH: D019896)</small>
+* [[Anal Gland Neoplasms]] — [[d:Q7168360|Q7168360]] <small>(MeSH: D000694)</small>
+* [[Anorectal Malformations]] — [[d:Q41091|Q41091]] <small>(MeSH: D000071056)</small>
+* [[Anus Diseases]] — [[d:Q56603543|Q56603543]] <small>(MeSH: D001004)</small>
+* [[Anus Neoplasms]] — [[d:Q18556380|Q18556380]] <small>(MeSH: D001005)</small>
+* [[Anus, Imperforate]] — [[d:Q484631|Q484631]] <small>(MeSH: D001006)</small>
+* [[Appendiceal Neoplasms]] — [[d:Q18554044|Q18554044]] <small>(MeSH: D001063)</small>
+* [[Appendicitis]] — [[d:Q121041|Q121041]] <small>(MeSH: D001064)</small>
+* [[Autoimmune Pancreatitis]] — [[d:Q2267451|Q2267451]] <small>(MeSH: D000081012)</small>
+* [[Bile Duct Diseases]] — [[d:Q18556206|Q18556206]] <small>(MeSH: D001649)</small>
+* [[Bile Duct Neoplasms]] — [[d:Q56014549|Q56014549]] <small>(MeSH: D001650)</small>
+* [[Bile Reflux]] — [[d:Q18554274|Q18554274]] <small>(MeSH: D001655)</small>
+* [[Biliary Atresia]] — [[d:Q659033|Q659033]] <small>(MeSH: D001656)</small>
+* [[Biliary Dyskinesia]] — [[d:Q2028354|Q2028354]] <small>(MeSH: D001657)</small>
+* [[Biliary Fistula]] — [[d:Q4907743|Q4907743]] <small>(MeSH: D001658)</small>
+* [[Biliary Tract Diseases]] — [[d:Q18558210|Q18558210]] <small>(MeSH: D001660)</small>
+* [[Biliary Tract Neoplasms]] — [[d:Q18553364|Q18553364]] <small>(MeSH: D001661)</small>
+* [[Blind Loop Syndrome]] — [[d:Q2375956|Q2375956]] <small>(MeSH: D001765)</small>
+* [[Budd-Chiari Syndrome]] — [[d:Q183098|Q183098]] <small>(MeSH: D006502)</small>
+* [[Cecal Diseases]] — [[d:Q18554827|Q18554827]] <small>(MeSH: D002429)</small>
+* [[Cecal Neoplasms]] — [[d:Q66199823|Q66199823]] <small>(MeSH: D002430)</small>
+* [[Celiac Disease]] — [[d:Q11088|Q11088]] <small>(MeSH: D002446)</small>
+* [[Chilaiditi Syndrome]] — [[d:Q1072673|Q1072673]] <small>(MeSH: D059269)</small>
+* [[Cholangitis]] — [[d:Q603644|Q603644]] <small>(MeSH: D002761)</small>
+* [[Cholangitis, Sclerosing]] — [[d:Q18554727|Q18554727]] <small>(MeSH: D015209)</small>
+* [[Cholecystitis]] — [[d:Q376666|Q376666]] <small>(MeSH: D002764)</small>
+* [[Cholecystitis, Acute]] — [[d:Q3682563|Q3682563]] <small>(MeSH: D041881)</small>
+* [[Cholecystolithiasis]] — [[d:Q18554018|Q18554018]] <small>(MeSH: D041761)</small>
+* [[Choledochal Cyst]] — [[d:Q2027937|Q2027937]] <small>(MeSH: D015529)</small>
+* [[Choledocholithiasis]] — [[d:Q9290860|Q9290860]] <small>(MeSH: D042883)</small>
+* [[Cholelithiasis]] — [[d:Q7069348|Q7069348]] <small>(MeSH: D002769)</small>
+* [[Cholera Morbus]] — [[d:Q54972345|Q54972345]] <small>(MeSH: D017688)</small>
+* [[Cholestasis]] — [[d:Q1075923|Q1075923]] <small>(MeSH: D002779)</small>
+* [[Cholestasis, Extrahepatic]] — [[d:Q18554560|Q18554560]] <small>(MeSH: D001651)</small>
+* [[Cholestasis, Intrahepatic]] — [[d:Q3682587|Q3682587]] <small>(MeSH: D002780)</small>
+* [[Chylous Ascites]] — [[d:Q15727012|Q15727012]] <small>(MeSH: D002915)</small>
+* [[Colitis]] — [[d:Q2453464|Q2453464]] <small>(MeSH: D003092)</small>
+* [[Colitis, Collagenous]] — [[d:Q450470|Q450470]] <small>(MeSH: D046729)</small>
+* [[Colitis, Ischemic]] — [[d:Q1532338|Q1532338]] <small>(MeSH: D017091)</small>
+* [[Colitis, Lymphocytic]] — [[d:Q6708258|Q6708258]] <small>(MeSH: D046730)</small>
+* [[Colitis, Microscopic]] — [[d:Q2058941|Q2058941]] <small>(MeSH: D046728)</small>
+* [[Colitis, Ulcerative]] — [[d:Q1477|Q1477]] <small>(MeSH: D003093)</small>
+* [[Colitis-Associated Neoplasms]] — [[d:Q114733726|Q114733726]] <small>(MeSH: D000083023)</small>
+* [[Collagenous Sprue]] — [[d:Q54943978|Q54943978]] <small>(MeSH: D064068)</small>
+* [[Colonic Diseases]] — [[d:Q18556754|Q18556754]] <small>(MeSH: D003108)</small>
+* [[Colonic Diseases, Functional]] — [[d:Q18556106|Q18556106]] <small>(MeSH: D003109)</small>
+* [[Colonic Neoplasms]] — [[d:Q3542029|Q3542029]] <small>(MeSH: D003110)</small>
+* [[Colonic Pseudo-Obstruction]] — [[d:Q18556105|Q18556105]] <small>(MeSH: D003112)</small>
+* [[Colorectal Neoplasms]] — [[d:Q58833976|Q58833976]] <small>(MeSH: D015179)</small>
+* [[Colorectal Neoplasms, Hereditary Nonpolyposis]] — [[d:Q783644|Q783644]] <small>(MeSH: D003123)</small>
+* [[Common Bile Duct Diseases]] — [[d:Q18556205|Q18556205]] <small>(MeSH: D003137)</small>
+* [[Common Bile Duct Neoplasms]] — [[d:Q18556399|Q18556399]] <small>(MeSH: D003138)</small>
+* [[Coproporphyria, Hereditary]] — [[d:Q823140|Q823140]] <small>(MeSH: D046349)</small>
+* [[Crohn Disease]] — [[d:Q1472|Q1472]] <small>(MeSH: D003424)</small>
+* [[Cronkhite-Canada Syndrome]] — [[d:Q1422034|Q1422034]] <small>(MeSH: D000098858)</small>
+* [[Deglutition Disorders]] — [[d:Q623289|Q623289]] <small>(MeSH: D003680)</small>
+* [[Diaphragmatic Eventration]] — [[d:Q18553872|Q18553872]] <small>(MeSH: D003965)</small>
+* [[Digestive System Abnormalities]] — [[d:Q54911721|Q54911721]] <small>(MeSH: D004065)</small>
+* [[Digestive System Diseases]] — [[d:Q2300099|Q2300099]] <small>(MeSH: D004066)</small>
+* [[Digestive System Fistula]] — [[d:Q34397578|Q34397578]] <small>(MeSH: D016154)</small>
+* [[Diverticular Diseases]] — [[d:Q25324086|Q25324086]] <small>(MeSH: D000076385)</small>
+* [[Diverticulitis]] — [[d:Q1066061|Q1066061]] <small>(MeSH: D004238)</small>
+* [[Diverticulitis, Colonic]] — [[d:Q18554479|Q18554479]] <small>(MeSH: D004239)</small>
+* [[Diverticulosis, Colonic]] — [[d:Q278158|Q278158]] <small>(MeSH: D043963)</small>
+* [[Diverticulosis, Esophageal]] — [[d:Q18554459|Q18554459]] <small>(MeSH: D045723)</small>
+* [[Diverticulosis, Stomach]] — [[d:Q18556294|Q18556294]] <small>(MeSH: D045724)</small>
+* [[Diverticulum]] — [[d:Q1141055|Q1141055]] <small>(MeSH: D004240)</small>
+* [[Diverticulum, Colon]] — [[d:Q55226802|Q55226802]] <small>(MeSH: D004241)</small>
+* [[Diverticulum, Esophageal]] — [[d:Q298241|Q298241]] <small>(MeSH: D004936)</small>
+* [[Diverticulum, Stomach]] — [[d:Q40943828|Q40943828]] <small>(MeSH: D013273)</small>
+* [[Dumping Syndrome]] — [[d:Q239848|Q239848]] <small>(MeSH: D004377)</small>
+* [[Duodenal Diseases]] — [[d:Q18556187|Q18556187]] <small>(MeSH: D004378)</small>
+* [[Duodenal Neoplasms]] — [[d:Q18554887|Q18554887]] <small>(MeSH: D004379)</small>
+* [[Duodenal Obstruction]] — [[d:Q18555979|Q18555979]] <small>(MeSH: D004380)</small>
+* [[Duodenal Ulcer]] — [[d:Q355170|Q355170]] <small>(MeSH: D004381)</small>
+* [[Duodenitis]] — [[d:Q1266418|Q1266418]] <small>(MeSH: D004382)</small>
+* [[Duodenogastric Reflux]] — [[d:Q4170873|Q4170873]] <small>(MeSH: D004383)</small>
+* [[Dysentery]] — [[d:Q129279|Q129279]] <small>(MeSH: D004403)</small>
+* [[Dysentery, Amebic]] — [[d:Q15460254|Q15460254]] <small>(MeSH: D004404)</small>
+* [[Dysentery, Bacillary]] — [[d:Q3778137|Q3778137]] <small>(MeSH: D004405)</small>
+* [[Emphysematous Cholecystitis]] — [[d:Q18558214|Q18558214]] <small>(MeSH: D041882)</small>
+* [[End Stage Liver Disease]] — [[d:Q54974362|Q54974362]] <small>(MeSH: D058625)</small>
+* [[Enteritis]] — [[d:Q854353|Q854353]] <small>(MeSH: D004751)</small>
+* [[Enterocolitis]] — [[d:Q3055368|Q3055368]] <small>(MeSH: D004760)</small>
+* [[Enterocolitis, Necrotizing]] — [[d:Q10859678|Q10859678]] <small>(MeSH: D020345)</small>
+* [[Enterocolitis, Neutropenic]] — [[d:Q54971712|Q54971712]] <small>(MeSH: D044504)</small>
+* [[Enterocolitis, Pseudomembranous]] — [[d:Q574905|Q574905]] <small>(MeSH: D004761)</small>
+* [[Eosinophilic Esophagitis]] — [[d:Q2057356|Q2057356]] <small>(MeSH: D057765)</small>
+* [[Esophageal Achalasia]] — [[d:Q661015|Q661015]] <small>(MeSH: D004931)</small>
+* [[Esophageal and Gastric Varices]] — [[d:Q54911777|Q54911777]] <small>(MeSH: D004932)</small>
+* [[Esophageal Atresia]] — [[d:Q298233|Q298233]] <small>(MeSH: D004933)</small>
+* [[Esophageal Diseases]] — [[d:Q2912193|Q2912193]] <small>(MeSH: D004935)</small>
+* [[Esophageal Fistula]] — [[d:Q41795609|Q41795609]] <small>(MeSH: D004937)</small>
+* [[Esophageal Motility Disorders]] — [[d:Q4162143|Q4162143]] <small>(MeSH: D015154)</small>
+* [[Esophageal Neoplasms]] — [[d:Q56014520|Q56014520]] <small>(MeSH: D004938)</small>
+* [[Esophageal Perforation]] — [[d:Q298246|Q298246]] <small>(MeSH: D004939)</small>
+* [[Esophageal Spasm, Diffuse]] — [[d:Q1224503|Q1224503]] <small>(MeSH: D015155)</small>
+* [[Esophageal Stenosis]] — [[d:Q5398646|Q5398646]] <small>(MeSH: D004940)</small>
+* [[Esophagitis]] — [[d:Q298230|Q298230]] <small>(MeSH: D004941)</small>
+* [[Esophagitis, Peptic]] — [[d:Q2184368|Q2184368]] <small>(MeSH: D004942)</small>
+* [[Exocrine Pancreatic Insufficiency]] — [[d:Q641605|Q641605]] <small>(MeSH: D010188)</small>
+* [[Fatty Liver]] — [[d:Q6058862|Q6058862]] <small>(MeSH: D005234)</small>
+* [[Fatty Liver, Alcoholic]] — [[d:Q25416562|Q25416562]] <small>(MeSH: D005235)</small>
+* [[Fecal Impaction]] — [[d:Q1477327|Q1477327]] <small>(MeSH: D005244)</small>
+* [[Fecal Incontinence]] — [[d:Q1147182|Q1147182]] <small>(MeSH: D005242)</small>
+* [[Fissure in Ano]] — [[d:Q484797|Q484797]] <small>(MeSH: D005401)</small>
+* [[Focal Nodular Hyperplasia]] — [[d:Q1435219|Q1435219]] <small>(MeSH: D020518)</small>
+* [[Gallbladder Diseases]] — [[d:Q5518905|Q5518905]] <small>(MeSH: D005705)</small>
+* [[Gallbladder Neoplasms]] — [[d:Q56014509|Q56014509]] <small>(MeSH: D005706)</small>
+* [[Gallstones]] — [[d:Q272714|Q272714]] <small>(MeSH: D042882)</small>
+* [[Gardner Syndrome]] — [[d:Q1702335|Q1702335]] <small>(MeSH: D005736)</small>
+* [[Gastric Antral Vascular Ectasia]] — [[d:Q1484679|Q1484679]] <small>(MeSH: D020252)</small>
+* [[Gastric Dilatation]] — [[d:Q18555346|Q18555346]] <small>(MeSH: D013271)</small>
+* [[Gastric Fistula]] — [[d:Q55093014|Q55093014]] <small>(MeSH: D005747)</small>
+* [[Gastric Outlet Obstruction]] — [[d:Q5526789|Q5526789]] <small>(MeSH: D017219)</small>
+* [[Gastritis]] — [[d:Q183130|Q183130]] <small>(MeSH: D005756)</small>
+* [[Gastritis, Atrophic]] — [[d:Q1826391|Q1826391]] <small>(MeSH: D005757)</small>
+* [[Gastritis, Hypertrophic]] — [[d:Q975705|Q975705]] <small>(MeSH: D005758)</small>
+* [[Gastroenteritis]] — [[d:Q156103|Q156103]] <small>(MeSH: D005759)</small>
+* [[Gastroesophageal Reflux]] — [[d:Q223591|Q223591]] <small>(MeSH: D005764)</small>
+* [[Gastrointestinal Diseases]] — [[d:Q5508825|Q5508825]] <small>(MeSH: D005767)</small>
+* [[Gastrointestinal Hemorrhage]] — [[d:Q1495657|Q1495657]] <small>(MeSH: D006471)</small>
+* [[Gastrointestinal Neoplasms]] — [[d:Q58833942|Q58833942]] <small>(MeSH: D005770)</small>
+* [[Gastrointestinal Stromal Tumors]] — [[d:Q1495661|Q1495661]] <small>(MeSH: D046152)</small>
+* [[Gastroparesis]] — [[d:Q943897|Q943897]] <small>(MeSH: D018589)</small>
+* [[Hemoperitoneum]] — [[d:Q1510899|Q1510899]] <small>(MeSH: D006465)</small>
+* [[Hemorrhoids]] — [[d:Q41478|Q41478]] <small>(MeSH: D006484)</small>
+* [[Hepatic Encephalopathy]] — [[d:Q642548|Q642548]] <small>(MeSH: D006501)</small>
+* [[Hepatic Insufficiency]] — [[d:Q68663705|Q68663705]] <small>(MeSH: D048550)</small>
+* [[Hepatic Veno-Occlusive Disease]] — [[d:Q5731687|Q5731687]] <small>(MeSH: D006504)</small>
+* [[Hepatitis]] — [[d:Q131742|Q131742]] <small>(MeSH: D006505)</small>
+* [[Hepatitis, Alcoholic]] — [[d:Q3144986|Q3144986]] <small>(MeSH: D006519)</small>
+* [[Hepatitis, Autoimmune]] — [[d:Q786844|Q786844]] <small>(MeSH: D019693)</small>
+* [[Hepatitis, Chronic]] — [[d:Q62019625|Q62019625]] <small>(MeSH: D006521)</small>
+* [[Hepatomegaly]] — [[d:Q1362864|Q1362864]] <small>(MeSH: D006529)</small>
+* [[Hepatopulmonary Syndrome]] — [[d:Q1569573|Q1569573]] <small>(MeSH: D020065)</small>
+* [[Hirschsprung Disease]] — [[d:Q1343645|Q1343645]] <small>(MeSH: D006627)</small>
+* [[Hypertension, Portal]] — [[d:Q124604|Q124604]] <small>(MeSH: D006975)</small>
+* [[Idiopathic Noncirrhotic Portal Hypertension]] — [[d:Q116847675|Q116847675]] <small>(MeSH: D000094724)</small>
+* [[Ileal Diseases]] — [[d:Q18966851|Q18966851]] <small>(MeSH: D007077)</small>
+* [[Ileal Neoplasms]] — [[d:Q18553797|Q18553797]] <small>(MeSH: D007078)</small>
+* [[Ileitis]] — [[d:Q3796380|Q3796380]] <small>(MeSH: D007079)</small>
+* [[Ileus]] — [[d:Q738153|Q738153]] <small>(MeSH: D045823)</small>
+* [[Immunoproliferative Small Intestinal Disease]] — [[d:Q1916505|Q1916505]] <small>(MeSH: D007161)</small>
+* [[Inflammatory Bowel Diseases]] — [[d:Q917447|Q917447]] <small>(MeSH: D015212)</small>
+* [[Intestinal Atresia]] — [[d:Q4597494|Q4597494]] <small>(MeSH: D007409)</small>
+* [[Intestinal Diseases]] — [[d:Q3055380|Q3055380]] <small>(MeSH: D007410)</small>
+* [[Intestinal Failure]] — [[d:Q18449311|Q18449311]] <small>(MeSH: D000090124)</small>
+* [[Intestinal Fistula]] — [[d:Q54931334|Q54931334]] <small>(MeSH: D007412)</small>
+* [[Intestinal Neoplasms]] — [[d:Q16116595|Q16116595]] <small>(MeSH: D007414)</small>
+* [[Intestinal Obstruction]] — [[d:Q16244733|Q16244733]] <small>(MeSH: D007415)</small>
+* [[Intestinal Perforation]] — [[d:Q18554982|Q18554982]] <small>(MeSH: D007416)</small>
+* [[Intestinal Polyposis]] — [[d:Q131582551|Q131582551]] <small>(MeSH: D044483)</small>
+* [[Intestinal Pseudo-Obstruction]] — [[d:Q3924862|Q3924862]] <small>(MeSH: D007418)</small>
+* [[Intestinal Volvulus]] — [[d:Q388388|Q388388]] <small>(MeSH: D045822)</small>
+* [[Intussusception]] — [[d:Q1424612|Q1424612]] <small>(MeSH: D007443)</small>
+* [[Irritable Bowel Syndrome]] — [[d:Q838966|Q838966]] <small>(MeSH: D043183)</small>
+* [[Jejunal Diseases]] — [[d:Q18967499|Q18967499]] <small>(MeSH: D007579)</small>
+* [[Jejunal Neoplasms]] — [[d:Q18555342|Q18555342]] <small>(MeSH: D007580)</small>
+* [[Laryngopharyngeal Reflux]] — [[d:Q367616|Q367616]] <small>(MeSH: D057045)</small>
+* [[Liver Cirrhosis]] — [[d:Q147778|Q147778]] <small>(MeSH: D008103)</small>
+* [[Liver Cirrhosis, Alcoholic]] — [[d:Q6470994|Q6470994]] <small>(MeSH: D008104)</small>
+* [[Liver Cirrhosis, Biliary]] — [[d:Q1072420|Q1072420]] <small>(MeSH: D008105)</small>
+* [[Liver Cirrhosis, Experimental]] — [[d:Q54944109|Q54944109]] <small>(MeSH: D008106)</small>
+* [[Liver Diseases]] — [[d:Q929737|Q929737]] <small>(MeSH: D008107)</small>
+* [[Liver Diseases, Alcoholic]] — [[d:Q558404|Q558404]] <small>(MeSH: D008108)</small>
+* [[Liver Failure]] — [[d:Q970208|Q970208]] <small>(MeSH: D017093)</small>
+* [[Liver Failure, Acute]] — [[d:Q1192530|Q1192530]] <small>(MeSH: D017114)</small>
+* [[Liver Neoplasms]] — [[d:Q18558073|Q18558073]] <small>(MeSH: D008113)</small>
+* [[Low Anterior Resection Syndrome]] — [[d:Q111487708|Q111487708]] <small>(MeSH: D000094123)</small>
+* [[Malabsorption Syndromes]] — [[d:Q1442923|Q1442923]] <small>(MeSH: D008286)</small>
+* [[Mallory-Weiss Syndrome]] — [[d:Q1632678|Q1632678]] <small>(MeSH: D008309)</small>
+* [[Massive Hepatic Necrosis]] — [[d:Q21119304|Q21119304]] <small>(MeSH: D047508)</small>
+* [[Meconium Ileus]] — [[d:Q55784355|Q55784355]] <small>(MeSH: D000074270)</small>
+* [[Megacolon]] — [[d:Q1754226|Q1754226]] <small>(MeSH: D008531)</small>
+* [[Megacolon, Toxic]] — [[d:Q588321|Q588321]] <small>(MeSH: D008532)</small>
+* [[Mesenteric Ischemia]] — [[d:Q221463|Q221463]] <small>(MeSH: D065666)</small>
+* [[Mesenteric Lymphadenitis]] — [[d:Q2891261|Q2891261]] <small>(MeSH: D008640)</small>
+* [[Mesenteric Vascular Occlusion]] — [[d:Q18554478|Q18554478]] <small>(MeSH: D008641)</small>
+* [[Mirizzi Syndrome]] — [[d:Q212726|Q212726]] <small>(MeSH: D057792)</small>
+* [[Mucositis]] — [[d:Q6931269|Q6931269]] <small>(MeSH: D052016)</small>
+* [[Neurogenic Bowel]] — [[d:Q18554515|Q18554515]] <small>(MeSH: D055496)</small>
+* [[Non-alcoholic Fatty Liver Disease]] — [[d:Q1546498|Q1546498]] <small>(MeSH: D065626)</small>
+* [[Non-Erosive Reflux Disease]] — [[d:Q3843795|Q3843795]] <small>(MeSH: D000096663)</small>
+* [[Pancreas Divisum]] — [[d:Q585140|Q585140]] <small>(MeSH: D000092142)</small>
+* [[Pancreatic Diseases]] — [[d:Q7130407|Q7130407]] <small>(MeSH: D010182)</small>
+* [[Pancreatic Fistula]] — [[d:Q7130409|Q7130409]] <small>(MeSH: D010185)</small>
+* [[Pancreaticobiliary Maljunction]] — [[d:Q19598376|Q19598376]] <small>(MeSH: D000080222)</small>
+* [[Pancreatitis]] — [[d:Q1527888|Q1527888]] <small>(MeSH: D010195)</small>
+* [[Pancreatitis, Acute Hemorrhagic]] — [[d:Q111042758|Q111042758]] <small>(MeSH: D000081032)</small>
+* [[Pancreatitis, Acute Necrotizing]] — [[d:Q55022306|Q55022306]] <small>(MeSH: D019283)</small>
+* [[Pancreatitis, Alcoholic]] — [[d:Q18556573|Q18556573]] <small>(MeSH: D019512)</small>
+* [[Pancreatitis, Chronic]] — [[d:Q1996053|Q1996053]] <small>(MeSH: D050500)</small>
+* [[Pancreatitis, Graft]] — [[d:Q55083550|Q55083550]] <small>(MeSH: D055589)</small>
+* [[Panniculitis, Peritoneal]] — [[d:Q55093289|Q55093289]] <small>(MeSH: D015436)</small>
+* [[Peliosis Hepatis]] — [[d:Q2068039|Q2068039]] <small>(MeSH: D010382)</small>
+* [[Peptic Ulcer]] — [[d:Q172941|Q172941]] <small>(MeSH: D010437)</small>
+* [[Peptic Ulcer Hemorrhage]] — [[d:Q18557609|Q18557609]] <small>(MeSH: D010438)</small>
+* [[Peptic Ulcer Perforation]] — [[d:Q3956352|Q3956352]] <small>(MeSH: D010439)</small>
+* [[Peritoneal Diseases]] — [[d:Q54935444|Q54935444]] <small>(MeSH: D010532)</small>
+* [[Peritoneal Fibrosis]] — [[d:Q26805194|Q26805194]] <small>(MeSH: D056627)</small>
+* [[Plummer-Vinson Syndrome]] — [[d:Q31813|Q31813]] <small>(MeSH: D011004)</small>
+* [[Pneumatosis Cystoides Intestinalis]] — [[d:Q18554476|Q18554476]] <small>(MeSH: D011006)</small>
+* [[Pneumoperitoneum]] — [[d:Q163469|Q163469]] <small>(MeSH: D011027)</small>
+* [[Porphyria Cutanea Tarda]] — [[d:Q1479497|Q1479497]] <small>(MeSH: D017119)</small>
+* [[Porphyria, Acute Intermittent]] — [[d:Q424247|Q424247]] <small>(MeSH: D017118)</small>
+* [[Porphyria, Hepatoerythropoietic]] — [[d:Q390791|Q390791]] <small>(MeSH: D017121)</small>
+* [[Porphyria, Variegate]] — [[d:Q275385|Q275385]] <small>(MeSH: D046350)</small>
+* [[Porphyrias, Hepatic]] — [[d:Q3908490|Q3908490]] <small>(MeSH: D017094)</small>
+* [[Postcholecystectomy Syndrome]] — [[d:Q912766|Q912766]] <small>(MeSH: D017562)</small>
+* [[Postgastrectomy Syndromes]] — [[d:Q18557940|Q18557940]] <small>(MeSH: D011178)</small>
+* [[Pouchitis]] — [[d:Q3392956|Q3392956]] <small>(MeSH: D019449)</small>
+* [[Proctitis]] — [[d:Q941770|Q941770]] <small>(MeSH: D011349)</small>
+* [[Proctocolitis]] — [[d:Q7247500|Q7247500]] <small>(MeSH: D011350)</small>
+* [[Protein-Losing Enteropathies]] — [[d:Q284070|Q284070]] <small>(MeSH: D011504)</small>
+* [[Protoporphyria, Erythropoietic]] — [[d:Q1759600|Q1759600]] <small>(MeSH: D046351)</small>
+* [[Pruritus Ani]] — [[d:Q1633590|Q1633590]] <small>(MeSH: D011538)</small>
+* [[Pyloric Stenosis]] — [[d:Q1027995|Q1027995]] <small>(MeSH: D011707)</small>
+* [[Pyloric Stenosis, Hypertrophic]] — [[d:Q18554354|Q18554354]] <small>(MeSH: D046248)</small>
+* [[Rectal Diseases]] — [[d:Q18554389|Q18554389]] <small>(MeSH: D012002)</small>
+* [[Rectal Fistula]] — [[d:Q484765|Q484765]] <small>(MeSH: D012003)</small>
+* [[Rectal Neoplasms]] — [[d:Q18554955|Q18554955]] <small>(MeSH: D012004)</small>
+* [[Rectal Prolapse]] — [[d:Q2062483|Q2062483]] <small>(MeSH: D012005)</small>
+* [[Rectocele]] — [[d:Q964891|Q964891]] <small>(MeSH: D020047)</small>
+* [[Rectovaginal Fistula]] — [[d:Q3740798|Q3740798]] <small>(MeSH: D012006)</small>
+* [[Respiratory Aspiration of Gastric Contents]] — [[d:Q64811453|Q64811453]] <small>(MeSH: D063466)</small>
+* [[Reye Syndrome]] — [[d:Q826103|Q826103]] <small>(MeSH: D012202)</small>
+* [[Rumination Syndrome]] — [[d:Q4358147|Q4358147]] <small>(MeSH: D000079562)</small>
+* [[Short Bowel Syndrome]] — [[d:Q662272|Q662272]] <small>(MeSH: D012778)</small>
+* [[Sigmoid Diseases]] — [[d:Q18554932|Q18554932]] <small>(MeSH: D012810)</small>
+* [[Sigmoid Neoplasms]] — [[d:Q18554931|Q18554931]] <small>(MeSH: D012811)</small>
+* [[Sinistral Portal Hypertension]] — [[d:Q116847656|Q116847656]] <small>(MeSH: D000094723)</small>
+* [[Sphincter of Oddi Dysfunction]] — [[d:Q4162400|Q4162400]] <small>(MeSH: D046628)</small>
+* [[Sprue, Tropical]] — [[d:Q585911|Q585911]] <small>(MeSH: D013182)</small>
+* [[Steatorrhea]] — [[d:Q1549428|Q1549428]] <small>(MeSH: D045602)</small>
+* [[Stomach Diseases]] — [[d:Q175827|Q175827]] <small>(MeSH: D013272)</small>
+* [[Stomach Neoplasms]] — [[d:Q4335552|Q4335552]] <small>(MeSH: D013274)</small>
+* [[Stomach Ulcer]] — [[d:Q4003020|Q4003020]] <small>(MeSH: D013276)</small>
+* [[Stomach Volvulus]] — [[d:Q5526795|Q5526795]] <small>(MeSH: D013277)</small>
+* [[Superior Mesenteric Artery Syndrome]] — [[d:Q1642206|Q1642206]] <small>(MeSH: D013478)</small>
+* [[Tracheoesophageal Fistula]] — [[d:Q7831319|Q7831319]] <small>(MeSH: D014138)</small>
+* [[Typhlitis]] — [[d:Q462339|Q462339]] <small>(MeSH: D053706)</small>
+* [[Visceral Prolapse]] — [[d:Q5420556|Q5420556]] <small>(MeSH: D014782)</small>
+* [[Zenker Diverticulum]] — [[d:Q189638|Q189638]] <small>(MeSH: D016672)</small>
+* [[Zollinger-Ellison Syndrome]] — [[d:Q218712|Q218712]] <small>(MeSH: D015043)</small>
+
+=== Pathological Conditions and Signs ===
+
+* '''Coverage:''' 43.0%
+* '''{{color|blue|Bluelinks}}:''' 141
+* '''{{color|red|Redlinks}}:''' 187
+* [[Abdomen, Acute]] — [[d:Q424317|Q424317]] <small>(MeSH: D000006)</small>
+* [[Abdominal Pain]] — [[d:Q183425|Q183425]] <small>(MeSH: D015746)</small>
+* [[Accessory Atrioventricular Bundle]] — [[d:Q54959967|Q54959967]] <small>(MeSH: D058606)</small>
+* [[Acute Disease]] — [[d:Q557429|Q557429]] <small>(MeSH: D000208)</small>
+* [[Acute Pain]] — [[d:Q16534541|Q16534541]] <small>(MeSH: D059787)</small>
+* [[Acute-Phase Reaction]] — [[d:Q68637337|Q68637337]] <small>(MeSH: D000210)</small>
+* [[Aerophagy]] — [[d:Q381619|Q381619]] <small>(MeSH: D000334)</small>
+* [[Aging, Premature]] — [[d:Q6139748|Q6139748]] <small>(MeSH: D019588)</small>
+* [[Airway Remodeling]] — [[d:Q3935877|Q3935877]] <small>(MeSH: D056151)</small>
+* [[Ambulatory Care Sensitive Conditions]] — [[d:Q112115758|Q112115758]] <small>(MeSH: D000090004)</small>
+* [[Amenorrhea]] — [[d:Q334655|Q334655]] <small>(MeSH: D000568)</small>
+* [[Anastomotic Leak]] — [[d:Q487231|Q487231]] <small>(MeSH: D057868)</small>
+* [[Anorexia]] — [[d:Q254327|Q254327]] <small>(MeSH: D000855)</small>
+* [[Anticipation, Genetic]] — [[d:Q584562|Q584562]] <small>(MeSH: D020132)</small>
+* [[Ascites]] — [[d:Q193889|Q193889]] <small>(MeSH: D001201)</small>
+* [[Asphyxia]] — [[d:Q193840|Q193840]] <small>(MeSH: D001237)</small>
+* [[Asthenia]] — [[d:Q633403|Q633403]] <small>(MeSH: D001247)</small>
+* [[Asymptomatic Diseases]] — [[d:Q29056801|Q29056801]] <small>(MeSH: D058070)</small>
+* [[Atrial Remodeling]] — [[d:Q52577085|Q52577085]] <small>(MeSH: D064752)</small>
+* [[Atrophy]] — [[d:Q194520|Q194520]] <small>(MeSH: D001284)</small>
+* [[Autolysis]] — [[d:Q787099|Q787099]] <small>(MeSH: D001329)</small>
+* [[Back Pain]] — [[d:Q5781808|Q5781808]] <small>(MeSH: D001416)</small>
+* [[Blood Loss, Surgical]] — [[d:Q65619893|Q65619893]] <small>(MeSH: D016063)</small>
+* [[Body Odor]] — [[d:Q1328199|Q1328199]] <small>(MeSH: D000089083)</small>
+* [[Body Temperature Changes]] — [[d:Q16679262|Q16679262]] <small>(MeSH: D001832)</small>
+* [[Body Weight Changes]] — [[d:Q21128838|Q21128838]] <small>(MeSH: D001836)</small>
+* [[Body-Weight Trajectory]] — [[d:Q113961548|Q113961548]] <small>(MeSH: D000077962)</small>
+* [[Breakthrough Pain]] — [[d:Q10503880|Q10503880]] <small>(MeSH: D059390)</small>
+* [[Brief, Resolved, Unexplained Event]] — [[d:Q1472019|Q1472019]] <small>(MeSH: D057768)</small>
+* [[Bulimia]] — [[d:Q64513386|Q64513386]] <small>(MeSH: D002032)</small>
+* [[Cachexia]] — [[d:Q6003455|Q6003455]] <small>(MeSH: D002100)</small>
+* [[Cadaver]] — [[d:Q48422|Q48422]] <small>(MeSH: D002102)</small>
+* [[Calculi]] — [[d:Q617079|Q617079]] <small>(MeSH: D002137)</small>
+* [[Cancer Pain]] — [[d:Q3712728|Q3712728]] <small>(MeSH: D000072716)</small>
+* [[Catastrophic Illness]] — [[d:Q5051575|Q5051575]] <small>(MeSH: D002388)</small>
+* [[Cellulite]] — [[d:Q242510|Q242510]] <small>(MeSH: D000071697)</small>
+* [[Cerebral Cortical Thinning]] — [[d:Q114732699|Q114732699]] <small>(MeSH: D000082643)</small>
+* [[Cervical Dizziness]] — [[d:Q137688601|Q137688601]] <small>(MeSH: D000099106)</small>
+* [[Channelopathies]] — [[d:Q2936142|Q2936142]] <small>(MeSH: D053447)</small>
+* [[Chest Pain]] — [[d:Q693058|Q693058]] <small>(MeSH: D002637)</small>
+* [[Chills]] — [[d:Q2260058|Q2260058]] <small>(MeSH: D023341)</small>
+* [[Choristoma]] — [[d:Q40649915|Q40649915]] <small>(MeSH: D002828)</small>
+* [[Chromosomal Instability]] — [[d:Q1087752|Q1087752]] <small>(MeSH: D043171)</small>
+* [[Chromosome Aberrations]] — [[d:Q744962|Q744962]] <small>(MeSH: D002869)</small>
+* [[Chromosome Fragility]] — [[d:Q71260880|Q71260880]] <small>(MeSH: D002873)</small>
+* [[Chromothripsis]] — [[d:Q1087765|Q1087765]] <small>(MeSH: D000072837)</small>
+* [[Chronic Disease]] — [[d:Q383126|Q383126]] <small>(MeSH: D002908)</small>
+* [[Chronic Pain]] — [[d:Q1088113|Q1088113]] <small>(MeSH: D059350)</small>
+* [[Clinical Deterioration]] — [[d:Q113428275|Q113428275]] <small>(MeSH: D000075902)</small>
+* [[Colonic Polyps]] — [[d:Q1209892|Q1209892]] <small>(MeSH: D003111)</small>
+* [[Constipation]] — [[d:Q178436|Q178436]] <small>(MeSH: D003248)</small>
+* [[Constriction, Pathologic]] — [[d:Q2343082|Q2343082]] <small>(MeSH: D003251)</small>
+* [[Convalescence]] — [[d:Q1891441|Q1891441]] <small>(MeSH: D003289)</small>
+* [[Corpse Dismemberment]] — [[d:Q42269551|Q42269551]] <small>(MeSH: D056146)</small>
+* [[Critical Illness]] — [[d:Q65807521|Q65807521]] <small>(MeSH: D016638)</small>
+* [[Crystalluria]] — [[d:Q5191451|Q5191451]] <small>(MeSH: D000092162)</small>
+* [[Cyanosis]] — [[d:Q192120|Q192120]] <small>(MeSH: D003490)</small>
+* [[Cytokine Release Syndrome]] — [[d:Q3961647|Q3961647]] <small>(MeSH: D000080424)</small>
+* [[Death]] — [[d:Q4|Q4]] <small>(MeSH: D003643)</small>
+* [[Death, Sudden]] — [[d:Q54973951|Q54973951]] <small>(MeSH: D003645)</small>
+* [[Delayed Emergence from Anesthesia]] — [[d:Q42581703|Q42581703]] <small>(MeSH: D055191)</small>
+* [[Delayed Graft Function]] — [[d:Q42261552|Q42261552]] <small>(MeSH: D051799)</small>
+* [[Diarrhea]] — [[d:Q40878|Q40878]] <small>(MeSH: D003967)</small>
+* [[Diarrhea, Infantile]] — [[d:Q5113970|Q5113970]] <small>(MeSH: D003968)</small>
+* [[Dilatation, Pathologic]] — [[d:Q1323709|Q1323709]] <small>(MeSH: D004108)</small>
+* [[Disease]] — [[d:Q12136|Q12136]] <small>(MeSH: D004194)</small>
+* [[Disease Attributes]] — [[d:Q54932064|Q54932064]] <small>(MeSH: D020969)</small>
+* [[Disease Progression]] — [[d:Q86758334|Q86758334]] <small>(MeSH: D018450)</small>
+* [[Disease Susceptibility]] — [[d:Q65534164|Q65534164]] <small>(MeSH: D004198)</small>
+* [[Diseases in Twins]] — [[d:Q54943950|Q54943950]] <small>(MeSH: D004200)</small>
+* [[Dizziness]] — [[d:Q10916362|Q10916362]] <small>(MeSH: D004244)</small>
+* [[DNA Degradation, Necrotic]] — [[d:Q40944475|Q40944475]] <small>(MeSH: D053836)</small>
+* [[Dropped Head Syndrome]] — [[d:Q24869796|Q24869796]] <small>(MeSH: D000094222)</small>
+* [[Drowning]] — [[d:Q506616|Q506616]] <small>(MeSH: D004332)</small>
+* [[Dysbiosis]] — [[d:Q269334|Q269334]] <small>(MeSH: D064806)</small>
+* [[Dysmenorrhea]] — [[d:Q816422|Q816422]] <small>(MeSH: D004412)</small>
+* [[Dyspepsia]] — [[d:Q653971|Q653971]] <small>(MeSH: D004415)</small>
+* [[Dysuria]] — [[d:Q1269399|Q1269399]] <small>(MeSH: D053159)</small>
+* [[Ecchymosis]] — [[d:Q1322382|Q1322382]] <small>(MeSH: D004438)</small>
+* [[Edema]] — [[d:Q152234|Q152234]] <small>(MeSH: D004487)</small>
+* [[Emaciation]] — [[d:Q568378|Q568378]] <small>(MeSH: D004614)</small>
+* [[Emergence Delirium]] — [[d:Q394116|Q394116]] <small>(MeSH: D000071257)</small>
+* [[Emphysema]] — [[d:Q1339243|Q1339243]] <small>(MeSH: D004646)</small>
+* [[Encopresis]] — [[d:Q653027|Q653027]] <small>(MeSH: D004688)</small>
+* [[Endoleak]] — [[d:Q3725136|Q3725136]] <small>(MeSH: D057867)</small>
+* [[Epistaxis]] — [[d:Q202013|Q202013]] <small>(MeSH: D004844)</small>
+* [[Eructation]] — [[d:Q209789|Q209789]] <small>(MeSH: D004884)</small>
+* [[Exsanguination]] — [[d:Q4241510|Q4241510]] <small>(MeSH: D058734)</small>
+* [[Extravasation of Diagnostic and Therapeutic Materials]] — [[d:Q2051919|Q2051919]] <small>(MeSH: D005119)</small>
+* [[Eye Hemorrhage]] — [[d:Q17067160|Q17067160]] <small>(MeSH: D005130)</small>
+* [[Eye Pain]] — [[d:Q21077147|Q21077147]] <small>(MeSH: D058447)</small>
+* [[Facial Asymmetry]] — [[d:Q55092788|Q55092788]] <small>(MeSH: D005146)</small>
+* [[Facial Pain]] — [[d:Q78216759|Q78216759]] <small>(MeSH: D005157)</small>
+* [[Facies]] — [[d:Q5428578|Q5428578]] <small>(MeSH: D019066)</small>
+* [[Failed Back Surgery Syndrome]] — [[d:Q5429677|Q5429677]] <small>(MeSH: D055111)</small>
+* [[Failure to Thrive]] — [[d:Q1497481|Q1497481]] <small>(MeSH: D005183)</small>
+* [[Fat Necrosis]] — [[d:Q5437240|Q5437240]] <small>(MeSH: D005218)</small>
+* [[Fatigue]] — [[d:Q9690|Q9690]] <small>(MeSH: D005221)</small>
+* [[Feeding and Eating Disorders]] — [[d:Q373822|Q373822]] <small>(MeSH: D001068)</small>
+* [[Feminization]] — [[d:Q5442904|Q5442904]] <small>(MeSH: D005262)</small>
+* [[Fetal Distress]] — [[d:Q2592062|Q2592062]] <small>(MeSH: D005316)</small>
+* [[Fever]] — [[d:Q38933|Q38933]] <small>(MeSH: D005334)</small>
+* [[Fever of Unknown Origin]] — [[d:Q1405631|Q1405631]] <small>(MeSH: D005335)</small>
+* [[Fibrosis]] — [[d:Q605709|Q605709]] <small>(MeSH: D005355)</small>
+* [[Fistula]] — [[d:Q189470|Q189470]] <small>(MeSH: D005402)</small>
+* [[Flank Pain]] — [[d:Q22269224|Q22269224]] <small>(MeSH: D021501)</small>
+* [[Flatulence]] — [[d:Q160184|Q160184]] <small>(MeSH: D005414)</small>
+* [[Flushing]] — [[d:Q3443277|Q3443277]] <small>(MeSH: D005483)</small>
+* [[Food Intolerance]] — [[d:Q1727229|Q1727229]] <small>(MeSH: D000073923)</small>
+* [[Foreign-Body Reaction]] — [[d:Q65499178|Q65499178]] <small>(MeSH: D005549)</small>
+* [[Frailty]] — [[d:Q177171|Q177171]] <small>(MeSH: D000073496)</small>
+* [[Gagging]] — [[d:Q1142879|Q1142879]] <small>(MeSH: D005683)</small>
+* [[Gangrene]] — [[d:Q168805|Q168805]] <small>(MeSH: D005734)</small>
+* [[Genetic Predisposition to Disease]] — [[d:Q64843122|Q64843122]] <small>(MeSH: D020022)</small>
+* [[Genetic Risk Score]] — [[d:Q124260534|Q124260534]] <small>(MeSH: D000096442)</small>
+* [[Gestational Weight Gain]] — [[d:Q65121932|Q65121932]] <small>(MeSH: D000078064)</small>
+* [[Gliosis]] — [[d:Q1531490|Q1531490]] <small>(MeSH: D005911)</small>
+* [[Graft Occlusion, Vascular]] — [[d:Q54971563|Q54971563]] <small>(MeSH: D006083)</small>
+* [[Granuloma, Foreign-Body]] — [[d:Q1455131|Q1455131]] <small>(MeSH: D015745)</small>
+* [[Granuloma, Plasma Cell]] — [[d:Q99440225|Q99440225]] <small>(MeSH: D006104)</small>
+* [[Granuloma, Pyogenic]] — [[d:Q1571254|Q1571254]] <small>(MeSH: D017789)</small>
+* [[Growth Disorders]] — [[d:Q2538477|Q2538477]] <small>(MeSH: D006130)</small>
+* [[Halitosis]] — [[d:Q16408|Q16408]] <small>(MeSH: D006209)</small>
+* [[Headache]] — [[d:Q86|Q86]] <small>(MeSH: D006261)</small>
+* [[Heart Murmurs]] — [[d:Q1060911|Q1060911]] <small>(MeSH: D006337)</small>
+* [[Heartburn]] — [[d:Q537297|Q537297]] <small>(MeSH: D006356)</small>
+* [[Hematemesis]] — [[d:Q1570161|Q1570161]] <small>(MeSH: D006396)</small>
+* [[Hematoma]] — [[d:Q468787|Q468787]] <small>(MeSH: D006406)</small>
+* [[Hematoma, Epidural, Spinal]] — [[d:Q48988765|Q48988765]] <small>(MeSH: D046748)</small>
+* [[Hematoma, Subdural, Chronic]] — [[d:Q11495076|Q11495076]] <small>(MeSH: D020200)</small>
+* [[Hematoma, Subdural, Spinal]] — [[d:Q67584075|Q67584075]] <small>(MeSH: D046649)</small>
+* [[Hemobilia]] — [[d:Q1642116|Q1642116]] <small>(MeSH: D006431)</small>
+* [[Hemolysis]] — [[d:Q471706|Q471706]] <small>(MeSH: D006461)</small>
+* [[Hemoptysis]] — [[d:Q647099|Q647099]] <small>(MeSH: D006469)</small>
+* [[Hemorrhage]] — [[d:Q166019|Q166019]] <small>(MeSH: D006470)</small>
+* [[Hepatic Infarction]] — [[d:Q18554589|Q18554589]] <small>(MeSH: D000081011)</small>
+* [[Hernia]] — [[d:Q133076|Q133076]] <small>(MeSH: D006547)</small>
+* [[Hernia, Abdominal]] — [[d:Q3134277|Q3134277]] <small>(MeSH: D046449)</small>
+* [[Hernia, Diaphragmatic]] — [[d:Q2119430|Q2119430]] <small>(MeSH: D006548)</small>
+* [[Hernia, Diaphragmatic, Traumatic]] — [[d:Q7835827|Q7835827]] <small>(MeSH: D006549)</small>
+* [[Hernia, Femoral]] — [[d:Q3134276|Q3134276]] <small>(MeSH: D006550)</small>
+* [[Hernia, Hiatal]] — [[d:Q727153|Q727153]] <small>(MeSH: D006551)</small>
+* [[Hernia, Inguinal]] — [[d:Q1144039|Q1144039]] <small>(MeSH: D006552)</small>
+* [[Hernia, Obturator]] — [[d:Q7075566|Q7075566]] <small>(MeSH: D006553)</small>
+* [[Hernia, Ventral]] — [[d:Q66091405|Q66091405]] <small>(MeSH: D006555)</small>
+* [[Hiccup]] — [[d:Q58952|Q58952]] <small>(MeSH: D006606)</small>
+* [[Hot Flashes]] — [[d:Q1858291|Q1858291]] <small>(MeSH: D019584)</small>
+* [[Hyperammonemia]] — [[d:Q1640868|Q1640868]] <small>(MeSH: D022124)</small>
+* [[Hyperamylasemia]] — [[d:Q18967824|Q18967824]] <small>(MeSH: D034321)</small>
+* [[Hyperbilirubinemia]] — [[d:Q1897247|Q1897247]] <small>(MeSH: D006932)</small>
+* [[Hypercalciuria]] — [[d:Q2526358|Q2526358]] <small>(MeSH: D053565)</small>
+* [[Hypercapnia]] — [[d:Q615759|Q615759]] <small>(MeSH: D006935)</small>
+* [[Hyperoxia]] — [[d:Q5958429|Q5958429]] <small>(MeSH: D018496)</small>
+* [[Hyperphagia]] — [[d:Q653267|Q653267]] <small>(MeSH: D006963)</small>
+* [[Hyperplasia]] — [[d:Q835051|Q835051]] <small>(MeSH: D006965)</small>
+* [[Hyperthermia]] — [[d:Q242165|Q242165]] <small>(MeSH: D000084462)</small>
+* [[Hypertrophy]] — [[d:Q216211|Q216211]] <small>(MeSH: D006984)</small>
+* [[Hyperuricemia]] — [[d:Q49970|Q49970]] <small>(MeSH: D033461)</small>
+* [[Hypocapnia]] — [[d:Q1328215|Q1328215]] <small>(MeSH: D016857)</small>
+* [[Hypothermia]] — [[d:Q1036696|Q1036696]] <small>(MeSH: D007035)</small>
+* [[Hypovolemia]] — [[d:Q1320276|Q1320276]] <small>(MeSH: D020896)</small>
+* [[Hypoxia]] — [[d:Q105688|Q105688]] <small>(MeSH: D000860)</small>
+* [[Iatrogenic Disease]] — [[d:Q284220|Q284220]] <small>(MeSH: D007049)</small>
+* [[Implant Capsular Contracture]] — [[d:Q524677|Q524677]] <small>(MeSH: D057910)</small>
+* [[Incisional Hernia]] — [[d:Q2633160|Q2633160]] <small>(MeSH: D000069290)</small>
+* [[Infant Death]] — [[d:Q22004151|Q22004151]] <small>(MeSH: D066088)</small>
+* [[Infarction]] — [[d:Q207550|Q207550]] <small>(MeSH: D007238)</small>
+* [[Inflammation]] — [[d:Q101991|Q101991]] <small>(MeSH: D007249)</small>
+* [[Injection Site Reaction]] — [[d:Q6034307|Q6034307]] <small>(MeSH: D000075662)</small>
+* [[Internal Hernia]] — [[d:Q6047861|Q6047861]] <small>(MeSH: D000082122)</small>
+* [[Intestinal Polyps]] — [[d:Q14299202|Q14299202]] <small>(MeSH: D007417)</small>
+* [[Intractable Pain]] — [[d:Q17147916|Q17147916]] <small>(MeSH: D010148)</small>
+* [[Intraoperative Awareness]] — [[d:Q1671572|Q1671572]] <small>(MeSH: D058926)</small>
+* [[Intraoperative Complications]] — [[d:Q54920384|Q54920384]] <small>(MeSH: D007431)</small>
+* [[Ischemia]] — [[d:Q188151|Q188151]] <small>(MeSH: D007511)</small>
+* [[Jaundice]] — [[d:Q133244|Q133244]] <small>(MeSH: D007565)</small>
+* [[Jaundice, Obstructive]] — [[d:Q4292123|Q4292123]] <small>(MeSH: D041781)</small>
+* [[Labor Pain]] — [[d:Q3896871|Q3896871]] <small>(MeSH: D048949)</small>
+* [[Late Onset Disorders]] — [[d:Q54944034|Q54944034]] <small>(MeSH: D000067562)</small>
+* [[Leukoaraiosis]] — [[d:Q2123166|Q2123166]] <small>(MeSH: D049292)</small>
+* [[Lithiasis]] — [[d:Q69046313|Q69046313]] <small>(MeSH: D020347)</small>
+* [[Long Term Adverse Effects]] — [[d:Q2047938|Q2047938]] <small>(MeSH: D000069451)</small>
+* [[Low Back Pain]] — [[d:Q852163|Q852163]] <small>(MeSH: D017116)</small>
+* [[Lower Urinary Tract Symptoms]] — [[d:Q446372|Q446372]] <small>(MeSH: D059411)</small>
+* [[Malacoplakia]] — [[d:Q1789076|Q1789076]] <small>(MeSH: D008287)</small>
+* [[Malignant Hyperthermia]] — [[d:Q1585081|Q1585081]] <small>(MeSH: D008305)</small>
+* [[Mastodynia]] — [[d:Q1907986|Q1907986]] <small>(MeSH: D059373)</small>
+* [[Maternal Death]] — [[d:Q1339474|Q1339474]] <small>(MeSH: D063130)</small>
+* [[Medically Unexplained Symptoms]] — [[d:Q6806627|Q6806627]] <small>(MeSH: D000071896)</small>
+* [[Menstruation Disturbances]] — [[d:Q2137327|Q2137327]] <small>(MeSH: D008599)</small>
+* [[Mental Fatigue]] — [[d:Q11921610|Q11921610]] <small>(MeSH: D005222)</small>
+* [[Metaplasia]] — [[d:Q660713|Q660713]] <small>(MeSH: D008679)</small>
+* [[Microvascular Rarefaction]] — [[d:Q112701116|Q112701116]] <small>(MeSH: D000073436)</small>
+* [[Mobility Limitation]] — [[d:Q3317681|Q3317681]] <small>(MeSH: D051346)</small>
+* [[Morphological and Microscopic Findings]] — [[d:Q54974168|Q54974168]] <small>(MeSH: D065308)</small>
+* [[Motion Sickness]] — [[d:Q309067|Q309067]] <small>(MeSH: D009041)</small>
+* [[Multiple Chronic Conditions]] — [[d:Q1952420|Q1952420]] <small>(MeSH: D000071069)</small>
+* [[Multiple Organ Failure]] — [[d:Q1193870|Q1193870]] <small>(MeSH: D009102)</small>
+* [[Muscle Weakness]] — [[d:Q270421|Q270421]] <small>(MeSH: D018908)</small>
+* [[Muscular Atrophy]] — [[d:Q2844600|Q2844600]] <small>(MeSH: D009133)</small>
+* [[Nails, Malformed]] — [[d:Q55092864|Q55092864]] <small>(MeSH: D009264)</small>
+* [[Nausea]] — [[d:Q186889|Q186889]] <small>(MeSH: D009325)</small>
+* [[Neck Pain]] — [[d:Q3567802|Q3567802]] <small>(MeSH: D019547)</small>
+* [[Necrosis]] — [[d:Q178069|Q178069]] <small>(MeSH: D009336)</small>
+* [[Neglected Diseases]] — [[d:Q929451|Q929451]] <small>(MeSH: D058069)</small>
+* [[Neointima]] — [[d:Q6993039|Q6993039]] <small>(MeSH: D058426)</small>
+* [[Neovascularization, Pathologic]] — [[d:Q1281049|Q1281049]] <small>(MeSH: D009389)</small>
+* [[Nerve Degeneration]] — [[d:Q54971278|Q54971278]] <small>(MeSH: D009410)</small>
+* [[No-Reflow Phenomenon]] — [[d:Q7045267|Q7045267]] <small>(MeSH: D054318)</small>
+* [[Nociceptive Pain]] — [[d:Q2533455|Q2533455]] <small>(MeSH: D059226)</small>
+* [[Nociplastic Pain]] — [[d:Q131397914|Q131397914]] <small>(MeSH: D000098653)</small>
+* [[Nocturia]] — [[d:Q1426443|Q1426443]] <small>(MeSH: D053158)</small>
+* [[Noncommunicable Diseases]] — [[d:Q3137154|Q3137154]] <small>(MeSH: D000073296)</small>
+* [[Ochronosis]] — [[d:Q1507609|Q1507609]] <small>(MeSH: D009794)</small>
+* [[Oligomenorrhea]] — [[d:Q1970295|Q1970295]] <small>(MeSH: D009839)</small>
+* [[Opioid-Induced Constipation]] — [[d:Q97380251|Q97380251]] <small>(MeSH: D000079689)</small>
+* [[Oral Hemorrhage]] — [[d:Q54946292|Q54946292]] <small>(MeSH: D006472)</small>
+* [[Ossification, Heterotopic]] — [[d:Q5747886|Q5747886]] <small>(MeSH: D009999)</small>
+* [[Overtraining Syndrome]] — [[d:Q334310|Q334310]] <small>(MeSH: D000095027)</small>
+* [[Pain]] — [[d:Q81938|Q81938]] <small>(MeSH: D010146)</small>
+* [[Pallor]] — [[d:Q2336398|Q2336398]] <small>(MeSH: D010167)</small>
+* [[Paraduodenal Hernia]] — [[d:Q114722147|Q114722147]] <small>(MeSH: D000082123)</small>
+* [[Parental Death]] — [[d:Q54911326|Q54911326]] <small>(MeSH: D063129)</small>
+* [[Paternal Death]] — [[d:Q131449597|Q131449597]] <small>(MeSH: D000098829)</small>
+* [[Pathologic Complete Response]] — [[d:Q124041735|Q124041735]] <small>(MeSH: D000095384)</small>
+* [[Pathologic Processes]] — [[d:Q66824578|Q66824578]] <small>(MeSH: D010335)</small>
+* [[Pathological Conditions, Anatomical]] — [[d:Q54973585|Q54973585]] <small>(MeSH: D020763)</small>
+* [[Pathological Conditions, Signs and Symptoms]] — [[d:Q67327903|Q67327903]] <small>(MeSH: D013568)</small>
+* [[Pelvic Girdle Pain]] — [[d:Q3508658|Q3508658]] <small>(MeSH: D059388)</small>
+* [[Pelvic Organ Prolapse]] — [[d:Q166102|Q166102]] <small>(MeSH: D056887)</small>
+* [[Pelvic Pain]] — [[d:Q7161805|Q7161805]] <small>(MeSH: D017699)</small>
+* [[Phantom Limb]] — [[d:Q1191062|Q1191062]] <small>(MeSH: D010591)</small>
+* [[Pica]] — [[d:Q1134891|Q1134891]] <small>(MeSH: D010842)</small>
+* [[Plaque, Amyloid]] — [[d:Q6740853|Q6740853]] <small>(MeSH: D058225)</small>
+* [[Plaque, Atherosclerotic]] — [[d:Q1058276|Q1058276]] <small>(MeSH: D058226)</small>
+* [[Platypnea Orthodeoxia Syndrome]] — [[d:Q30753528|Q30753528]] <small>(MeSH: D000092129)</small>
+* [[Polydipsia]] — [[d:Q635195|Q635195]] <small>(MeSH: D059606)</small>
+* [[Polydipsia, Psychogenic]] — [[d:Q929963|Q929963]] <small>(MeSH: D059607)</small>
+* [[Polyps]] — [[d:Q657665|Q657665]] <small>(MeSH: D011127)</small>
+* [[Post-Infectious Disorders]] — [[d:Q55789778|Q55789778]] <small>(MeSH: D000094025)</small>
+* [[Postmortem Changes]] — [[d:Q99312209|Q99312209]] <small>(MeSH: D011180)</small>
+* [[Postoperative Cognitive Complications]] — [[d:Q956181|Q956181]] <small>(MeSH: D000079690)</small>
+* [[Postoperative Complications]] — [[d:Q18478450|Q18478450]] <small>(MeSH: D011183)</small>
+* [[Postoperative Hemorrhage]] — [[d:Q54911437|Q54911437]] <small>(MeSH: D019106)</small>
+* [[Postoperative Nausea and Vomiting]] — [[d:Q1658731|Q1658731]] <small>(MeSH: D020250)</small>
+* [[Postoperative Pain]] — [[d:Q2913956|Q2913956]] <small>(MeSH: D010149)</small>
+* [[Premenstrual Dysphoric Disorder]] — [[d:Q2728811|Q2728811]] <small>(MeSH: D065446)</small>
+* [[Premenstrual Syndrome]] — [[d:Q220193|Q220193]] <small>(MeSH: D011293)</small>
+* [[Procedural Pain]] — [[d:Q31886789|Q31886789]] <small>(MeSH: D000073818)</small>
+* [[Prodromal Symptoms]] — [[d:Q1140331|Q1140331]] <small>(MeSH: D062706)</small>
+* [[Prolapse]] — [[d:Q2112703|Q2112703]] <small>(MeSH: D011391)</small>
+* [[Prostatism]] — [[d:Q67517771|Q67517771]] <small>(MeSH: D053448)</small>
+* [[Prosthesis Failure]] — [[d:Q17055904|Q17055904]] <small>(MeSH: D011475)</small>
+* [[Protein Aggregation, Pathological]] — [[d:Q4692265|Q4692265]] <small>(MeSH: D066263)</small>
+* [[Pseudophakia]] — [[d:Q558426|Q558426]] <small>(MeSH: D019591)</small>
+* [[Psychophysiologic Disorders]] — [[d:Q10267833|Q10267833]] <small>(MeSH: D011602)</small>
+* [[Pulmonary Infarction]] — [[d:Q13538850|Q13538850]] <small>(MeSH: D054060)</small>
+* [[Purpura]] — [[d:Q935293|Q935293]] <small>(MeSH: D011693)</small>
+* [[Purpura Fulminans]] — [[d:Q3410985|Q3410985]] <small>(MeSH: D055665)</small>
+* [[Rare Diseases]] — [[d:Q929833|Q929833]] <small>(MeSH: D035583)</small>
+* [[Recurrence]] — [[d:Q2292472|Q2292472]] <small>(MeSH: D012008)</small>
+* [[Referred Pain]] — [[d:Q2016936|Q2016936]] <small>(MeSH: D053591)</small>
+* [[Reinfection]] — [[d:Q106002870|Q106002870]] <small>(MeSH: D000084063)</small>
+* [[Remission, Spontaneous]] — [[d:Q1639997|Q1639997]] <small>(MeSH: D012075)</small>
+* [[Renal Colic]] — [[d:Q609202|Q609202]] <small>(MeSH: D056844)</small>
+* [[Respiratory Sounds]] — [[d:Q779038|Q779038]] <small>(MeSH: D012135)</small>
+* [[Reticulocytosis]] — [[d:Q2320954|Q2320954]] <small>(MeSH: D045262)</small>
+* [[Retrograde Degeneration]] — [[d:Q55093261|Q55093261]] <small>(MeSH: D012183)</small>
+* [[Retroperitoneal Fibrosis]] — [[d:Q1600050|Q1600050]] <small>(MeSH: D012185)</small>
+* [[Retropneumoperitoneum]] — [[d:Q34399675|Q34399675]] <small>(MeSH: D012188)</small>
+* [[Rhinorrhea]] — [[d:Q1115038|Q1115038]] <small>(MeSH: D000086722)</small>
+* [[Rigor Mortis]] — [[d:Q274095|Q274095]] <small>(MeSH: D012298)</small>
+* [[Rupture, Spontaneous]] — [[d:Q54911330|Q54911330]] <small>(MeSH: D012422)</small>
+* [[Sarcopenia]] — [[d:Q1787939|Q1787939]] <small>(MeSH: D055948)</small>
+* [[Sclerosis]] — [[d:Q140067|Q140067]] <small>(MeSH: D012598)</small>
+* [[Seroma]] — [[d:Q727291|Q727291]] <small>(MeSH: D049291)</small>
+* [[Serositis]] — [[d:Q581349|Q581349]] <small>(MeSH: D012700)</small>
+* [[Sex Chromosome Aberrations]] — [[d:Q54971630|Q54971630]] <small>(MeSH: D012729)</small>
+* [[Shock]] — [[d:Q178061|Q178061]] <small>(MeSH: D012769)</small>
+* [[Shock, Cardiogenic]] — [[d:Q2477062|Q2477062]] <small>(MeSH: D012770)</small>
+* [[Shock, Hemorrhagic]] — [[d:Q2964243|Q2964243]] <small>(MeSH: D012771)</small>
+* [[Shock, Septic]] — [[d:Q1765564|Q1765564]] <small>(MeSH: D012772)</small>
+* [[Shock, Surgical]] — [[d:Q30315175|Q30315175]] <small>(MeSH: D012773)</small>
+* [[Shock, Traumatic]] — [[d:Q64853023|Q64853023]] <small>(MeSH: D012774)</small>
+* [[Signs and Symptoms]] — [[d:Q112965645|Q112965645]] <small>(MeSH: D012816)</small>
+* [[Signs and Symptoms, Digestive]] — [[d:Q54926352|Q54926352]] <small>(MeSH: D012817)</small>
+* [[Signs and Symptoms, Respiratory]] — [[d:Q42183538|Q42183538]] <small>(MeSH: D012818)</small>
+* [[Skin Manifestations]] — [[d:Q54926770|Q54926770]] <small>(MeSH: D012877)</small>
+* [[Sleepiness]] — [[d:Q1077823|Q1077823]] <small>(MeSH: D000077260)</small>
+* [[Slit Ventricle Syndrome]] — [[d:Q9390608|Q9390608]] <small>(MeSH: D056124)</small>
+* [[Sneezing]] — [[d:Q35830|Q35830]] <small>(MeSH: D012912)</small>
+* [[Snoring]] — [[d:Q205835|Q205835]] <small>(MeSH: D012913)</small>
+* [[Space Motion Sickness]] — [[d:Q1365937|Q1365937]] <small>(MeSH: D018489)</small>
+* [[Splenic Infarction]] — [[d:Q1545572|Q1545572]] <small>(MeSH: D013159)</small>
+* [[Splenomegaly]] — [[d:Q1129121|Q1129121]] <small>(MeSH: D013163)</small>
+* [[Spontaneous Perforation]] — [[d:Q16965421|Q16965421]] <small>(MeSH: D000072663)</small>
+* [[Squamous Intraepithelial Lesions]] — [[d:Q114567607|Q114567607]] <small>(MeSH: D000081483)</small>
+* [[Striae Distensae]] — [[d:Q596942|Q596942]] <small>(MeSH: D057896)</small>
+* [[Subcutaneous Emphysema]] — [[d:Q1412866|Q1412866]] <small>(MeSH: D013352)</small>
+* [[Sudden Infant Death]] — [[d:Q161801|Q161801]] <small>(MeSH: D013398)</small>
+* [[Surgical Wound Dehiscence]] — [[d:Q1398178|Q1398178]] <small>(MeSH: D013529)</small>
+* [[Sweating Sickness]] — [[d:Q920766|Q920766]] <small>(MeSH: D018614)</small>
+* [[Symptom Flare Up]] — [[d:Q1383410|Q1383410]] <small>(MeSH: D000067251)</small>
+* [[Syndrome]] — [[d:Q179630|Q179630]] <small>(MeSH: D013577)</small>
+* [[Systemic Inflammatory Response Syndrome]] — [[d:Q776030|Q776030]] <small>(MeSH: D018746)</small>
+* [[Systolic Murmurs]] — [[d:Q7663898|Q7663898]] <small>(MeSH: D054160)</small>
+* [[Teratogenesis]] — [[d:Q16056098|Q16056098]] <small>(MeSH: D064793)</small>
+* [[Tissue Adhesions]] — [[d:Q1967871|Q1967871]] <small>(MeSH: D000267)</small>
+* [[Torsion Abnormality]] — [[d:Q2123838|Q2123838]] <small>(MeSH: D014102)</small>
+* [[Torticollis]] — [[d:Q615363|Q615363]] <small>(MeSH: D014103)</small>
+* [[Travel-Related Illness]] — [[d:Q113433110|Q113433110]] <small>(MeSH: D000076082)</small>
+* [[Ulcer]] — [[d:Q3567921|Q3567921]] <small>(MeSH: D014456)</small>
+* [[Undiagnosed Diseases]] — [[d:Q114457391|Q114457391]] <small>(MeSH: D000080842)</small>
+* [[Uniparental Disomy]] — [[d:Q1207929|Q1207929]] <small>(MeSH: D024182)</small>
+* [[Urinoma]] — [[d:Q7900639|Q7900639]] <small>(MeSH: D053584)</small>
+* [[Urological Manifestations]] — [[d:Q2565950|Q2565950]] <small>(MeSH: D020924)</small>
+* [[Vascular Remodeling]] — [[d:Q6840464|Q6840464]] <small>(MeSH: D066253)</small>
+* [[Ventricular Remodeling]] — [[d:Q7920323|Q7920323]] <small>(MeSH: D020257)</small>
+* [[Virilism]] — [[d:Q2527831|Q2527831]] <small>(MeSH: D014770)</small>
+* [[Visceral Pain]] — [[d:Q4116360|Q4116360]] <small>(MeSH: D059265)</small>
+* [[Vomiting]] — [[d:Q127076|Q127076]] <small>(MeSH: D014839)</small>
+* [[Vomiting, Anticipatory]] — [[d:Q54974197|Q54974197]] <small>(MeSH: D014840)</small>
+* [[Wallerian Degeneration]] — [[d:Q1753825|Q1753825]] <small>(MeSH: D014855)</small>
+* [[Weight Cycling]] — [[d:Q943601|Q943601]] <small>(MeSH: D000091622)</small>
+* [[Weight Gain]] — [[d:Q3403879|Q3403879]] <small>(MeSH: D015430)</small>
+* [[Weight Loss]] — [[d:Q718113|Q718113]] <small>(MeSH: D015431)</small>
+* [[Yang Deficiency]] — [[d:Q11658819|Q11658819]] <small>(MeSH: D016711)</small>
+* [[Yin Deficiency]] — [[d:Q11658248|Q11658248]] <small>(MeSH: D016710)</small>
+
+
+[[Category:WikiProject MeSH]]

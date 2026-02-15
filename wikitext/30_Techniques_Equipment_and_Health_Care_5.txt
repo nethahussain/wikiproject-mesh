@@ -1,0 +1,937 @@
+{{main|Wikipedia:WikiProject MeSH}}
+
+=== Health Care Economics ===
+
+* '''Coverage:''' 27.3%
+* '''{{color|blue|Bluelinks}}:''' 72
+* '''{{color|red|Redlinks}}:''' 192
+* [[Academies and Institutes]] — [[d:Q70363582|Q70363582]] <small>(MeSH: D000047)</small>
+* [[Accounting]] — [[d:Q4116214|Q4116214]] <small>(MeSH: D000066)</small>
+* [[Accounts Payable and Receivable]] — [[d:Q70489974|Q70489974]] <small>(MeSH: D000067)</small>
+* [[Accreditation]] — [[d:Q705899|Q705899]] <small>(MeSH: D000068)</small>
+* [[Advisory Committees]] — [[d:Q23722468|Q23722468]] <small>(MeSH: D026683)</small>
+* [[Aid to Families with Dependent Children]] — [[d:Q4696621|Q4696621]] <small>(MeSH: D000385)</small>
+* [[Alcoholics Anonymous]] — [[d:Q18231|Q18231]] <small>(MeSH: D000436)</small>
+* [[American Cancer Society]] — [[d:Q463665|Q463665]] <small>(MeSH: D000570)</small>
+* [[American Dental Association]] — [[d:Q4743596|Q4743596]] <small>(MeSH: D000571)</small>
+* [[American Heart Association]] — [[d:Q464880|Q464880]] <small>(MeSH: D000572)</small>
+* [[American Hospital Association]] — [[d:Q4744017|Q4744017]] <small>(MeSH: D000573)</small>
+* [[American Medical Association]] — [[d:Q465697|Q465697]] <small>(MeSH: D000574)</small>
+* [[American Nurses' Association]] — [[d:Q465893|Q465893]] <small>(MeSH: D000575)</small>
+* [[American Public Health Association]] — [[d:Q4744758|Q4744758]] <small>(MeSH: D040363)</small>
+* [[American Recovery and Reinvestment Act]] — [[d:Q466637|Q466637]] <small>(MeSH: D057171)</small>
+* [[American Speech-Language-Hearing Association]] — [[d:Q4745140|Q4745140]] <small>(MeSH: D016235)</small>
+* [[Antitrust Laws]] — [[d:Q1734555|Q1734555]] <small>(MeSH: D016363)</small>
+* [[Banking, Personal]] — [[d:Q1548025|Q1548025]] <small>(MeSH: D000067012)</small>
+* [[Bankruptcy]] — [[d:Q152074|Q152074]] <small>(MeSH: D016361)</small>
+* [[Bed Conversion]] — [[d:Q70452268|Q70452268]] <small>(MeSH: D001508)</small>
+* [[Blue Cross Blue Shield Insurance Plans]] — [[d:Q126177295|Q126177295]] <small>(MeSH: D054598)</small>
+* [[Budgets]] — [[d:Q41263|Q41263]] <small>(MeSH: D002017)</small>
+* [[Capital Expenditures]] — [[d:Q302208|Q302208]] <small>(MeSH: D002201)</small>
+* [[Capital Financing]] — [[d:Q70447284|Q70447284]] <small>(MeSH: D002202)</small>
+* [[Capitation Fee]] — [[d:Q5035819|Q5035819]] <small>(MeSH: D002204)</small>
+* [[Certificate of Need]] — [[d:Q5065108|Q5065108]] <small>(MeSH: D002567)</small>
+* [[Certification]] — [[d:Q374814|Q374814]] <small>(MeSH: D002568)</small>
+* [[Children's Health Insurance Program]] — [[d:Q7603105|Q7603105]] <small>(MeSH: D065326)</small>
+* [[Collective Bargaining]] — [[d:Q452421|Q452421]] <small>(MeSH: D003098)</small>
+* [[College Fraternities and Sororities]] — [[d:Q3721|Q3721]] <small>(MeSH: D065822)</small>
+* [[Community Health Planning]] — [[d:Q70454058|Q70454058]] <small>(MeSH: D018672)</small>
+* [[Community-Based Health Insurance]] — [[d:Q114414219|Q114414219]] <small>(MeSH: D000080051)</small>
+* [[Compensation and Redress]] — [[d:Q21127747|Q21127747]] <small>(MeSH: D035881)</small>
+* [[Competitive Bidding]] — [[d:Q70470283|Q70470283]] <small>(MeSH: D003164)</small>
+* [[Competitive Medical Plans]] — [[d:Q70443563|Q70443563]] <small>(MeSH: D016536)</small>
+* [[Consumer Organizations]] — [[d:Q1329436|Q1329436]] <small>(MeSH: D003255)</small>
+* [[Contract Services]] — [[d:Q70443641|Q70443641]] <small>(MeSH: D003284)</small>
+* [[Cost Allocation]] — [[d:Q13479712|Q13479712]] <small>(MeSH: D003361)</small>
+* [[Cost Control]] — [[d:Q3695250|Q3695250]] <small>(MeSH: D003363)</small>
+* [[Cost of Illness]] — [[d:Q66969671|Q66969671]] <small>(MeSH: D017281)</small>
+* [[Cost Savings]] — [[d:Q3454688|Q3454688]] <small>(MeSH: D017046)</small>
+* [[Cost Sharing]] — [[d:Q5174821|Q5174821]] <small>(MeSH: D017047)</small>
+* [[Cost-Benefit Analysis]] — [[d:Q942582|Q942582]] <small>(MeSH: D003362)</small>
+* [[Cost-Effectiveness Analysis]] — [[d:Q1754768|Q1754768]] <small>(MeSH: D000094703)</small>
+* [[Costs and Cost Analysis]] — [[d:Q66969865|Q66969865]] <small>(MeSH: D003365)</small>
+* [[Credentialing]] — [[d:Q18349222|Q18349222]] <small>(MeSH: D003406)</small>
+* [[Deductibles and Coinsurance]] — [[d:Q70441819|Q70441819]] <small>(MeSH: D003669)</small>
+* [[Depreciation]] — [[d:Q1650951|Q1650951]] <small>(MeSH: D003862)</small>
+* [[Diagnosis-Related Groups]] — [[d:Q1208158|Q1208158]] <small>(MeSH: D003953)</small>
+* [[Direct Service Costs]] — [[d:Q70438580|Q70438580]] <small>(MeSH: D004180)</small>
+* [[Drug Costs]] — [[d:Q70436982|Q70436982]] <small>(MeSH: D016527)</small>
+* [[Dual Medicare Medicaid Eligibility]] — [[d:Q6806648|Q6806648]] <small>(MeSH: D063026)</small>
+* [[Economic Competition]] — [[d:Q319676|Q319676]] <small>(MeSH: D004465)</small>
+* [[Economics, Dental]] — [[d:Q70449482|Q70449482]] <small>(MeSH: D004468)</small>
+* [[Economics, Hospital]] — [[d:Q70436572|Q70436572]] <small>(MeSH: D004469)</small>
+* [[Economics, Medical]] — [[d:Q31218|Q31218]] <small>(MeSH: D004470)</small>
+* [[Economics, Nursing]] — [[d:Q70340878|Q70340878]] <small>(MeSH: D004471)</small>
+* [[Economics, Pharmaceutical]] — [[d:Q1567856|Q1567856]] <small>(MeSH: D017850)</small>
+* [[Emergency Use Authorization]] — [[d:Q5370662|Q5370662]] <small>(MeSH: D000098485)</small>
+* [[Employer Health Costs]] — [[d:Q70448496|Q70448496]] <small>(MeSH: D017049)</small>
+* [[External Debt]] — [[d:Q461319|Q461319]] <small>(MeSH: D061895)</small>
+* [[Facility Regulation and Control]] — [[d:Q70447391|Q70447391]] <small>(MeSH: D005161)</small>
+* [[Faith-Based Organizations]] — [[d:Q24906286|Q24906286]] <small>(MeSH: D000073576)</small>
+* [[Fee-for-Service Plans]] — [[d:Q70490506|Q70490506]] <small>(MeSH: D018588)</small>
+* [[Fees and Charges]] — [[d:Q70436364|Q70436364]] <small>(MeSH: D005249)</small>
+* [[Fees, Dental]] — [[d:Q70373743|Q70373743]] <small>(MeSH: D005250)</small>
+* [[Fees, Medical]] — [[d:Q70448627|Q70448627]] <small>(MeSH: D005251)</small>
+* [[Fees, Pharmaceutical]] — [[d:Q70349142|Q70349142]] <small>(MeSH: D005252)</small>
+* [[Fellowships and Scholarships]] — [[d:Q188823|Q188823]] <small>(MeSH: D005257)</small>
+* [[Financial Audit]] — [[d:Q740419|Q740419]] <small>(MeSH: D005375)</small>
+* [[Financial Management]] — [[d:Q4738155|Q4738155]] <small>(MeSH: D005376)</small>
+* [[Financial Statements]] — [[d:Q192907|Q192907]] <small>(MeSH: D000067571)</small>
+* [[Financial Support]] — [[d:Q70471322|Q70471322]] <small>(MeSH: D005378)</small>
+* [[Financing, Construction]] — [[d:Q70436348|Q70436348]] <small>(MeSH: D005379)</small>
+* [[Financing, Government]] — [[d:Q63974733|Q63974733]] <small>(MeSH: D005380)</small>
+* [[Financing, Organized]] — [[d:Q70489937|Q70489937]] <small>(MeSH: D005381)</small>
+* [[Financing, Personal]] — [[d:Q70449953|Q70449953]] <small>(MeSH: D005382)</small>
+* [[For-Profit Insurance Plans]] — [[d:Q8027951|Q8027951]] <small>(MeSH: D059033)</small>
+* [[Foundations]] — [[d:Q157031|Q157031]] <small>(MeSH: D005582)</small>
+* [[Fund Raising]] — [[d:Q1161355|Q1161355]] <small>(MeSH: D005653)</small>
+* [[Health Care Coalitions]] — [[d:Q70436869|Q70436869]] <small>(MeSH: D006265)</small>
+* [[Health Care Costs]] — [[d:Q59283414|Q59283414]] <small>(MeSH: D017048)</small>
+* [[Health Care Economics and Organizations]] — [[d:Q70472258|Q70472258]] <small>(MeSH: D004472)</small>
+* [[Health Expenditures]] — [[d:Q11404676|Q11404676]] <small>(MeSH: D005102)</small>
+* [[Health Facility Planning]] — [[d:Q70470744|Q70470744]] <small>(MeSH: D006275)</small>
+* [[Health Insurance Exchanges]] — [[d:Q5691097|Q5691097]] <small>(MeSH: D062265)</small>
+* [[Health Insurance Portability and Accountability Act]] — [[d:Q606563|Q606563]] <small>(MeSH: D020408)</small>
+* [[Health Level Seven]] — [[d:Q327718|Q327718]] <small>(MeSH: D057208)</small>
+* [[Health Maintenance Organizations]] — [[d:Q20035455|Q20035455]] <small>(MeSH: D006279)</small>
+* [[Health Plan Implementation]] — [[d:Q70346510|Q70346510]] <small>(MeSH: D006284)</small>
+* [[Health Planning]] — [[d:Q70450952|Q70450952]] <small>(MeSH: D006285)</small>
+* [[Health Planning Councils]] — [[d:Q70453519|Q70453519]] <small>(MeSH: D006286)</small>
+* [[Health Planning Guidelines]] — [[d:Q70452511|Q70452511]] <small>(MeSH: D006287)</small>
+* [[Health Planning Organizations]] — [[d:Q70439039|Q70439039]] <small>(MeSH: D006288)</small>
+* [[Health Planning Support]] — [[d:Q70347036|Q70347036]] <small>(MeSH: D006289)</small>
+* [[Health Planning Technical Assistance]] — [[d:Q70350942|Q70350942]] <small>(MeSH: D006290)</small>
+* [[Health Priorities]] — [[d:Q70470402|Q70470402]] <small>(MeSH: D006292)</small>
+* [[Health Resources]] — [[d:Q70364280|Q70364280]] <small>(MeSH: D006295)</small>
+* [[Health Services Needs and Demand]] — [[d:Q70441959|Q70441959]] <small>(MeSH: D006301)</small>
+* [[Health Systems Agencies]] — [[d:Q70359700|Q70359700]] <small>(MeSH: D006307)</small>
+* [[Health Systems Plans]] — [[d:Q70471954|Q70471954]] <small>(MeSH: D006308)</small>
+* [[Healthcare Financing]] — [[d:Q59208402|Q59208402]] <small>(MeSH: D061889)</small>
+* [[High Reliability Organizations]] — [[d:Q5757680|Q5757680]] <small>(MeSH: D000085264)</small>
+* [[Home Care Agencies]] — [[d:Q70436310|Q70436310]] <small>(MeSH: D018574)</small>
+* [[Hospital Auxiliaries]] — [[d:Q70437032|Q70437032]] <small>(MeSH: D006741)</small>
+* [[Hospital Charges]] — [[d:Q70362088|Q70362088]] <small>(MeSH: D017722)</small>
+* [[Hospital Costs]] — [[d:Q62522462|Q62522462]] <small>(MeSH: D017721)</small>
+* [[Hospital Planning]] — [[d:Q70346927|Q70346927]] <small>(MeSH: D006752)</small>
+* [[Income Tax]] — [[d:Q179222|Q179222]] <small>(MeSH: D007183)</small>
+* [[Induced Demand]] — [[d:Q114713807|Q114713807]] <small>(MeSH: D000081724)</small>
+* [[Inflation, Economic]] — [[d:Q35865|Q35865]] <small>(MeSH: D007250)</small>
+* [[Insurance]] — [[d:Q43183|Q43183]] <small>(MeSH: D007341)</small>
+* [[Insurance Benefits]] — [[d:Q58037486|Q58037486]] <small>(MeSH: D007342)</small>
+* [[Insurance Carriers]] — [[d:Q70452809|Q70452809]] <small>(MeSH: D007343)</small>
+* [[Insurance Claim Reporting]] — [[d:Q70350750|Q70350750]] <small>(MeSH: D007344)</small>
+* [[Insurance Claim Review]] — [[d:Q70350717|Q70350717]] <small>(MeSH: D007345)</small>
+* [[Insurance Coverage]] — [[d:Q58037855|Q58037855]] <small>(MeSH: D019458)</small>
+* [[Insurance Pools]] — [[d:Q70471792|Q70471792]] <small>(MeSH: D015271)</small>
+* [[Insurance Selection Bias]] — [[d:Q70470758|Q70470758]] <small>(MeSH: D015273)</small>
+* [[Insurance, Accident]] — [[d:Q2493211|Q2493211]] <small>(MeSH: D007346)</small>
+* [[Insurance, Dental]] — [[d:Q5259419|Q5259419]] <small>(MeSH: D007347)</small>
+* [[Insurance, Disability]] — [[d:Q4118291|Q4118291]] <small>(MeSH: D018868)</small>
+* [[Insurance, Health]] — [[d:Q334911|Q334911]] <small>(MeSH: D007348)</small>
+* [[Insurance, Health, Reimbursement]] — [[d:Q70471286|Q70471286]] <small>(MeSH: D007349)</small>
+* [[Insurance, Hospitalization]] — [[d:Q70469054|Q70469054]] <small>(MeSH: D007350)</small>
+* [[Insurance, Liability]] — [[d:Q992350|Q992350]] <small>(MeSH: D007351)</small>
+* [[Insurance, Life]] — [[d:Q626608|Q626608]] <small>(MeSH: D007352)</small>
+* [[Insurance, Long-Term Care]] — [[d:Q1674580|Q1674580]] <small>(MeSH: D007353)</small>
+* [[Insurance, Major Medical]] — [[d:Q70450982|Q70450982]] <small>(MeSH: D007354)</small>
+* [[Insurance, Medigap]] — [[d:Q6806864|Q6806864]] <small>(MeSH: D017054)</small>
+* [[Insurance, Nursing Services]] — [[d:Q70436528|Q70436528]] <small>(MeSH: D007355)</small>
+* [[Insurance, Pharmaceutical Services]] — [[d:Q70439284|Q70439284]] <small>(MeSH: D007356)</small>
+* [[Insurance, Physician Services]] — [[d:Q70363023|Q70363023]] <small>(MeSH: D007357)</small>
+* [[Insurance, Psychiatric]] — [[d:Q70490040|Q70490040]] <small>(MeSH: D007358)</small>
+* [[Insurance, Surgical]] — [[d:Q70439865|Q70439865]] <small>(MeSH: D007359)</small>
+* [[Insurance, Vision]] — [[d:Q113955371|Q113955371]] <small>(MeSH: D000077776)</small>
+* [[International Agencies]] — [[d:Q70350919|Q70350919]] <small>(MeSH: D007390)</small>
+* [[International Council of Nurses]] — [[d:Q1666482|Q1666482]] <small>(MeSH: D007392)</small>
+* [[International Planned Parenthood Federation]] — [[d:Q181972|Q181972]] <small>(MeSH: D066149)</small>
+* [[Investments]] — [[d:Q4290|Q4290]] <small>(MeSH: D007449)</small>
+* [[Labor Unions]] — [[d:Q178790|Q178790]] <small>(MeSH: D007750)</small>
+* [[Leasing, Property]] — [[d:Q716894|Q716894]] <small>(MeSH: D007860)</small>
+* [[Legislation, Dental]] — [[d:Q70470142|Q70470142]] <small>(MeSH: D007879)</small>
+* [[Legislation, Food]] — [[d:Q16661688|Q16661688]] <small>(MeSH: D007881)</small>
+* [[Legislation, Hospital]] — [[d:Q70362036|Q70362036]] <small>(MeSH: D007882)</small>
+* [[Legislation, Medical]] — [[d:Q2632182|Q2632182]] <small>(MeSH: D007883)</small>
+* [[Legislation, Nursing]] — [[d:Q70440021|Q70440021]] <small>(MeSH: D007884)</small>
+* [[Legislation, Pharmacy]] — [[d:Q70364236|Q70364236]] <small>(MeSH: D007885)</small>
+* [[Legislation, Veterinary]] — [[d:Q70453581|Q70453581]] <small>(MeSH: D007886)</small>
+* [[Licensure]] — [[d:Q6543077|Q6543077]] <small>(MeSH: D008004)</small>
+* [[Licensure, Dental]] — [[d:Q70472139|Q70472139]] <small>(MeSH: D008005)</small>
+* [[Licensure, Hospital]] — [[d:Q70450853|Q70450853]] <small>(MeSH: D008006)</small>
+* [[Licensure, Medical]] — [[d:Q70447260|Q70447260]] <small>(MeSH: D008007)</small>
+* [[Licensure, Nursing]] — [[d:Q17114295|Q17114295]] <small>(MeSH: D008008)</small>
+* [[Licensure, Pharmacy]] — [[d:Q70471831|Q70471831]] <small>(MeSH: D008009)</small>
+* [[Low-Value Care]] — [[d:Q112125040|Q112125040]] <small>(MeSH: D000090222)</small>
+* [[Managed Care Programs]] — [[d:Q1416012|Q1416012]] <small>(MeSH: D008329)</small>
+* [[Managed Competition]] — [[d:Q70437324|Q70437324]] <small>(MeSH: D018854)</small>
+* [[Medecins Sans Frontieres]] — [[d:Q49330|Q49330]] <small>(MeSH: D000095744)</small>
+* [[Medicaid]] — [[d:Q1141363|Q1141363]] <small>(MeSH: D008484)</small>
+* [[Medical Assistance]] — [[d:Q70452676|Q70452676]] <small>(MeSH: D008483)</small>
+* [[Medical Debt]] — [[d:Q6806499|Q6806499]] <small>(MeSH: D000098566)</small>
+* [[Medical Device Legislation]] — [[d:Q70359462|Q70359462]] <small>(MeSH: D062307)</small>
+* [[Medical Savings Accounts]] — [[d:Q6806595|Q6806595]] <small>(MeSH: D020402)</small>
+* [[Medically Underserved Area]] — [[d:Q3045065|Q3045065]] <small>(MeSH: D008507)</small>
+* [[Medicare]] — [[d:Q559392|Q559392]] <small>(MeSH: D006278)</small>
+* [[Medicare Access and CHIP Reauthorization Act of 2015]] — [[d:Q19865084|Q19865084]] <small>(MeSH: D000072641)</small>
+* [[Medicare Assignment]] — [[d:Q70348986|Q70348986]] <small>(MeSH: D015442)</small>
+* [[Medicare Part A]] — [[d:Q70439064|Q70439064]] <small>(MeSH: D016344)</small>
+* [[Medicare Part B]] — [[d:Q70448566|Q70448566]] <small>(MeSH: D016345)</small>
+* [[Medicare Part C]] — [[d:Q6806632|Q6806632]] <small>(MeSH: D020398)</small>
+* [[Medicare Part D]] — [[d:Q6806635|Q6806635]] <small>(MeSH: D054524)</small>
+* [[Medicare Payment Advisory Commission]] — [[d:Q6806637|Q6806637]] <small>(MeSH: D020406)</small>
+* [[Medication Therapy Management]] — [[d:Q12061588|Q12061588]] <small>(MeSH: D054539)</small>
+* [[Mental Health Associations]] — [[d:Q70373813|Q70373813]] <small>(MeSH: D008604)</small>
+* [[National Academy of Sciences, U.S.]] — [[d:Q270794|Q270794]] <small>(MeSH: D009307)</small>
+* [[National Cancer Institute (U.S.)]] — [[d:Q664846|Q664846]] <small>(MeSH: D054547)</small>
+* [[National Eye Institute (U.S.)]] — [[d:Q1814921|Q1814921]] <small>(MeSH: D054554)</small>
+* [[National Health Insurance, United States]] — [[d:Q70437793|Q70437793]] <small>(MeSH: D009310)</small>
+* [[National Health Programs]] — [[d:Q70450490|Q70450490]] <small>(MeSH: D009313)</small>
+* [[National Heart, Lung, and Blood Institute (U.S.)]] — [[d:Q6973027|Q6973027]] <small>(MeSH: D054555)</small>
+* [[National Human Genome Research Institute (U.S.)]] — [[d:Q1634459|Q1634459]] <small>(MeSH: D054560)</small>
+* [[National Institute of Allergy and Infectious Diseases (U.S.)]] — [[d:Q3519875|Q3519875]] <small>(MeSH: D054579)</small>
+* [[National Institute of Environmental Health Sciences (U.S.)]] — [[d:Q1284039|Q1284039]] <small>(MeSH: D054585)</small>
+* [[National Institute of General Medical Sciences (U.S.)]] — [[d:Q6973666|Q6973666]] <small>(MeSH: D054587)</small>
+* [[National Institute of Mental Health (U.S.)]] — [[d:Q1967405|Q1967405]] <small>(MeSH: D009315)</small>
+* [[National Institute of Nursing Research (U.S.)]] — [[d:Q6973682|Q6973682]] <small>(MeSH: D054588)</small>
+* [[National Institute on Aging (U.S.)]] — [[d:Q5969362|Q5969362]] <small>(MeSH: D054561)</small>
+* [[National Institute on Alcohol Abuse and Alcoholism (U.S.)]] — [[d:Q16821236|Q16821236]] <small>(MeSH: D054563)</small>
+* [[National Institute on Drug Abuse (U.S.)]] — [[d:Q6973751|Q6973751]] <small>(MeSH: D054577)</small>
+* [[National Institutes of Health (U.S.)]] — [[d:Q390551|Q390551]] <small>(MeSH: D009316)</small>
+* [[National Library of Medicine (U.S.)]] — [[d:Q611833|Q611833]] <small>(MeSH: D009317)</small>
+* [[Not-For-Profit Insurance Plans]] — [[d:Q70441577|Q70441577]] <small>(MeSH: D059034)</small>
+* [[Old Age Assistance]] — [[d:Q437458|Q437458]] <small>(MeSH: D009826)</small>
+* [[Organisation for Economic Co-Operation and Development]] — [[d:Q41550|Q41550]] <small>(MeSH: D066150)</small>
+* [[Organizational Case Studies]] — [[d:Q70454036|Q70454036]] <small>(MeSH: D019982)</small>
+* [[Organizations]] — [[d:Q43229|Q43229]] <small>(MeSH: D009938)</small>
+* [[Organizations, Nonprofit]] — [[d:Q163740|Q163740]] <small>(MeSH: D009939)</small>
+* [[Outliers, DRG]] — [[d:Q779824|Q779824]] <small>(MeSH: D016311)</small>
+* [[Outsourced Services]] — [[d:Q61515|Q61515]] <small>(MeSH: D020416)</small>
+* [[Pan American Health Organization]] — [[d:Q1856835|Q1856835]] <small>(MeSH: D010175)</small>
+* [[Patient Credit and Collection]] — [[d:Q10535274|Q10535274]] <small>(MeSH: D010350)</small>
+* [[Patient Freedom of Choice Laws]] — [[d:Q70374518|Q70374518]] <small>(MeSH: D020403)</small>
+* [[Patient Protection and Affordable Care Act]] — [[d:Q1414593|Q1414593]] <small>(MeSH: D058991)</small>
+* [[Patient Self-Determination Act]] — [[d:Q7144974|Q7144974]] <small>(MeSH: D019726)</small>
+* [[Physician Payment Review Commission]] — [[d:Q70441554|Q70441554]] <small>(MeSH: D015284)</small>
+* [[Policy Making]] — [[d:Q3907287|Q3907287]] <small>(MeSH: D011050)</small>
+* [[Preexisting Condition Coverage]] — [[d:Q70437219|Q70437219]] <small>(MeSH: D064266)</small>
+* [[Preferred Provider Organizations]] — [[d:Q7239847|Q7239847]] <small>(MeSH: D011243)</small>
+* [[Prepaid Health Plans]] — [[d:Q70436625|Q70436625]] <small>(MeSH: D017061)</small>
+* [[Prescription Fees]] — [[d:Q70470231|Q70470231]] <small>(MeSH: D011306)</small>
+* [[Price Transparency]] — [[d:Q131498950|Q131498950]] <small>(MeSH: D000098363)</small>
+* [[Prior Authorization]] — [[d:Q17514788|Q17514788]] <small>(MeSH: D000078482)</small>
+* [[Privacy]] — [[d:Q188728|Q188728]] <small>(MeSH: D018907)</small>
+* [[Prospective Payment Assessment Commission]] — [[d:Q70436477|Q70436477]] <small>(MeSH: D011444)</small>
+* [[Prospective Payment System]] — [[d:Q7250835|Q7250835]] <small>(MeSH: D011445)</small>
+* [[Public Assistance]] — [[d:Q11392097|Q11392097]] <small>(MeSH: D011632)</small>
+* [[Public Expenditures]] — [[d:Q7257739|Q7257739]] <small>(MeSH: D000077108)</small>
+* [[Rate Setting and Review]] — [[d:Q70453286|Q70453286]] <small>(MeSH: D011907)</small>
+* [[Red Cross]] — [[d:Q7178|Q7178]] <small>(MeSH: D012011)</small>
+* [[Regional Health Planning]] — [[d:Q70436506|Q70436506]] <small>(MeSH: D012040)</small>
+* [[Regional Medical Programs]] — [[d:Q70439222|Q70439222]] <small>(MeSH: D012041)</small>
+* [[Reimbursement Mechanisms]] — [[d:Q70471723|Q70471723]] <small>(MeSH: D012051)</small>
+* [[Reimbursement, Disproportionate Share]] — [[d:Q70372961|Q70372961]] <small>(MeSH: D020444)</small>
+* [[Reimbursement, Incentive]] — [[d:Q7156607|Q7156607]] <small>(MeSH: D012052)</small>
+* [[Relative Value Scales]] — [[d:Q7315782|Q7315782]] <small>(MeSH: D015895)</small>
+* [[Resource-Limited Settings]] — [[d:Q116701882|Q116701882]] <small>(MeSH: D000092943)</small>
+* [[Risk Management]] — [[d:Q189447|Q189447]] <small>(MeSH: D012308)</small>
+* [[Risk Sharing, Financial]] — [[d:Q70488841|Q70488841]] <small>(MeSH: D020414)</small>
+* [[Routinely Collected Health Data]] — [[d:Q114803636|Q114803636]] <small>(MeSH: D000085143)</small>
+* [[Self-Help Groups]] — [[d:Q107584900|Q107584900]] <small>(MeSH: D012657)</small>
+* [[Single-Payer System]] — [[d:Q1021512|Q1021512]] <small>(MeSH: D018855)</small>
+* [[Social Security]] — [[d:Q2483208|Q2483208]] <small>(MeSH: D012943)</small>
+* [[Societies]] — [[d:Q829080|Q829080]] <small>(MeSH: D012952)</small>
+* [[Societies, Dental]] — [[d:Q70472164|Q70472164]] <small>(MeSH: D012953)</small>
+* [[Societies, Hospital]] — [[d:Q70363224|Q70363224]] <small>(MeSH: D012954)</small>
+* [[Societies, Medical]] — [[d:Q19869268|Q19869268]] <small>(MeSH: D012955)</small>
+* [[Societies, Nursing]] — [[d:Q70363926|Q70363926]] <small>(MeSH: D012956)</small>
+* [[Societies, Pharmaceutical]] — [[d:Q70363673|Q70363673]] <small>(MeSH: D012957)</small>
+* [[Societies, Scientific]] — [[d:Q748019|Q748019]] <small>(MeSH: D012958)</small>
+* [[Societies, Veterinary]] — [[d:Q113961369|Q113961369]] <small>(MeSH: D000077923)</small>
+* [[Specialty Boards]] — [[d:Q70451299|Q70451299]] <small>(MeSH: D013044)</small>
+* [[State Dentistry]] — [[d:Q70470666|Q70470666]] <small>(MeSH: D013218)</small>
+* [[State Health Planning and Development Agencies]] — [[d:Q70341120|Q70341120]] <small>(MeSH: D013220)</small>
+* [[State Health Plans]] — [[d:Q70490898|Q70490898]] <small>(MeSH: D013221)</small>
+* [[State Medicine]] — [[d:Q64830835|Q64830835]] <small>(MeSH: D013222)</small>
+* [[Strikes, Employee]] — [[d:Q49776|Q49776]] <small>(MeSH: D013317)</small>
+* [[Tax Equity and Fiscal Responsibility Act]] — [[d:Q7689374|Q7689374]] <small>(MeSH: D013659)</small>
+* [[Tax Exemption]] — [[d:Q705450|Q705450]] <small>(MeSH: D019464)</small>
+* [[Taxes]] — [[d:Q8161|Q8161]] <small>(MeSH: D013660)</small>
+* [[Technology Assessment, Biomedical]] — [[d:Q70450279|Q70450279]] <small>(MeSH: D013673)</small>
+* [[Technology, High-Cost]] — [[d:Q70489390|Q70489390]] <small>(MeSH: D013675)</small>
+* [[Threshold Limit Values]] — [[d:Q21005|Q21005]] <small>(MeSH: D020711)</small>
+* [[Training Support]] — [[d:Q70440043|Q70440043]] <small>(MeSH: D014146)</small>
+* [[Tuberculosis Societies]] — [[d:Q58012654|Q58012654]] <small>(MeSH: D014378)</small>
+* [[UNESCO]] — [[d:Q7809|Q7809]] <small>(MeSH: D000076892)</small>
+* [[United Nations]] — [[d:Q1065|Q1065]] <small>(MeSH: D014480)</small>
+* [[Universal Health Insurance]] — [[d:Q111680206|Q111680206]] <small>(MeSH: D019472)</small>
+* [[Value-Based Health Insurance]] — [[d:Q28455190|Q28455190]] <small>(MeSH: D000070376)</small>
+* [[Value-Based Purchasing]] — [[d:Q70453557|Q70453557]] <small>(MeSH: D062505)</small>
+* [[Veterans Disability Claims]] — [[d:Q70471758|Q70471758]] <small>(MeSH: D014729)</small>
+* [[Voluntary Health Agencies]] — [[d:Q70441508|Q70441508]] <small>(MeSH: D014837)</small>
+* [[Workers' Compensation]] — [[d:Q1184466|Q1184466]] <small>(MeSH: D014942)</small>
+* [[World Health Organization]] — [[d:Q7817|Q7817]] <small>(MeSH: D014944)</small>
+
+=== Health Services Administration ===
+
+* '''Coverage:''' 16.1%
+* '''{{color|blue|Bluelinks}}:''' 31
+* '''{{color|red|Redlinks}}:''' 162
+* [[Access to Primary Care]] — [[d:Q116693522|Q116693522]] <small>(MeSH: D000092863)</small>
+* [[Administrative Claims, Healthcare]] — [[d:Q70449194|Q70449194]] <small>(MeSH: D000067575)</small>
+* [[Advance Care Planning]] — [[d:Q18209059|Q18209059]] <small>(MeSH: D032722)</small>
+* [[Advance Directive Adherence]] — [[d:Q70374160|Q70374160]] <small>(MeSH: D024362)</small>
+* [[After-Hours Care]] — [[d:Q3375456|Q3375456]] <small>(MeSH: D039602)</small>
+* [[Ambulatory Care Information Systems]] — [[d:Q70335480|Q70335480]] <small>(MeSH: D000555)</small>
+* [[Antimicrobial Stewardship]] — [[d:Q19903321|Q19903321]] <small>(MeSH: D000073602)</small>
+* [[Appointments and Schedules]] — [[d:Q70436826|Q70436826]] <small>(MeSH: D001071)</small>
+* [[Benchmarking]] — [[d:Q816754|Q816754]] <small>(MeSH: D019985)</small>
+* [[Biosecurity]] — [[d:Q803874|Q803874]] <small>(MeSH: D000089062)</small>
+* [[Case Management]] — [[d:Q366193|Q366193]] <small>(MeSH: D019090)</small>
+* [[Change Management]] — [[d:Q116348|Q116348]] <small>(MeSH: D000078003)</small>
+* [[Chronic Care Model]] — [[d:Q131514993|Q131514993]] <small>(MeSH: D000099057)</small>
+* [[Clinical Audit]] — [[d:Q5133817|Q5133817]] <small>(MeSH: D054869)</small>
+* [[Clinical Coding]] — [[d:Q70448550|Q70448550]] <small>(MeSH: D059019)</small>
+* [[Clinical Governance]] — [[d:Q3773715|Q3773715]] <small>(MeSH: D054976)</small>
+* [[Clinical Laboratory Information Systems]] — [[d:Q70316941|Q70316941]] <small>(MeSH: D002984)</small>
+* [[Commission on Professional and Hospital Activities]] — [[d:Q70341068|Q70341068]] <small>(MeSH: D003133)</small>
+* [[Committee Membership]] — [[d:Q70489804|Q70489804]] <small>(MeSH: D032802)</small>
+* [[Community-Institutional Relations]] — [[d:Q70348340|Q70348340]] <small>(MeSH: D003159)</small>
+* [[Comprehensive Dental Care]] — [[d:Q70350622|Q70350622]] <small>(MeSH: D003190)</small>
+* [[Comprehensive Health Care]] — [[d:Q70362846|Q70362846]] <small>(MeSH: D003191)</small>
+* [[Concierge Medicine]] — [[d:Q5158689|Q5158689]] <small>(MeSH: D000068977)</small>
+* [[Concurrent Review]] — [[d:Q70470926|Q70470926]] <small>(MeSH: D003211)</small>
+* [[Conscientious Refusal to Treat]] — [[d:Q113987383|Q113987383]] <small>(MeSH: D000078383)</small>
+* [[Constitution and Bylaws]] — [[d:Q70351122|Q70351122]] <small>(MeSH: D003249)</small>
+* [[Crew Resource Management, Healthcare]] — [[d:Q70477361|Q70477361]] <small>(MeSH: D000067498)</small>
+* [[Critical Care Outcomes]] — [[d:Q70350413|Q70350413]] <small>(MeSH: D000066891)</small>
+* [[Critical Pathways]] — [[d:Q1774706|Q1774706]] <small>(MeSH: D019091)</small>
+* [[Culturally Competent Care]] — [[d:Q18206313|Q18206313]] <small>(MeSH: D065246)</small>
+* [[Decision Making, Organizational]] — [[d:Q70442251|Q70442251]] <small>(MeSH: D003659)</small>
+* [[Decision Support Systems, Management]] — [[d:Q330268|Q330268]] <small>(MeSH: D003660)</small>
+* [[Delegation, Professional]] — [[d:Q70346719|Q70346719]] <small>(MeSH: D032022)</small>
+* [[Delivery of Health Care]] — [[d:Q31207|Q31207]] <small>(MeSH: D003695)</small>
+* [[Delivery of Health Care, Integrated]] — [[d:Q1477478|Q1477478]] <small>(MeSH: D019033)</small>
+* [[Dental Audit]] — [[d:Q70448432|Q70448432]] <small>(MeSH: D019230)</small>
+* [[Dental Care Team]] — [[d:Q116557900|Q116557900]] <small>(MeSH: D000091982)</small>
+* [[Diet Records]] — [[d:Q70362919|Q70362919]] <small>(MeSH: D015930)</small>
+* [[Disease Management]] — [[d:Q883708|Q883708]] <small>(MeSH: D019468)</small>
+* [[Drug Utilization]] — [[d:Q70490362|Q70490362]] <small>(MeSH: D004363)</small>
+* [[Drug Utilization Review]] — [[d:Q65066344|Q65066344]] <small>(MeSH: D017723)</small>
+* [[Efficiency, Organizational]] — [[d:Q70436796|Q70436796]] <small>(MeSH: D017598)</small>
+* [[Eligibility Determination]] — [[d:Q70489433|Q70489433]] <small>(MeSH: D004608)</small>
+* [[Employee Discipline]] — [[d:Q70469618|Q70469618]] <small>(MeSH: D004647)</small>
+* [[Employee Grievances]] — [[d:Q5608720|Q5608720]] <small>(MeSH: D004648)</small>
+* [[Employee Incentive Plans]] — [[d:Q70439310|Q70439310]] <small>(MeSH: D004649)</small>
+* [[Employee Performance Appraisal]] — [[d:Q1430184|Q1430184]] <small>(MeSH: D004650)</small>
+* [[Fee Schedules]] — [[d:Q70348173|Q70348173]] <small>(MeSH: D005245)</small>
+* [[Forms and Records Control]] — [[d:Q70451272|Q70451272]] <small>(MeSH: D005568)</small>
+* [[Gatekeeping]] — [[d:Q126203826|Q126203826]] <small>(MeSH: D020793)</small>
+* [[Gender-Affirming Care]] — [[d:Q123822804|Q123822804]] <small>(MeSH: D000097962)</small>
+* [[Governing Board]] — [[d:Q70448660|Q70448660]] <small>(MeSH: D006075)</small>
+* [[Group Practice]] — [[d:Q70437600|Q70437600]] <small>(MeSH: D006123)</small>
+* [[Group Practice, Dental]] — [[d:Q70450116|Q70450116]] <small>(MeSH: D006124)</small>
+* [[Group Practice, Prepaid]] — [[d:Q70440562|Q70440562]] <small>(MeSH: D006125)</small>
+* [[Guideline Adherence]] — [[d:Q70453173|Q70453173]] <small>(MeSH: D019983)</small>
+* [[Health Equity]] — [[d:Q1512929|Q1512929]] <small>(MeSH: D000069576)</small>
+* [[Health Services Accessibility]] — [[d:Q67075251|Q67075251]] <small>(MeSH: D006297)</small>
+* [[Health Smart Cards]] — [[d:Q70321329|Q70321329]] <small>(MeSH: D000069098)</small>
+* [[Hospital Information Systems]] — [[d:Q1509084|Q1509084]] <small>(MeSH: D006751)</small>
+* [[Hospital Rapid Response Team]] — [[d:Q70489541|Q70489541]] <small>(MeSH: D057209)</small>
+* [[Hospital Shared Services]] — [[d:Q70374395|Q70374395]] <small>(MeSH: D006755)</small>
+* [[Hospital-Physician Relations]] — [[d:Q70477589|Q70477589]] <small>(MeSH: D018578)</small>
+* [[House Calls]] — [[d:Q12188186|Q12188186]] <small>(MeSH: D006792)</small>
+* [[Independent Practice Associations]] — [[d:Q6017526|Q6017526]] <small>(MeSH: D007193)</small>
+* [[Institutional Management Teams]] — [[d:Q70373036|Q70373036]] <small>(MeSH: D007324)</small>
+* [[Institutional Practice]] — [[d:Q70347008|Q70347008]] <small>(MeSH: D007325)</small>
+* [[Interdepartmental Relations]] — [[d:Q70451130|Q70451130]] <small>(MeSH: D015274)</small>
+* [[Interinstitutional Relations]] — [[d:Q70449248|Q70449248]] <small>(MeSH: D007373)</small>
+* [[Intersectoral Collaboration]] — [[d:Q70470595|Q70470595]] <small>(MeSH: D000070516)</small>
+* [[Job Application]] — [[d:Q676108|Q676108]] <small>(MeSH: D007586)</small>
+* [[Job Description]] — [[d:Q930829|Q930829]] <small>(MeSH: D007587)</small>
+* [[Knowledge Management]] — [[d:Q192060|Q192060]] <small>(MeSH: D058436)</small>
+* [[Learning Health System]] — [[d:Q55616692|Q55616692]] <small>(MeSH: D000080891)</small>
+* [[Lysholm Knee Score]] — [[d:Q70471668|Q70471668]] <small>(MeSH: D065466)</small>
+* [[Management Audit]] — [[d:Q17125356|Q17125356]] <small>(MeSH: D008330)</small>
+* [[Management Information Systems]] — [[d:Q61905|Q61905]] <small>(MeSH: D008331)</small>
+* [[Management Quality Circles]] — [[d:Q70469477|Q70469477]] <small>(MeSH: D008332)</small>
+* [[Management Service Organizations]] — [[d:Q70489668|Q70489668]] <small>(MeSH: D021661)</small>
+* [[Material Safety Data Sheets]] — [[d:Q222067|Q222067]] <small>(MeSH: D063967)</small>
+* [[Meaningful Use]] — [[d:Q70489186|Q70489186]] <small>(MeSH: D062527)</small>
+* [[Medical Audit]] — [[d:Q15880616|Q15880616]] <small>(MeSH: D008485)</small>
+* [[Medical Order Entry Systems]] — [[d:Q1122478|Q1122478]] <small>(MeSH: D050316)</small>
+* [[Medical Staff Privileges]] — [[d:Q70348420|Q70348420]] <small>(MeSH: D008504)</small>
+* [[Medication Reconciliation]] — [[d:Q21116778|Q21116778]] <small>(MeSH: D059065)</small>
+* [[Medication Review]] — [[d:Q112124617|Q112124617]] <small>(MeSH: D000090143)</small>
+* [[Medication Systems]] — [[d:Q70448985|Q70448985]] <small>(MeSH: D008509)</small>
+* [[Medication Systems, Hospital]] — [[d:Q70373949|Q70373949]] <small>(MeSH: D008510)</small>
+* [[Minimal Clinically Important Difference]] — [[d:Q17069312|Q17069312]] <small>(MeSH: D000071081)</small>
+* [[Multi-Institutional Systems]] — [[d:Q70351455|Q70351455]] <small>(MeSH: D009096)</small>
+* [[Nuclear Medicine Department, Hospital]] — [[d:Q70442437|Q70442437]] <small>(MeSH: D009684)</small>
+* [[Nursing Assessment]] — [[d:Q1476755|Q1476755]] <small>(MeSH: D009730)</small>
+* [[Nursing Audit]] — [[d:Q70373395|Q70373395]] <small>(MeSH: D009731)</small>
+* [[Nursing Diagnosis]] — [[d:Q2084125|Q2084125]] <small>(MeSH: D009733)</small>
+* [[Nursing Faculty Practice]] — [[d:Q70440144|Q70440144]] <small>(MeSH: D009734)</small>
+* [[Nursing Process]] — [[d:Q374082|Q374082]] <small>(MeSH: D009736)</small>
+* [[Nursing, Private Duty]] — [[d:Q7246193|Q7246193]] <small>(MeSH: D009744)</small>
+* [[Nursing, Supervisory]] — [[d:Q70341204|Q70341204]] <small>(MeSH: D009745)</small>
+* [[Nursing, Team]] — [[d:Q70442472|Q70442472]] <small>(MeSH: D009746)</small>
+* [[Office Automation]] — [[d:Q2734036|Q2734036]] <small>(MeSH: D009816)</small>
+* [[Office Management]] — [[d:Q1966741|Q1966741]] <small>(MeSH: D009817)</small>
+* [[Office Nursing]] — [[d:Q70346744|Q70346744]] <small>(MeSH: D009818)</small>
+* [[Office Visits]] — [[d:Q70372797|Q70372797]] <small>(MeSH: D009819)</small>
+* [[Operating Room Information Systems]] — [[d:Q70334867|Q70334867]] <small>(MeSH: D009870)</small>
+* [[Organization and Administration]] — [[d:Q5283295|Q5283295]] <small>(MeSH: D009934)</small>
+* [[Organizational Affiliation]] — [[d:Q70341263|Q70341263]] <small>(MeSH: D009935)</small>
+* [[Organizational Culture]] — [[d:Q730573|Q730573]] <small>(MeSH: D015279)</small>
+* [[Organizational Innovation]] — [[d:Q70489304|Q70489304]] <small>(MeSH: D009936)</small>
+* [[Organizational Objectives]] — [[d:Q70453980|Q70453980]] <small>(MeSH: D009937)</small>
+* [[Outcome and Process Assessment, Health Care]] — [[d:Q7111916|Q7111916]] <small>(MeSH: D010043)</small>
+* [[Partnership Practice]] — [[d:Q70373599|Q70373599]] <small>(MeSH: D010317)</small>
+* [[Partnership Practice, Dental]] — [[d:Q70449236|Q70449236]] <small>(MeSH: D010318)</small>
+* [[Patient Care Management]] — [[d:Q50283963|Q50283963]] <small>(MeSH: D010346)</small>
+* [[Patient Care Planning]] — [[d:Q70340939|Q70340939]] <small>(MeSH: D010347)</small>
+* [[Patient Care Team]] — [[d:Q66647979|Q66647979]] <small>(MeSH: D010348)</small>
+* [[Patient Discharge Summaries]] — [[d:Q70438562|Q70438562]] <small>(MeSH: D063886)</small>
+* [[Patient Identification Systems]] — [[d:Q54829371|Q54829371]] <small>(MeSH: D010355)</small>
+* [[Patient Navigation]] — [[d:Q70477215|Q70477215]] <small>(MeSH: D062526)</small>
+* [[Patient Outcome Assessment]] — [[d:Q65494848|Q65494848]] <small>(MeSH: D063868)</small>
+* [[Patient-Centered Care]] — [[d:Q7144952|Q7144952]] <small>(MeSH: D018802)</small>
+* [[Personnel Administration, Hospital]] — [[d:Q70441536|Q70441536]] <small>(MeSH: D010557)</small>
+* [[Personnel Delegation]] — [[d:Q70490467|Q70490467]] <small>(MeSH: D032024)</small>
+* [[Personnel Loyalty]] — [[d:Q70443602|Q70443602]] <small>(MeSH: D010558)</small>
+* [[Personnel Management]] — [[d:Q1056396|Q1056396]] <small>(MeSH: D010559)</small>
+* [[Personnel Selection]] — [[d:Q2072146|Q2072146]] <small>(MeSH: D010560)</small>
+* [[Personnel Staffing and Scheduling Information Systems]] — [[d:Q1229237|Q1229237]] <small>(MeSH: D010562)</small>
+* [[Personnel Turnover]] — [[d:Q1910318|Q1910318]] <small>(MeSH: D010563)</small>
+* [[Pharmacy Administration]] — [[d:Q70453370|Q70453370]] <small>(MeSH: D010605)</small>
+* [[Pharmacy and Therapeutics Committee]] — [[d:Q70372638|Q70372638]] <small>(MeSH: D010606)</small>
+* [[Physician Engagement]] — [[d:Q25111385|Q25111385]] <small>(MeSH: D000096002)</small>
+* [[Physician Incentive Plans]] — [[d:Q70489324|Q70489324]] <small>(MeSH: D010816)</small>
+* [[Physician Self-Referral]] — [[d:Q7189652|Q7189652]] <small>(MeSH: D018584)</small>
+* [[Planning Techniques]] — [[d:Q70490183|Q70490183]] <small>(MeSH: D010934)</small>
+* [[Point-of-Care Systems]] — [[d:Q64733592|Q64733592]] <small>(MeSH: D019095)</small>
+* [[Point-of-Care Testing]] — [[d:Q491983|Q491983]] <small>(MeSH: D000067716)</small>
+* [[Potentially Inappropriate Medication List]] — [[d:Q65591238|Q65591238]] <small>(MeSH: D000067561)</small>
+* [[Practice Management]] — [[d:Q48768260|Q48768260]] <small>(MeSH: D020399)</small>
+* [[Practice Management, Dental]] — [[d:Q70362281|Q70362281]] <small>(MeSH: D011215)</small>
+* [[Practice Management, Medical]] — [[d:Q70488599|Q70488599]] <small>(MeSH: D011216)</small>
+* [[Practice Management, Veterinary]] — [[d:Q70448466|Q70448466]] <small>(MeSH: D065447)</small>
+* [[Practice Patterns, Dentists']] — [[d:Q70470195|Q70470195]] <small>(MeSH: D019239)</small>
+* [[Practice Patterns, Nurses']] — [[d:Q70489232|Q70489232]] <small>(MeSH: D057184)</small>
+* [[Practice Patterns, Pharmacists']] — [[d:Q114837018|Q114837018]] <small>(MeSH: D000086702)</small>
+* [[Practice Patterns, Physicians']] — [[d:Q67196835|Q67196835]] <small>(MeSH: D010818)</small>
+* [[Practice Valuation and Purchase]] — [[d:Q70470425|Q70470425]] <small>(MeSH: D020443)</small>
+* [[Primary Health Care]] — [[d:Q623543|Q623543]] <small>(MeSH: D011320)</small>
+* [[Private Practice]] — [[d:Q70450023|Q70450023]] <small>(MeSH: D011331)</small>
+* [[Privatization]] — [[d:Q161500|Q161500]] <small>(MeSH: D011332)</small>
+* [[Process Assessment, Health Care]] — [[d:Q67103140|Q67103140]] <small>(MeSH: D017064)</small>
+* [[Product Line Management]] — [[d:Q70359410|Q70359410]] <small>(MeSH: D011357)</small>
+* [[Professional Autonomy]] — [[d:Q70362022|Q70362022]] <small>(MeSH: D017009)</small>
+* [[Professional Corporations]] — [[d:Q3487815|Q3487815]] <small>(MeSH: D011362)</small>
+* [[Professional Practice]] — [[d:Q67150677|Q67150677]] <small>(MeSH: D011364)</small>
+* [[Professional Practice Gaps]] — [[d:Q70359722|Q70359722]] <small>(MeSH: D000071836)</small>
+* [[Professional Practice Location]] — [[d:Q70453906|Q70453906]] <small>(MeSH: D011365)</small>
+* [[Professional Review Organizations]] — [[d:Q70449294|Q70449294]] <small>(MeSH: D011366)</small>
+* [[Professional Staff Committees]] — [[d:Q70347063|Q70347063]] <small>(MeSH: D011367)</small>
+* [[Program Development]] — [[d:Q67201705|Q67201705]] <small>(MeSH: D016730)</small>
+* [[Progressive Patient Care]] — [[d:Q70351246|Q70351246]] <small>(MeSH: D011383)</small>
+* [[Provider-Sponsored Organizations]] — [[d:Q70346481|Q70346481]] <small>(MeSH: D020400)</small>
+* [[Public Health Administration]] — [[d:Q70453138|Q70453138]] <small>(MeSH: D011635)</small>
+* [[Public Relations]] — [[d:Q133080|Q133080]] <small>(MeSH: D011641)</small>
+* [[Quality Assurance, Health Care]] — [[d:Q65591542|Q65591542]] <small>(MeSH: D011785)</small>
+* [[Quality Indicators, Health Care]] — [[d:Q70490153|Q70490153]] <small>(MeSH: D019984)</small>
+* [[Quality of Health Care]] — [[d:Q17003063|Q17003063]] <small>(MeSH: D011787)</small>
+* [[Radiology Information Systems]] — [[d:Q1418000|Q1418000]] <small>(MeSH: D011873)</small>
+* [[Rapid On-site Evaluation]] — [[d:Q112119558|Q112119558]] <small>(MeSH: D000090044)</small>
+* [[Referral and Consultation]] — [[d:Q2667988|Q2667988]] <small>(MeSH: D012017)</small>
+* [[Refusal to Treat]] — [[d:Q70442066|Q70442066]] <small>(MeSH: D016079)</small>
+* [[Remote Consultation]] — [[d:Q17052685|Q17052685]] <small>(MeSH: D019114)</small>
+* [[Risk Adjustment]] — [[d:Q67399836|Q67399836]] <small>(MeSH: D020379)</small>
+* [[Risk Evaluation and Mitigation]] — [[d:Q55631740|Q55631740]] <small>(MeSH: D000073938)</small>
+* [[Safety Management]] — [[d:Q70348564|Q70348564]] <small>(MeSH: D017751)</small>
+* [[Safety-net Providers]] — [[d:Q25004734|Q25004734]] <small>(MeSH: D064876)</small>
+* [[Secondary Health Care]] — [[d:Q70447305|Q70447305]] <small>(MeSH: D063127)</small>
+* [[Security Measures]] — [[d:Q70441915|Q70441915]] <small>(MeSH: D012637)</small>
+* [[Shared Medical Appointments]] — [[d:Q114367183|Q114367183]] <small>(MeSH: D000079142)</small>
+* [[Standard of Care]] — [[d:Q7598360|Q7598360]] <small>(MeSH: D059039)</small>
+* [[Strategic Planning]] — [[d:Q932522|Q932522]] <small>(MeSH: D000070318)</small>
+* [[Telenursing]] — [[d:Q7696411|Q7696411]] <small>(MeSH: D055817)</small>
+* [[Tertiary Health Care]] — [[d:Q70363738|Q70363738]] <small>(MeSH: D063128)</small>
+* [[Time Out, Healthcare]] — [[d:Q70349187|Q70349187]] <small>(MeSH: D000067494)</small>
+* [[Total Quality Management]] — [[d:Q381001|Q381001]] <small>(MeSH: D017749)</small>
+* [[Transfer Agreement]] — [[d:Q70442340|Q70442340]] <small>(MeSH: D014164)</small>
+* [[Travel Nursing]] — [[d:Q7835958|Q7835958]] <small>(MeSH: D065099)</small>
+* [[Uncompensated Care]] — [[d:Q70447363|Q70447363]] <small>(MeSH: D017664)</small>
+* [[Universal Health Care]] — [[d:Q3274205|Q3274205]] <small>(MeSH: D000080423)</small>
+* [[Utilization Review]] — [[d:Q70488868|Q70488868]] <small>(MeSH: D014600)</small>
+* [[Value-Based Health Care]] — [[d:Q66809506|Q66809506]] <small>(MeSH: D000093683)</small>
+* [[Voluntary Programs]] — [[d:Q70441856|Q70441856]] <small>(MeSH: D035141)</small>
+* [[Waiting Lists]] — [[d:Q22909690|Q22909690]] <small>(MeSH: D014850)</small>
+* [[Watchful Waiting]] — [[d:Q2161551|Q2161551]] <small>(MeSH: D057832)</small>
+* [[Workforce]] — [[d:Q13440398|Q13440398]] <small>(MeSH: D000078329)</small>
+
+=== Dentistry Techniques ===
+
+* '''Coverage:''' 13.9%
+* '''{{color|blue|Bluelinks}}:''' 22
+* '''{{color|red|Redlinks}}:''' 136
+* [[Acid Etching, Dental]] — [[d:Q72369408|Q72369408]] <small>(MeSH: D000134)</small>
+* [[Activator Appliances]] — [[d:Q28454216|Q28454216]] <small>(MeSH: D000202)</small>
+* [[Air Abrasion, Dental]] — [[d:Q73346773|Q73346773]] <small>(MeSH: D020906)</small>
+* [[Apexification]] — [[d:Q30113479|Q30113479]] <small>(MeSH: D056624)</small>
+* [[Apicoectomy]] — [[d:Q592565|Q592565]] <small>(MeSH: D001047)</small>
+* [[Bite Force]] — [[d:Q2515143|Q2515143]] <small>(MeSH: D001732)</small>
+* [[Centric Relation]] — [[d:Q5062746|Q5062746]] <small>(MeSH: D016302)</small>
+* [[Crown Lengthening]] — [[d:Q5189495|Q5189495]] <small>(MeSH: D016556)</small>
+* [[Crowns]] — [[d:Q143720|Q143720]] <small>(MeSH: D003442)</small>
+* [[Curing Lights, Dental]] — [[d:Q2102936|Q2102936]] <small>(MeSH: D055117)</small>
+* [[Dental Abutments]] — [[d:Q3603876|Q3603876]] <small>(MeSH: D000044)</small>
+* [[Dental Articulators]] — [[d:Q443216|Q443216]] <small>(MeSH: D003725)</small>
+* [[Dental Atraumatic Restorative Treatment]] — [[d:Q72088205|Q72088205]] <small>(MeSH: D057087)</small>
+* [[Dental Bonding]] — [[d:Q5259408|Q5259408]] <small>(MeSH: D001840)</small>
+* [[Dental Care]] — [[d:Q51764646|Q51764646]] <small>(MeSH: D003729)</small>
+* [[Dental Care for Aged]] — [[d:Q70469888|Q70469888]] <small>(MeSH: D016321)</small>
+* [[Dental Care for Children]] — [[d:Q69032119|Q69032119]] <small>(MeSH: D019140)</small>
+* [[Dental Care for Chronically Ill]] — [[d:Q70363605|Q70363605]] <small>(MeSH: D017742)</small>
+* [[Dental Care for Persons with Disabilities]] — [[d:Q7574840|Q7574840]] <small>(MeSH: D003730)</small>
+* [[Dental Caries Activity Tests]] — [[d:Q72377668|Q72377668]] <small>(MeSH: D003732)</small>
+* [[Dental Casting Technique]] — [[d:Q73524200|Q73524200]] <small>(MeSH: D003735)</small>
+* [[Dental Cavity Lining]] — [[d:Q73508731|Q73508731]] <small>(MeSH: D003736)</small>
+* [[Dental Cavity Preparation]] — [[d:Q73465741|Q73465741]] <small>(MeSH: D003737)</small>
+* [[Dental Clasps]] — [[d:Q72260137|Q72260137]] <small>(MeSH: D016734)</small>
+* [[Dental Debonding]] — [[d:Q72369521|Q72369521]] <small>(MeSH: D017005)</small>
+* [[Dental Devices, Home Care]] — [[d:Q72392089|Q72392089]] <small>(MeSH: D003742)</small>
+* [[Dental Equipment]] — [[d:Q73498608|Q73498608]] <small>(MeSH: D003748)</small>
+* [[Dental Etching]] — [[d:Q73469822|Q73469822]] <small>(MeSH: D045662)</small>
+* [[Dental High-Speed Equipment]] — [[d:Q73509575|Q73509575]] <small>(MeSH: D003754)</small>
+* [[Dental High-Speed Technique]] — [[d:Q72259700|Q72259700]] <small>(MeSH: D003755)</small>
+* [[Dental Implant-Abutment Design]] — [[d:Q73032324|Q73032324]] <small>(MeSH: D059605)</small>
+* [[Dental Implantation, Endosseous, Endodontic]] — [[d:Q73525067|Q73525067]] <small>(MeSH: D003759)</small>
+* [[Dental Implants, Single-Tooth]] — [[d:Q73499711|Q73499711]] <small>(MeSH: D019250)</small>
+* [[Dental Impression Technique]] — [[d:Q73466084|Q73466084]] <small>(MeSH: D003761)</small>
+* [[Dental Instruments]] — [[d:Q5259421|Q5259421]] <small>(MeSH: D003762)</small>
+* [[Dental Marginal Adaptation]] — [[d:Q72366208|Q72366208]] <small>(MeSH: D018772)</small>
+* [[Dental Occlusion]] — [[d:Q968808|Q968808]] <small>(MeSH: D003766)</small>
+* [[Dental Occlusion, Balanced]] — [[d:Q73228407|Q73228407]] <small>(MeSH: D003767)</small>
+* [[Dental Occlusion, Centric]] — [[d:Q73523237|Q73523237]] <small>(MeSH: D003768)</small>
+* [[Dental Pins]] — [[d:Q73222867|Q73222867]] <small>(MeSH: D003772)</small>
+* [[Dental Polishing]] — [[d:Q7824278|Q7824278]] <small>(MeSH: D003775)</small>
+* [[Dental Prophylaxis]] — [[d:Q73467368|Q73467368]] <small>(MeSH: D003777)</small>
+* [[Dental Prosthesis]] — [[d:Q16014789|Q16014789]] <small>(MeSH: D017266)</small>
+* [[Dental Prosthesis Design]] — [[d:Q73348414|Q73348414]] <small>(MeSH: D017267)</small>
+* [[Dental Prosthesis Repair]] — [[d:Q73212407|Q73212407]] <small>(MeSH: D017269)</small>
+* [[Dental Prosthesis Retention]] — [[d:Q73510378|Q73510378]] <small>(MeSH: D017268)</small>
+* [[Dental Prosthesis, Implant-Supported]] — [[d:Q72391643|Q72391643]] <small>(MeSH: D019094)</small>
+* [[Dental Pulp Capping]] — [[d:Q17146150|Q17146150]] <small>(MeSH: D003785)</small>
+* [[Dental Pulp Devitalization]] — [[d:Q72389543|Q72389543]] <small>(MeSH: D003787)</small>
+* [[Dental Pulp Test]] — [[d:Q5357639|Q5357639]] <small>(MeSH: D003791)</small>
+* [[Dental Restoration Failure]] — [[d:Q73227974|Q73227974]] <small>(MeSH: D019232)</small>
+* [[Dental Restoration Repair]] — [[d:Q73348106|Q73348106]] <small>(MeSH: D058250)</small>
+* [[Dental Restoration Wear]] — [[d:Q73500748|Q73500748]] <small>(MeSH: D019554)</small>
+* [[Dental Restoration, Permanent]] — [[d:Q73524547|Q73524547]] <small>(MeSH: D003793)</small>
+* [[Dental Restoration, Temporary]] — [[d:Q73525558|Q73525558]] <small>(MeSH: D003794)</small>
+* [[Dental Scaling]] — [[d:Q5248564|Q5248564]] <small>(MeSH: D012534)</small>
+* [[Dental Soldering]] — [[d:Q73509091|Q73509091]] <small>(MeSH: D012994)</small>
+* [[Dental Stress Analysis]] — [[d:Q72259780|Q72259780]] <small>(MeSH: D003799)</small>
+* [[Dental Veneers]] — [[d:Q1686140|Q1686140]] <small>(MeSH: D003801)</small>
+* [[Dentistry]] — [[d:Q12128|Q12128]] <small>(MeSH: D003813)</small>
+* [[Denture Bases]] — [[d:Q73509783|Q73509783]] <small>(MeSH: D003819)</small>
+* [[Denture Design]] — [[d:Q73467127|Q73467127]] <small>(MeSH: D003779)</small>
+* [[Denture Identification Marking]] — [[d:Q73032008|Q73032008]] <small>(MeSH: D003821)</small>
+* [[Denture Liners]] — [[d:Q73403642|Q73403642]] <small>(MeSH: D003822)</small>
+* [[Denture Precision Attachment]] — [[d:Q73210098|Q73210098]] <small>(MeSH: D003834)</small>
+* [[Denture Rebasing]] — [[d:Q73040138|Q73040138]] <small>(MeSH: D003823)</small>
+* [[Denture Repair]] — [[d:Q73211408|Q73211408]] <small>(MeSH: D003780)</small>
+* [[Denture Retention]] — [[d:Q73219251|Q73219251]] <small>(MeSH: D003781)</small>
+* [[Denture, Complete]] — [[d:Q11609968|Q11609968]] <small>(MeSH: D003824)</small>
+* [[Denture, Complete, Immediate]] — [[d:Q72088065|Q72088065]] <small>(MeSH: D003825)</small>
+* [[Denture, Complete, Lower]] — [[d:Q73499226|Q73499226]] <small>(MeSH: D003826)</small>
+* [[Denture, Complete, Upper]] — [[d:Q73213614|Q73213614]] <small>(MeSH: D003827)</small>
+* [[Denture, Overlay]] — [[d:Q3887660|Q3887660]] <small>(MeSH: D003828)</small>
+* [[Denture, Partial]] — [[d:Q73469677|Q73469677]] <small>(MeSH: D003829)</small>
+* [[Denture, Partial, Fixed]] — [[d:Q73209904|Q73209904]] <small>(MeSH: D003830)</small>
+* [[Denture, Partial, Fixed, Resin-Bonded]] — [[d:Q73039011|Q73039011]] <small>(MeSH: D016379)</small>
+* [[Denture, Partial, Immediate]] — [[d:Q73501856|Q73501856]] <small>(MeSH: D003831)</small>
+* [[Denture, Partial, Removable]] — [[d:Q1781451|Q1781451]] <small>(MeSH: D003832)</small>
+* [[Denture, Partial, Temporary]] — [[d:Q73483073|Q73483073]] <small>(MeSH: D003833)</small>
+* [[Dentures]] — [[d:Q143567|Q143567]] <small>(MeSH: D003778)</small>
+* [[Diagnosis, Oral]] — [[d:Q73231690|Q73231690]] <small>(MeSH: D003945)</small>
+* [[Electrogalvanism, Intraoral]] — [[d:Q10611039|Q10611039]] <small>(MeSH: D004570)</small>
+* [[Enamel Microabrasion]] — [[d:Q30688665|Q30688665]] <small>(MeSH: D019243)</small>
+* [[Endodontics]] — [[d:Q852143|Q852143]] <small>(MeSH: D004708)</small>
+* [[Esthetics, Dental]] — [[d:Q11457638|Q11457638]] <small>(MeSH: D004955)</small>
+* [[Extraoral Traction Appliances]] — [[d:Q374403|Q374403]] <small>(MeSH: D005115)</small>
+* [[Fluoridation]] — [[d:Q1125466|Q1125466]] <small>(MeSH: D005457)</small>
+* [[Fluoride Treatment]] — [[d:Q5462842|Q5462842]] <small>(MeSH: D000097182)</small>
+* [[Genioplasty]] — [[d:Q1502234|Q1502234]] <small>(MeSH: D063172)</small>
+* [[Gingival Retraction Techniques]] — [[d:Q73465955|Q73465955]] <small>(MeSH: D060745)</small>
+* [[Gingivectomy]] — [[d:Q2297647|Q2297647]] <small>(MeSH: D005890)</small>
+* [[Gingivoplasty]] — [[d:Q3106762|Q3106762]] <small>(MeSH: D005893)</small>
+* [[Guided Tissue Regeneration, Periodontal]] — [[d:Q72284864|Q72284864]] <small>(MeSH: D016557)</small>
+* [[Infection Control, Dental]] — [[d:Q70374126|Q70374126]] <small>(MeSH: D019552)</small>
+* [[Inlays]] — [[d:Q72370058|Q72370058]] <small>(MeSH: D007284)</small>
+* [[Jaw Relation Record]] — [[d:Q73218481|Q73218481]] <small>(MeSH: D007574)</small>
+* [[Light-Curing of Dental Adhesives]] — [[d:Q73502472|Q73502472]] <small>(MeSH: D055115)</small>
+* [[Mandibular Advancement]] — [[d:Q72368042|Q72368042]] <small>(MeSH: D019186)</small>
+* [[Mandibular Osteotomy]] — [[d:Q73347020|Q73347020]] <small>(MeSH: D063168)</small>
+* [[Mandibular Reconstruction]] — [[d:Q73522568|Q73522568]] <small>(MeSH: D063175)</small>
+* [[Matrix Bands]] — [[d:Q72276559|Q72276559]] <small>(MeSH: D008434)</small>
+* [[Maxillary Osteotomy]] — [[d:Q72365192|Q72365192]] <small>(MeSH: D063166)</small>
+* [[Models, Dental]] — [[d:Q7861397|Q7861397]] <small>(MeSH: D003765)</small>
+* [[Mouth Rehabilitation]] — [[d:Q73219680|Q73219680]] <small>(MeSH: D009065)</small>
+* [[Occlusal Adjustment]] — [[d:Q73465501|Q73465501]] <small>(MeSH: D019558)</small>
+* [[Oral Medicine]] — [[d:Q3673891|Q3673891]] <small>(MeSH: D019242)</small>
+* [[Orthodontic Anchorage Procedures]] — [[d:Q73499951|Q73499951]] <small>(MeSH: D052280)</small>
+* [[Orthodontic Appliance Design]] — [[d:Q73468518|Q73468518]] <small>(MeSH: D016382)</small>
+* [[Orthodontic Appliances]] — [[d:Q3290651|Q3290651]] <small>(MeSH: D009967)</small>
+* [[Orthodontic Appliances, Fixed]] — [[d:Q113954897|Q113954897]] <small>(MeSH: D000077744)</small>
+* [[Orthodontic Appliances, Functional]] — [[d:Q72138465|Q72138465]] <small>(MeSH: D017289)</small>
+* [[Orthodontic Appliances, Removable]] — [[d:Q73222804|Q73222804]] <small>(MeSH: D009968)</small>
+* [[Orthodontic Brackets]] — [[d:Q143977|Q143977]] <small>(MeSH: D016910)</small>
+* [[Orthodontic Extrusion]] — [[d:Q73490642|Q73490642]] <small>(MeSH: D050793)</small>
+* [[Orthodontic Retainers]] — [[d:Q1275667|Q1275667]] <small>(MeSH: D018704)</small>
+* [[Orthodontic Space Closure]] — [[d:Q73226198|Q73226198]] <small>(MeSH: D019516)</small>
+* [[Orthodontic Wires]] — [[d:Q73507981|Q73507981]] <small>(MeSH: D009969)</small>
+* [[Orthodontics]] — [[d:Q118301|Q118301]] <small>(MeSH: D009970)</small>
+* [[Orthodontics, Corrective]] — [[d:Q72258235|Q72258235]] <small>(MeSH: D009971)</small>
+* [[Orthodontics, Interceptive]] — [[d:Q73464882|Q73464882]] <small>(MeSH: D009972)</small>
+* [[Orthodontics, Preventive]] — [[d:Q73230022|Q73230022]] <small>(MeSH: D009973)</small>
+* [[Palatal Expansion Technique]] — [[d:Q16635365|Q16635365]] <small>(MeSH: D010155)</small>
+* [[Palatal Obturators]] — [[d:Q7126774|Q7126774]] <small>(MeSH: D010158)</small>
+* [[Pathology, Oral]] — [[d:Q69953343|Q69953343]] <small>(MeSH: D010339)</small>
+* [[Periodontal Debridement]] — [[d:Q73210250|Q73210250]] <small>(MeSH: D057747)</small>
+* [[Periodontal Dressings]] — [[d:Q73522822|Q73522822]] <small>(MeSH: D010511)</small>
+* [[Periodontal Index]] — [[d:Q98966164|Q98966164]] <small>(MeSH: D010512)</small>
+* [[Periodontal Prosthesis]] — [[d:Q73400623|Q73400623]] <small>(MeSH: D010515)</small>
+* [[Periodontal Splints]] — [[d:Q73483462|Q73483462]] <small>(MeSH: D010516)</small>
+* [[Periodontics]] — [[d:Q938196|Q938196]] <small>(MeSH: D010517)</small>
+* [[Post and Core Technique]] — [[d:Q7233733|Q7233733]] <small>(MeSH: D011176)</small>
+* [[Preventive Dentistry]] — [[d:Q12221571|Q12221571]] <small>(MeSH: D011313)</small>
+* [[Prosthodontics]] — [[d:Q1349700|Q1349700]] <small>(MeSH: D011476)</small>
+* [[Pulpectomy]] — [[d:Q3410767|Q3410767]] <small>(MeSH: D011670)</small>
+* [[Pulpotomy]] — [[d:Q3410771|Q3410771]] <small>(MeSH: D011672)</small>
+* [[Regenerative Endodontics]] — [[d:Q17131158|Q17131158]] <small>(MeSH: D000078483)</small>
+* [[Resonance Frequency Analysis]] — [[d:Q7315739|Q7315739]] <small>(MeSH: D000074269)</small>
+* [[Retrograde Obturation]] — [[d:Q72367507|Q72367507]] <small>(MeSH: D012184)</small>
+* [[Root Canal Obturation]] — [[d:Q73465827|Q73465827]] <small>(MeSH: D012389)</small>
+* [[Root Canal Preparation]] — [[d:Q72087297|Q72087297]] <small>(MeSH: D018915)</small>
+* [[Root Canal Therapy]] — [[d:Q905815|Q905815]] <small>(MeSH: D012390)</small>
+* [[Root Planing]] — [[d:Q24894161|Q24894161]] <small>(MeSH: D016745)</small>
+* [[Rubber Dams]] — [[d:Q1630725|Q1630725]] <small>(MeSH: D016733)</small>
+* [[Self-Curing of Dental Resins]] — [[d:Q72369091|Q72369091]] <small>(MeSH: D055116)</small>
+* [[Serial Extraction]] — [[d:Q7454688|Q7454688]] <small>(MeSH: D012690)</small>
+* [[Space Maintenance, Orthodontic]] — [[d:Q73490675|Q73490675]] <small>(MeSH: D013027)</small>
+* [[Subgingival Curettage]] — [[d:Q73211539|Q73211539]] <small>(MeSH: D013357)</small>
+* [[Surgery, Oral]] — [[d:Q504033|Q504033]] <small>(MeSH: D013515)</small>
+* [[Technology, Dental]] — [[d:Q69081120|Q69081120]] <small>(MeSH: D013674)</small>
+* [[Tissue Conditioning, Dental]] — [[d:Q73348799|Q73348799]] <small>(MeSH: D014016)</small>
+* [[Tooth Bleaching]] — [[d:Q143458|Q143458]] <small>(MeSH: D014073)</small>
+* [[Tooth Movement Techniques]] — [[d:Q72258720|Q72258720]] <small>(MeSH: D014087)</small>
+* [[Tooth Preparation]] — [[d:Q73524721|Q73524721]] <small>(MeSH: D019246)</small>
+* [[Tooth Preparation, Prosthodontic]] — [[d:Q73222710|Q73222710]] <small>(MeSH: D019231)</small>
+* [[Tooth Remineralization]] — [[d:Q72555806|Q72555806]] <small>(MeSH: D014089)</small>
+* [[Tooth, Artificial]] — [[d:Q56632814|Q56632814]] <small>(MeSH: D014093)</small>
+* [[Toothbrushing]] — [[d:Q93935|Q93935]] <small>(MeSH: D014099)</small>
+* [[Vertical Dimension]] — [[d:Q7922827|Q7922827]] <small>(MeSH: D014716)</small>
+
+=== Health Occupations ===
+
+* '''Coverage:''' 56.2%
+* '''{{color|blue|Bluelinks}}:''' 108
+* '''{{color|red|Redlinks}}:''' 84
+* [[Acupuncture]] — [[d:Q121713|Q121713]] <small>(MeSH: D026881)</small>
+* [[Acute Care Surgery]] — [[d:Q124285243|Q124285243]] <small>(MeSH: D000096725)</small>
+* [[Addiction Medicine]] — [[d:Q55190072|Q55190072]] <small>(MeSH: D000073316)</small>
+* [[Adolescent Medicine]] — [[d:Q4368243|Q4368243]] <small>(MeSH: D000295)</small>
+* [[Advanced Practice Nursing]] — [[d:Q69962189|Q69962189]] <small>(MeSH: D057179)</small>
+* [[Aerospace Medicine]] — [[d:Q3332475|Q3332475]] <small>(MeSH: D000337)</small>
+* [[Allergy and Immunology]] — [[d:Q101929|Q101929]] <small>(MeSH: D000486)</small>
+* [[Allied Health Occupations]] — [[d:Q349843|Q349843]] <small>(MeSH: D016390)</small>
+* [[Andrology]] — [[d:Q335057|Q335057]] <small>(MeSH: D033441)</small>
+* [[Anesthesiology]] — [[d:Q615057|Q615057]] <small>(MeSH: D000776)</small>
+* [[Animal Nutrition Sciences]] — [[d:Q4764962|Q4764962]] <small>(MeSH: D053180)</small>
+* [[Audiology]] — [[d:Q569965|Q569965]] <small>(MeSH: D001298)</small>
+* [[Bariatric Medicine]] — [[d:Q1470093|Q1470093]] <small>(MeSH: D052938)</small>
+* [[Biomedical Engineering]] — [[d:Q327092|Q327092]] <small>(MeSH: D001698)</small>
+* [[Cardio-Oncology]] — [[d:Q29315243|Q29315243]] <small>(MeSH: D000097562)</small>
+* [[Cardiology]] — [[d:Q10379|Q10379]] <small>(MeSH: D002309)</small>
+* [[Cardiovascular Nursing]] — [[d:Q2554857|Q2554857]] <small>(MeSH: D064646)</small>
+* [[Child Nutrition Sciences]] — [[d:Q69956337|Q69956337]] <small>(MeSH: D053198)</small>
+* [[Chiropractic]] — [[d:Q658096|Q658096]] <small>(MeSH: D002684)</small>
+* [[Clinical Medicine]] — [[d:Q4388032|Q4388032]] <small>(MeSH: D015510)</small>
+* [[Colorectal Surgery]] — [[d:Q1413084|Q1413084]] <small>(MeSH: D003107)</small>
+* [[Community Dentistry]] — [[d:Q69957839|Q69957839]] <small>(MeSH: D003149)</small>
+* [[Community Health Nursing]] — [[d:Q11424265|Q11424265]] <small>(MeSH: D003152)</small>
+* [[Community Medicine]] — [[d:Q68555832|Q68555832]] <small>(MeSH: D003154)</small>
+* [[Consumer Health Information]] — [[d:Q64844165|Q64844165]] <small>(MeSH: D054626)</small>
+* [[Critical Care Nursing]] — [[d:Q352454|Q352454]] <small>(MeSH: D064648)</small>
+* [[Dentistry, Operative]] — [[d:Q69957563|Q69957563]] <small>(MeSH: D003814)</small>
+* [[Dermatology]] — [[d:Q171171|Q171171]] <small>(MeSH: D003880)</small>
+* [[Developmental Disability Nursing]] — [[d:Q114789137|Q114789137]] <small>(MeSH: D000084882)</small>
+* [[Dietetics]] — [[d:Q1231861|Q1231861]] <small>(MeSH: D004046)</small>
+* [[Disaster Medicine]] — [[d:Q2274060|Q2274060]] <small>(MeSH: D054597)</small>
+* [[Disaster Nursing]] — [[d:Q124239544|Q124239544]] <small>(MeSH: D000095582)</small>
+* [[Diving and Hyperbaric Medicine]] — [[d:Q1423517|Q1423517]] <small>(MeSH: D000099051)</small>
+* [[Emergency Medicine]] — [[d:Q2861470|Q2861470]] <small>(MeSH: D004635)</small>
+* [[Emergency Nursing]] — [[d:Q5370724|Q5370724]] <small>(MeSH: D016529)</small>
+* [[Environmental Health]] — [[d:Q932068|Q932068]] <small>(MeSH: D004782)</small>
+* [[Environmental Medicine]] — [[d:Q512285|Q512285]] <small>(MeSH: D019550)</small>
+* [[Epidemiology]] — [[d:Q133805|Q133805]] <small>(MeSH: D004813)</small>
+* [[Evidence-Based Dentistry]] — [[d:Q5418318|Q5418318]] <small>(MeSH: D055094)</small>
+* [[Evidence-Based Emergency Medicine]] — [[d:Q69959486|Q69959486]] <small>(MeSH: D055416)</small>
+* [[Evidence-Based Medicine]] — [[d:Q691640|Q691640]] <small>(MeSH: D019317)</small>
+* [[Evidence-Based Nursing]] — [[d:Q1382364|Q1382364]] <small>(MeSH: D055318)</small>
+* [[Evidence-Based Pharmacy Practice]] — [[d:Q7180824|Q7180824]] <small>(MeSH: D000081142)</small>
+* [[Evidence-Based Practice]] — [[d:Q2354820|Q2354820]] <small>(MeSH: D055317)</small>
+* [[Family Nursing]] — [[d:Q69956235|Q69956235]] <small>(MeSH: D022143)</small>
+* [[Family Practice]] — [[d:Q3505712|Q3505712]] <small>(MeSH: D005194)</small>
+* [[Forensic Dentistry]] — [[d:Q1437164|Q1437164]] <small>(MeSH: D005553)</small>
+* [[Forensic Genetics]] — [[d:Q60740595|Q60740595]] <small>(MeSH: D053803)</small>
+* [[Forensic Medicine]] — [[d:Q454812|Q454812]] <small>(MeSH: D005554)</small>
+* [[Forensic Nursing]] — [[d:Q5468719|Q5468719]] <small>(MeSH: D053604)</small>
+* [[Forensic Pathology]] — [[d:Q21685486|Q21685486]] <small>(MeSH: D049429)</small>
+* [[Functional Medicine]] — [[d:Q4357900|Q4357900]] <small>(MeSH: D000099079)</small>
+* [[Gastroenterology]] — [[d:Q120569|Q120569]] <small>(MeSH: D005762)</small>
+* [[General Practice]] — [[d:Q11607623|Q11607623]] <small>(MeSH: D058006)</small>
+* [[General Practice, Dental]] — [[d:Q69960432|Q69960432]] <small>(MeSH: D005792)</small>
+* [[General Surgery]] — [[d:Q932510|Q932510]] <small>(MeSH: D013502)</small>
+* [[Geriatric Dentistry]] — [[d:Q2405851|Q2405851]] <small>(MeSH: D005850)</small>
+* [[Geriatric Nursing]] — [[d:Q5550842|Q5550842]] <small>(MeSH: D005851)</small>
+* [[Geriatrics]] — [[d:Q10384|Q10384]] <small>(MeSH: D005853)</small>
+* [[Global Health]] — [[d:Q2725393|Q2725393]] <small>(MeSH: D014943)</small>
+* [[Gynecology]] — [[d:Q1221899|Q1221899]] <small>(MeSH: D006176)</small>
+* [[Health Education]] — [[d:Q60894|Q60894]] <small>(MeSH: D006266)</small>
+* [[Health Education, Dental]] — [[d:Q69966550|Q69966550]] <small>(MeSH: D006267)</small>
+* [[Health Fairs]] — [[d:Q5690948|Q5690948]] <small>(MeSH: D006277)</small>
+* [[Health Literacy]] — [[d:Q3097973|Q3097973]] <small>(MeSH: D057220)</small>
+* [[Health Occupations]] — [[d:Q3922583|Q3922583]] <small>(MeSH: D006281)</small>
+* [[Health Promotion]] — [[d:Q1851928|Q1851928]] <small>(MeSH: D006293)</small>
+* [[Health Services Administration]] — [[d:Q1137608|Q1137608]] <small>(MeSH: D006298)</small>
+* [[Healthy People Programs]] — [[d:Q5691426|Q5691426]] <small>(MeSH: D040361)</small>
+* [[Hematology]] — [[d:Q103824|Q103824]] <small>(MeSH: D006405)</small>
+* [[Holistic Nursing]] — [[d:Q13378278|Q13378278]] <small>(MeSH: D018939)</small>
+* [[Hospice and Palliative Care Nursing]] — [[d:Q69952803|Q69952803]] <small>(MeSH: D064946)</small>
+* [[Hospital Administration]] — [[d:Q5657858|Q5657858]] <small>(MeSH: D006739)</small>
+* [[Hospital Medicine]] — [[d:Q5908738|Q5908738]] <small>(MeSH: D064416)</small>
+* [[Infectious Disease Medicine]] — [[d:Q788926|Q788926]] <small>(MeSH: D055552)</small>
+* [[Integrative Medicine]] — [[d:Q3359259|Q3359259]] <small>(MeSH: D055048)</small>
+* [[Internal Medicine]] — [[d:Q11180|Q11180]] <small>(MeSH: D007388)</small>
+* [[Maternal-Child Nursing]] — [[d:Q13378403|Q13378403]] <small>(MeSH: D016389)</small>
+* [[Medical Illustration]] — [[d:Q6806548|Q6806548]] <small>(MeSH: D008488)</small>
+* [[Medical Laboratory Science]] — [[d:Q6567097|Q6567097]] <small>(MeSH: D013677)</small>
+* [[Medical Oncology]] — [[d:Q6050805|Q6050805]] <small>(MeSH: D008495)</small>
+* [[Medical-Surgical Nursing]] — [[d:Q6806249|Q6806249]] <small>(MeSH: D000069469)</small>
+* [[Medicine]] — [[d:Q11190|Q11190]] <small>(MeSH: D008511)</small>
+* [[Midwifery]] — [[d:Q20862341|Q20862341]] <small>(MeSH: D008880)</small>
+* [[Military Dentistry]] — [[d:Q69961815|Q69961815]] <small>(MeSH: D008885)</small>
+* [[Military Medicine]] — [[d:Q1480945|Q1480945]] <small>(MeSH: D008887)</small>
+* [[Military Nursing]] — [[d:Q3798492|Q3798492]] <small>(MeSH: D008888)</small>
+* [[Mortuary Practice]] — [[d:Q69956729|Q69956729]] <small>(MeSH: D009027)</small>
+* [[Naval Medicine]] — [[d:Q3332462|Q3332462]] <small>(MeSH: D009326)</small>
+* [[Neonatal Nursing]] — [[d:Q429500|Q429500]] <small>(MeSH: D017283)</small>
+* [[Neonatology]] — [[d:Q898674|Q898674]] <small>(MeSH: D009359)</small>
+* [[Nephrology]] — [[d:Q177635|Q177635]] <small>(MeSH: D009398)</small>
+* [[Nephrology Nursing]] — [[d:Q69957315|Q69957315]] <small>(MeSH: D064647)</small>
+* [[Neurology]] — [[d:Q83042|Q83042]] <small>(MeSH: D009462)</small>
+* [[Neuropathology]] — [[d:Q1650750|Q1650750]] <small>(MeSH: D000069338)</small>
+* [[Neuroscience Nursing]] — [[d:Q69961726|Q69961726]] <small>(MeSH: D065816)</small>
+* [[Neurosurgery]] — [[d:Q188449|Q188449]] <small>(MeSH: D009493)</small>
+* [[Neurotology]] — [[d:Q1406609|Q1406609]] <small>(MeSH: D063165)</small>
+* [[Nuclear Medicine]] — [[d:Q214963|Q214963]] <small>(MeSH: D009683)</small>
+* [[Nuclear Pharmacy]] — [[d:Q3417008|Q3417008]] <small>(MeSH: D000070840)</small>
+* [[Nursing]] — [[d:Q121176|Q121176]] <small>(MeSH: D009729)</small>
+* [[Nursing Theory]] — [[d:Q1590997|Q1590997]] <small>(MeSH: D009742)</small>
+* [[Nursing, Practical]] — [[d:Q101002907|Q101002907]] <small>(MeSH: D009743)</small>
+* [[Nutritional Sciences]] — [[d:Q17652193|Q17652193]] <small>(MeSH: D052756)</small>
+* [[Obstetric Nursing]] — [[d:Q2231753|Q2231753]] <small>(MeSH: D009773)</small>
+* [[Obstetrics]] — [[d:Q5284418|Q5284418]] <small>(MeSH: D009774)</small>
+* [[Occupational Dentistry]] — [[d:Q10340280|Q10340280]] <small>(MeSH: D009782)</small>
+* [[Occupational Health Nursing]] — [[d:Q7075801|Q7075801]] <small>(MeSH: D009785)</small>
+* [[Occupational Medicine]] — [[d:Q628764|Q628764]] <small>(MeSH: D009787)</small>
+* [[Oncology Nursing]] — [[d:Q1886303|Q1886303]] <small>(MeSH: D009859)</small>
+* [[Operating Room Nursing]] — [[d:Q1391446|Q1391446]] <small>(MeSH: D009871)</small>
+* [[Ophthalmology]] — [[d:Q161437|Q161437]] <small>(MeSH: D009885)</small>
+* [[Optometry]] — [[d:Q618211|Q618211]] <small>(MeSH: D009907)</small>
+* [[Orthognathic Surgery]] — [[d:Q3311217|Q3311217]] <small>(MeSH: D057909)</small>
+* [[Orthopedic Nursing]] — [[d:Q7104849|Q7104849]] <small>(MeSH: D016530)</small>
+* [[Orthopedics]] — [[d:Q216685|Q216685]] <small>(MeSH: D009985)</small>
+* [[Osteopathic Medicine]] — [[d:Q325253|Q325253]] <small>(MeSH: D010021)</small>
+* [[Otolaryngology]] — [[d:Q189553|Q189553]] <small>(MeSH: D010036)</small>
+* [[Palliative Medicine]] — [[d:Q1718200|Q1718200]] <small>(MeSH: D065126)</small>
+* [[Paramedicine]] — [[d:Q7135179|Q7135179]] <small>(MeSH: D000094782)</small>
+* [[Parish Nursing]] — [[d:Q5431255|Q5431255]] <small>(MeSH: D064698)</small>
+* [[Pathology]] — [[d:Q7208|Q7208]] <small>(MeSH: D010336)</small>
+* [[Pathology, Clinical]] — [[d:Q499500|Q499500]] <small>(MeSH: D010338)</small>
+* [[Pathology, Surgical]] — [[d:Q7646222|Q7646222]] <small>(MeSH: D010340)</small>
+* [[Pathology, Veterinary]] — [[d:Q7061684|Q7061684]] <small>(MeSH: D010341)</small>
+* [[Patient Medication Knowledge]] — [[d:Q70437478|Q70437478]] <small>(MeSH: D063046)</small>
+* [[Pediatric Dentistry]] — [[d:Q2086597|Q2086597]] <small>(MeSH: D010377)</small>
+* [[Pediatric Emergency Medicine]] — [[d:Q24190247|Q24190247]] <small>(MeSH: D000070316)</small>
+* [[Pediatric Nursing]] — [[d:Q1741837|Q1741837]] <small>(MeSH: D010371)</small>
+* [[Pediatrics]] — [[d:Q123028|Q123028]] <small>(MeSH: D010372)</small>
+* [[Perinatology]] — [[d:Q582071|Q582071]] <small>(MeSH: D010500)</small>
+* [[Perioperative Medicine]] — [[d:Q7168671|Q7168671]] <small>(MeSH: D000079645)</small>
+* [[Pharmacoepidemiology]] — [[d:Q158230|Q158230]] <small>(MeSH: D017891)</small>
+* [[Pharmacy]] — [[d:Q614304|Q614304]] <small>(MeSH: D010604)</small>
+* [[Physical and Rehabilitation Medicine]] — [[d:Q2678675|Q2678675]] <small>(MeSH: D010810)</small>
+* [[Physical Therapy Specialty]] — [[d:Q186005|Q186005]] <small>(MeSH: D026761)</small>
+* [[Podiatry]] — [[d:Q11865729|Q11865729]] <small>(MeSH: D011032)</small>
+* [[Postanesthesia Nursing]] — [[d:Q69952880|Q69952880]] <small>(MeSH: D016528)</small>
+* [[Prenatal Education]] — [[d:Q69967902|Q69967902]] <small>(MeSH: D064186)</small>
+* [[Preventive Medicine]] — [[d:Q1773974|Q1773974]] <small>(MeSH: D011315)</small>
+* [[Preventive Psychiatry]] — [[d:Q48998239|Q48998239]] <small>(MeSH: D011316)</small>
+* [[Psychiatric Nursing]] — [[d:Q2801621|Q2801621]] <small>(MeSH: D011568)</small>
+* [[Psycho-Oncology]] — [[d:Q1937818|Q1937818]] <small>(MeSH: D000073320)</small>
+* [[Public Health]] — [[d:Q189603|Q189603]] <small>(MeSH: D011634)</small>
+* [[Public Health Dentistry]] — [[d:Q4117950|Q4117950]] <small>(MeSH: D011636)</small>
+* [[Public Health Nursing]] — [[d:Q7257749|Q7257749]] <small>(MeSH: D011637)</small>
+* [[Pulmonary Medicine]] — [[d:Q203337|Q203337]] <small>(MeSH: D015272)</small>
+* [[Radiation Oncology]] — [[d:Q729267|Q729267]] <small>(MeSH: D018787)</small>
+* [[Radiologic and Imaging Nursing]] — [[d:Q69961947|Q69961947]] <small>(MeSH: D000072856)</small>
+* [[Radiology]] — [[d:Q77604|Q77604]] <small>(MeSH: D011871)</small>
+* [[Radiology, Interventional]] — [[d:Q426449|Q426449]] <small>(MeSH: D015642)</small>
+* [[Regenerative Medicine]] — [[d:Q1061415|Q1061415]] <small>(MeSH: D044968)</small>
+* [[Rehabilitation Nursing]] — [[d:Q66707853|Q66707853]] <small>(MeSH: D019145)</small>
+* [[Reproductive Medicine]] — [[d:Q351870|Q351870]] <small>(MeSH: D018456)</small>
+* [[Reverse Vaccinology]] — [[d:Q7318278|Q7318278]] <small>(MeSH: D000099138)</small>
+* [[Rheumatology]] — [[d:Q327657|Q327657]] <small>(MeSH: D012219)</small>
+* [[Rural Nursing]] — [[d:Q69957073|Q69957073]] <small>(MeSH: D064694)</small>
+* [[School Dentistry]] — [[d:Q69958245|Q69958245]] <small>(MeSH: D012571)</small>
+* [[School Nursing]] — [[d:Q1625669|Q1625669]] <small>(MeSH: D012573)</small>
+* [[Serology]] — [[d:Q502159|Q502159]] <small>(MeSH: D012699)</small>
+* [[Sleep Medicine Specialty]] — [[d:Q744029|Q744029]] <small>(MeSH: D056508)</small>
+* [[Social Medicine]] — [[d:Q2143884|Q2143884]] <small>(MeSH: D012936)</small>
+* [[Specialization]] — [[d:Q4671303|Q4671303]] <small>(MeSH: D013038)</small>
+* [[Specialties, Dental]] — [[d:Q7574929|Q7574929]] <small>(MeSH: D013039)</small>
+* [[Specialties, Nursing]] — [[d:Q69960115|Q69960115]] <small>(MeSH: D013041)</small>
+* [[Specialties, Surgical]] — [[d:Q69953032|Q69953032]] <small>(MeSH: D013043)</small>
+* [[Speech-Language Pathology]] — [[d:Q33226|Q33226]] <small>(MeSH: D013066)</small>
+* [[Sports Medicine]] — [[d:Q840545|Q840545]] <small>(MeSH: D013178)</small>
+* [[Sports Nutritional Sciences]] — [[d:Q908560|Q908560]] <small>(MeSH: D064132)</small>
+* [[Submarine Medicine]] — [[d:Q69960926|Q69960926]] <small>(MeSH: D013366)</small>
+* [[Surgery, Plastic]] — [[d:Q182442|Q182442]] <small>(MeSH: D013518)</small>
+* [[Surgery, Veterinary]] — [[d:Q2499585|Q2499585]] <small>(MeSH: D013522)</small>
+* [[Surgical Oncology]] — [[d:Q3545481|Q3545481]] <small>(MeSH: D000071077)</small>
+* [[Telemedicine]] — [[d:Q46994|Q46994]] <small>(MeSH: D017216)</small>
+* [[Telepathology]] — [[d:Q6140603|Q6140603]] <small>(MeSH: D019113)</small>
+* [[Teleradiology]] — [[d:Q1362556|Q1362556]] <small>(MeSH: D019112)</small>
+* [[Theranostic Nanomedicine]] — [[d:Q57417184|Q57417184]] <small>(MeSH: D000068936)</small>
+* [[Thoracic Surgery]] — [[d:Q2964004|Q2964004]] <small>(MeSH: D013903)</small>
+* [[Transcultural Nursing]] — [[d:Q7833945|Q7833945]] <small>(MeSH: D016746)</small>
+* [[Transfusion Medicine]] — [[d:Q1318451|Q1318451]] <small>(MeSH: D064826)</small>
+* [[Trauma Nursing]] — [[d:Q114787539|Q114787539]] <small>(MeSH: D000084826)</small>
+* [[Traumatology]] — [[d:Q376680|Q376680]] <small>(MeSH: D014194)</small>
+* [[Travel Medicine]] — [[d:Q919582|Q919582]] <small>(MeSH: D057236)</small>
+* [[Tropical Medicine]] — [[d:Q1365243|Q1365243]] <small>(MeSH: D014330)</small>
+* [[Urology]] — [[d:Q105650|Q105650]] <small>(MeSH: D014572)</small>
+* [[Vaccinology]] — [[d:Q9370062|Q9370062]] <small>(MeSH: D000078782)</small>
+* [[Venereology]] — [[d:Q1784782|Q1784782]] <small>(MeSH: D014686)</small>
+* [[Veterinary Medicine]] — [[d:Q170201|Q170201]] <small>(MeSH: D014730)</small>
+* [[Veterinary Service, Military]] — [[d:Q69961615|Q69961615]] <small>(MeSH: D014731)</small>
+* [[Veterinary Sports Medicine]] — [[d:Q69962053|Q69962053]] <small>(MeSH: D064796)</small>
+* [[Weight Reduction Programs]] — [[d:Q70348897|Q70348897]] <small>(MeSH: D061217)</small>
+* [[Wilderness Medicine]] — [[d:Q8001175|Q8001175]] <small>(MeSH: D055813)</small>
+
+=== Health Care Quality and Safety ===
+
+* '''Coverage:''' 27.1%
+* '''{{color|blue|Bluelinks}}:''' 13
+* '''{{color|red|Redlinks}}:''' 35
+* [[Accountable Care Organizations]] — [[d:Q4672756|Q4672756]] <small>(MeSH: D060866)</small>
+* [[Age Factors]] — [[d:Q64705711|Q64705711]] <small>(MeSH: D000367)</small>
+* [[Age of Onset]] — [[d:Q4691924|Q4691924]] <small>(MeSH: D017668)</small>
+* [[Bias]] — [[d:Q742736|Q742736]] <small>(MeSH: D015982)</small>
+* [[Cardiometabolic Risk Factors]] — [[d:Q114754010|Q114754010]] <small>(MeSH: D000083202)</small>
+* [[Causality]] — [[d:Q179289|Q179289]] <small>(MeSH: D015984)</small>
+* [[Checklist]] — [[d:Q922625|Q922625]] <small>(MeSH: D057189)</small>
+* [[Clinical Trials Data Monitoring Committees]] — [[d:Q70348822|Q70348822]] <small>(MeSH: D026661)</small>
+* [[Codes of Ethics]] — [[d:Q2264133|Q2264133]] <small>(MeSH: D032781)</small>
+* [[Cohort Effect]] — [[d:Q3048982|Q3048982]] <small>(MeSH: D015988)</small>
+* [[Comorbidity]] — [[d:Q1414874|Q1414874]] <small>(MeSH: D015897)</small>
+* [[Confounding Factors, Epidemiologic]] — [[d:Q70488722|Q70488722]] <small>(MeSH: D015986)</small>
+* [[Disease-Free Survival]] — [[d:Q67402151|Q67402151]] <small>(MeSH: D018572)</small>
+* [[Effect Modifier, Epidemiologic]] — [[d:Q67527210|Q67527210]] <small>(MeSH: D015987)</small>
+* [[Epidemiologic Factors]] — [[d:Q64705767|Q64705767]] <small>(MeSH: D015981)</small>
+* [[Ethics Committees]] — [[d:Q59057226|Q59057226]] <small>(MeSH: D017041)</small>
+* [[Ethics Committees, Clinical]] — [[d:Q27913684|Q27913684]] <small>(MeSH: D028741)</small>
+* [[Ethics Committees, Research]] — [[d:Q362104|Q362104]] <small>(MeSH: D028744)</small>
+* [[Global Burden of Disease]] — [[d:Q499419|Q499419]] <small>(MeSH: D000071219)</small>
+* [[GRADE Approach]] — [[d:Q22908731|Q22908731]] <small>(MeSH: D000077002)</small>
+* [[Health Care Evaluation Mechanisms]] — [[d:Q70471523|Q70471523]] <small>(MeSH: D017531)</small>
+* [[Health Care Quality, Access, and Evaluation]] — [[d:Q70444408|Q70444408]] <small>(MeSH: D017530)</small>
+* [[Health Care Surveys]] — [[d:Q64843252|Q64843252]] <small>(MeSH: D019538)</small>
+* [[Healthy Worker Effect]] — [[d:Q1592347|Q1592347]] <small>(MeSH: D015989)</small>
+* [[Heart Disease Risk Factors]] — [[d:Q114733078|Q114733078]] <small>(MeSH: D000082742)</small>
+* [[Independent Medical Evaluation]] — [[d:Q70346536|Q70346536]] <small>(MeSH: D000070536)</small>
+* [[Medical Tourism]] — [[d:Q757232|Q757232]] <small>(MeSH: D057193)</small>
+* [[Multimorbidity]] — [[d:Q1952420|Q1952420]] <small>(MeSH: D000076322)</small>
+* [[Nocebo Effect]] — [[d:Q1332954|Q1332954]] <small>(MeSH: D064786)</small>
+* [[Nurses Improving Care for Health System Elders]] — [[d:Q7070233|Q7070233]] <small>(MeSH: D000076562)</small>
+* [[Obesity Paradox]] — [[d:Q357496|Q357496]] <small>(MeSH: D000094408)</small>
+* [[Patient Reported Outcome Measures]] — [[d:Q70453213|Q70453213]] <small>(MeSH: D000071066)</small>
+* [[Placebo Effect]] — [[d:Q16303139|Q16303139]] <small>(MeSH: D015990)</small>
+* [[Population Health Management]] — [[d:Q99379547|Q99379547]] <small>(MeSH: D000076602)</small>
+* [[Precipitating Factors]] — [[d:Q70452238|Q70452238]] <small>(MeSH: D015985)</small>
+* [[Progression-Free Survival]] — [[d:Q2112244|Q2112244]] <small>(MeSH: D000077982)</small>
+* [[Protective Factors]] — [[d:Q7251376|Q7251376]] <small>(MeSH: D065840)</small>
+* [[Public Reporting of Healthcare Data]] — [[d:Q114368059|Q114368059]] <small>(MeSH: D000079204)</small>
+* [[Race Factors]] — [[d:Q113581164|Q113581164]] <small>(MeSH: D000076782)</small>
+* [[Risk Factors]] — [[d:Q1475848|Q1475848]] <small>(MeSH: D012307)</small>
+* [[Root Cause Analysis]] — [[d:Q1401207|Q1401207]] <small>(MeSH: D060891)</small>
+* [[Selection Bias]] — [[d:Q284172|Q284172]] <small>(MeSH: D015983)</small>
+* [[Sex Factors]] — [[d:Q64831586|Q64831586]] <small>(MeSH: D012737)</small>
+* [[Sino-Nasal Outcome Test]] — [[d:Q114395980|Q114395980]] <small>(MeSH: D000079602)</small>
+* [[Strategic Stockpile]] — [[d:Q2002610|Q2002610]] <small>(MeSH: D062205)</small>
+* [[Surge Capacity]] — [[d:Q70451253|Q70451253]] <small>(MeSH: D055872)</small>
+* [[Treatment Effect Heterogeneity]] — [[d:Q124372971|Q124372971]] <small>(MeSH: D000096962)</small>
+* [[Treatment Interruption]] — [[d:Q5308895|Q5308895]] <small>(MeSH: D000097042)</small>
+
+=== Anesthesia and Analgesia ===
+
+* '''Coverage:''' 16.7%
+* '''{{color|blue|Bluelinks}}:''' 7
+* '''{{color|red|Redlinks}}:''' 35
+* [[Analgesia]] — [[d:Q484785|Q484785]] <small>(MeSH: D000698)</small>
+* [[Analgesia, Epidural]] — [[d:Q99677797|Q99677797]] <small>(MeSH: D015360)</small>
+* [[Analgesia, Obstetrical]] — [[d:Q72260068|Q72260068]] <small>(MeSH: D016362)</small>
+* [[Analgesia, Patient-Controlled]] — [[d:Q73522917|Q73522917]] <small>(MeSH: D016058)</small>
+* [[Anesthesia]] — [[d:Q131130|Q131130]] <small>(MeSH: D000758)</small>
+* [[Anesthesia and Analgesia]] — [[d:Q73468760|Q73468760]] <small>(MeSH: D000760)</small>
+* [[Anesthesia Recovery Period]] — [[d:Q70450868|Q70450868]] <small>(MeSH: D000762)</small>
+* [[Anesthesia, Cardiac Procedures]] — [[d:Q113167716|Q113167716]] <small>(MeSH: D000074022)</small>
+* [[Anesthesia, Caudal]] — [[d:Q73041136|Q73041136]] <small>(MeSH: D000763)</small>
+* [[Anesthesia, Closed-Circuit]] — [[d:Q73482895|Q73482895]] <small>(MeSH: D000764)</small>
+* [[Anesthesia, Conduction]] — [[d:Q833584|Q833584]] <small>(MeSH: D000765)</small>
+* [[Anesthesia, Dental]] — [[d:Q5259400|Q5259400]] <small>(MeSH: D000766)</small>
+* [[Anesthesia, Endotracheal]] — [[d:Q73468028|Q73468028]] <small>(MeSH: D000770)</small>
+* [[Anesthesia, Epidural]] — [[d:Q841215|Q841215]] <small>(MeSH: D000767)</small>
+* [[Anesthesia, General]] — [[d:Q166543|Q166543]] <small>(MeSH: D000768)</small>
+* [[Anesthesia, Inhalation]] — [[d:Q99893817|Q99893817]] <small>(MeSH: D000769)</small>
+* [[Anesthesia, Intravenous]] — [[d:Q73348509|Q73348509]] <small>(MeSH: D000771)</small>
+* [[Anesthesia, Local]] — [[d:Q1455662|Q1455662]] <small>(MeSH: D000772)</small>
+* [[Anesthesia, Obstetrical]] — [[d:Q28457752|Q28457752]] <small>(MeSH: D000773)</small>
+* [[Anesthesia, Rectal]] — [[d:Q59305708|Q59305708]] <small>(MeSH: D000774)</small>
+* [[Anesthesia, Spinal]] — [[d:Q73218707|Q73218707]] <small>(MeSH: D000775)</small>
+* [[Audioanalgesia]] — [[d:Q4819894|Q4819894]] <small>(MeSH: D001297)</small>
+* [[Autonomic Nerve Block]] — [[d:Q73226040|Q73226040]] <small>(MeSH: D001340)</small>
+* [[Balanced Anesthesia]] — [[d:Q73510341|Q73510341]] <small>(MeSH: D058126)</small>
+* [[Brachial Plexus Block]] — [[d:Q792505|Q792505]] <small>(MeSH: D065527)</small>
+* [[Cervical Plexus Block]] — [[d:Q73213190|Q73213190]] <small>(MeSH: D066008)</small>
+* [[Cryoanesthesia]] — [[d:Q3005715|Q3005715]] <small>(MeSH: D050785)</small>
+* [[Deep Sedation]] — [[d:Q73228053|Q73228053]] <small>(MeSH: D054810)</small>
+* [[Electronarcosis]] — [[d:Q3587636|Q3587636]] <small>(MeSH: D004580)</small>
+* [[Geriatric Anesthesia]] — [[d:Q5550834|Q5550834]] <small>(MeSH: D000097870)</small>
+* [[Hypnosis, Anesthetic]] — [[d:Q12466839|Q12466839]] <small>(MeSH: D006991)</small>
+* [[Hypnosis, Dental]] — [[d:Q73039153|Q73039153]] <small>(MeSH: D006992)</small>
+* [[Hypotension, Controlled]] — [[d:Q73231756|Q73231756]] <small>(MeSH: D007023)</small>
+* [[Interpleural Analgesia]] — [[d:Q73229591|Q73229591]] <small>(MeSH: D055770)</small>
+* [[Nerve Block]] — [[d:Q4379667|Q4379667]] <small>(MeSH: D009407)</small>
+* [[Neuroanesthesia]] — [[d:Q124353811|Q124353811]] <small>(MeSH: D000097867)</small>
+* [[Neuroleptanalgesia]] — [[d:Q131310033|Q131310033]] <small>(MeSH: D009458)</small>
+* [[Neuromuscular Blockade]] — [[d:Q73229653|Q73229653]] <small>(MeSH: D019148)</small>
+* [[Onco-anesthesia]] — [[d:Q131582801|Q131582801]] <small>(MeSH: D000098963)</small>
+* [[Pediatric Anesthesia]] — [[d:Q124353868|Q124353868]] <small>(MeSH: D000097872)</small>
+* [[Procedural Sedation]] — [[d:Q104949028|Q104949028]] <small>(MeSH: D016292)</small>
+* [[Sphenopalatine Ganglion Block]] — [[d:Q73501435|Q73501435]] <small>(MeSH: D059387)</small>
+
+
+[[Category:WikiProject MeSH]]
